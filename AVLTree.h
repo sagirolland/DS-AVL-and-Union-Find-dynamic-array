@@ -105,7 +105,6 @@ public:
             node->right = insert(node->right, songID, songPtr, genrePtr);
         }
         node->height = 1 + std::max(height(node->left), height(node->right));
-        int balances = balanceFactor(node);
 
         return balance(node);
     }

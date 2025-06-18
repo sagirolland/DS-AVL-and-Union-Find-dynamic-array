@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include "DynamicArray.h"
-
+class Node; 
 class Song
 {
     public:
@@ -13,6 +13,7 @@ class Song
     std::shared_ptr<Node> avlNode; // Pointer to the AVL node
 
     Song(int songid) : songID(songid), parent(songid) {}
+    Song() = default; // Use default constructor
     virtual ~Song()= default; // Use default destructor
     int getSongID() const
     {
@@ -31,6 +32,8 @@ class Genre
     int size  = 0 ;
     std::shared_ptr<Node> avlNode = nullptr; // Pointer to the AVL node
     Genre(int genreid) : genreID(genreid) {}
+    Genre() = default; // Use default constructor
+
     virtual ~Genre() = default; // Use default destructor
     int getGenreID() const
     {
@@ -48,18 +51,17 @@ class Genre
 
 class UnionFind
 {
-private:
+public:
     DynamicArray<Song> songs;
     DynamicArray<Genre> genres;
     int count;
 
-public:
+
     UnionFind() : count(0) {} //(?)
     void Makeset(int songid, int genreid)
     {
         songs.push_back(Song(songid));
         genres.push_back(Genre(genreid));
-        // Create AVL node for the song
         auto avlNode = std::make_shared<Node>(songid, &songs[songs.size() - 1], &genres[genres.size() - 1]);
         songs[songs.size() - 1].avlNode = avlNode;
         genres[genres.size() - 1].avlNode = nullptr; // Genre points to the root of its AVL tree

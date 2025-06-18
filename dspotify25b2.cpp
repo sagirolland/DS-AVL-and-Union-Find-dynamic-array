@@ -23,15 +23,27 @@
 // ונאחד את השיר עם הז'אנר המתאים לו.
 
 DSpotify::DSpotify(){
-    
+    UnionFind genreUnionFind; // Union-Find structure for genres and songs inside it we have dynamic arrays for song and genres
+    AVLTree songGenreMap; // AVL tree to map song IDs to
 }
 
 DSpotify::~DSpotify(){
-
+    songGenreMap.clear();   
 }
 
 StatusType DSpotify::addGenre(int genreId){
-    return StatusType::FAILURE;
+    if (genreId <= 0) {
+        return StatusType::INVALID_INPUT;
+    }
+    for(int i =0 ; i < genreUnionFind.genres.size(); i++){
+        if(genreUnionFind.genres[i].getGenreID() == genreId){
+            return StatusType::FAILURE; // Genre already exists
+        }
+    }
+    genreUnionFind.genres.push_back(Genre(genreId));
+    genreUnionFind.count++;
+    std::cout << "Genre added: " << genreId << std::endl;
+    return StatusType::SUCCESS;
 }
 
 StatusType DSpotify::addSong(int songId, int genreId){

@@ -7,7 +7,7 @@
 template <typename T>
 class DynamicArray
 {
-private:
+public:
     std::shared_ptr<T[]> data;
     int capacity;
     int length;
@@ -22,7 +22,7 @@ private:
         data = newData;
     }
 
-public:
+    
     DynamicArray() : capacity(0), length(0) {}
 
     void push_back(T value)
@@ -32,6 +32,8 @@ public:
             regeners();
         }
         data[length] = value;
+        
+
         length++;
     }
 
