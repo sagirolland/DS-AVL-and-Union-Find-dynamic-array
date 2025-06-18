@@ -14,13 +14,18 @@
 #define DSPOTIFY25SPRING_WET2_H_
 
 #include "wet2util.h"
+#include "DynamicArray.h"
+#include "UnionFind.h"
+#include "AVLTree.h"
 
 class DSpotify {
 private:
     //
     // Here you may add anything you want
     //
-    
+    UnionFind genreUnionFind; // Union-Find structure for genres and songs inside it we have dynamic arrays for song and genres
+    AVLTree songGenreMap; // AVL tree to map song IDs to
+
 public:
     // <DO-NOT-MODIFY> {
     DSpotify();

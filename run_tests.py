@@ -34,7 +34,7 @@ def run_test(exe_file, test_id, tests_dir):
         print(f"Test {test_id} Failed: Command execution error. {e}")
         return
 
-    # Check result against expected output
+    # Checint result against expected output
     if not os.path.isfile(result_file):
         print(f"Test {test_id} failed: result file not created")
         return
