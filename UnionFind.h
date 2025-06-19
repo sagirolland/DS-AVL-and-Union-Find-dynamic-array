@@ -15,7 +15,7 @@ class Song
     int numberofgenrechanges = 1;
     std::shared_ptr<Node> avlNode; // Pointer to the AVL node
     std::shared_ptr<Node> findGenreNode; // Pointer to the genre node in AVL tree
-    Song(int songid) : songID(songid), parent(-1), avlNode(nullptr), findGenreNode(nullptr) {}
+    Song(int songid) : songID(songid), parent(-1),numberofgenrechanges(1),  avlNode(nullptr), findGenreNode(nullptr) {}
     Song() = default; // Use default constructor
     virtual ~Song()= default; // Use default destructor
     int getSongID() const
@@ -60,36 +60,31 @@ public:
     DynamicArray<Genre> genres;
 
     UnionFind() {}
-    void Makeset(int songid, int genreid)
-    {
-        songs.push_back(Song(songid));
+    bool Makeset(int songid, int genreid)
+    {   
         Genre* gen = findobjectGenre(genreid);
-        if (gen == nullptr){return;}
+        if (gen == nullptr){return false;}
+        songs.push_back(Song(songid));
         auto avlNode = std::make_shared<Node>(songid, &songs[songs.size() - 1], gen);
         songs[songs.size() - 1].avlNode = avlNode;
-        gen->avlNode = songs[songs.size() - 1].avlNode;
-        songs[songs.size() - 1].findGenreNode = gen->avlNode;
+        gen->avlNode = avlNode;
+        songs[songs.size() - 1].findGenreNode = avlNode;
         songs[songs.size() - 1].parent = songs.size() - 1;
         gen->incrementSize();
+        return true; // Successfully added song
     }
     int Find(int songId)
     {
-        Song* song = findobjectSong(songId);
-        if (song == nullptr)
+        int songind = findSongIndex(songId);
+        if (songind == -1)
         {
             return -1; // Song not found
         }
-        if (song->parent != songId)
+        if (songs[songind].parent != songind)
         {
-            song->parent = Find(song->parent); // Path compression
+            songs[songind].parent = Find(songs[songs[songind].parent].songID); // recuesive call to the index of the parent song
         }
-        Genre* genid = song->findGenreNode->genrePtr;
-        if (genid == nullptr)
-        {
-            return -1; // Genre not found
-        }
-        int id = genid->getGenreID();
-        return id; // Return the root of the set
+        return songs[songind].parent; // Return the root of the set
     }
     // int Find(int element)
     // {
@@ -126,16 +121,16 @@ public:
         return Find(x) == Find(y);
     }
 
-    int findGenre(int genreId)
+    int findGenreIndex(int genreId)
     {
         for (int i = 0; i < genres.size(); i++)
         {
             if (genres[i].getGenreID() == genreId)
             {
-                return 1; // Genre already exists
+                return i; // Genre already exists
             }
         }
-        return 0;
+        return -1;
     }
     Genre* findobjectGenre(int genreId)
     {
@@ -148,16 +143,16 @@ public:
         }
         return nullptr;
     }
-    int findSong(int songId)
+    int findSongIndex(int songId)
     {
         for (int i = 0; i < songs.size(); i++)
         {
             if (songs[i].getSongID() == songId)
             {
-                return 1; 
+                return i; 
             }
         }
-        return 0;
+        return -1;
     }
     Song* findobjectSong(int songId)
     {
