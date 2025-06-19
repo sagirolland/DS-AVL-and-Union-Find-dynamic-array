@@ -3,7 +3,10 @@
 
 #include <iostream>
 #include "DynamicArray.h"
+#include "AVLTree.h"
+
 class Node; 
+
 class Song
 {
     public:
@@ -11,8 +14,8 @@ class Song
     int parent; 
     int numberofgenrechanges = 1;
     std::shared_ptr<Node> avlNode; // Pointer to the AVL node
-
-    Song(int songid) : songID(songid), parent(-1), avlNode(nullptr) {}
+    std::shared_ptr<Node> findGenreNode; // Pointer to the genre node in AVL tree
+    Song(int songid) : songID(songid), parent(-1), avlNode(nullptr), findGenreNode(nullptr) {}
     Song() = default; // Use default constructor
     virtual ~Song()= default; // Use default destructor
     int getSongID() const
@@ -55,10 +58,8 @@ class UnionFind
 public:
     DynamicArray<Song> songs;
     DynamicArray<Genre> genres;
-    int count;
 
-
-    UnionFind() : count(0) {} //(?)
+    UnionFind() {}
     void Makeset(int songid, int genreid)
     {
         songs.push_back(Song(songid));
@@ -67,22 +68,28 @@ public:
         auto avlNode = std::make_shared<Node>(songid, &songs[songs.size() - 1], gen);
         songs[songs.size() - 1].avlNode = avlNode;
         gen->avlNode = songs[songs.size() - 1].avlNode;
+        songs[songs.size() - 1].findGenreNode = gen->avlNode;
         songs[songs.size() - 1].parent = songs.size() - 1;
-        genres[genres.size() - 1].size = 1;
-        count++;
+        gen->incrementSize();
     }
-    int Find(int songIdx)
+    int Find(int songId)
     {
-        Song* song = findobjectSong(songIdx);
+        Song* song = findobjectSong(songId);
         if (song == nullptr)
         {
             return -1; // Song not found
         }
-        if (song->parent != songIdx)
+        if (song->parent != songId)
         {
             song->parent = Find(song->parent); // Path compression
         }
-        return song->parent; // Return the root of the set
+        Genre* genid = song->findGenreNode->genrePtr;
+        if (genid == nullptr)
+        {
+            return -1; // Genre not found
+        }
+        int id = genid->getGenreID();
+        return id; // Return the root of the set
     }
     // int Find(int element)
     // {

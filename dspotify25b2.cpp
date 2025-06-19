@@ -39,7 +39,6 @@ StatusType DSpotify::addGenre(int genreId){
         return StatusType::FAILURE; // Genre already exists
     }
     genreUnionFind.genres.push_back(Genre(genreId));
-    genreUnionFind.count++;
     std::cout << "Genre added: " << genreId << std::endl;
     return StatusType::SUCCESS;
 }
@@ -63,11 +62,30 @@ StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3){
 }
 
 output_t<int> DSpotify::getSongGenre(int songId){
-    return 0;
+    if (songId <= 0) {
+        return output_t<int>(StatusType::INVALID_INPUT);
+    }
+    Song* song = genreUnionFind.findobjectSong(songId);
+    if (song == nullptr) {
+        return output_t<int>(StatusType::FAILURE); // Song not found
+    }
+    int genreId = genreUnionFind.Find(song->parent);
+    if (genreId == -1) {
+        return output_t<int>(StatusType::FAILURE); // Genre not found
+    }
+    return output_t<int>(genreId);
 }
 
 output_t<int> DSpotify::getNumberOfSongsByGenre(int genreId){
-    return 0;
+    if (genreId <= 0) {
+        return output_t<int>(StatusType::INVALID_INPUT);
+    }
+    Genre* genre = genreUnionFind.findobjectGenre(genreId);
+    if (genre == nullptr) { 
+    return output_t<int>(StatusType::FAILURE);
+    }
+    int memberCount = genre->getSize();
+    return output_t<int>(memberCount);
 }
 
 output_t<int> DSpotify::getNumberOfGenreChanges(int songId){
