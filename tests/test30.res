@@ -9,8 +9,10 @@ Genre added: 47131
 addGenre: SUCCESS
 Genre added: 68277
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 93876 genre68277
+addSong: SUCCESS
+song added: 6610 genre68277
+addSong: SUCCESS
 Genre added: 36905
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -58,11 +60,13 @@ Genre added: 30971
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 16722 genre93380
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 93096 genre3824
+addSong: SUCCESS
 Genre added: 6641
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -105,7 +109,8 @@ Genre added: 99051
 addGenre: SUCCESS
 Genre added: 73044
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58834 genre24821
+addSong: SUCCESS
 Genre added: 87631
 addGenre: SUCCESS
 Genre added: 92493
@@ -129,7 +134,8 @@ mergeGenres: FAILURE
 Genre added: 27111
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 10338 genre73044
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -178,7 +184,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 97485
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82934 genre98236
+addSong: SUCCESS
 Genre added: 901
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -190,7 +197,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 23152
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49731 genre31718
+addSong: SUCCESS
 Genre added: 61518
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -203,8 +211,10 @@ addGenre: SUCCESS
 Genre added: 99652
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 10956 genre1058
+addSong: SUCCESS
+song added: 18571 genre65390
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -214,8 +224,10 @@ addGenre: SUCCESS
 Genre added: 42021
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 76220 genre14158
+addSong: SUCCESS
+song added: 49654 genre64627
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -227,11 +239,14 @@ addGenre: SUCCESS
 Genre added: 46486
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 43324 genre70731
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 47647 genre59612
+addSong: SUCCESS
+song added: 40813 genre78638
+addSong: SUCCESS
 Genre added: 32059
 addGenre: SUCCESS
 Genre added: 4480
@@ -249,15 +264,18 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 94169
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37897 genre87631
+addSong: SUCCESS
 Genre added: 20558
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19564 genre94992
+addSong: SUCCESS
 Genre added: 62458
 addGenre: SUCCESS
 Genre added: 62756
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86287 genre28456
+addSong: SUCCESS
 Genre added: 38203
 addGenre: SUCCESS
 Genre added: 81869
@@ -296,7 +314,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42084 genre99191
+addSong: SUCCESS
 Genre added: 76413
 addGenre: SUCCESS
 Genre added: 85026
@@ -314,7 +333,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 4885
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1801 genre99191
+addSong: SUCCESS
 Genre added: 89121
 addGenre: SUCCESS
 Genre added: 687
@@ -327,7 +347,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 47217
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84968 genre43671
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 40874
 addGenre: SUCCESS
@@ -343,7 +364,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 84418
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 21757 genre65390
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 42467
 addGenre: SUCCESS
@@ -351,7 +373,8 @@ Genre added: 16682
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 62015 genre63166
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 72259
 addGenre: SUCCESS
@@ -380,7 +403,8 @@ addGenre: SUCCESS
 Genre added: 42444
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1709 genre59112
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 97693
 addGenre: SUCCESS
@@ -436,7 +460,8 @@ Genre added: 44247
 addGenre: SUCCESS
 Genre added: 55745
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91688 genre82053
+addSong: SUCCESS
 Genre added: 96579
 addGenre: SUCCESS
 Genre added: 9635
@@ -453,7 +478,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 70643
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93349 genre27111
+addSong: SUCCESS
 Genre added: 91618
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -469,7 +495,8 @@ Genre added: 68929
 addGenre: SUCCESS
 Genre added: 19733
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38757 genre76413
+addSong: SUCCESS
 Genre added: 37022
 addGenre: SUCCESS
 Genre added: 2169
@@ -490,7 +517,8 @@ addGenre: SUCCESS
 Genre added: 95423
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14695 genre34485
+addSong: SUCCESS
 Genre added: 40624
 addGenre: SUCCESS
 Genre added: 2897
@@ -517,10 +545,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 52024
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95521 genre76413
+addSong: SUCCESS
 Genre added: 56385
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78510 genre91261
+addSong: SUCCESS
 Genre added: 11741
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -559,9 +589,11 @@ addGenre: SUCCESS
 Genre added: 39762
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 53596 genre43671
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 49729 genre55943
+addSong: SUCCESS
 Genre added: 57855
 addGenre: SUCCESS
 Genre added: 20532
@@ -581,10 +613,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 79960
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45555 genre46486
+addSong: SUCCESS
 Genre added: 66201
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50511 genre93301
+addSong: SUCCESS
 Genre added: 99103
 addGenre: SUCCESS
 Genre added: 39578
@@ -599,7 +633,8 @@ addGenre: SUCCESS
 Genre added: 6500
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 98076 genre97693
+addSong: SUCCESS
 Genre added: 42352
 addGenre: SUCCESS
 Genre added: 99225
@@ -621,14 +656,16 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 25618
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 19833 genre57855
+addSong: SUCCESS
 Genre added: 9880
 addGenre: SUCCESS
 Genre added: 46124
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 28908 genre91271
+addSong: SUCCESS
 Genre added: 30222
 addGenre: SUCCESS
 Genre added: 38567
@@ -670,19 +707,23 @@ Genre added: 28225
 addGenre: SUCCESS
 Genre added: 9572
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24242 genre26259
+addSong: SUCCESS
 Genre added: 34300
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93995
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17903 genre9572
+addSong: SUCCESS
 Genre added: 8129
 addGenre: SUCCESS
 Genre added: 84208
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 81443 genre42444
+addSong: SUCCESS
+song added: 21444 genre65390
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 37623
@@ -692,7 +733,8 @@ getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 68970
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85675 genre9666
+addSong: SUCCESS
 Genre added: 19957
 addGenre: SUCCESS
 Genre added: 487
@@ -707,7 +749,8 @@ Genre added: 45901
 addGenre: SUCCESS
 Genre added: 73770
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82572 genre68237
+addSong: SUCCESS
 Genre added: 36236
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -751,7 +794,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87354
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49410 genre91271
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 50332
 addGenre: SUCCESS
@@ -768,7 +812,8 @@ Genre added: 35411
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2355 genre14158
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31557
 addGenre: SUCCESS
@@ -776,7 +821,8 @@ Genre added: 51077
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 50763 genre94279
+addSong: SUCCESS
 Genre added: 53807
 addGenre: SUCCESS
 Genre added: 21383
@@ -805,7 +851,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 32385 genre94169
+addSong: SUCCESS
 Genre added: 34820
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -829,13 +876,15 @@ Genre added: 27510
 addGenre: SUCCESS
 Genre added: 33954
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7888 genre13030
+addSong: SUCCESS
 Genre added: 22155
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 66296
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82199 genre22856
+addSong: SUCCESS
 Genre added: 93134
 addGenre: SUCCESS
 Genre added: 77489
@@ -848,7 +897,8 @@ addGenre: SUCCESS
 Genre added: 83595
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 58786 genre15174
+addSong: SUCCESS
 Genre added: 52065
 addGenre: SUCCESS
 Genre added: 12907
@@ -871,14 +921,16 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 85282
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96885 genre15174
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2422
 addGenre: SUCCESS
 Genre added: 62228
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 43755 genre18232
+addSong: SUCCESS
 Genre added: 76143
 addGenre: SUCCESS
 Genre added: 25830
@@ -897,17 +949,20 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52459 genre42467
+addSong: SUCCESS
 Genre added: 19285
 addGenre: SUCCESS
 Genre added: 93245
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 50753 genre82637
+addSong: SUCCESS
 Genre added: 38227
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 16409 genre27350
+addSong: SUCCESS
 Genre added: 73218
 addGenre: SUCCESS
 Genre added: 84453
@@ -937,7 +992,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 68934
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16577 genre1354
+addSong: SUCCESS
 Genre added: 13874
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -956,24 +1012,29 @@ Genre added: 9200
 addGenre: SUCCESS
 Genre added: 76445
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1843 genre84208
+addSong: SUCCESS
 Genre added: 62766
 addGenre: SUCCESS
 Genre added: 74050
 addGenre: SUCCESS
 Genre added: 47567
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 54836 genre2540
+addSong: SUCCESS
+song added: 57524 genre52065
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 55074 genre40351
+addSong: SUCCESS
 Genre added: 3880
 addGenre: SUCCESS
 Genre added: 30386
 addGenre: SUCCESS
 Genre added: 43196
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78567 genre16238
+addSong: SUCCESS
 Genre added: 21305
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -988,7 +1049,8 @@ Genre added: 23556
 addGenre: SUCCESS
 Genre added: 34623
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12088 genre81869
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 30731
 addGenre: SUCCESS
@@ -1010,10 +1072,11 @@ addGenre: SUCCESS
 Genre added: 22795
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18814 genre99072
+addSong: SUCCESS
 Genre added: 59191
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 19744
 addGenre: SUCCESS
 Genre added: 45207
@@ -1026,8 +1089,10 @@ addGenre: SUCCESS
 Genre added: 36914
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 36339 genre18256
+addSong: SUCCESS
+song added: 94749 genre687
+addSong: SUCCESS
 Genre added: 43184
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -1036,7 +1101,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87010 genre43196
+addSong: SUCCESS
 Genre added: 37629
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -1059,11 +1125,13 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 54866
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25628 genre42329
+addSong: SUCCESS
 Genre added: 46109
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 28659 genre30463
+addSong: SUCCESS
 Genre added: 40434
 addGenre: SUCCESS
 Genre added: 8380
@@ -1077,7 +1145,8 @@ Genre added: 60026
 addGenre: SUCCESS
 Genre added: 92609
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24284 genre31525
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 84605
 addGenre: SUCCESS
@@ -1095,7 +1164,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 58036
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88311 genre64137
+addSong: SUCCESS
 Genre added: 41682
 addGenre: SUCCESS
 Genre added: 86614
@@ -1113,7 +1183,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73685
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95814 genre94992
+addSong: SUCCESS
 Genre added: 10388
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -1121,14 +1192,16 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 5814
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95865 genre97518
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 26568
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 84020
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58413 genre76408
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 59417
 addGenre: SUCCESS
@@ -1165,14 +1238,18 @@ getSongGenre: SUCCESS, 0
 Genre added: 43593
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 22459 genre44866
+addSong: SUCCESS
 Genre added: 5085
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91724 genre6416
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 39368 genre99614
+addSong: SUCCESS
+song added: 24933 genre8129
+addSong: SUCCESS
 Genre added: 50338
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -1186,7 +1263,8 @@ addGenre: SUCCESS
 Genre added: 73621
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 60715 genre26103
+addSong: SUCCESS
 Genre added: 4760
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -1240,12 +1318,14 @@ addGenre: SUCCESS
 Genre added: 44504
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 30910 genre43671
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 12616
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11864 genre84999
+addSong: SUCCESS
 Genre added: 32332
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -1270,19 +1350,23 @@ Genre added: 68490
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 77841 genre6729
+addSong: SUCCESS
+song added: 56044 genre5814
+addSong: SUCCESS
 Genre added: 26335
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66639 genre29544
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 97281
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 74666 genre40684
+addSong: SUCCESS
 Genre added: 86642
 addGenre: SUCCESS
 Genre added: 16447
@@ -1296,8 +1380,10 @@ mergeGenres: FAILURE
 Genre added: 59744
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 34608 genre9965
+addSong: SUCCESS
+song added: 64800 genre99192
+addSong: SUCCESS
 Genre added: 36545
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -1325,7 +1411,8 @@ addGenre: SUCCESS
 Genre added: 17957
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 87729 genre68490
+addSong: SUCCESS
 Genre added: 39766
 addGenre: SUCCESS
 Genre added: 76038
@@ -1341,7 +1428,8 @@ Genre added: 40104
 addGenre: SUCCESS
 Genre added: 30079
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4374 genre41233
+addSong: SUCCESS
 Genre added: 47656
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -1352,14 +1440,16 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14952
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7422 genre89077
+addSong: SUCCESS
 Genre added: 5563
 addGenre: SUCCESS
 Genre added: 35230
 addGenre: SUCCESS
 Genre added: 21871
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41192 genre55888
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 44862
 addGenre: SUCCESS
@@ -1367,7 +1457,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 58152
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17983 genre9572
+addSong: SUCCESS
 Genre added: 75792
 addGenre: SUCCESS
 Genre added: 14565
@@ -1376,17 +1467,20 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4231
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 287 genre47215
+addSong: SUCCESS
 Genre added: 82888
 addGenre: SUCCESS
 Genre added: 51537
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3816 genre46605
+addSong: SUCCESS
 Genre added: 58910
 addGenre: SUCCESS
 Genre added: 9449
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43685 genre50332
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 97039
@@ -1395,7 +1489,8 @@ Genre added: 98390
 addGenre: SUCCESS
 Genre added: 51920
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36379 genre84418
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 23582
 addGenre: SUCCESS
@@ -1415,21 +1510,24 @@ Genre added: 48454
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 48186 genre88652
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 41112
 addGenre: SUCCESS
 Genre added: 65483
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 6225 genre72378
+addSong: SUCCESS
 Genre added: 33316
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 6308
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98212 genre27111
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -1452,19 +1550,22 @@ Genre added: 86630
 addGenre: SUCCESS
 Genre added: 90273
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26608 genre89274
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 74723
 addGenre: SUCCESS
 Genre added: 54408
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43159 genre75544
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 80765
 addGenre: SUCCESS
 Genre added: 1011
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22365 genre3894
+addSong: SUCCESS
 Genre added: 47934
 addGenre: SUCCESS
 Genre added: 54841
@@ -1480,7 +1581,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66859
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44381 genre26335
+addSong: SUCCESS
 Genre added: 2500
 addGenre: SUCCESS
 Genre added: 6134
@@ -1517,9 +1619,11 @@ Genre added: 73045
 addGenre: SUCCESS
 Genre added: 38421
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 36224 genre97026
+addSong: SUCCESS
+song added: 51975 genre59681
+addSong: SUCCESS
+addSong: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 38839
@@ -1531,14 +1635,17 @@ addGenre: SUCCESS
 Genre added: 74102
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 12031 genre90273
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 55526
 addGenre: SUCCESS
 Genre added: 80152
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 95635 genre94665
+addSong: SUCCESS
+song added: 28450 genre46605
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56958
 addGenre: SUCCESS
@@ -1554,7 +1661,8 @@ addGenre: SUCCESS
 Genre added: 37046
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 6905 genre73487
+addSong: SUCCESS
 Genre added: 59207
 addGenre: SUCCESS
 Genre added: 35135
@@ -1576,7 +1684,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6137
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97844 genre10388
+addSong: SUCCESS
 Genre added: 94202
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -1596,27 +1705,33 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82997
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84698 genre66095
+addSong: SUCCESS
 Genre added: 67431
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6077
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 44012 genre89643
+addSong: SUCCESS
+song added: 86370 genre18232
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 12937 genre2169
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 5342
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45501 genre85282
+addSong: SUCCESS
 Genre added: 27373
 addGenre: SUCCESS
 Genre added: 34741
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96031 genre54000
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 24031
 addGenre: SUCCESS
@@ -1628,9 +1743,11 @@ getSongGenre: SUCCESS, 0
 Genre added: 5705
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 96665 genre6729
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91396 genre51492
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 27882
 addGenre: SUCCESS
@@ -1671,7 +1788,8 @@ addGenre: INVALID_INPUT
 Genre added: 16744
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 6685 genre26259
+addSong: SUCCESS
 Genre added: 94261
 addGenre: SUCCESS
 Genre added: 77696
@@ -1681,7 +1799,8 @@ Genre added: 85556
 addGenre: SUCCESS
 Genre added: 32487
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25486 genre59191
+addSong: SUCCESS
 Genre added: 91523
 addGenre: SUCCESS
 Genre added: 88025
@@ -1694,10 +1813,12 @@ addGenre: SUCCESS
 Genre added: 66055
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 88993 genre54866
+addSong: SUCCESS
 Genre added: 12220
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2783 genre46486
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 21161
 addGenre: SUCCESS
@@ -1720,7 +1841,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 20092
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57115 genre76941
+addSong: SUCCESS
 Genre added: 68500
 addGenre: SUCCESS
 Genre added: 33854
@@ -1735,15 +1857,18 @@ Genre added: 29433
 addGenre: SUCCESS
 Genre added: 87771
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78110 genre19285
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 43343 genre33533
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 58593 genre78638
+addSong: SUCCESS
 Genre added: 37594
 addGenre: SUCCESS
 Genre added: 83304
@@ -1782,7 +1907,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 66633
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -1797,7 +1922,8 @@ Genre added: 2433
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45638 genre76413
+addSong: SUCCESS
 Genre added: 65709
 addGenre: SUCCESS
 Genre added: 12641
@@ -1810,21 +1936,24 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 89446
 addGenre: SUCCESS
 Genre added: 68757
 addGenre: SUCCESS
 Genre added: 31689
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 92113 genre29904
+addSong: SUCCESS
+song added: 90196 genre44736
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 31927
 addGenre: SUCCESS
 Genre added: 28370
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27015 genre27882
+addSong: SUCCESS
 Genre added: 13039
 addGenre: SUCCESS
 Genre added: 57451
@@ -1853,21 +1982,27 @@ mergeGenres: FAILURE
 Genre added: 51907
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 41350 genre77635
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66884 genre66601
+addSong: SUCCESS
 Genre added: 73349
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 24143 genre35529
+addSong: SUCCESS
+song added: 59209 genre70563
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 72822 genre3117
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 8920
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 64659 genre5342
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 70427
 addGenre: SUCCESS
@@ -1880,7 +2015,8 @@ mergeGenres: FAILURE
 Genre added: 25506
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 94839 genre90307
+addSong: SUCCESS
 Genre added: 57653
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -1894,13 +2030,15 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 99656
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90638 genre12181
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 77188
 addGenre: SUCCESS
 Genre added: 66247
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3100 genre10116
+addSong: SUCCESS
 Genre added: 42133
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -1921,7 +2059,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37699
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7287 genre68970
+addSong: SUCCESS
 Genre added: 16225
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -1943,11 +2082,13 @@ addGenre: SUCCESS
 Genre added: 23958
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65642 genre28456
+addSong: SUCCESS
 Genre added: 93179
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 6530 genre3894
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -1958,12 +2099,14 @@ addGenre: INVALID_INPUT
 Genre added: 35725
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92787 genre28456
+addSong: SUCCESS
 Genre added: 78464
 addGenre: SUCCESS
 Genre added: 91656
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4007 genre60026
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 20180
 addGenre: SUCCESS
@@ -1975,14 +2118,16 @@ Genre added: 32072
 addGenre: SUCCESS
 Genre added: 24356
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69489 genre89446
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 75106
 addGenre: SUCCESS
 Genre added: 53005
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 53495 genre61601
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 95240
 addGenre: SUCCESS
@@ -1993,7 +2138,8 @@ addGenre: SUCCESS
 Genre added: 61435
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 35472 genre2631
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 37975
 addGenre: SUCCESS
@@ -2006,12 +2152,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 2934
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9861 genre18866
+addSong: SUCCESS
 Genre added: 81549
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94481 genre2433
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 77146
@@ -2041,7 +2189,8 @@ Genre added: 59328
 addGenre: SUCCESS
 Genre added: 30771
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70260 genre46268
+addSong: SUCCESS
 Genre added: 25047
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2076,7 +2225,8 @@ Genre added: 82138
 addGenre: SUCCESS
 Genre added: 74731
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4078 genre74834
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 59517
 addGenre: SUCCESS
@@ -2087,14 +2237,17 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2037 genre51077
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 39845 genre57451
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 28281
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10265 genre51492
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 46369
 addGenre: SUCCESS
@@ -2102,14 +2255,16 @@ getSongGenre: SUCCESS, 0
 Genre added: 3665
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 61301 genre87003
+addSong: SUCCESS
 Genre added: 94185
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 3475
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55534 genre48759
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63446
 addGenre: SUCCESS
@@ -2123,7 +2278,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85187
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 78027 genre27510
+addSong: SUCCESS
 Genre added: 65839
 addGenre: SUCCESS
 Genre added: 39310
@@ -2145,7 +2301,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 68864
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 187 genre12907
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -2177,7 +2334,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14254
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39275 genre48702
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93580
 addGenre: SUCCESS
@@ -2212,13 +2370,16 @@ Genre added: 13808
 addGenre: SUCCESS
 Genre added: 63405
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64273 genre31525
+addSong: SUCCESS
 Genre added: 62012
 addGenre: SUCCESS
 Genre added: 73915
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 56998 genre41853
+addSong: SUCCESS
+song added: 67857 genre88863
+addSong: SUCCESS
 Genre added: 23083
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -2227,11 +2388,13 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 97558
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29660 genre46549
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 8109
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31649 genre73045
+addSong: SUCCESS
 Genre added: 55944
 addGenre: SUCCESS
 Genre added: 11626
@@ -2254,8 +2417,9 @@ addGenre: SUCCESS
 Genre added: 66791
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 2575 genre53474
+addSong: SUCCESS
+addSong: INVALID_INPUT
 Genre added: 47886
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2278,11 +2442,13 @@ Genre added: 99397
 addGenre: SUCCESS
 Genre added: 13309
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11238 genre3117
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 71374
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9391 genre18866
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
@@ -2299,7 +2465,8 @@ Genre added: 91112
 addGenre: SUCCESS
 Genre added: 81810
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88570 genre79994
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 44779
 addGenre: SUCCESS
@@ -2319,14 +2486,16 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 22106
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38491 genre44314
+addSong: SUCCESS
 Genre added: 92086
 addGenre: SUCCESS
 Genre added: 255
 addGenre: SUCCESS
 Genre added: 1020
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 837 genre2934
+addSong: SUCCESS
 Genre added: 5474
 addGenre: SUCCESS
 Genre added: 84273
@@ -2410,9 +2579,11 @@ Genre added: 77614
 addGenre: SUCCESS
 Genre added: 89168
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10720 genre9880
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 56693 genre21161
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 18982
 addGenre: SUCCESS
@@ -2423,7 +2594,8 @@ addGenre: SUCCESS
 Genre added: 71180
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32571 genre61435
+addSong: SUCCESS
 Genre added: 94778
 addGenre: SUCCESS
 Genre added: 81576
@@ -2438,7 +2610,8 @@ mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 78092
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97133 genre69060
+addSong: SUCCESS
 Genre added: 26345
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -2446,7 +2619,8 @@ Genre added: 2105
 addGenre: SUCCESS
 Genre added: 35706
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18583 genre64446
+addSong: SUCCESS
 Genre added: 45089
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -2460,7 +2634,8 @@ Genre added: 34501
 addGenre: SUCCESS
 Genre added: 82594
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98502 genre38711
+addSong: SUCCESS
 Genre added: 69175
 addGenre: SUCCESS
 Genre added: 98845
@@ -2506,7 +2681,8 @@ Genre added: 13639
 addGenre: SUCCESS
 Genre added: 10884
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91579 genre39135
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 85219
@@ -2533,14 +2709,16 @@ addGenre: SUCCESS
 Genre added: 60633
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14907 genre3397
+addSong: SUCCESS
 Genre added: 94520
 addGenre: SUCCESS
 Genre added: 77657
 addGenre: SUCCESS
 Genre added: 92846
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62354 genre19285
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 36571
 addGenre: SUCCESS
@@ -2559,7 +2737,8 @@ Genre added: 60798
 addGenre: SUCCESS
 Genre added: 54086
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79233 genre44247
+addSong: SUCCESS
 Genre added: 15318
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -2584,7 +2763,8 @@ addGenre: SUCCESS
 Genre added: 38413
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 44924 genre99614
+addSong: SUCCESS
 Genre added: 35365
 addGenre: SUCCESS
 Genre added: 1566
@@ -2598,13 +2778,15 @@ Genre added: 15035
 addGenre: SUCCESS
 Genre added: 89413
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70586 genre46124
+addSong: SUCCESS
 Genre added: 85799
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 52842
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98312 genre93179
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 394
 addGenre: SUCCESS
@@ -2619,17 +2801,21 @@ getSongGenre: SUCCESS, 0
 Genre added: 10437
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7266 genre98236
+addSong: SUCCESS
 Genre added: 61914
 addGenre: SUCCESS
 Genre added: 61167
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 69452 genre33293
+addSong: SUCCESS
 Genre added: 34606
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 45047 genre60371
+addSong: SUCCESS
+song added: 72420 genre2231
+addSong: SUCCESS
 Genre added: 34676
 addGenre: SUCCESS
 Genre added: 10259
@@ -2670,8 +2856,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 39979
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 92726 genre13270
+addSong: SUCCESS
+song added: 71778 genre99051
+addSong: SUCCESS
 Genre added: 51588
 addGenre: SUCCESS
 Genre added: 26362
@@ -2708,7 +2896,8 @@ Genre added: 32401
 addGenre: SUCCESS
 Genre added: 27012
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37283 genre66791
+addSong: SUCCESS
 Genre added: 61853
 addGenre: SUCCESS
 Genre added: 58228
@@ -2725,10 +2914,12 @@ Genre added: 37705
 addGenre: SUCCESS
 Genre added: 38584
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92693 genre35230
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 34525 genre25047
+addSong: SUCCESS
 Genre added: 54286
 addGenre: SUCCESS
 Genre added: 75836
@@ -2759,15 +2950,18 @@ addGenre: SUCCESS
 Genre added: 74008
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 64139 genre97526
+addSong: SUCCESS
+song added: 35447 genre74445
+addSong: SUCCESS
 Genre added: 80433
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46226 genre79960
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 60913
 addGenre: SUCCESS
@@ -2776,10 +2970,12 @@ Genre added: 84861
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79231 genre18461
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 84367 genre13023
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 46129
@@ -2798,11 +2994,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15677 genre97039
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 44373 genre15363
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -2821,7 +3019,8 @@ Genre added: 47861
 addGenre: SUCCESS
 Genre added: 97156
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77300 genre10929
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 69169
 addGenre: SUCCESS
@@ -2829,7 +3028,8 @@ Genre added: 50133
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 96806 genre39455
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78269
@@ -2874,7 +3074,8 @@ addGenre: SUCCESS
 Genre added: 98290
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 55528 genre97909
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 7633
 addGenre: SUCCESS
@@ -2899,7 +3100,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 75804
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69678 genre90778
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 68288
 addGenre: SUCCESS
@@ -2916,7 +3118,8 @@ Genre added: 2635
 addGenre: SUCCESS
 Genre added: 24499
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95589 genre95294
+addSong: SUCCESS
 Genre added: 86226
 addGenre: SUCCESS
 Genre added: 62113
@@ -2957,20 +3160,24 @@ Genre added: 31675
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 66112 genre99869
+addSong: SUCCESS
+song added: 77454 genre89121
+addSong: SUCCESS
 Genre added: 93407
 addGenre: SUCCESS
 Genre added: 68933
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 88464 genre37594
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 15997
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 83210 genre77237
+addSong: SUCCESS
 Genre added: 56706
 addGenre: SUCCESS
 Genre added: 30512
@@ -2981,14 +3188,17 @@ addGenre: SUCCESS
 Genre added: 95301
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73291 genre9666
+addSong: SUCCESS
 Genre added: 39929
 addGenre: SUCCESS
 Genre added: 74031
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 47516 genre13824
+addSong: SUCCESS
+song added: 38828 genre56706
+addSong: SUCCESS
 Genre added: 72999
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3006,7 +3216,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 10921
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73933 genre6058
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 32561
 addGenre: SUCCESS
@@ -3040,10 +3251,12 @@ Genre added: 70664
 addGenre: SUCCESS
 Genre added: 10104
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71690 genre65976
+addSong: SUCCESS
 Genre added: 94143
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55159 genre21815
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22571
 addGenre: SUCCESS
@@ -3064,7 +3277,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52187
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86701 genre65483
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 92283
@@ -3083,12 +3297,14 @@ Genre added: 78458
 addGenre: SUCCESS
 Genre added: 52609
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5454 genre29433
+addSong: SUCCESS
 Genre added: 48600
 addGenre: SUCCESS
 Genre added: 27604
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60315 genre66880
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -3137,7 +3353,8 @@ Genre added: 71752
 addGenre: SUCCESS
 Genre added: 89485
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52479 genre73150
+addSong: SUCCESS
 Genre added: 46756
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -3147,7 +3364,8 @@ Genre added: 60840
 addGenre: SUCCESS
 Genre added: 74118
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61353 genre92462
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -3158,7 +3376,8 @@ Genre added: 1730
 addGenre: SUCCESS
 Genre added: 6121
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12375 genre34501
+addSong: SUCCESS
 Genre added: 77819
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -3173,13 +3392,15 @@ addGenre: SUCCESS
 Genre added: 87324
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60826 genre85187
+addSong: SUCCESS
 Genre added: 49299
 addGenre: SUCCESS
 Genre added: 88790
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7482 genre34978
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 30456
 addGenre: SUCCESS
@@ -3202,8 +3423,10 @@ Genre added: 52956
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 38336 genre86642
+addSong: SUCCESS
+song added: 56166 genre24893
+addSong: SUCCESS
 Genre added: 86286
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -3215,7 +3438,8 @@ Genre added: 49780
 addGenre: SUCCESS
 Genre added: 29280
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73631 genre44024
+addSong: SUCCESS
 Genre added: 60634
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -3230,11 +3454,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 97274
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47452 genre81226
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 85840
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80471 genre13228
+addSong: SUCCESS
 Genre added: 81557
 addGenre: SUCCESS
 Genre added: 95311
@@ -3244,14 +3470,16 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 25442
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41006 genre90307
+addSong: SUCCESS
 Genre added: 14612
 addGenre: SUCCESS
 Genre added: 93378
 addGenre: SUCCESS
 Genre added: 90329
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48299 genre25830
+addSong: SUCCESS
 Genre added: 78946
 addGenre: SUCCESS
 Genre added: 84989
@@ -3266,7 +3494,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 84416
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43867 genre26568
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 71775
 addGenre: SUCCESS
@@ -3285,7 +3514,8 @@ Genre added: 38454
 addGenre: SUCCESS
 Genre added: 77949
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2375 genre52847
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 93188
 addGenre: SUCCESS
@@ -3326,10 +3556,12 @@ Genre added: 59167
 addGenre: SUCCESS
 Genre added: 53419
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18072 genre44855
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 4709 genre78121
+addSong: SUCCESS
 Genre added: 9186
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3340,7 +3572,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 1158
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99253 genre8129
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -3368,7 +3601,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56207
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95535 genre43165
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 28967
@@ -3380,7 +3614,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 50859
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88072 genre42545
+addSong: SUCCESS
 Genre added: 58778
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -3401,7 +3636,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 58759 genre82053
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3412,7 +3648,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 49954 genre7863
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 45973
 addGenre: SUCCESS
@@ -3439,7 +3676,7 @@ mergeGenres: FAILURE
 Genre added: 39841
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 21319
 addGenre: SUCCESS
@@ -3455,7 +3692,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 89279
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 27793 genre43196
+addSong: SUCCESS
 Genre added: 2491
 addGenre: SUCCESS
 Genre added: 51262
@@ -3476,8 +3714,10 @@ Genre added: 72406
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 35652 genre32127
+addSong: SUCCESS
+song added: 4542 genre13557
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 84502
 addGenre: SUCCESS
@@ -3487,10 +3727,12 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 95265
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97994 genre39929
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32032 genre36841
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52561
 addGenre: SUCCESS
@@ -3502,7 +3744,8 @@ addGenre: SUCCESS
 Genre added: 58318
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41191 genre74445
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 91372
@@ -3536,7 +3779,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 63706 genre10116
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 72806
 addGenre: SUCCESS
@@ -3544,8 +3788,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73908
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 71454 genre41323
+addSong: SUCCESS
+song added: 7556 genre21668
+addSong: SUCCESS
 Genre added: 80406
 addGenre: SUCCESS
 Genre added: 67657
@@ -3560,7 +3806,8 @@ Genre added: 40633
 addGenre: SUCCESS
 Genre added: 46177
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64883 genre88368
+addSong: SUCCESS
 Genre added: 69076
 addGenre: SUCCESS
 Genre added: 70551
@@ -3586,7 +3833,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66216
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 1905 genre89274
+addSong: SUCCESS
 Genre added: 92557
 addGenre: SUCCESS
 Genre added: 30434
@@ -3652,7 +3900,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 31911
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75189 genre61837
+addSong: SUCCESS
 Genre added: 14777
 addGenre: SUCCESS
 Genre added: 41778
@@ -3665,20 +3914,26 @@ Genre added: 46197
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46040 genre38741
+addSong: SUCCESS
 Genre added: 57824
 addGenre: SUCCESS
 Genre added: 40420
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11818 genre85556
+addSong: SUCCESS
 Genre added: 63790
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 27277 genre47886
+addSong: SUCCESS
+song added: 80951 genre6134
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 16972 genre70947
+addSong: SUCCESS
+song added: 45068 genre21305
+addSong: SUCCESS
 Genre added: 59032
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3689,9 +3944,12 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 44843 genre27882
+addSong: SUCCESS
+song added: 55510 genre49940
+addSong: SUCCESS
+song added: 27373 genre89080
+addSong: SUCCESS
 Genre added: 75296
 addGenre: SUCCESS
 Genre added: 58676
@@ -3699,18 +3957,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80703 genre43101
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 65018
 addGenre: SUCCESS
 Genre added: 17945
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5306 genre99141
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 64100
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 63645 genre12907
+addSong: SUCCESS
 Genre added: 54112
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3770,9 +4031,11 @@ Genre added: 46215
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 65881 genre48350
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 17544 genre69295
+addSong: SUCCESS
 Genre added: 59687
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -3805,17 +4068,20 @@ addGenre: SUCCESS
 Genre added: 90785
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 26738 genre73044
+addSong: SUCCESS
 Genre added: 89561
 addGenre: SUCCESS
 Genre added: 44904
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74725 genre18932
+addSong: SUCCESS
 Genre added: 73555
 addGenre: SUCCESS
 Genre added: 71383
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90362 genre8049
+addSong: SUCCESS
 Genre added: 90698
 addGenre: SUCCESS
 Genre added: 61208
@@ -3826,7 +4092,8 @@ Genre added: 135
 addGenre: SUCCESS
 Genre added: 92035
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52564 genre2796
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 91894
 addGenre: SUCCESS
@@ -3844,9 +4111,11 @@ getSongGenre: SUCCESS, 0
 Genre added: 76924
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 97413 genre55944
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 49876 genre89077
+addSong: SUCCESS
 Genre added: 38640
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3860,18 +4129,21 @@ Genre added: 94789
 addGenre: SUCCESS
 Genre added: 2460
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83096 genre4066
+addSong: SUCCESS
 Genre added: 3831
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52068 genre3143
+addSong: SUCCESS
 Genre added: 42374
 addGenre: SUCCESS
 Genre added: 12044
 addGenre: SUCCESS
 Genre added: 66733
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61606 genre88557
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41140
@@ -3885,7 +4157,8 @@ Genre added: 78780
 addGenre: SUCCESS
 Genre added: 71152
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41772 genre73833
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 62466
 addGenre: SUCCESS
@@ -3951,17 +4224,21 @@ mergeGenres: FAILURE
 Genre added: 19230
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 54503 genre6641
+addSong: SUCCESS
+song added: 81486 genre32377
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 16113 genre44862
+addSong: SUCCESS
 Genre added: 35500
 addGenre: SUCCESS
 Genre added: 20572
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 93685 genre1020
+addSong: SUCCESS
 Genre added: 60505
 addGenre: SUCCESS
 Genre added: 91229
@@ -3973,13 +4250,15 @@ Genre added: 33123
 addGenre: SUCCESS
 Genre added: 23415
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54381 genre88025
+addSong: SUCCESS
 Genre added: 87494
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 35802 genre9083
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 24463
@@ -3997,7 +4276,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 50145 genre25442
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 902
@@ -4008,7 +4288,8 @@ Genre added: 1179
 addGenre: SUCCESS
 Genre added: 98448
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26671 genre12208
+addSong: SUCCESS
 Genre added: 97944
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -4018,13 +4299,18 @@ Genre added: 42459
 addGenre: SUCCESS
 Genre added: 87020
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 49293 genre86642
+addSong: SUCCESS
+song added: 2048 genre11795
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 46435 genre59744
+addSong: SUCCESS
+song added: 33681 genre68934
+addSong: SUCCESS
+song added: 12931 genre96505
+addSong: SUCCESS
 Genre added: 20351
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -4033,14 +4319,16 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 5968
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17821 genre49194
+addSong: SUCCESS
 Genre added: 20766
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51287 genre6441
+addSong: SUCCESS
 Genre added: 13843
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -4085,7 +4373,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43599
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97964 genre36982
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 28493
@@ -4094,7 +4383,8 @@ Genre added: 69713
 addGenre: SUCCESS
 Genre added: 14381
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92251 genre10104
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -4105,13 +4395,15 @@ addGenre: SUCCESS
 Genre added: 36485
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99160 genre78269
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92700
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 1907 genre51920
+addSong: SUCCESS
 Genre added: 78140
 addGenre: SUCCESS
 Genre added: 57136
@@ -4133,22 +4425,26 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78798
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18640 genre96505
+addSong: SUCCESS
 Genre added: 11005
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70131 genre95248
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 46537
 addGenre: SUCCESS
 Genre added: 69811
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54302 genre84836
+addSong: SUCCESS
 Genre added: 49965
 addGenre: SUCCESS
 Genre added: 58610
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93570 genre36168
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 95561
@@ -4168,8 +4464,10 @@ Genre added: 31764
 addGenre: SUCCESS
 Genre added: 25069
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 94225 genre92878
+addSong: SUCCESS
+song added: 97752 genre90307
+addSong: SUCCESS
 Genre added: 52511
 addGenre: SUCCESS
 Genre added: 58427
@@ -4185,7 +4483,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60839
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90405 genre34889
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 7539
 addGenre: SUCCESS
@@ -4200,7 +4499,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 8145
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32276 genre51920
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 29636
@@ -4246,7 +4546,8 @@ Genre added: 89737
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 97916 genre44247
+addSong: SUCCESS
 Genre added: 66307
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -4271,16 +4572,20 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 74354
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92538 genre46756
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 78478 genre87771
+addSong: SUCCESS
+song added: 57392 genre34897
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 24713
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87099 genre51907
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 96340
@@ -4289,7 +4594,8 @@ Genre added: 15420
 addGenre: SUCCESS
 Genre added: 84150
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75311 genre28225
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 85567
 addGenre: SUCCESS
@@ -4304,7 +4610,8 @@ Genre added: 50020
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51667 genre95561
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 23760
@@ -4318,7 +4625,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 35840
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 63411 genre96211
+addSong: SUCCESS
 Genre added: 28566
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -4339,14 +4647,16 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 8747 genre90411
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 61586
 addGenre: SUCCESS
 Genre added: 83558
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66150 genre64112
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 20173
 addGenre: SUCCESS
@@ -4356,13 +4666,15 @@ addGenre: INVALID_INPUT
 Genre added: 95866
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 82887 genre87198
+addSong: SUCCESS
 Genre added: 90041
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 39933
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87087 genre52511
+addSong: SUCCESS
 Genre added: 86731
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -4380,7 +4692,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 71944
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86865 genre1287
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -4388,7 +4701,8 @@ mergeGenres: FAILURE
 Genre added: 77492
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 24789 genre89121
+addSong: SUCCESS
 Genre added: 40746
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -4402,9 +4716,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 35791
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32641 genre13271
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30427 genre74008
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -4467,7 +4783,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83570 genre99141
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -4512,9 +4829,11 @@ Genre added: 18466
 addGenre: SUCCESS
 Genre added: 52410
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41435 genre70563
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64814 genre71438
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48096
 addGenre: SUCCESS
@@ -4531,12 +4850,14 @@ Genre added: 63682
 addGenre: SUCCESS
 Genre added: 15058
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10514 genre10929
+addSong: SUCCESS
 Genre added: 39418
 addGenre: SUCCESS
 Genre added: 330
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35788 genre78949
+addSong: SUCCESS
 Genre added: 8987
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -4558,7 +4879,8 @@ addGenre: SUCCESS
 Genre added: 69621
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 60198 genre30512
+addSong: SUCCESS
 Genre added: 52843
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -4581,7 +4903,8 @@ Genre added: 48330
 addGenre: SUCCESS
 Genre added: 34814
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4621 genre82633
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 34926
 addGenre: SUCCESS
@@ -4594,11 +4917,13 @@ addGenre: SUCCESS
 Genre added: 3243
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 84021 genre8987
+addSong: SUCCESS
 Genre added: 16375
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67390 genre7618
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 44576
 addGenre: SUCCESS
@@ -4610,7 +4935,8 @@ Genre added: 73446
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 10293 genre84989
+addSong: SUCCESS
 Genre added: 77465
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -4635,7 +4961,8 @@ Genre added: 80233
 addGenre: SUCCESS
 Genre added: 32943
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32916 genre38421
+addSong: SUCCESS
 Genre added: 59010
 addGenre: SUCCESS
 Genre added: 57167
@@ -4661,7 +4988,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86123
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38676 genre66859
+addSong: SUCCESS
 Genre added: 48537
 addGenre: SUCCESS
 Genre added: 82018
@@ -4670,8 +4998,10 @@ Genre added: 147
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 3150 genre88504
+addSong: SUCCESS
+song added: 53005 genre87077
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14033
 addGenre: SUCCESS
@@ -4691,7 +5021,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 26089
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65636 genre64013
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 67738
@@ -4713,7 +5044,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 75484
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85071 genre32943
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -4751,8 +5083,10 @@ Genre added: 14575
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 81421 genre68619
+addSong: SUCCESS
+song added: 50782 genre26777
+addSong: SUCCESS
 Genre added: 81046
 addGenre: SUCCESS
 Genre added: 34679
@@ -4780,7 +5114,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 98576
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52087 genre50801
+addSong: SUCCESS
 Genre added: 73403
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -4813,7 +5148,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 81581
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62100 genre6308
+addSong: SUCCESS
 Genre added: 28986
 addGenre: SUCCESS
 Genre added: 73103
@@ -4842,7 +5178,8 @@ Genre added: 43212
 addGenre: SUCCESS
 Genre added: 42346
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77408 genre30079
+addSong: SUCCESS
 Genre added: 17840
 addGenre: SUCCESS
 Genre added: 15553
@@ -4852,7 +5189,8 @@ Genre added: 60343
 addGenre: SUCCESS
 Genre added: 90270
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79102 genre68805
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 80369
@@ -4860,7 +5198,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 38436
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44922 genre83558
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 85191
 addGenre: SUCCESS
@@ -4887,7 +5226,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 13744
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22856 genre41936
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 26712
 addGenre: SUCCESS
@@ -4896,7 +5236,8 @@ addGenre: SUCCESS
 Genre added: 83725
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70405 genre33077
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 7666
 addGenre: SUCCESS
@@ -4920,7 +5261,8 @@ addGenre: SUCCESS
 Genre added: 44679
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47208 genre30279
+addSong: SUCCESS
 Genre added: 12847
 addGenre: SUCCESS
 Genre added: 74602
@@ -4935,13 +5277,16 @@ addGenre: SUCCESS
 Genre added: 18887
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11049 genre87354
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 51991 genre24485
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 36311 genre87354
+addSong: SUCCESS
 Genre added: 76692
 addGenre: SUCCESS
 Genre added: 41890
@@ -4953,7 +5298,8 @@ Genre added: 3390
 addGenre: SUCCESS
 Genre added: 15322
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58467 genre26777
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53862
@@ -4970,7 +5316,8 @@ Genre added: 29577
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 57626 genre32127
+addSong: SUCCESS
 Genre added: 97535
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -5000,14 +5347,16 @@ Genre added: 28068
 addGenre: SUCCESS
 Genre added: 33789
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1607 genre30374
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 90476
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 2517 genre44201
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 3082
@@ -5022,8 +5371,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 26300
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35079 genre21224
+addSong: SUCCESS
+song added: 76808 genre62466
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 28517
 addGenre: SUCCESS
@@ -5053,7 +5404,8 @@ Genre added: 43742
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42486 genre44825
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85228
@@ -5068,7 +5420,8 @@ Genre added: 58110
 addGenre: SUCCESS
 Genre added: 82598
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33563 genre21453
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 99418
 addGenre: SUCCESS
@@ -5084,18 +5437,22 @@ addGenre: SUCCESS
 Genre added: 52555
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 95559 genre73469
+addSong: SUCCESS
 Genre added: 94326
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 36586 genre57855
+addSong: SUCCESS
+song added: 92124 genre76625
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 59275
 addGenre: SUCCESS
 Genre added: 53739
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71117 genre67509
+addSong: SUCCESS
 Genre added: 9496
 addGenre: SUCCESS
 Genre added: 36657
@@ -5129,7 +5486,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 71268
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12321 genre3894
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 68068
@@ -5148,9 +5506,11 @@ Genre added: 54805
 addGenre: SUCCESS
 Genre added: 8170
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24424 genre8221
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 26252 genre72406
+addSong: SUCCESS
 Genre added: 36795
 addGenre: SUCCESS
 Genre added: 38280
@@ -5158,7 +5518,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 72241
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92889 genre35840
+addSong: SUCCESS
 Genre added: 1324
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -5183,10 +5544,12 @@ addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54199 genre24356
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 91274 genre27882
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 7598
@@ -5220,7 +5583,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 2981
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76749 genre35835
+addSong: SUCCESS
 Genre added: 9235
 addGenre: SUCCESS
 Genre added: 24830
@@ -5232,7 +5596,8 @@ Genre added: 82681
 addGenre: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 87616 genre85700
+addSong: SUCCESS
 Genre added: 20797
 addGenre: SUCCESS
 Genre added: 85980
@@ -5289,7 +5654,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 92092 genre88025
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14176
 addGenre: SUCCESS
@@ -5300,7 +5666,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 7053
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33268 genre39841
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 99520
@@ -5320,12 +5687,14 @@ Genre added: 16578
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 21398 genre4459
+addSong: SUCCESS
 Genre added: 42935
 addGenre: SUCCESS
 Genre added: 38550
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81182 genre55526
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -5343,12 +5712,16 @@ Genre added: 17428
 addGenre: SUCCESS
 Genre added: 56243
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9760 genre94108
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 41048 genre24909
+addSong: SUCCESS
+song added: 94408 genre94609
+addSong: SUCCESS
+song added: 69250 genre77188
+addSong: SUCCESS
 Genre added: 41468
 addGenre: SUCCESS
 Genre added: 78241
@@ -5357,7 +5730,8 @@ Genre added: 44002
 addGenre: SUCCESS
 Genre added: 52500
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94298 genre65794
+addSong: SUCCESS
 Genre added: 6948
 addGenre: SUCCESS
 Genre added: 18838
@@ -5372,7 +5746,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 17236
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1140 genre71944
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -5394,7 +5769,8 @@ addGenre: SUCCESS
 Genre added: 69881
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 1804 genre901
+addSong: SUCCESS
 Genre added: 52155
 addGenre: SUCCESS
 Genre added: 2394
@@ -5405,7 +5781,8 @@ Genre added: 30947
 addGenre: SUCCESS
 Genre added: 9748
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74237 genre15058
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 38047
 addGenre: SUCCESS
@@ -5413,7 +5790,8 @@ Genre added: 154
 addGenre: SUCCESS
 Genre added: 58976
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45116 genre59866
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 38820
 addGenre: SUCCESS
@@ -5445,7 +5823,8 @@ Genre added: 41951
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 56794 genre26517
+addSong: SUCCESS
 Genre added: 96385
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -5463,7 +5842,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 3062 genre53807
+addSong: SUCCESS
 Genre added: 35736
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -5471,7 +5851,8 @@ Genre added: 15313
 addGenre: SUCCESS
 Genre added: 51952
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76659 genre50513
+addSong: SUCCESS
 Genre added: 68293
 addGenre: SUCCESS
 Genre added: 99374
@@ -5531,7 +5912,8 @@ getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 8916
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68474 genre62617
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 16557
@@ -5554,7 +5936,8 @@ Genre added: 68569
 addGenre: SUCCESS
 Genre added: 42890
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79701 genre63465
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96329
 addGenre: SUCCESS
@@ -5565,7 +5948,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 97681
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1886 genre47384
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8305
 addGenre: SUCCESS
@@ -5578,7 +5962,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 39829
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92750 genre69295
+addSong: SUCCESS
 Genre added: 28302
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -5613,8 +5998,10 @@ Genre added: 88169
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 97268 genre34696
+addSong: SUCCESS
+song added: 19652 genre93750
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 46010
@@ -5650,7 +6037,8 @@ Genre added: 21472
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 36017 genre53739
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 36034
@@ -5658,7 +6046,8 @@ addGenre: SUCCESS
 Genre added: 26905
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75155 genre94609
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34678
 addGenre: SUCCESS
@@ -5679,7 +6068,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 96882 genre33789
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78927
 addGenre: SUCCESS
@@ -5690,10 +6080,12 @@ Genre added: 51856
 addGenre: SUCCESS
 Genre added: 74304
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31704 genre97649
+addSong: SUCCESS
 Genre added: 11544
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10425 genre16682
+addSong: SUCCESS
 Genre added: 77679
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -5704,7 +6096,8 @@ addGenre: SUCCESS
 Genre added: 34180
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 78668 genre31878
+addSong: SUCCESS
 Genre added: 27303
 addGenre: SUCCESS
 Genre added: 45767
@@ -5712,7 +6105,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41673
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79955 genre55631
+addSong: SUCCESS
 Genre added: 27361
 addGenre: SUCCESS
 Genre added: 18581
@@ -5744,7 +6138,8 @@ addGenre: SUCCESS
 Genre added: 79354
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 8501 genre68075
+addSong: SUCCESS
 Genre added: 96513
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -5801,7 +6196,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6320
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 80830 genre51492
+addSong: SUCCESS
 Genre added: 6739
 addGenre: SUCCESS
 Genre added: 82667
@@ -5809,18 +6205,24 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 9750
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 40282 genre15058
+addSong: SUCCESS
+song added: 43361 genre89716
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 56691 genre66746
+addSong: SUCCESS
 Genre added: 52993
 addGenre: SUCCESS
 Genre added: 28489
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 28635 genre61123
+addSong: SUCCESS
+song added: 98364 genre55631
+addSong: SUCCESS
+song added: 14075 genre96641
+addSong: SUCCESS
 Genre added: 41760
 addGenre: SUCCESS
 Genre added: 19953
@@ -5865,7 +6267,8 @@ addGenre: SUCCESS
 Genre added: 92402
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 59630 genre94202
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 47323
 addGenre: SUCCESS
@@ -5874,9 +6277,11 @@ Genre added: 93949
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12418 genre58395
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 34265 genre48454
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72168
 addGenre: SUCCESS
@@ -5885,8 +6290,10 @@ Genre added: 80135
 addGenre: SUCCESS
 Genre added: 92456
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 8065 genre23425
+addSong: SUCCESS
+song added: 25232 genre5581
+addSong: SUCCESS
 Genre added: 98305
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -5897,7 +6304,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 32064
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3197 genre33789
+addSong: SUCCESS
 Genre added: 76120
 addGenre: SUCCESS
 Genre added: 42655
@@ -5911,7 +6319,8 @@ Genre added: 80761
 addGenre: SUCCESS
 Genre added: 2919
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7364 genre85321
+addSong: SUCCESS
 Genre added: 35134
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -5944,18 +6353,23 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72508
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32334 genre41323
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 5280 genre26429
+addSong: SUCCESS
+song added: 75983 genre84416
+addSong: SUCCESS
+song added: 27531 genre95248
+addSong: SUCCESS
 Genre added: 57749
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 59355
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41363 genre70252
+addSong: SUCCESS
 Genre added: 78105
 addGenre: SUCCESS
 Genre added: 42962
@@ -5965,14 +6379,17 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 75807 genre2460
+addSong: SUCCESS
+song added: 91776 genre25860
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 78363
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 20188 genre38199
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -6014,10 +6431,12 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60933
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57142 genre28228
+addSong: SUCCESS
 Genre added: 37795
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90424 genre8380
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 66
@@ -6026,7 +6445,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 36343
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74436 genre2500
+addSong: SUCCESS
 Genre added: 73272
 addGenre: SUCCESS
 Genre added: 70507
@@ -6035,7 +6455,8 @@ Genre added: 28208
 addGenre: SUCCESS
 Genre added: 28378
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80337 genre99072
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 80711
 addGenre: SUCCESS
@@ -6052,7 +6473,8 @@ Genre added: 83794
 addGenre: SUCCESS
 Genre added: 92009
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9403 genre77284
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 4545
 addGenre: SUCCESS
@@ -6063,7 +6485,8 @@ addGenre: SUCCESS
 Genre added: 3902
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 72409 genre43593
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89961
 addGenre: SUCCESS
@@ -6078,7 +6501,8 @@ Genre added: 82074
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 57830 genre32059
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -6105,7 +6529,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48812
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86209 genre86283
+addSong: SUCCESS
 Genre added: 75793
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -6113,7 +6538,8 @@ Genre added: 16757
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65374 genre45747
+addSong: SUCCESS
 Genre added: 43183
 addGenre: SUCCESS
 Genre added: 10073
@@ -6123,7 +6549,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 22675
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10246 genre76772
+addSong: SUCCESS
 Genre added: 64451
 addGenre: SUCCESS
 Genre added: 69344
@@ -6133,12 +6560,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 80171
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98232 genre35679
+addSong: SUCCESS
 Genre added: 93219
 addGenre: SUCCESS
 Genre added: 87156
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30879 genre41762
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29751
@@ -6148,7 +6577,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 76451
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54288 genre229
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40760
 addGenre: SUCCESS
@@ -6162,10 +6592,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 64136
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97093 genre76726
+addSong: SUCCESS
 Genre added: 59555
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37474 genre67738
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 28731
@@ -6201,7 +6633,8 @@ addGenre: SUCCESS
 Genre added: 59311
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 39095 genre28979
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -6209,7 +6642,8 @@ Genre added: 17834
 addGenre: SUCCESS
 Genre added: 31361
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24569 genre59440
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 73522
 addGenre: SUCCESS
@@ -6224,7 +6658,8 @@ Genre added: 62183
 addGenre: SUCCESS
 Genre added: 1226
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53783 genre42459
+addSong: SUCCESS
 Genre added: 1483
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -6245,7 +6680,8 @@ mergeGenres: FAILURE
 Genre added: 92625
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72370 genre40702
+addSong: SUCCESS
 Genre added: 55226
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -6263,7 +6699,8 @@ Genre added: 41639
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 99923 genre56706
+addSong: SUCCESS
 Genre added: 59782
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -6288,7 +6725,8 @@ addGenre: INVALID_INPUT
 Genre added: 82932
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 20326 genre79096
+addSong: SUCCESS
 Genre added: 32618
 addGenre: SUCCESS
 Genre added: 66026
@@ -6307,7 +6745,8 @@ Genre added: 11696
 addGenre: SUCCESS
 Genre added: 87392
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56193 genre38413
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 70678
 addGenre: SUCCESS
@@ -6339,7 +6778,8 @@ Genre added: 79494
 addGenre: SUCCESS
 Genre added: 75173
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54765 genre49330
+addSong: SUCCESS
 Genre added: 79729
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -6359,7 +6799,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 95569 genre57501
+addSong: SUCCESS
 Genre added: 57862
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -6385,7 +6826,8 @@ Genre added: 37439
 addGenre: SUCCESS
 Genre added: 60321
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17319 genre46177
+addSong: SUCCESS
 Genre added: 39074
 addGenre: SUCCESS
 Genre added: 85501
@@ -6407,7 +6849,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 54688
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 14378 genre32555
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
@@ -6452,7 +6895,8 @@ Genre added: 50388
 addGenre: SUCCESS
 Genre added: 84388
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71007 genre24680
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85361
 addGenre: SUCCESS
@@ -6478,7 +6922,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 97772
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39428 genre56686
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 93936
 addGenre: SUCCESS
@@ -6504,7 +6949,8 @@ addGenre: SUCCESS
 Genre added: 36778
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 56766 genre51920
+addSong: SUCCESS
 Genre added: 9065
 addGenre: SUCCESS
 Genre added: 9696
@@ -6523,14 +6969,16 @@ addGenre: SUCCESS
 Genre added: 69799
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39003 genre17428
+addSong: SUCCESS
 Genre added: 57228
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 73444
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 82309 genre40990
+addSong: SUCCESS
 Genre added: 88323
 addGenre: SUCCESS
 Genre added: 72832
@@ -6559,7 +7007,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44366 genre61389
+addSong: SUCCESS
 Genre added: 91900
 addGenre: SUCCESS
 Genre added: 3672
@@ -6641,7 +7090,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14196
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15623 genre61311
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 94693
 addGenre: SUCCESS
@@ -6654,7 +7104,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31656 genre21324
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 40726
 addGenre: SUCCESS
@@ -6673,9 +7124,12 @@ Genre added: 41474
 addGenre: SUCCESS
 Genre added: 31181
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 95363 genre73685
+addSong: SUCCESS
+song added: 5599 genre30586
+addSong: SUCCESS
+song added: 39662 genre82350
+addSong: SUCCESS
 Genre added: 11103
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -6696,15 +7150,18 @@ Genre added: 98352
 addGenre: SUCCESS
 Genre added: 96566
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 99602 genre19513
+addSong: SUCCESS
+song added: 76060 genre78927
+addSong: SUCCESS
 Genre added: 74269
 addGenre: SUCCESS
 Genre added: 9700
 addGenre: SUCCESS
 Genre added: 81139
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97599 genre79994
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 31368
@@ -6724,11 +7181,13 @@ addGenre: SUCCESS
 Genre added: 73422
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 71326 genre10037
+addSong: SUCCESS
 Genre added: 8085
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 90922 genre33626
+addSong: SUCCESS
 Genre added: 10852
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -6738,7 +7197,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 10063
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25528 genre68490
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 52092
@@ -6768,7 +7228,8 @@ addGenre: SUCCESS
 Genre added: 13756
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16617 genre16236
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 77816
 addGenre: SUCCESS
@@ -6780,17 +7241,20 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 70105
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 47584 genre34678
+addSong: SUCCESS
 Genre added: 2116
 addGenre: SUCCESS
 Genre added: 76414
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1947 genre99103
+addSong: SUCCESS
 Genre added: 46937
 addGenre: SUCCESS
 Genre added: 58322
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74387 genre6308
+addSong: SUCCESS
 Genre added: 94338
 addGenre: SUCCESS
 Genre added: 89354
@@ -6802,8 +7266,10 @@ addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 62133 genre32377
+addSong: SUCCESS
+song added: 39874 genre47638
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 30325
 addGenre: SUCCESS
@@ -6821,7 +7287,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 36604 genre93378
+addSong: SUCCESS
 Genre added: 90757
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -6838,7 +7305,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 81269
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 10600 genre68929
+addSong: SUCCESS
 Genre added: 41703
 addGenre: SUCCESS
 Genre added: 91281
@@ -6856,24 +7324,29 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40582
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 67648 genre21626
+addSong: SUCCESS
 Genre added: 55738
 addGenre: SUCCESS
 Genre added: 66539
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92497 genre58554
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41445
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59883 genre41948
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 19339
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 176 genre55015
+addSong: SUCCESS
+song added: 193 genre87354
+addSong: SUCCESS
 Genre added: 16823
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -6884,8 +7357,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96676
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 35593 genre38777
+addSong: SUCCESS
+song added: 13895 genre36737
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 73528
 addGenre: SUCCESS
@@ -6904,19 +7379,24 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 3583
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6537 genre83096
+addSong: SUCCESS
 Genre added: 96548
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 75736 genre21435
+addSong: SUCCESS
+song added: 55054 genre93218
+addSong: SUCCESS
 Genre added: 62376
 addGenre: SUCCESS
 Genre added: 5207
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51858 genre24166
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 88636 genre71432
+addSong: SUCCESS
 Genre added: 23541
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -6945,10 +7425,12 @@ Genre added: 89373
 addGenre: SUCCESS
 Genre added: 51364
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64579 genre76445
+addSong: SUCCESS
 Genre added: 53995
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18319 genre88826
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 83493
 addGenre: SUCCESS
@@ -6963,7 +7445,8 @@ Genre added: 58469
 addGenre: SUCCESS
 Genre added: 25424
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69818 genre9635
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -7020,15 +7503,19 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 82306
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 18488 genre37594
+addSong: SUCCESS
+song added: 11503 genre78026
+addSong: SUCCESS
+song added: 76876 genre18369
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 63761
 addGenre: SUCCESS
 Genre added: 90024
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96110 genre64063
+addSong: SUCCESS
 Genre added: 76417
 addGenre: SUCCESS
 Genre added: 37540
@@ -7038,7 +7525,8 @@ addGenre: SUCCESS
 Genre added: 17355
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 77157 genre45183
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56019
 addGenre: SUCCESS
@@ -7060,30 +7548,36 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 5931
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94224 genre73770
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 46450 genre52843
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56523
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3576 genre68484
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 61671
 addGenre: SUCCESS
 Genre added: 45272
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85684 genre98157
+addSong: SUCCESS
 Genre added: 55776
 addGenre: SUCCESS
 Genre added: 64317
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 81138 genre96176
+addSong: SUCCESS
+song added: 13245 genre23072
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 6705
 addGenre: SUCCESS
@@ -7100,7 +7594,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 7311
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5540 genre15553
+addSong: SUCCESS
 Genre added: 27124
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -7124,7 +7619,8 @@ addGenre: SUCCESS
 Genre added: 75477
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 98259 genre14612
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 91491
 addGenre: SUCCESS
@@ -7136,7 +7632,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 18794
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9965 genre92986
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48949
@@ -7169,7 +7666,8 @@ Genre added: 14850
 addGenre: SUCCESS
 Genre added: 16655
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92171 genre73045
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 56398
 addGenre: SUCCESS
@@ -7183,8 +7681,10 @@ Genre added: 68104
 addGenre: SUCCESS
 Genre added: 23175
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 2478 genre92557
+addSong: SUCCESS
+song added: 79458 genre65018
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 98205
@@ -7211,7 +7711,8 @@ addGenre: SUCCESS
 Genre added: 11664
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70666 genre64124
+addSong: SUCCESS
 Genre added: 58726
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -7228,7 +7729,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 96161
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57219 genre14949
+addSong: SUCCESS
 Genre added: 84305
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -7246,7 +7748,8 @@ addGenre: SUCCESS
 Genre added: 50287
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 11229 genre7539
+addSong: SUCCESS
 Genre added: 43442
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -7265,7 +7768,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 72897 genre35540
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2236
 addGenre: SUCCESS
@@ -7302,7 +7806,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 16273
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 8819 genre98067
+addSong: SUCCESS
 Genre added: 55784
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -7340,12 +7845,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 75413
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24274 genre89168
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 29465
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 18212 genre73501
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60332
 addGenre: SUCCESS
@@ -7368,7 +7875,8 @@ Genre added: 18111
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41937 genre14612
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 29022
@@ -7376,7 +7884,8 @@ addGenre: SUCCESS
 Genre added: 96813
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 323 genre98636
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -7391,17 +7900,20 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 19049
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22944 genre52187
+addSong: SUCCESS
 Genre added: 33435
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38790 genre41290
+addSong: SUCCESS
 Genre added: 24248
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 47146
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 23366 genre56421
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -7448,14 +7960,16 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 27308
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91642 genre96329
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 18688
 addGenre: SUCCESS
 Genre added: 4601
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27591 genre20572
+addSong: SUCCESS
 Genre added: 91350
 addGenre: SUCCESS
 Genre added: 26761
@@ -7487,17 +8001,20 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 75997
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75300 genre75308
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4435
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27829 genre20092
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 90991
 addGenre: SUCCESS
 Genre added: 70797
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74699 genre38839
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 1864
 addGenre: SUCCESS
@@ -7510,14 +8027,16 @@ Genre added: 12083
 addGenre: SUCCESS
 Genre added: 40424
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42778 genre27124
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 41347
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92300 genre24950
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 55356
 addGenre: SUCCESS
@@ -7525,10 +8044,12 @@ Genre added: 81362
 addGenre: SUCCESS
 Genre added: 26715
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75733 genre18111
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 1348 genre17080
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 72561
 addGenre: SUCCESS
@@ -7537,7 +8058,8 @@ Genre added: 56179
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 95689 genre69401
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -7573,7 +8095,8 @@ addGenre: SUCCESS
 Genre added: 93776
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 97443 genre14432
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 63223
@@ -7584,7 +8107,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66862
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 37455 genre91871
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 53534
 addGenre: SUCCESS
@@ -7601,15 +8125,20 @@ Genre added: 76671
 addGenre: SUCCESS
 Genre added: 57363
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33 genre61537
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14963 genre18982
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 61179 genre45672
+addSong: SUCCESS
+song added: 95850 genre9444
+addSong: SUCCESS
+song added: 1932 genre26005
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 39081
 addGenre: SUCCESS
@@ -7623,11 +8152,13 @@ addGenre: SUCCESS
 Genre added: 70871
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73256 genre36812
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33780
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66351 genre63060
+addSong: SUCCESS
 Genre added: 71630
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -7637,7 +8168,8 @@ mergeGenres: FAILURE
 Genre added: 78044
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 4286 genre78638
+addSong: SUCCESS
 Genre added: 14000
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -7651,7 +8183,8 @@ Genre added: 53062
 addGenre: SUCCESS
 Genre added: 36160
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83671 genre76143
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 60244
@@ -7669,7 +8202,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 83808
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80567 genre72570
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -7713,7 +8247,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 22192
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11638 genre93579
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 97754
 addGenre: SUCCESS
@@ -7721,7 +8256,8 @@ Genre added: 88548
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 36989 genre26669
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -7754,7 +8290,8 @@ Genre added: 97607
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 4092 genre13182
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -7786,11 +8323,14 @@ Genre added: 11627
 addGenre: SUCCESS
 Genre added: 74018
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69691 genre10511
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 65248 genre6945
+addSong: SUCCESS
+song added: 39787 genre28303
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 59278
 addGenre: SUCCESS
@@ -7807,23 +8347,28 @@ Genre added: 55261
 addGenre: SUCCESS
 Genre added: 13509
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 59154 genre13643
+addSong: SUCCESS
+song added: 66207 genre91523
+addSong: SUCCESS
+song added: 86528 genre5581
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 3393
 addGenre: SUCCESS
 Genre added: 50937
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 29404 genre50579
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 42264
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 53402 genre82637
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 89768
@@ -7846,7 +8391,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 75925 genre59870
+addSong: SUCCESS
 Genre added: 32933
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -7899,15 +8445,18 @@ Genre added: 93243
 addGenre: SUCCESS
 Genre added: 79155
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86608 genre63047
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2199
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18095 genre86602
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 84657 genre85219
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48846
 addGenre: SUCCESS
@@ -7922,14 +8471,16 @@ addGenre: SUCCESS
 Genre added: 7639
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 91307 genre45384
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 81615
 addGenre: SUCCESS
 Genre added: 97886
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27253 genre33910
+addSong: SUCCESS
 Genre added: 97134
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -7947,7 +8498,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 66392 genre93380
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 86234
 addGenre: SUCCESS
@@ -7974,7 +8526,8 @@ Genre added: 20475
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80245 genre64281
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -8007,7 +8560,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 58606
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 43554 genre9076
+addSong: SUCCESS
 Genre added: 53881
 addGenre: SUCCESS
 Genre added: 42072
@@ -8016,7 +8570,8 @@ Genre added: 39362
 addGenre: SUCCESS
 Genre added: 59861
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47675 genre21626
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
@@ -8074,14 +8629,17 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 21707
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60391 genre9678
+addSong: SUCCESS
 Genre added: 86213
 addGenre: SUCCESS
 Genre added: 16588
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39972 genre91125
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15045 genre72088
+addSong: SUCCESS
 Genre added: 10444
 addGenre: SUCCESS
 Genre added: 88895
@@ -8102,7 +8660,8 @@ Genre added: 17361
 addGenre: SUCCESS
 Genre added: 52430
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 707 genre44259
+addSong: SUCCESS
 Genre added: 82554
 addGenre: SUCCESS
 Genre added: 7278
@@ -8129,7 +8688,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 80612
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31677 genre37795
+addSong: SUCCESS
 Genre added: 78338
 addGenre: SUCCESS
 Genre added: 60804
@@ -8145,7 +8705,8 @@ Genre added: 20401
 addGenre: SUCCESS
 Genre added: 76140
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94457 genre83471
+addSong: SUCCESS
 Genre added: 3229
 addGenre: SUCCESS
 Genre added: 93465
@@ -8159,17 +8720,20 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 4932
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58527 genre40789
+addSong: SUCCESS
 Genre added: 55053
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 24774 genre12616
+addSong: SUCCESS
 Genre added: 17046
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 2393
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11093 genre52092
+addSong: SUCCESS
 Genre added: 70861
 addGenre: SUCCESS
 Genre added: 27242
@@ -8188,20 +8752,24 @@ Genre added: 78684
 addGenre: SUCCESS
 Genre added: 94931
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6011 genre18827
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 80823
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25571 genre45767
+addSong: SUCCESS
 Genre added: 53827
 addGenre: SUCCESS
 Genre added: 62001
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78456 genre30222
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 35726 genre66403
+addSong: SUCCESS
 Genre added: 13359
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -8222,14 +8790,16 @@ Genre added: 32935
 addGenre: SUCCESS
 Genre added: 1967
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77275 genre67079
+addSong: SUCCESS
 Genre added: 66613
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 67964 genre54141
+addSong: SUCCESS
 Genre added: 59624
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -8255,7 +8825,8 @@ Genre added: 75189
 addGenre: SUCCESS
 Genre added: 92639
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49880 genre42835
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 208
@@ -8272,7 +8843,8 @@ Genre added: 30729
 addGenre: SUCCESS
 Genre added: 94077
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69200 genre98205
+addSong: SUCCESS
 Genre added: 91907
 addGenre: SUCCESS
 Genre added: 65384
@@ -8284,7 +8856,8 @@ Genre added: 84260
 addGenre: SUCCESS
 Genre added: 8662
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47272 genre50020
+addSong: SUCCESS
 Genre added: 44385
 addGenre: SUCCESS
 Genre added: 27471
@@ -8299,7 +8872,8 @@ getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 11899
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28376 genre16375
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77431
 addGenre: SUCCESS
@@ -8312,10 +8886,12 @@ Genre added: 6581
 addGenre: SUCCESS
 Genre added: 74697
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38098 genre49063
+addSong: SUCCESS
 Genre added: 24679
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28507 genre29433
+addSong: SUCCESS
 Genre added: 44062
 addGenre: SUCCESS
 Genre added: 12542
@@ -8339,7 +8915,8 @@ Genre added: 96592
 addGenre: SUCCESS
 Genre added: 62980
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64639 genre10104
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89147
@@ -8347,8 +8924,10 @@ addGenre: SUCCESS
 Genre added: 96111
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 56936 genre91765
+addSong: SUCCESS
+song added: 76075 genre68934
+addSong: SUCCESS
 Genre added: 35550
 addGenre: SUCCESS
 Genre added: 53543
@@ -8366,7 +8945,8 @@ addGenre: SUCCESS
 Genre added: 38952
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11471 genre30689
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 46664
 addGenre: SUCCESS
@@ -8417,7 +8997,7 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 93121
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 97163
 addGenre: SUCCESS
 Genre added: 74311
@@ -8450,7 +9030,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 45298 genre25556
+addSong: SUCCESS
 Genre added: 46373
 addGenre: SUCCESS
 Genre added: 95997
@@ -8490,7 +9071,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 33888
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45470 genre77949
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40872
 addGenre: SUCCESS
@@ -8507,7 +9089,7 @@ addGenre: SUCCESS
 Genre added: 63825
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -8530,7 +9112,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 66516
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52351 genre1226
+addSong: SUCCESS
 Genre added: 24247
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -8553,7 +9136,8 @@ Genre added: 3689
 addGenre: SUCCESS
 Genre added: 53030
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35967 genre22192
+addSong: SUCCESS
 Genre added: 81013
 addGenre: SUCCESS
 Genre added: 16104
@@ -8567,7 +9151,8 @@ Genre added: 16348
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 88030 genre41191
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 22775
@@ -8583,17 +9168,20 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 77214 genre2940
+addSong: SUCCESS
 Genre added: 52797
 addGenre: SUCCESS
 Genre added: 17760
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50933 genre70631
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 53368 genre30326
+addSong: SUCCESS
 Genre added: 97623
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -8613,7 +9201,8 @@ Genre added: 76217
 addGenre: SUCCESS
 Genre added: 4282
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79953 genre91118
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -8728,7 +9317,8 @@ Genre added: 48773
 addGenre: SUCCESS
 Genre added: 70501
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26706 genre58865
+addSong: SUCCESS
 Genre added: 6115
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -8740,7 +9330,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 95878
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99746 genre38584
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 61887
@@ -8762,13 +9353,15 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 59425
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5236 genre77949
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 21120
 addGenre: SUCCESS
 Genre added: 32588
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57875 genre11672
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -8808,7 +9401,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 91862
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 49033 genre87798
+addSong: SUCCESS
 Genre added: 88401
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -8816,7 +9410,8 @@ Genre added: 53135
 addGenre: SUCCESS
 Genre added: 75420
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44217 genre35040
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 15594
 addGenre: SUCCESS
@@ -8843,7 +9438,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 55067
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 795 genre14677
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 93607
@@ -8871,11 +9467,14 @@ Genre added: 83518
 addGenre: SUCCESS
 Genre added: 27474
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63961 genre53240
+addSong: SUCCESS
 Genre added: 77870
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 22880 genre42392
+addSong: SUCCESS
+song added: 49138 genre93196
+addSong: SUCCESS
 Genre added: 84386
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -8899,13 +9498,15 @@ addGenre: SUCCESS
 Genre added: 60474
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 91288 genre89737
+addSong: SUCCESS
 Genre added: 69318
 addGenre: SUCCESS
 Genre added: 35384
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80559 genre41558
+addSong: SUCCESS
 Genre added: 2074
 addGenre: SUCCESS
 Genre added: 19621
@@ -8914,8 +9515,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 92094
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 63664 genre54702
+addSong: SUCCESS
+song added: 24187 genre26761
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 5518
@@ -8933,8 +9536,10 @@ Genre added: 55542
 addGenre: SUCCESS
 Genre added: 28670
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 7665 genre6478
+addSong: SUCCESS
+song added: 87080 genre69374
+addSong: SUCCESS
 Genre added: 29462
 addGenre: SUCCESS
 Genre added: 82737
@@ -8943,14 +9548,16 @@ getSongGenre: SUCCESS, 0
 Genre added: 38363
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 51834 genre39800
+addSong: SUCCESS
 Genre added: 74951
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 75800 genre17361
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -8979,7 +9586,8 @@ addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 17305
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73921 genre78044
+addSong: SUCCESS
 Genre added: 14743
 addGenre: SUCCESS
 Genre added: 24318
@@ -8997,7 +9605,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 83094
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45331 genre63053
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 93313
 addGenre: SUCCESS
@@ -9013,13 +9622,15 @@ Genre added: 31720
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 55697 genre92109
+addSong: SUCCESS
 Genre added: 45300
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65963
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63771 genre68075
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28639
 addGenre: SUCCESS
@@ -9061,10 +9672,11 @@ addGenre: SUCCESS
 Genre added: 81957
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 37027 genre7618
+addSong: SUCCESS
 Genre added: 86950
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67966
 addGenre: SUCCESS
@@ -9082,37 +9694,44 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 50196
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31772 genre80733
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 22532
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 35364 genre10511
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 75687
 addGenre: SUCCESS
 Genre added: 92722
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51794 genre94125
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 98979
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57262 genre84946
+addSong: SUCCESS
 Genre added: 13400
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98850 genre28780
+addSong: SUCCESS
 Genre added: 13819
 addGenre: SUCCESS
 Genre added: 28312
 addGenre: SUCCESS
 Genre added: 30626
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79318 genre28493
+addSong: SUCCESS
 Genre added: 98481
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17897 genre80986
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 42112
 addGenre: SUCCESS
@@ -9120,7 +9739,8 @@ Genre added: 76356
 addGenre: SUCCESS
 Genre added: 76939
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79729 genre24247
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -9128,7 +9748,8 @@ Genre added: 27744
 addGenre: SUCCESS
 Genre added: 35909
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87918 genre27010
+addSong: SUCCESS
 Genre added: 61103
 addGenre: SUCCESS
 Genre added: 69962
@@ -9157,12 +9778,14 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 44762
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59288 genre15594
+addSong: SUCCESS
 Genre added: 62391
 addGenre: SUCCESS
 Genre added: 15252
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74673 genre71503
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 84929
 addGenre: SUCCESS
@@ -9210,7 +9833,8 @@ Genre added: 36198
 addGenre: SUCCESS
 Genre added: 93968
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66843 genre2394
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 21040
@@ -9220,12 +9844,15 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 82131 genre34580
+addSong: SUCCESS
+song added: 27883 genre62376
+addSong: SUCCESS
 Genre added: 74875
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 69824 genre64878
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -9246,11 +9873,13 @@ Genre added: 59456
 addGenre: SUCCESS
 Genre added: 93549
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28815 genre1046
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 67265
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51645 genre87012
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 82240
 addGenre: SUCCESS
@@ -9264,7 +9893,8 @@ addGenre: SUCCESS
 Genre added: 45340
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 86437 genre84386
+addSong: SUCCESS
 Genre added: 15792
 addGenre: SUCCESS
 Genre added: 21189
@@ -9273,9 +9903,12 @@ Genre added: 32375
 addGenre: SUCCESS
 Genre added: 65156
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 66664 genre13874
+addSong: SUCCESS
+song added: 36489 genre92986
+addSong: SUCCESS
+song added: 47307 genre12108
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 91881
@@ -9289,7 +9922,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 97
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48687 genre4934
+addSong: SUCCESS
 Genre added: 9018
 addGenre: SUCCESS
 Genre added: 25817
@@ -9301,7 +9935,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 76890
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10164 genre49812
+addSong: SUCCESS
 Genre added: 26535
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -9325,8 +9960,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 3744
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 14908 genre51810
+addSong: SUCCESS
+song added: 18008 genre40485
+addSong: SUCCESS
 Genre added: 9190
 addGenre: SUCCESS
 Genre added: 50030
@@ -9345,7 +9982,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 70256
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40170 genre97435
+addSong: SUCCESS
 Genre added: 85797
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -9358,7 +9996,8 @@ Genre added: 22152
 addGenre: SUCCESS
 Genre added: 62608
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45551 genre88863
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -9382,7 +10021,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 15995
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25577 genre32618
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 47752
 addGenre: SUCCESS
@@ -9429,7 +10069,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6000
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 780 genre31396
+addSong: SUCCESS
 Genre added: 76315
 addGenre: SUCCESS
 Genre added: 23427
@@ -9449,7 +10090,8 @@ Genre added: 75920
 addGenre: SUCCESS
 Genre added: 76601
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64481 genre79354
+addSong: SUCCESS
 Genre added: 77315
 addGenre: SUCCESS
 Genre added: 61886
@@ -9470,7 +10112,8 @@ Genre added: 78153
 addGenre: SUCCESS
 Genre added: 81363
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78858 genre16567
+addSong: SUCCESS
 Genre added: 57151
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -9492,7 +10135,8 @@ Genre added: 89843
 addGenre: SUCCESS
 Genre added: 48268
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43076 genre17025
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -9520,11 +10164,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67085
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22503 genre57893
+addSong: SUCCESS
 Genre added: 6593
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 39215 genre74345
+addSong: SUCCESS
 Genre added: 34854
 addGenre: SUCCESS
 Genre added: 37008
@@ -9539,7 +10185,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78540
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92811 genre57264
+addSong: SUCCESS
 Genre added: 85165
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -9556,7 +10203,8 @@ Genre added: 66986
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 59723 genre29462
+addSong: SUCCESS
 Genre added: 98754
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -9580,7 +10228,8 @@ Genre added: 53799
 addGenre: SUCCESS
 Genre added: 321
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85074 genre10281
+addSong: SUCCESS
 Genre added: 72123
 addGenre: SUCCESS
 Genre added: 90249
@@ -9611,8 +10260,10 @@ Genre added: 79356
 addGenre: SUCCESS
 Genre added: 78396
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 10577 genre37317
+addSong: SUCCESS
+song added: 30764 genre37008
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 24397
 addGenre: SUCCESS
@@ -9640,7 +10291,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 92519 genre82350
+addSong: SUCCESS
 Genre added: 29394
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -9653,13 +10305,16 @@ addGenre: SUCCESS
 Genre added: 26737
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 58241 genre42459
+addSong: SUCCESS
+song added: 35180 genre63047
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56965
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28412 genre91509
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 23271
 addGenre: SUCCESS
@@ -9667,18 +10322,21 @@ Genre added: 42484
 addGenre: SUCCESS
 Genre added: 52373
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96186 genre59621
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 25838
 addGenre: SUCCESS
 Genre added: 62561
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67050 genre3122
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 57551
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 12217 genre87574
+addSong: SUCCESS
 Genre added: 78784
 addGenre: SUCCESS
 Genre added: 64284
@@ -9699,7 +10357,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 36018
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36817 genre2231
+addSong: SUCCESS
 Genre added: 40444
 addGenre: SUCCESS
 Genre added: 60470
@@ -9707,15 +10366,17 @@ addGenre: SUCCESS
 Genre added: 90732
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 40894
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 53211 genre10464
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 29943
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83985 genre61887
+addSong: SUCCESS
 Genre added: 19852
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -9723,9 +10384,11 @@ Genre added: 31036
 addGenre: SUCCESS
 Genre added: 22903
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91370 genre95997
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 12728 genre2774
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -9735,12 +10398,14 @@ addGenre: SUCCESS
 Genre added: 97067
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 44044 genre60633
+addSong: SUCCESS
 Genre added: 466
 addGenre: SUCCESS
 Genre added: 32558
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94036 genre73001
+addSong: SUCCESS
 Genre added: 1640
 addGenre: SUCCESS
 Genre added: 42331
@@ -9752,7 +10417,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 39691
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41286 genre14097
+addSong: SUCCESS
 Genre added: 51204
 addGenre: SUCCESS
 Genre added: 79829
@@ -9764,7 +10430,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 98972
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79892 genre64451
+addSong: SUCCESS
 Genre added: 56458
 addGenre: SUCCESS
 Genre added: 29107
@@ -9776,14 +10443,16 @@ addGenre: SUCCESS
 Genre added: 20125
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 26269 genre90024
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 59454
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 62135
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33371 genre10029
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 69845
 addGenre: SUCCESS
@@ -9799,7 +10468,8 @@ Genre added: 69375
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 84944 genre47710
+addSong: SUCCESS
 Genre added: 94645
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -9823,7 +10493,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 18170
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 34781 genre73001
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 17242
 addGenre: SUCCESS
@@ -9842,7 +10513,8 @@ Genre added: 76275
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 24250 genre21079
+addSong: SUCCESS
 Genre added: 79391
 addGenre: SUCCESS
 Genre added: 51763
@@ -9853,7 +10525,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 25037
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 10612
 addGenre: SUCCESS
@@ -9874,8 +10546,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4416
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 33269 genre99448
+addSong: SUCCESS
+song added: 92391 genre7311
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 92885
@@ -9913,18 +10587,22 @@ Genre added: 45024
 addGenre: SUCCESS
 Genre added: 52771
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15781 genre91372
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 3117 genre79024
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 6704
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 84613 genre26777
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7867 genre59088
+addSong: SUCCESS
 Genre added: 77232
 addGenre: SUCCESS
 Genre added: 54196
@@ -9934,7 +10612,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 1645
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80996 genre88826
+addSong: SUCCESS
 Genre added: 75214
 addGenre: SUCCESS
 Genre added: 14933
@@ -9958,14 +10637,16 @@ Genre added: 58701
 addGenre: SUCCESS
 Genre added: 17116
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75979 genre45797
+addSong: SUCCESS
 Genre added: 43996
 addGenre: SUCCESS
 Genre added: 35612
 addGenre: SUCCESS
 Genre added: 67535
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23576 genre61680
+addSong: SUCCESS
 Genre added: 35487
 addGenre: SUCCESS
 Genre added: 2170
@@ -10000,10 +10681,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 94447
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38523 genre76315
+addSong: SUCCESS
 Genre added: 73844
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46393 genre98468
+addSong: SUCCESS
 Genre added: 46142
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -10018,14 +10701,16 @@ addGenre: SUCCESS
 Genre added: 26161
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 6992 genre1002
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 92682
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 72105
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7400 genre7561
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52913
@@ -10033,11 +10718,13 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 56161
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 60450 genre58701
+addSong: SUCCESS
 Genre added: 30262
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91354 genre12641
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 45916
 addGenre: SUCCESS
@@ -10056,7 +10743,8 @@ addGenre: SUCCESS
 Genre added: 77727
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85729 genre20218
+addSong: SUCCESS
 Genre added: 30446
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -10080,24 +10768,30 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70323 genre58358
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 66310
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10652 genre55745
+addSong: SUCCESS
 Genre added: 89342
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30833 genre8716
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 60704 genre29433
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 67246 genre82240
+addSong: SUCCESS
 Genre added: 6738
 addGenre: SUCCESS
 Genre added: 72143
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3779 genre67079
+addSong: SUCCESS
 Genre added: 59790
 addGenre: SUCCESS
 Genre added: 41155
@@ -10129,15 +10823,18 @@ Genre added: 90128
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46325 genre93580
+addSong: SUCCESS
 Genre added: 51893
 addGenre: SUCCESS
 Genre added: 11000
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7313 genre99614
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 77801 genre73273
+addSong: SUCCESS
 Genre added: 53213
 addGenre: SUCCESS
 Genre added: 52488
@@ -10148,19 +10845,24 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80163
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 68 genre99890
+addSong: SUCCESS
+song added: 22830 genre19291
+addSong: SUCCESS
 Genre added: 25377
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54257 genre32618
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 87808 genre51317
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 40989
 addGenre: SUCCESS
 Genre added: 31284
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5584 genre60040
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28599
 addGenre: SUCCESS
@@ -10202,17 +10904,21 @@ Genre added: 62695
 addGenre: SUCCESS
 Genre added: 83238
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27039 genre37629
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 91156
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 27542 genre68484
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25091 genre31436
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83829 genre31102
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 50329
 addGenre: SUCCESS
@@ -10223,7 +10929,8 @@ Genre added: 10274
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 72756 genre26005
+addSong: SUCCESS
 Genre added: 90096
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -10232,11 +10939,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 95695
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70129 genre57769
+addSong: SUCCESS
 Genre added: 89488
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 10471 genre57551
+addSong: SUCCESS
+song added: 38434 genre86642
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 36467
 addGenre: SUCCESS
@@ -10278,7 +10988,8 @@ addGenre: SUCCESS
 Genre added: 30910
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 71791 genre84388
+addSong: SUCCESS
 Genre added: 38920
 addGenre: SUCCESS
 Genre added: 11745
@@ -10295,18 +11006,23 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1563 genre87935
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62309 genre90162
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74670
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64150 genre43849
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 39218 genre89215
+addSong: SUCCESS
+song added: 2262 genre26749
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 38284
@@ -10335,9 +11051,11 @@ Genre added: 92907
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67230 genre33996
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 79075 genre21713
+addSong: SUCCESS
 Genre added: 51425
 addGenre: SUCCESS
 Genre added: 41128
@@ -10357,12 +11075,14 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 73296
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97330 genre466
+addSong: SUCCESS
 Genre added: 56133
 addGenre: SUCCESS
 Genre added: 19373
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28920 genre22775
+addSong: SUCCESS
 Genre added: 57702
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -10373,7 +11093,8 @@ Genre added: 78195
 addGenre: SUCCESS
 Genre added: 45236
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7425 genre71371
+addSong: SUCCESS
 Genre added: 51226
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -10382,16 +11103,19 @@ addGenre: SUCCESS
 Genre added: 42925
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75752 genre75591
+addSong: SUCCESS
 Genre added: 8479
 addGenre: SUCCESS
 Genre added: 78275
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 63161 genre19373
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 59933 genre42972
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -10411,7 +11135,8 @@ Genre added: 30841
 addGenre: SUCCESS
 Genre added: 83239
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32750 genre90745
+addSong: SUCCESS
 Genre added: 70994
 addGenre: SUCCESS
 Genre added: 88685
@@ -10420,13 +11145,15 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 5032
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39417 genre56227
+addSong: SUCCESS
 Genre added: 6443
 addGenre: SUCCESS
 Genre added: 71042
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 76233 genre17945
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 60903
 addGenre: SUCCESS
@@ -10440,7 +11167,8 @@ Genre added: 37589
 addGenre: SUCCESS
 Genre added: 48692
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8918 genre66095
+addSong: SUCCESS
 Genre added: 30225
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -10450,7 +11178,8 @@ Genre added: 35568
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 82743 genre2966
+addSong: SUCCESS
 Genre added: 68975
 addGenre: SUCCESS
 Genre added: 15052
@@ -10464,7 +11193,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 64740
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -10483,12 +11212,14 @@ Genre added: 33285
 addGenre: SUCCESS
 Genre added: 45424
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63890 genre58865
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 46871
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53697 genre74598
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -10496,7 +11227,8 @@ Genre added: 91257
 addGenre: SUCCESS
 Genre added: 64460
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98608 genre2199
+addSong: SUCCESS
 Genre added: 32280
 addGenre: SUCCESS
 Genre added: 19565
@@ -10510,12 +11242,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 51815
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46447 genre902
+addSong: SUCCESS
 Genre added: 24976
 addGenre: SUCCESS
 Genre added: 883
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34644 genre53213
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -10554,8 +11288,10 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 33497 genre95423
+addSong: SUCCESS
+song added: 75405 genre72824
+addSong: SUCCESS
 Genre added: 65214
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -10572,10 +11308,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 98941
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35897 genre87771
+addSong: SUCCESS
 Genre added: 37140
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87161 genre15340
+addSong: SUCCESS
 Genre added: 84235
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -10593,13 +11331,16 @@ Genre added: 80982
 addGenre: SUCCESS
 Genre added: 75098
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51018 genre62617
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39957 genre83398
+addSong: SUCCESS
 Genre added: 81680
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93828 genre95469
+addSong: SUCCESS
 Genre added: 18125
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -10607,11 +11348,13 @@ Genre added: 96201
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 66324 genre37209
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 74212
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30556 genre80135
+addSong: SUCCESS
 Genre added: 42618
 addGenre: SUCCESS
 Genre added: 46804
@@ -10631,7 +11374,8 @@ addGenre: SUCCESS
 Genre added: 44677
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65060 genre1058
+addSong: SUCCESS
 Genre added: 56232
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -10660,11 +11404,15 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 69038
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 18194 genre95992
+addSong: SUCCESS
+song added: 367 genre80982
+addSong: SUCCESS
+song added: 39561 genre71674
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 87766 genre55360
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 83788
@@ -10679,11 +11427,14 @@ Genre added: 95597
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15574 genre38550
+addSong: SUCCESS
 Genre added: 43533
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 75366 genre24293
+addSong: SUCCESS
+song added: 7929 genre33425
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 81979
@@ -10692,7 +11443,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 36950
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 47215 genre22744
+addSong: SUCCESS
 Genre added: 86431
 addGenre: SUCCESS
 Genre added: 36076
@@ -10727,7 +11479,8 @@ Genre added: 6958
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 76324 genre53656
+addSong: SUCCESS
 Genre added: 5598
 addGenre: SUCCESS
 Genre added: 55531
@@ -10736,7 +11489,8 @@ Genre added: 35598
 addGenre: SUCCESS
 Genre added: 71527
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93147 genre39562
+addSong: SUCCESS
 Genre added: 90963
 addGenre: SUCCESS
 Genre added: 96547
@@ -10768,7 +11522,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 88411
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32526 genre16711
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 55169
 addGenre: SUCCESS
@@ -10784,8 +11539,10 @@ Genre added: 82938
 addGenre: SUCCESS
 Genre added: 94063
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 36144 genre24248
+addSong: SUCCESS
+song added: 13825 genre11118
+addSong: SUCCESS
 Genre added: 83042
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -10803,7 +11560,8 @@ Genre added: 25986
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18959 genre40485
+addSong: SUCCESS
 Genre added: 43998
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -10821,7 +11579,8 @@ Genre added: 91625
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91456 genre74697
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 67561
@@ -10829,7 +11588,8 @@ addGenre: SUCCESS
 Genre added: 58015
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11936 genre9069
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 2667
 addGenre: SUCCESS
@@ -10858,7 +11618,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 45148 genre57855
+addSong: SUCCESS
 Genre added: 25833
 addGenre: SUCCESS
 Genre added: 63376
@@ -10869,7 +11630,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4064
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46303 genre42178
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
@@ -10877,7 +11639,8 @@ Genre added: 46290
 addGenre: SUCCESS
 Genre added: 83981
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43098 genre17943
+addSong: SUCCESS
 Genre added: 38301
 addGenre: SUCCESS
 Genre added: 58718
@@ -10906,8 +11669,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 54625
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 19304 genre86642
+addSong: SUCCESS
+song added: 82184 genre99890
+addSong: SUCCESS
 Genre added: 58911
 addGenre: SUCCESS
 Genre added: 5422
@@ -10961,7 +11726,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 46428
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80543 genre33067
+addSong: SUCCESS
 Genre added: 69603
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -10971,7 +11737,7 @@ Genre added: 48467
 addGenre: SUCCESS
 Genre added: 12009
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 85053
 addGenre: SUCCESS
@@ -11020,7 +11786,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 90153
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37031 genre80589
+addSong: SUCCESS
 Genre added: 34131
 addGenre: SUCCESS
 Genre added: 71430
@@ -11034,7 +11801,8 @@ getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 18697 genre43216
+addSong: SUCCESS
 Genre added: 90966
 addGenre: SUCCESS
 Genre added: 21188
@@ -11054,10 +11822,12 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 22305
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60905 genre84836
+addSong: SUCCESS
 Genre added: 71387
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40785 genre80678
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
@@ -11085,7 +11855,8 @@ Genre added: 9945
 addGenre: SUCCESS
 Genre added: 93443
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87373 genre11243
+addSong: SUCCESS
 Genre added: 48309
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -11106,7 +11877,8 @@ Genre added: 71407
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 71274 genre21319
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 51358
 addGenre: SUCCESS
@@ -11115,7 +11887,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 47515
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37335 genre99599
+addSong: SUCCESS
 Genre added: 22285
 addGenre: SUCCESS
 Genre added: 4789
@@ -11168,7 +11941,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 34825
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14041 genre66376
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -11178,7 +11952,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12720 genre27954
+addSong: SUCCESS
 Genre added: 62241
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -11192,7 +11967,8 @@ Genre added: 46862
 addGenre: SUCCESS
 Genre added: 30792
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75025 genre21707
+addSong: SUCCESS
 Genre added: 66681
 addGenre: SUCCESS
 Genre added: 83833
@@ -11205,7 +11981,8 @@ Genre added: 90754
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66292 genre23958
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 41876
 addGenre: SUCCESS
@@ -11214,10 +11991,12 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14018
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9899 genre16117
+addSong: SUCCESS
 Genre added: 16988
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67612 genre48568
+addSong: SUCCESS
 Genre added: 33176
 addGenre: SUCCESS
 Genre added: 87279
@@ -11239,7 +12018,8 @@ addGenre: SUCCESS
 Genre added: 79590
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85980 genre86372
+addSong: SUCCESS
 Genre added: 97723
 addGenre: SUCCESS
 Genre added: 5782
@@ -11248,7 +12028,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 66262 genre90319
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 95645
@@ -11258,7 +12039,8 @@ Genre added: 84732
 addGenre: SUCCESS
 Genre added: 19489
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32628 genre32613
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 46962
 addGenre: SUCCESS
@@ -11314,7 +12096,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 79295
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76351 genre4435
+addSong: SUCCESS
 Genre added: 43182
 addGenre: SUCCESS
 Genre added: 98232
@@ -11323,7 +12106,8 @@ Genre added: 95540
 addGenre: SUCCESS
 Genre added: 91768
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57317 genre14612
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -11359,7 +12143,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 39444
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 63895 genre75089
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 74735
 addGenre: SUCCESS
@@ -11381,7 +12166,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 68554
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33580 genre85187
+addSong: SUCCESS
 Genre added: 54567
 addGenre: SUCCESS
 Genre added: 14489
@@ -11389,12 +12175,14 @@ addGenre: SUCCESS
 Genre added: 41570
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 37658 genre34814
+addSong: SUCCESS
 Genre added: 9488
 addGenre: SUCCESS
 Genre added: 10883
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86272 genre14612
+addSong: SUCCESS
 Genre added: 97961
 addGenre: SUCCESS
 Genre added: 71721
@@ -11416,7 +12204,8 @@ Genre added: 51357
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4844 genre14432
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 70929
 addGenre: SUCCESS
@@ -11429,20 +12218,24 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 12768 genre2966
+addSong: SUCCESS
+song added: 96368 genre78946
+addSong: SUCCESS
 Genre added: 1211
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 99147
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57300 genre51810
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 84204
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 78523 genre76217
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -11495,7 +12288,8 @@ Genre added: 21163
 addGenre: SUCCESS
 Genre added: 74485
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 390 genre12083
+addSong: SUCCESS
 Genre added: 84495
 addGenre: SUCCESS
 Genre added: 97223
@@ -11564,17 +12358,19 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28550
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9283 genre50023
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 39974
 addGenre: SUCCESS
 Genre added: 90375
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 19592
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5048 genre44362
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2855
 addGenre: SUCCESS
@@ -11589,7 +12385,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 27729
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96410 genre87951
+addSong: SUCCESS
 Genre added: 96812
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -11609,7 +12406,8 @@ Genre added: 70218
 addGenre: SUCCESS
 Genre added: 35747
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95076 genre88652
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 34633
@@ -11629,20 +12427,24 @@ Genre added: 77301
 addGenre: SUCCESS
 Genre added: 58102
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49429 genre19046
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 8350
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 81842 genre32247
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 55967
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 95513 genre33833
+addSong: SUCCESS
+song added: 33483 genre78339
+addSong: SUCCESS
 Genre added: 1978
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -11664,7 +12466,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 99293
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2718 genre1488
+addSong: SUCCESS
 Genre added: 77169
 addGenre: SUCCESS
 Genre added: 61616
@@ -11683,7 +12486,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 94091
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 66304 genre54469
+addSong: SUCCESS
 Genre added: 91167
 addGenre: SUCCESS
 Genre added: 3376
@@ -11698,7 +12502,8 @@ Genre added: 79437
 addGenre: SUCCESS
 Genre added: 27691
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20430 genre99329
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 59916
 addGenre: SUCCESS
@@ -11742,7 +12547,8 @@ addGenre: SUCCESS
 Genre added: 15554
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 26915 genre44002
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94403
 addGenre: SUCCESS
@@ -11755,18 +12561,21 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 62660
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55571 genre81363
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 91800
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92368 genre71430
+addSong: SUCCESS
 Genre added: 67312
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 10595
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50561 genre43578
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37981
 addGenre: SUCCESS
@@ -11794,10 +12603,12 @@ addGenre: SUCCESS
 Genre added: 5265
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 61529 genre69845
+addSong: SUCCESS
 Genre added: 44911
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69994 genre69340
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 91943
@@ -11817,7 +12628,8 @@ Genre added: 34943
 addGenre: SUCCESS
 Genre added: 58432
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5980 genre7002
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 4461
 addGenre: SUCCESS
@@ -11847,7 +12659,8 @@ Genre added: 21695
 addGenre: SUCCESS
 Genre added: 66352
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66831 genre58226
+addSong: SUCCESS
 Genre added: 1289
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -11861,7 +12674,8 @@ addGenre: SUCCESS
 Genre added: 76233
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87553 genre66
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 66236
 addGenre: SUCCESS
@@ -11872,7 +12686,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 78484
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28071 genre7139
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 58366
 addGenre: SUCCESS
@@ -11885,10 +12700,12 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68219
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5978 genre43442
+addSong: SUCCESS
 Genre added: 26075
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38396 genre50338
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 83048
 addGenre: SUCCESS
@@ -11910,7 +12727,8 @@ addGenre: SUCCESS
 Genre added: 47300
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 83135 genre62239
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 32591
 addGenre: SUCCESS
@@ -11931,8 +12749,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 94781 genre60510
+addSong: SUCCESS
+song added: 36733 genre48465
+addSong: SUCCESS
 Genre added: 62506
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -11945,10 +12765,12 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 89831
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68148 genre89466
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 1069 genre85700
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -11975,26 +12797,32 @@ Genre added: 72944
 addGenre: SUCCESS
 Genre added: 68573
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 72688 genre13182
+addSong: SUCCESS
+song added: 37088 genre76445
+addSong: SUCCESS
 Genre added: 34936
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 21858 genre39208
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 35943
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 22194 genre75169
+addSong: SUCCESS
+song added: 40778 genre54088
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 65180
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9553 genre68875
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 55537
 addGenre: SUCCESS
@@ -12012,7 +12840,8 @@ Genre added: 90340
 addGenre: SUCCESS
 Genre added: 52226
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55146 genre87613
+addSong: SUCCESS
 Genre added: 53242
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -12022,11 +12851,14 @@ Genre added: 77015
 addGenre: SUCCESS
 Genre added: 24541
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93651 genre58659
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 31620 genre26638
+addSong: SUCCESS
+song added: 53593 genre66986
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 21215
@@ -12040,8 +12872,10 @@ Genre added: 78294
 addGenre: SUCCESS
 Genre added: 73053
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 37814 genre16792
+addSong: SUCCESS
+song added: 98484 genre97947
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 29827
 addGenre: SUCCESS
@@ -12053,16 +12887,19 @@ getSongGenre: SUCCESS, 0
 Genre added: 50173
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 34454 genre29365
+addSong: SUCCESS
 Genre added: 95354
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 51907 genre96913
+addSong: SUCCESS
 Genre added: 69956
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54423 genre26349
+addSong: SUCCESS
 Genre added: 19634
 addGenre: SUCCESS
 Genre added: 57603
@@ -12074,8 +12911,10 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 19448 genre75106
+addSong: SUCCESS
+song added: 76012 genre22805
+addSong: SUCCESS
 Genre added: 60022
 addGenre: SUCCESS
 Genre added: 75456
@@ -12088,7 +12927,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 31139
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12309 genre77168
+addSong: SUCCESS
 Genre added: 40209
 addGenre: SUCCESS
 Genre added: 30335
@@ -12103,7 +12943,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 98222
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68623 genre58102
+addSong: SUCCESS
 Genre added: 82129
 addGenre: SUCCESS
 Genre added: 67518
@@ -12130,7 +12971,8 @@ addGenre: SUCCESS
 Genre added: 8488
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37498 genre2934
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41225
 addGenre: SUCCESS
@@ -12140,7 +12982,8 @@ mergeGenres: FAILURE
 Genre added: 81741
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 10829 genre15631
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -12163,7 +13006,8 @@ addGenre: SUCCESS
 Genre added: 66423
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 76391 genre8085
+addSong: SUCCESS
 Genre added: 25756
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12201,7 +13045,8 @@ Genre added: 18962
 addGenre: SUCCESS
 Genre added: 24162
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70325 genre6058
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 17446
@@ -12213,10 +13058,13 @@ addGenre: SUCCESS
 Genre added: 89897
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 23740 genre81013
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 73152 genre46756
+addSong: SUCCESS
+song added: 51844 genre11672
+addSong: SUCCESS
 Genre added: 97420
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -12237,10 +13085,12 @@ addGenre: SUCCESS
 Genre added: 22341
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 62011 genre84017
+addSong: SUCCESS
 Genre added: 73140
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52054 genre27954
+addSong: SUCCESS
 Genre added: 18852
 addGenre: SUCCESS
 Genre added: 31342
@@ -12258,7 +13108,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 16478 genre79323
+addSong: SUCCESS
 Genre added: 97084
 addGenre: SUCCESS
 Genre added: 45949
@@ -12279,7 +13130,8 @@ Genre added: 11382
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 74822 genre26178
+addSong: SUCCESS
 Genre added: 13899
 addGenre: SUCCESS
 Genre added: 11960
@@ -12290,7 +13142,8 @@ Genre added: 77887
 addGenre: SUCCESS
 Genre added: 5972
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3210 genre66216
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -12303,8 +13156,10 @@ Genre added: 37305
 addGenre: SUCCESS
 Genre added: 41215
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 63018 genre87613
+addSong: SUCCESS
+song added: 83383 genre27542
+addSong: SUCCESS
 Genre added: 70658
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -12349,7 +13204,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 9902
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21063 genre13410
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 45221
 addGenre: SUCCESS
@@ -12384,7 +13240,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 7799
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77545 genre13643
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 94954
 addGenre: SUCCESS
@@ -12404,20 +13261,25 @@ Genre added: 7594
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 9989 genre90953
+addSong: SUCCESS
 Genre added: 8521
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 62287 genre75093
+addSong: SUCCESS
+song added: 97165 genre82247
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 13996 genre58036
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 71873
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 65408 genre53516
+addSong: SUCCESS
 Genre added: 45342
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12456,20 +13318,23 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 91475
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99108 genre9488
+addSong: SUCCESS
 Genre added: 15817
 addGenre: SUCCESS
 Genre added: 57626
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 95418 genre56384
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 23324
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76049 genre81276
+addSong: SUCCESS
 Genre added: 2896
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -12499,12 +13364,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 20319
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62464 genre8949
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 87208
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88188 genre46428
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 58917
 addGenre: SUCCESS
@@ -12536,7 +13403,7 @@ Genre added: 43051
 addGenre: SUCCESS
 Genre added: 18601
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 59217
 addGenre: SUCCESS
 Genre added: 45687
@@ -12549,7 +13416,8 @@ Genre added: 3749
 addGenre: SUCCESS
 Genre added: 42957
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44245 genre52636
+addSong: SUCCESS
 Genre added: 4013
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -12573,7 +13441,8 @@ Genre added: 85981
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 15404 genre42972
+addSong: SUCCESS
 Genre added: 29894
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -12582,8 +13451,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 32019
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 67783 genre9282
+addSong: SUCCESS
+song added: 3831 genre44485
+addSong: SUCCESS
 Genre added: 61756
 addGenre: SUCCESS
 Genre added: 3603
@@ -12618,7 +13489,8 @@ Genre added: 89310
 addGenre: SUCCESS
 Genre added: 18559
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83980 genre34034
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12634,13 +13506,15 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72443 genre50743
+addSong: SUCCESS
 Genre added: 49092
 addGenre: SUCCESS
 Genre added: 4870
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90701 genre32555
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14922
 addGenre: SUCCESS
@@ -12676,7 +13550,8 @@ Genre added: 486
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15807 genre78927
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 50049
@@ -12688,11 +13563,13 @@ mergeGenres: FAILURE
 Genre added: 17231
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 94734 genre26467
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85152 genre44689
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12705,7 +13582,7 @@ addGenre: SUCCESS
 Genre added: 10246
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 45874
 addGenre: SUCCESS
@@ -12720,11 +13597,13 @@ Genre added: 69382
 addGenre: SUCCESS
 Genre added: 59361
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11048 genre26012
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 32655
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91842 genre71775
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -12740,7 +13619,8 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 58319
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17950 genre56568
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -12770,7 +13650,8 @@ mergeGenres: FAILURE
 Genre added: 37814
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 31602 genre90253
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -12780,7 +13661,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52257
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 35510 genre69018
+addSong: SUCCESS
 Genre added: 86989
 addGenre: SUCCESS
 Genre added: 19872
@@ -12790,20 +13672,25 @@ addGenre: SUCCESS
 Genre added: 84124
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 78364 genre89204
+addSong: SUCCESS
+song added: 54327 genre42374
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 12032
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81549 genre52843
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 59747
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58362 genre9639
+addSong: SUCCESS
 Genre added: 35774
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98956 genre10436
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 10175
 addGenre: SUCCESS
@@ -12846,13 +13733,14 @@ addGenre: SUCCESS
 Genre added: 9942
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27611 genre5419
+addSong: SUCCESS
 Genre added: 7295
 addGenre: SUCCESS
 Genre added: 50453
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 78905
 addGenre: SUCCESS
@@ -12873,7 +13761,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 46368
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56621 genre76307
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -12885,12 +13774,15 @@ addGenre: SUCCESS
 Genre added: 67428
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 54545 genre9993
+addSong: SUCCESS
 Genre added: 2529
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3383 genre56959
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 56833 genre27474
+addSong: SUCCESS
 Genre added: 8289
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12900,7 +13792,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 3765
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46290 genre72934
+addSong: SUCCESS
 Genre added: 39177
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12908,13 +13801,16 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 59070 genre97332
+addSong: SUCCESS
+song added: 767 genre47886
+addSong: SUCCESS
 Genre added: 4915
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 49737 genre18816
+addSong: SUCCESS
 Genre added: 96141
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -12926,7 +13822,8 @@ Genre added: 18217
 addGenre: SUCCESS
 Genre added: 34468
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82268 genre97909
+addSong: SUCCESS
 Genre added: 34574
 addGenre: SUCCESS
 Genre added: 32912
@@ -12976,7 +13873,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 74515 genre81814
+addSong: SUCCESS
 Genre added: 15749
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -12984,14 +13882,16 @@ Genre added: 20023
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62996 genre41203
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 57680
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5748 genre87682
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 23693
 addGenre: SUCCESS
@@ -13057,7 +13957,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 40854
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11479 genre14000
+addSong: SUCCESS
 Genre added: 61443
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -13098,15 +13999,18 @@ mergeGenres: FAILURE
 Genre added: 8961
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42200 genre73329
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92235 genre58139
+addSong: SUCCESS
 Genre added: 83942
 addGenre: SUCCESS
 Genre added: 61950
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73053 genre97285
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 61422
@@ -13138,7 +14042,8 @@ addGenre: SUCCESS
 Genre added: 78190
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 22307 genre56203
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37939
@@ -13155,7 +14060,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 25875
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97575 genre11070
+addSong: SUCCESS
 Genre added: 80180
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13181,15 +14087,18 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 93358
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35279 genre28302
+addSong: SUCCESS
+song added: 68085 genre74102
+addSong: SUCCESS
 Genre added: 20992
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 92158
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36317 genre51378
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 12576
 addGenre: SUCCESS
@@ -13197,7 +14106,8 @@ Genre added: 16600
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 97480 genre11576
+addSong: SUCCESS
 Genre added: 35456
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -13205,23 +14115,27 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 98724
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38147 genre38896
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 48854
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65481 genre46549
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 69844
 addGenre: SUCCESS
 Genre added: 41091
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61985 genre9018
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 76628 genre26820
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13231,7 +14145,8 @@ Genre added: 11762
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11941 genre41347
+addSong: SUCCESS
 Genre added: 37037
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13243,7 +14158,8 @@ Genre added: 60006
 addGenre: SUCCESS
 Genre added: 46994
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47612 genre30423
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 6924
 addGenre: SUCCESS
@@ -13276,7 +14192,8 @@ addGenre: SUCCESS
 Genre added: 92578
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28609 genre75363
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 84353
@@ -13301,28 +14218,34 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 90637
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 95187 genre91257
+addSong: SUCCESS
+song added: 28977 genre52847
+addSong: SUCCESS
 Genre added: 50320
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72760 genre30512
+addSong: SUCCESS
 Genre added: 72619
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 63177 genre30971
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 95524
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50304 genre49751
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 64761
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69462 genre91509
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 49260
 addGenre: SUCCESS
@@ -13341,13 +14264,15 @@ Genre added: 88537
 addGenre: SUCCESS
 Genre added: 64518
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19033 genre76772
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65050
 addGenre: SUCCESS
 Genre added: 41722
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36063 genre34485
+addSong: SUCCESS
 Genre added: 84072
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -13377,13 +14302,16 @@ Genre added: 66790
 addGenre: SUCCESS
 Genre added: 12498
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4954 genre93465
+addSong: SUCCESS
 Genre added: 32574
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45337 genre69512
+addSong: SUCCESS
 Genre added: 58853
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21715 genre62113
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 61465
@@ -13396,14 +14324,16 @@ addGenre: SUCCESS
 Genre added: 46706
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70530 genre50030
+addSong: SUCCESS
 Genre added: 46839
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 13498
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 62122 genre31211
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 27183
 addGenre: SUCCESS
@@ -13415,26 +14345,30 @@ Genre added: 89477
 addGenre: SUCCESS
 Genre added: 3957
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32814 genre75900
+addSong: SUCCESS
 Genre added: 17852
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39018 genre78044
+addSong: SUCCESS
 Genre added: 2282
 addGenre: SUCCESS
 Genre added: 12929
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51811 genre54943
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 20893
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38624 genre33888
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 93928
 addGenre: SUCCESS
@@ -13447,14 +14381,16 @@ addGenre: SUCCESS
 Genre added: 27402
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 98325 genre57662
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 55039
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 70988
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89799 genre81858
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 62682
@@ -13495,14 +14431,16 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28024
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47089 genre10388
+addSong: SUCCESS
 Genre added: 52951
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41790
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10167 genre58606
+addSong: SUCCESS
 Genre added: 98112
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -13511,9 +14449,11 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 84602
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40083 genre92541
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 63393 genre33293
+addSong: SUCCESS
 Genre added: 28752
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -13524,7 +14464,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25121 genre61519
+addSong: SUCCESS
 Genre added: 50361
 addGenre: SUCCESS
 Genre added: 58945
@@ -13532,7 +14473,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 58299
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56277 genre41682
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 46695
 addGenre: SUCCESS
@@ -13542,7 +14484,8 @@ addGenre: SUCCESS
 Genre added: 45833
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47766 genre68293
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 14774
 addGenre: SUCCESS
@@ -13556,7 +14499,8 @@ Genre added: 24528
 addGenre: SUCCESS
 Genre added: 3108
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82090 genre50453
+addSong: SUCCESS
 Genre added: 60778
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13566,8 +14510,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 12140
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35215 genre73809
+addSong: SUCCESS
+song added: 96414 genre24166
+addSong: SUCCESS
 Genre added: 42755
 addGenre: SUCCESS
 Genre added: 89592
@@ -13596,10 +14542,12 @@ addGenre: SUCCESS
 Genre added: 31049
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 18599 genre83942
+addSong: SUCCESS
 Genre added: 85184
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52948 genre2598
+addSong: SUCCESS
 Genre added: 12897
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -13607,7 +14555,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 59729
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9178 genre20143
+addSong: SUCCESS
 Genre added: 12828
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -13626,7 +14575,7 @@ addGenre: SUCCESS
 Genre added: 61910
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 12278
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -13635,7 +14584,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 98984
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34287 genre34300
+addSong: SUCCESS
 Genre added: 50685
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -13649,13 +14599,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31513
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 3002 genre71503
+addSong: SUCCESS
 Genre added: 60411
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 38720 genre89961
+addSong: SUCCESS
 Genre added: 95796
 addGenre: SUCCESS
 Genre added: 33318
@@ -13663,8 +14615,10 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 29706
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 44125 genre26259
+addSong: SUCCESS
+song added: 17131 genre83981
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 5177
 addGenre: SUCCESS
@@ -13697,7 +14651,8 @@ addGenre: SUCCESS
 Genre added: 77077
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 11462 genre54275
+addSong: SUCCESS
 Genre added: 37633
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13707,8 +14662,10 @@ Genre added: 71982
 addGenre: SUCCESS
 Genre added: 97171
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 83178 genre18688
+addSong: SUCCESS
+song added: 23177 genre21120
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13721,7 +14678,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 89088
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97804 genre64500
+addSong: SUCCESS
 Genre added: 17010
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13730,7 +14688,8 @@ Genre added: 20491
 addGenre: SUCCESS
 Genre added: 88837
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70463 genre83376
+addSong: SUCCESS
 Genre added: 76903
 addGenre: SUCCESS
 Genre added: 90945
@@ -13753,7 +14712,8 @@ Genre added: 90816
 addGenre: SUCCESS
 Genre added: 29313
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56985 genre95187
+addSong: SUCCESS
 Genre added: 43084
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -13767,7 +14727,8 @@ Genre added: 73394
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 74620 genre20797
+addSong: SUCCESS
 Genre added: 45249
 addGenre: SUCCESS
 Genre added: 70070
@@ -13784,7 +14745,8 @@ addGenre: SUCCESS
 Genre added: 48807
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 89480 genre64587
+addSong: SUCCESS
 Genre added: 4869
 addGenre: SUCCESS
 Genre added: 62361
@@ -13808,13 +14770,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 72337
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 24827 genre22775
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28688
 addGenre: SUCCESS
 Genre added: 22624
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25741 genre36406
+addSong: SUCCESS
 Genre added: 18675
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -13828,26 +14792,30 @@ Genre added: 78525
 addGenre: SUCCESS
 Genre added: 2293
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24066 genre18792
+addSong: SUCCESS
 Genre added: 86893
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 9546
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60575 genre52114
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 69343
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64403 genre86213
+addSong: SUCCESS
 Genre added: 33103
 addGenre: SUCCESS
 Genre added: 15375
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96273 genre11820
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 9460
@@ -13858,7 +14826,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 49401
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73218 genre17245
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13876,10 +14845,12 @@ Genre added: 46970
 addGenre: SUCCESS
 Genre added: 39114
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3136 genre33771
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81086 genre37409
+addSong: SUCCESS
 Genre added: 61114
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13891,7 +14862,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94012 genre94836
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -13928,8 +14900,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 83358
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 24394 genre32655
+addSong: SUCCESS
+song added: 32762 genre53789
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15229
 addGenre: SUCCESS
@@ -13952,7 +14926,8 @@ Genre added: 97094
 addGenre: SUCCESS
 Genre added: 51026
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51367 genre75106
+addSong: SUCCESS
 Genre added: 34537
 addGenre: SUCCESS
 Genre added: 33799
@@ -13974,13 +14949,16 @@ Genre added: 8981
 addGenre: SUCCESS
 Genre added: 78856
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18707 genre27758
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 84662
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 21228 genre6945
+addSong: SUCCESS
+song added: 70136 genre72088
+addSong: SUCCESS
 Genre added: 99341
 addGenre: SUCCESS
 Genre added: 96603
@@ -13988,7 +14966,8 @@ addGenre: SUCCESS
 Genre added: 54992
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12051 genre84445
+addSong: SUCCESS
 Genre added: 490
 addGenre: SUCCESS
 Genre added: 23836
@@ -14035,7 +15014,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6451
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86012 genre77759
+addSong: SUCCESS
 Genre added: 68519
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -14045,7 +15025,8 @@ Genre added: 84327
 addGenre: SUCCESS
 Genre added: 78372
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2434 genre36737
+addSong: SUCCESS
 Genre added: 97670
 addGenre: SUCCESS
 Genre added: 75499
@@ -14070,7 +15051,8 @@ addGenre: SUCCESS
 Genre added: 41046
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 97534 genre62864
+addSong: SUCCESS
 Genre added: 49486
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -14080,7 +15062,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92579
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82526 genre3145
+addSong: SUCCESS
 Genre added: 10345
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -14094,10 +15077,12 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 88784
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70221 genre93188
+addSong: SUCCESS
 Genre added: 57067
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66102 genre18715
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 91772
 addGenre: SUCCESS
@@ -14126,7 +15111,8 @@ addGenre: SUCCESS
 Genre added: 22229
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69798 genre44437
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 90160
 addGenre: SUCCESS
@@ -14142,8 +15128,10 @@ Genre added: 90015
 addGenre: SUCCESS
 Genre added: 57391
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 16680 genre77179
+addSong: SUCCESS
+song added: 10284 genre44343
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 43174
@@ -14154,7 +15142,8 @@ Genre added: 32407
 addGenre: SUCCESS
 Genre added: 31315
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44112 genre76225
+addSong: SUCCESS
 Genre added: 39494
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -14201,13 +15190,16 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 49938
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89108 genre41585
+addSong: SUCCESS
 Genre added: 3124
 addGenre: SUCCESS
 Genre added: 18518
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 75053 genre48870
+addSong: SUCCESS
+song added: 57549 genre96505
+addSong: SUCCESS
 Genre added: 40701
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -14227,7 +15219,8 @@ Genre added: 2715
 addGenre: SUCCESS
 Genre added: 71781
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91996 genre58115
+addSong: SUCCESS
 Genre added: 331
 addGenre: SUCCESS
 Genre added: 59830
@@ -14236,7 +15229,8 @@ Genre added: 53462
 addGenre: SUCCESS
 Genre added: 76837
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24619 genre47186
+addSong: SUCCESS
 Genre added: 87390
 addGenre: SUCCESS
 Genre added: 69315
@@ -14249,7 +15243,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 13028 genre97837
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 38848
 addGenre: SUCCESS
@@ -14289,12 +15284,14 @@ Genre added: 11948
 addGenre: SUCCESS
 Genre added: 93235
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80794 genre45716
+addSong: SUCCESS
 Genre added: 57003
 addGenre: SUCCESS
 Genre added: 19735
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44990 genre2393
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 9660
 addGenre: SUCCESS
@@ -14366,9 +15363,11 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 29190
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 51748 genre77816
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91805 genre47901
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -14381,7 +15380,8 @@ addGenre: SUCCESS
 Genre added: 29224
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 4823 genre6115
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -14389,7 +15389,8 @@ Genre added: 85095
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 25111 genre95657
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 57018
 addGenre: SUCCESS
@@ -14398,18 +15399,22 @@ Genre added: 6256
 addGenre: SUCCESS
 Genre added: 10109
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25134 genre55974
+addSong: SUCCESS
 Genre added: 55810
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79664 genre73963
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4613 genre48034
+addSong: SUCCESS
 Genre added: 60786
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 75410
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80162 genre69762
+addSong: SUCCESS
 Genre added: 2203
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -14434,7 +15439,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 67276 genre35540
+addSong: SUCCESS
 Genre added: 85571
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -14450,10 +15456,11 @@ addGenre: SUCCESS
 Genre added: 86873
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60032 genre79323
+addSong: SUCCESS
 Genre added: 98277
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -14478,7 +15485,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 56970 genre67068
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 84354
 addGenre: SUCCESS
@@ -14494,13 +15502,16 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 87625 genre45245
+addSong: SUCCESS
+song added: 75896 genre26596
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 61615
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 81873 genre3962
+addSong: SUCCESS
 Genre added: 42180
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -14537,7 +15548,8 @@ Genre added: 89518
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 92785 genre49794
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 92979
@@ -14546,7 +15558,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14357
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 13161 genre9700
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 57523
@@ -14586,16 +15599,19 @@ addGenre: SUCCESS
 Genre added: 51453
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 57974 genre46937
+addSong: SUCCESS
 Genre added: 6075
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85270
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95644 genre12808
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 40423 genre18740
+addSong: SUCCESS
 Genre added: 5610
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -14620,7 +15636,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 88432
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69145 genre31735
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 15481
@@ -14635,7 +15652,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 35971
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 37944 genre73501
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 88951
 addGenre: SUCCESS
@@ -14669,12 +15687,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48829
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72438 genre37439
+addSong: SUCCESS
 Genre added: 67002
 addGenre: SUCCESS
 Genre added: 74494
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45074 genre91629
+addSong: SUCCESS
 Genre added: 86706
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -14715,7 +15735,8 @@ Genre added: 64653
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 68980 genre88874
+addSong: SUCCESS
 Genre added: 64735
 addGenre: SUCCESS
 Genre added: 87546
@@ -14725,12 +15746,14 @@ Genre added: 67638
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 775 genre85321
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 99531
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41374 genre4493
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52213
 addGenre: SUCCESS
@@ -14738,7 +15761,7 @@ Genre added: 90474
 addGenre: SUCCESS
 Genre added: 39939
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 70043
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -14748,7 +15771,8 @@ Genre added: 43161
 addGenre: SUCCESS
 Genre added: 67778
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50545 genre16822
+addSong: SUCCESS
 Genre added: 45971
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -14790,8 +15814,10 @@ Genre added: 45615
 addGenre: SUCCESS
 Genre added: 58239
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 56857 genre5040
+addSong: SUCCESS
+song added: 35401 genre52442
+addSong: SUCCESS
 Genre added: 35019
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -14819,7 +15845,8 @@ addGenre: SUCCESS
 Genre added: 98764
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 83971 genre34606
+addSong: SUCCESS
 Genre added: 27854
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -14873,7 +15900,8 @@ Genre added: 35314
 addGenre: SUCCESS
 Genre added: 72464
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70382 genre66095
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 35697
 addGenre: SUCCESS
@@ -14883,7 +15911,8 @@ Genre added: 6472
 addGenre: SUCCESS
 Genre added: 45903
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16487 genre46369
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 66107
@@ -14899,10 +15928,12 @@ getSongGenre: SUCCESS, 0
 Genre added: 40862
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 59512 genre5038
+addSong: SUCCESS
 Genre added: 78641
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33869 genre10598
+addSong: SUCCESS
 Genre added: 58493
 addGenre: SUCCESS
 Genre added: 59264
@@ -14926,7 +15957,8 @@ Genre added: 49782
 addGenre: SUCCESS
 Genre added: 18322
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31613 genre84475
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -14948,7 +15980,8 @@ addGenre: SUCCESS
 Genre added: 33917
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 95044 genre75173
+addSong: SUCCESS
 Genre added: 28984
 addGenre: SUCCESS
 Genre added: 97770
@@ -14976,7 +16009,8 @@ Genre added: 56308
 addGenre: SUCCESS
 Genre added: 33301
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10186 genre89048
+addSong: SUCCESS
 Genre added: 19216
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -15000,7 +16034,8 @@ Genre added: 29689
 addGenre: SUCCESS
 Genre added: 71071
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79671 genre48695
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96374
 addGenre: SUCCESS
@@ -15017,7 +16052,8 @@ addGenre: SUCCESS
 Genre added: 14553
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37193 genre3789
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -15026,13 +16062,17 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 54802
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49709 genre91924
+addSong: SUCCESS
 Genre added: 38568
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 4570 genre15553
+addSong: SUCCESS
+song added: 59763 genre93407
+addSong: SUCCESS
+song added: 41118 genre16972
+addSong: SUCCESS
 Genre added: 69722
 addGenre: SUCCESS
 Genre added: 59423
@@ -15068,7 +16108,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 17928
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41245 genre13701
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -15090,7 +16131,8 @@ Genre added: 2836
 addGenre: SUCCESS
 Genre added: 80963
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61492 genre39135
+addSong: SUCCESS
 Genre added: 61636
 addGenre: SUCCESS
 Genre added: 97725
@@ -15099,7 +16141,8 @@ Genre added: 16669
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 78030 genre6549
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 55074
 addGenre: SUCCESS
@@ -15116,7 +16159,8 @@ Genre added: 30357
 addGenre: SUCCESS
 Genre added: 92111
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87460 genre62135
+addSong: SUCCESS
 Genre added: 13660
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -15186,7 +16230,8 @@ addGenre: SUCCESS
 Genre added: 46418
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 23178 genre10462
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8718
 addGenre: SUCCESS
@@ -15200,7 +16245,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 11971
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42295 genre30335
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86901
 addGenre: SUCCESS
@@ -15256,8 +16302,10 @@ addGenre: SUCCESS
 Genre added: 44139
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 60736 genre98367
+addSong: SUCCESS
+song added: 59297 genre37847
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -15335,7 +16383,8 @@ addGenre: SUCCESS
 Genre added: 90996
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64776 genre71117
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -15351,7 +16400,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 21671
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65340 genre89720
+addSong: SUCCESS
 Genre added: 51890
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -15380,7 +16430,8 @@ Genre added: 79418
 addGenre: SUCCESS
 Genre added: 39715
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21460 genre25668
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 14831
 addGenre: SUCCESS
@@ -15410,7 +16461,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 50013
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43635 genre28780
+addSong: SUCCESS
 Genre added: 40190
 addGenre: SUCCESS
 Genre added: 48712
@@ -15427,7 +16479,8 @@ Genre added: 74267
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52417 genre11217
+addSong: SUCCESS
 Genre added: 46347
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -15449,7 +16502,8 @@ Genre added: 16884
 addGenre: SUCCESS
 Genre added: 98688
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47681 genre44962
+addSong: SUCCESS
 Genre added: 71242
 addGenre: SUCCESS
 Genre added: 6876
@@ -15470,7 +16524,8 @@ Genre added: 2916
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31401 genre51833
+addSong: SUCCESS
 Genre added: 64486
 addGenre: SUCCESS
 Genre added: 23677
@@ -15481,7 +16536,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92057
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99451 genre60493
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 33856
 addGenre: SUCCESS
@@ -15512,16 +16568,20 @@ addGenre: SUCCESS
 Genre added: 4144
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 96056 genre93675
+addSong: SUCCESS
+song added: 22623 genre6958
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 51364 genre8485
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93292
 addGenre: SUCCESS
 Genre added: 32305
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52880 genre34840
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 11706
 addGenre: SUCCESS
@@ -15538,7 +16598,8 @@ Genre added: 99320
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1971 genre15229
+addSong: SUCCESS
 Genre added: 75160
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -15564,7 +16625,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22786
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56448 genre10748
+addSong: SUCCESS
 Genre added: 48363
 addGenre: SUCCESS
 Genre added: 36428
@@ -15588,7 +16650,8 @@ Genre added: 96275
 addGenre: SUCCESS
 Genre added: 90912
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54793 genre31152
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -15628,7 +16691,8 @@ Genre added: 24245
 addGenre: SUCCESS
 Genre added: 20318
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55012 genre55591
+addSong: SUCCESS
 Genre added: 84776
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -15656,20 +16720,24 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 43383
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44764 genre17840
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 65676
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39810 genre13221
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 66587 genre61601
+addSong: SUCCESS
 Genre added: 76780
 addGenre: SUCCESS
 Genre added: 63858
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85100 genre97681
+addSong: SUCCESS
 Genre added: 458
 addGenre: SUCCESS
 Genre added: 60149
@@ -15690,11 +16758,13 @@ mergeGenres: FAILURE
 Genre added: 66938
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64318 genre14879
+addSong: SUCCESS
 Genre added: 87914
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 61551 genre20442
+addSong: SUCCESS
 Genre added: 89972
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -15708,7 +16778,8 @@ addGenre: SUCCESS
 Genre added: 90607
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85426 genre48203
+addSong: SUCCESS
 Genre added: 65573
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -15720,8 +16791,10 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 73212 genre66278
+addSong: SUCCESS
+song added: 6023 genre67500
+addSong: SUCCESS
 Genre added: 50205
 addGenre: SUCCESS
 Genre added: 32490
@@ -15733,7 +16806,8 @@ Genre added: 57097
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 65522 genre17655
+addSong: SUCCESS
 Genre added: 82610
 addGenre: SUCCESS
 Genre added: 62017
@@ -15742,9 +16816,11 @@ Genre added: 9529
 addGenre: SUCCESS
 Genre added: 35259
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14589 genre66633
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66327 genre33316
+addSong: SUCCESS
 Genre added: 5583
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -15766,10 +16842,12 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 16221
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25726 genre86571
+addSong: SUCCESS
 Genre added: 6064
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2568 genre44314
+addSong: SUCCESS
 Genre added: 15496
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -15784,7 +16862,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 5963
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73349 genre37548
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 36043
 addGenre: SUCCESS
@@ -15821,7 +16900,8 @@ addGenre: SUCCESS
 Genre added: 65780
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 53544 genre61680
+addSong: SUCCESS
 Genre added: 8589
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -15847,24 +16927,30 @@ Genre added: 25524
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 24006 genre28558
+addSong: SUCCESS
 Genre added: 66534
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20687 genre77168
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67441 genre93465
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91112 genre64935
+addSong: SUCCESS
 Genre added: 93160
 addGenre: SUCCESS
 Genre added: 2337
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67184 genre53572
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 8759 genre53656
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 95291
 addGenre: SUCCESS
@@ -15885,17 +16971,20 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 44174
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 29608 genre1967
+addSong: SUCCESS
 Genre added: 69052
 addGenre: SUCCESS
 Genre added: 64912
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 69936 genre2337
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 8506
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78808 genre1483
+addSong: SUCCESS
 Genre added: 13233
 addGenre: SUCCESS
 Genre added: 65216
@@ -15913,13 +17002,15 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 62149
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25087 genre51425
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 90737
 addGenre: SUCCESS
 Genre added: 68947
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 970 genre70043
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 9994
 addGenre: SUCCESS
@@ -15927,8 +17018,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35377
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 42994 genre37409
+addSong: SUCCESS
+song added: 16045 genre75888
+addSong: SUCCESS
 Genre added: 30601
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -15950,21 +17043,24 @@ addGenre: SUCCESS
 Genre added: 98861
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 28974 genre41703
+addSong: SUCCESS
 Genre added: 68042
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 31639
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22923 genre49244
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6163
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 43773 genre51588
+addSong: SUCCESS
 Genre added: 97673
 addGenre: SUCCESS
 Genre added: 6455
@@ -15977,7 +17073,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 92898
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 98244
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -16019,7 +17115,8 @@ Genre added: 13651
 addGenre: SUCCESS
 Genre added: 63714
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56923 genre11519
+addSong: SUCCESS
 Genre added: 76135
 addGenre: SUCCESS
 Genre added: 75506
@@ -16033,10 +17130,12 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 44498
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43199 genre51364
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 53925 genre17669
+addSong: SUCCESS
 Genre added: 78063
 addGenre: SUCCESS
 Genre added: 70412
@@ -16062,14 +17161,15 @@ Genre added: 45872
 addGenre: SUCCESS
 Genre added: 70271
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54847 genre14865
+addSong: SUCCESS
 Genre added: 78061
 addGenre: SUCCESS
 Genre added: 38036
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 72555
 addGenre: SUCCESS
@@ -16092,7 +17192,8 @@ addGenre: SUCCESS
 Genre added: 70964
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 88592 genre45340
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -16115,7 +17216,8 @@ Genre added: 17210
 addGenre: SUCCESS
 Genre added: 39473
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38642 genre41592
+addSong: SUCCESS
 Genre added: 26907
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -16177,7 +17279,8 @@ addGenre: SUCCESS
 Genre added: 43844
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 95245 genre76671
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -16194,16 +17297,19 @@ Genre added: 74669
 addGenre: SUCCESS
 Genre added: 83799
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79726 genre15476
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 6964 genre57944
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22046
 addGenre: SUCCESS
 Genre added: 9587
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98664 genre20893
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 19771
@@ -16211,14 +17317,17 @@ addGenre: SUCCESS
 Genre added: 48121
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86645 genre72806
+addSong: SUCCESS
 Genre added: 45466
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12298 genre36984
+addSong: SUCCESS
 Genre added: 18632
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92782 genre66055
+addSong: SUCCESS
 Genre added: 92380
 addGenre: SUCCESS
 Genre added: 66245
@@ -16239,20 +17348,23 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 50392
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2025 genre76038
+addSong: SUCCESS
 Genre added: 9959
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 75680
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 67341 genre33343
+addSong: SUCCESS
 Genre added: 53097
 addGenre: SUCCESS
 Genre added: 79666
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16818 genre21859
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 36980
 addGenre: SUCCESS
@@ -16260,11 +17372,14 @@ Genre added: 6449
 addGenre: SUCCESS
 Genre added: 96764
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14110 genre88706
+addSong: SUCCESS
 Genre added: 68137
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 80932 genre66803
+addSong: SUCCESS
+song added: 17013 genre29955
+addSong: SUCCESS
 Genre added: 91039
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -16278,7 +17393,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15886
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46961 genre42150
+addSong: SUCCESS
 Genre added: 77029
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -16320,13 +17436,15 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 58811
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6115 genre27419
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 62537
 addGenre: SUCCESS
 Genre added: 60076
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84164 genre43367
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -16352,7 +17470,8 @@ Genre added: 31379
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60684 genre35456
+addSong: SUCCESS
 Genre added: 73667
 addGenre: SUCCESS
 Genre added: 88724
@@ -16366,14 +17485,17 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51547
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16154 genre2054
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 28029
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17419 genre17928
+addSong: SUCCESS
 Genre added: 31034
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82891 genre66247
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66587
 addGenre: SUCCESS
@@ -16393,7 +17515,8 @@ Genre added: 97247
 addGenre: SUCCESS
 Genre added: 75616
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87466 genre79116
+addSong: SUCCESS
 Genre added: 74080
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -16403,7 +17526,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 19989 genre36982
+addSong: SUCCESS
 Genre added: 17747
 addGenre: SUCCESS
 Genre added: 28071
@@ -16418,7 +17542,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 65911 genre46486
+addSong: SUCCESS
 Genre added: 90197
 addGenre: SUCCESS
 Genre added: 16728
@@ -16433,7 +17558,8 @@ Genre added: 48816
 addGenre: SUCCESS
 Genre added: 8787
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83684 genre2105
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 16393
 addGenre: SUCCESS
@@ -16443,30 +17569,38 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 98652
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85950 genre82490
+addSong: SUCCESS
 Genre added: 64069
 addGenre: SUCCESS
 Genre added: 398
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31594 genre79768
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 17362
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80280 genre95524
+addSong: SUCCESS
 Genre added: 96848
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89269 genre91051
+addSong: SUCCESS
 Genre added: 45263
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 42655 genre11745
+addSong: SUCCESS
+song added: 60388 genre32507
+addSong: SUCCESS
 Genre added: 94101
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 42952 genre48034
+addSong: SUCCESS
+song added: 64219 genre11626
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 46602
 addGenre: SUCCESS
@@ -16474,11 +17608,14 @@ Genre added: 74040
 addGenre: SUCCESS
 Genre added: 15655
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45497 genre32655
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 76846 genre12614
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41123 genre29689
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 87446
 addGenre: SUCCESS
@@ -16520,10 +17657,12 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67598
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 97209 genre36933
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 67708 genre88432
+addSong: SUCCESS
 Genre added: 17865
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -16536,7 +17675,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 81294
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42271 genre70147
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 19690
 addGenre: SUCCESS
@@ -16550,21 +17690,26 @@ Genre added: 45755
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 30725 genre44525
+addSong: SUCCESS
 Genre added: 18862
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 72753 genre19241
+addSong: SUCCESS
+song added: 44497 genre53747
+addSong: SUCCESS
 Genre added: 86373
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 80519 genre24613
+addSong: SUCCESS
 Genre added: 83244
 addGenre: SUCCESS
 Genre added: 58472
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 58134 genre5620
+addSong: SUCCESS
 Genre added: 56892
 addGenre: SUCCESS
 Genre added: 65424
@@ -16585,11 +17730,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 6797 genre10595
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48186
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71072 genre62384
+addSong: SUCCESS
 Genre added: 29875
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -16632,10 +17779,12 @@ Genre added: 79802
 addGenre: SUCCESS
 Genre added: 57243
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66306 genre21439
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70253 genre34633
+addSong: SUCCESS
 Genre added: 26000
 addGenre: SUCCESS
 Genre added: 1570
@@ -16643,9 +17792,11 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 95054
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88020 genre51588
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 56548 genre86001
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 88084
 addGenre: SUCCESS
@@ -16655,7 +17806,8 @@ Genre added: 66165
 addGenre: SUCCESS
 Genre added: 68103
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94830 genre90411
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -16663,7 +17815,8 @@ Genre added: 42
 addGenre: SUCCESS
 Genre added: 837
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47757 genre16600
+addSong: SUCCESS
 Genre added: 7519
 addGenre: SUCCESS
 Genre added: 35799
@@ -16677,7 +17830,8 @@ Genre added: 88420
 addGenre: SUCCESS
 Genre added: 97041
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85444 genre92182
+addSong: SUCCESS
 Genre added: 61179
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -16704,7 +17858,8 @@ Genre added: 93669
 addGenre: SUCCESS
 Genre added: 8870
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23159 genre17274
+addSong: SUCCESS
 Genre added: 14834
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -16713,7 +17868,8 @@ Genre added: 13678
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 11975 genre42628
+addSong: SUCCESS
 Genre added: 39465
 addGenre: SUCCESS
 Genre added: 1286
@@ -16728,7 +17884,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 62634
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77802 genre22106
+addSong: SUCCESS
 Genre added: 20782
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -16741,8 +17898,10 @@ Genre added: 61661
 addGenre: SUCCESS
 Genre added: 59851
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 48944 genre50937
+addSong: SUCCESS
+song added: 97030 genre11217
+addSong: SUCCESS
 Genre added: 39550
 addGenre: SUCCESS
 Genre added: 68139
@@ -16778,17 +17937,20 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 71614
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4027 genre50581
+addSong: SUCCESS
 Genre added: 90600
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52348 genre33931
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 68949
 addGenre: SUCCESS
 Genre added: 65370
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51415 genre24799
+addSong: SUCCESS
 Genre added: 20547
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -16811,7 +17973,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 40646
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19681 genre73150
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51282
 addGenre: SUCCESS
@@ -16858,12 +18021,14 @@ addGenre: SUCCESS
 Genre added: 13825
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37561 genre24269
+addSong: SUCCESS
 Genre added: 43427
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 40537 genre91261
+addSong: SUCCESS
 Genre added: 13234
 addGenre: SUCCESS
 Genre added: 25912
@@ -16892,21 +18057,25 @@ Genre added: 18944
 addGenre: SUCCESS
 Genre added: 25242
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75450 genre42925
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57239 genre4231
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 1010
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35781 genre51907
+addSong: SUCCESS
 Genre added: 63573
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87197
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99171 genre29924
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8499
@@ -16926,7 +18095,8 @@ addGenre: INVALID_INPUT
 Genre added: 5601
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 18767 genre44033
+addSong: SUCCESS
 Genre added: 52048
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -16951,11 +18121,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 15358
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 9311 genre29114
+addSong: SUCCESS
+song added: 54635 genre79814
+addSong: SUCCESS
 Genre added: 84365
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51673 genre41457
+addSong: SUCCESS
 Genre added: 5682
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -16970,7 +18143,8 @@ addGenre: SUCCESS
 Genre added: 29941
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 40453 genre47886
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 27555
 addGenre: SUCCESS
@@ -16978,7 +18152,8 @@ Genre added: 56440
 addGenre: SUCCESS
 Genre added: 79947
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67823 genre8624
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 42313
@@ -16997,7 +18172,8 @@ Genre added: 93071
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 54842 genre66733
+addSong: SUCCESS
 Genre added: 37992
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -17013,18 +18189,22 @@ Genre added: 57789
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 96237 genre66613
+addSong: SUCCESS
+song added: 26412 genre57825
+addSong: SUCCESS
 Genre added: 55215
 addGenre: SUCCESS
 Genre added: 56721
 addGenre: SUCCESS
 Genre added: 91859
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85530 genre27506
+addSong: SUCCESS
 Genre added: 26242
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12832 genre29068
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -17049,14 +18229,16 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 89292
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56588 genre21899
+addSong: SUCCESS
 Genre added: 2148
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34990
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30234 genre68900
+addSong: SUCCESS
 Genre added: 71412
 addGenre: SUCCESS
 Genre added: 80477
@@ -17075,7 +18257,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 74432 genre56136
+addSong: SUCCESS
 Genre added: 87791
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -17086,24 +18269,28 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 3909
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37139 genre88091
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35021
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 61485 genre55943
+addSong: SUCCESS
 Genre added: 9336
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89943 genre60913
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 30293
 addGenre: SUCCESS
 Genre added: 78132
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 74740 genre1075
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 45496
 addGenre: SUCCESS
@@ -17150,7 +18337,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 39370
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18016 genre51025
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -17161,15 +18349,19 @@ addGenre: SUCCESS
 Genre added: 36791
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 28194 genre96169
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 28455 genre31916
+addSong: SUCCESS
+song added: 4796 genre66278
+addSong: SUCCESS
 Genre added: 21444
 addGenre: SUCCESS
 Genre added: 50037
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48937 genre22934
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 32002
@@ -17188,8 +18380,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53194
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35072 genre99103
+addSong: SUCCESS
+song added: 85670 genre51378
+addSong: SUCCESS
 Genre added: 34000
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -17228,13 +18422,16 @@ addGenre: SUCCESS
 Genre added: 42753
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1333 genre35735
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 59545 genre7539
+addSong: SUCCESS
 Genre added: 4854
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 51220 genre15866
+addSong: SUCCESS
 Genre added: 25572
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -17253,7 +18450,8 @@ addGenre: SUCCESS
 Genre added: 12034
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 17182 genre74262
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22013
@@ -17263,7 +18461,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50451 genre47901
+addSong: SUCCESS
 Genre added: 60992
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -17274,12 +18473,14 @@ Genre added: 6498
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 51971 genre7254
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 88676
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 91410 genre85571
+addSong: SUCCESS
 Genre added: 24338
 addGenre: SUCCESS
 Genre added: 26316
@@ -17303,7 +18504,8 @@ Genre added: 60050
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 74210 genre51815
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21248
 addGenre: SUCCESS
@@ -17330,17 +18532,20 @@ Genre added: 14897
 addGenre: SUCCESS
 Genre added: 53500
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57350 genre90723
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 17402
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21164 genre44895
+addSong: SUCCESS
 Genre added: 76816
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56135 genre19058
+addSong: SUCCESS
 Genre added: 45649
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -17354,7 +18559,8 @@ Genre added: 58500
 addGenre: SUCCESS
 Genre added: 80418
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63736 genre80982
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 75933
 addGenre: SUCCESS
@@ -17385,10 +18591,12 @@ Genre added: 62558
 addGenre: SUCCESS
 Genre added: 94463
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82461 genre27012
+addSong: SUCCESS
 Genre added: 35871
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2739 genre14942
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 55018
 addGenre: SUCCESS
@@ -17401,9 +18609,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 42203
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 75213 genre82383
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66779 genre99397
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -17440,7 +18650,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 42943
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42187 genre38920
+addSong: SUCCESS
 Genre added: 12921
 addGenre: SUCCESS
 Genre added: 25650
@@ -17462,9 +18673,11 @@ addGenre: SUCCESS
 Genre added: 26946
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18303 genre87358
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29180 genre72944
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 29516
@@ -17475,16 +18688,21 @@ Genre added: 51607
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 16847 genre48854
+addSong: SUCCESS
+song added: 88985 genre59759
+addSong: SUCCESS
+song added: 53149 genre83403
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68858
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30226 genre31071
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29200 genre29723
+addSong: SUCCESS
 Genre added: 34151
 addGenre: SUCCESS
 Genre added: 7535
@@ -17493,13 +18711,16 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 76340
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 2815 genre484
+addSong: SUCCESS
+song added: 79037 genre47384
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 38697
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 34424 genre71412
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -17534,7 +18755,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 11707
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14087 genre22665
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -17545,7 +18767,8 @@ addGenre: SUCCESS
 Genre added: 44257
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27123 genre67788
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 5217
@@ -17573,7 +18796,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56148
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76991 genre33316
+addSong: SUCCESS
 Genre added: 35104
 addGenre: SUCCESS
 Genre added: 46127
@@ -17596,7 +18820,8 @@ addGenre: SUCCESS
 Genre added: 6401
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 20945 genre3689
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 63005
 addGenre: SUCCESS
@@ -17614,18 +18839,21 @@ addGenre: SUCCESS
 Genre added: 96840
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 81835 genre55130
+addSong: SUCCESS
 Genre added: 54760
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 34627 genre34990
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 59196
 addGenre: SUCCESS
 Genre added: 20700
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65389 genre74723
+addSong: SUCCESS
 Genre added: 67751
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -17663,7 +18891,8 @@ Genre added: 14830
 addGenre: SUCCESS
 Genre added: 59603
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46933 genre37937
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 97470
 addGenre: SUCCESS
@@ -17692,12 +18921,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66960 genre59217
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 31791
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91046 genre39049
+addSong: SUCCESS
 Genre added: 36698
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -17711,7 +18942,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 70030 genre98070
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 11251
 addGenre: SUCCESS
@@ -17746,7 +18978,8 @@ Genre added: 35454
 addGenre: SUCCESS
 Genre added: 33394
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65275 genre34820
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 74433
 addGenre: SUCCESS
@@ -17786,18 +19019,21 @@ addGenre: SUCCESS
 Genre added: 99091
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 59767 genre39746
+addSong: SUCCESS
 Genre added: 14462
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3045 genre9529
+addSong: SUCCESS
 Genre added: 74623
 addGenre: SUCCESS
 Genre added: 91771
 addGenre: SUCCESS
 Genre added: 87609
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55132 genre70959
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 50419
 addGenre: SUCCESS
@@ -17806,7 +19042,8 @@ addGenre: INVALID_INPUT
 Genre added: 14157
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 7174 genre21188
+addSong: SUCCESS
 Genre added: 66935
 addGenre: SUCCESS
 Genre added: 72741
@@ -17823,7 +19060,8 @@ Genre added: 4648
 addGenre: SUCCESS
 Genre added: 7109
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48254 genre42981
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68660
 addGenre: SUCCESS
@@ -17835,7 +19073,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 89984
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90220 genre68171
+addSong: SUCCESS
 Genre added: 78398
 addGenre: SUCCESS
 Genre added: 45091
@@ -17917,7 +19156,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 53666
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95024 genre64735
+addSong: SUCCESS
 Genre added: 76715
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -17932,7 +19172,8 @@ Genre added: 56247
 addGenre: SUCCESS
 Genre added: 60257
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88385 genre90953
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 9008
 addGenre: SUCCESS
@@ -17949,7 +19190,8 @@ Genre added: 10530
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32097 genre34676
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -17967,7 +19209,8 @@ Genre added: 70325
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 82724 genre21826
+addSong: SUCCESS
 Genre added: 37428
 addGenre: SUCCESS
 Genre added: 62899
@@ -17976,13 +19219,16 @@ Genre added: 69236
 addGenre: SUCCESS
 Genre added: 27002
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 92450 genre35260
+addSong: SUCCESS
+song added: 97611 genre61756
+addSong: SUCCESS
 Genre added: 33932
 addGenre: SUCCESS
 Genre added: 44460
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85842 genre97117
+addSong: SUCCESS
 Genre added: 75538
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -17997,7 +19243,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 5201 genre53412
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 24405
 addGenre: SUCCESS
@@ -18010,9 +19257,11 @@ Genre added: 49465
 addGenre: SUCCESS
 Genre added: 79905
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 23388 genre95878
+addSong: SUCCESS
+song added: 33032 genre16374
+addSong: SUCCESS
+addSong: INVALID_INPUT
 Genre added: 80956
 addGenre: SUCCESS
 Genre added: 84713
@@ -18031,7 +19280,8 @@ Genre added: 77438
 addGenre: SUCCESS
 Genre added: 60281
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49921 genre68490
+addSong: SUCCESS
 Genre added: 13072
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -18088,19 +19338,24 @@ Genre added: 50409
 addGenre: SUCCESS
 Genre added: 58010
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45746 genre55015
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 20851 genre62241
+addSong: SUCCESS
+song added: 38247 genre77171
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 44828
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 19077 genre50645
+addSong: SUCCESS
+song added: 85886 genre38584
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 37714
 addGenre: SUCCESS
@@ -18109,8 +19364,10 @@ addGenre: SUCCESS
 Genre added: 81197
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 36799 genre44779
+addSong: SUCCESS
+song added: 35387 genre51470
+addSong: SUCCESS
 Genre added: 3622
 addGenre: SUCCESS
 Genre added: 78849
@@ -18120,7 +19377,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 10270
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86294 genre2337
+addSong: SUCCESS
 Genre added: 23207
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -18152,7 +19410,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 16049
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70457 genre28029
+addSong: SUCCESS
 Genre added: 83414
 addGenre: SUCCESS
 Genre added: 84793
@@ -18175,20 +19434,24 @@ Genre added: 55479
 addGenre: SUCCESS
 Genre added: 36031
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57721 genre6466
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 75335
 addGenre: SUCCESS
 Genre added: 90759
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52050 genre89751
+addSong: SUCCESS
 Genre added: 43517
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73868 genre38511
+addSong: SUCCESS
 Genre added: 77726
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 73271 genre64142
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 16576
 addGenre: SUCCESS
@@ -18197,7 +19460,8 @@ Genre added: 22964
 addGenre: SUCCESS
 Genre added: 65990
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16662 genre2594
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 89975
 addGenre: SUCCESS
@@ -18227,8 +19491,10 @@ Genre added: 80744
 addGenre: SUCCESS
 Genre added: 84735
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 49657 genre55715
+addSong: SUCCESS
+song added: 63282 genre23844
+addSong: SUCCESS
 Genre added: 40200
 addGenre: SUCCESS
 Genre added: 78447
@@ -18252,8 +19518,10 @@ Genre added: 78802
 addGenre: SUCCESS
 Genre added: 49125
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 2684 genre67431
+addSong: SUCCESS
+song added: 10229 genre50392
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 3847
@@ -18262,7 +19530,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 5424
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93901 genre29510
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 98933
 addGenre: SUCCESS
@@ -18315,7 +19584,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 9281
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 1122 genre35314
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 9262
 addGenre: SUCCESS
@@ -18330,7 +19600,8 @@ addGenre: SUCCESS
 Genre added: 27985
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 11653 genre91134
+addSong: SUCCESS
 Genre added: 37604
 addGenre: SUCCESS
 Genre added: 83
@@ -18339,14 +19610,17 @@ Genre added: 51959
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 93911 genre31702
+addSong: SUCCESS
 Genre added: 84031
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12696 genre21281
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 28500
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93471 genre35759
+addSong: SUCCESS
 Genre added: 60699
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -18366,7 +19640,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 71525 genre33893
+addSong: SUCCESS
 Genre added: 59227
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -18392,25 +19667,31 @@ Genre added: 2119
 addGenre: SUCCESS
 Genre added: 34914
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30609 genre52618
+addSong: SUCCESS
 Genre added: 4845
 addGenre: SUCCESS
 Genre added: 29383
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 85047 genre65328
+addSong: SUCCESS
+song added: 34473 genre41350
+addSong: SUCCESS
+song added: 35732 genre87840
+addSong: SUCCESS
 Genre added: 66771
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3397 genre50274
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43451
 addGenre: SUCCESS
 Genre added: 45554
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89064 genre94668
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 39050
 addGenre: SUCCESS
@@ -18424,16 +19705,19 @@ Genre added: 19155
 addGenre: SUCCESS
 Genre added: 67685
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 18808 genre38699
+addSong: SUCCESS
+addSong: INVALID_INPUT
+song added: 13871 genre16277
+addSong: SUCCESS
 Genre added: 3137
 addGenre: SUCCESS
 Genre added: 91992
 addGenre: SUCCESS
 Genre added: 54876
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45464 genre99225
+addSong: SUCCESS
 Genre added: 70868
 addGenre: SUCCESS
 Genre added: 114
@@ -18450,7 +19734,8 @@ Genre added: 93781
 addGenre: SUCCESS
 Genre added: 88835
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11740 genre86630
+addSong: SUCCESS
 Genre added: 50562
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -18469,7 +19754,8 @@ Genre added: 76164
 addGenre: SUCCESS
 Genre added: 33225
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67159 genre74262
+addSong: SUCCESS
 Genre added: 11100
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -18497,7 +19783,8 @@ Genre added: 27015
 addGenre: SUCCESS
 Genre added: 65523
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9863 genre36198
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 10008
 addGenre: SUCCESS
@@ -18506,7 +19793,8 @@ Genre added: 97364
 addGenre: SUCCESS
 Genre added: 37224
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8773 genre67966
+addSong: SUCCESS
 Genre added: 26446
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -18519,7 +19807,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 47498
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38246 genre87449
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -18539,7 +19828,8 @@ addGenre: SUCCESS
 Genre added: 82395
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39563 genre88548
+addSong: SUCCESS
 Genre added: 83442
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -18548,7 +19838,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 91300
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80789 genre33084
+addSong: SUCCESS
 Genre added: 44597
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -18567,7 +19858,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 6656
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85284 genre64916
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 98049
 addGenre: SUCCESS
@@ -18599,7 +19891,8 @@ Genre added: 92996
 addGenre: SUCCESS
 Genre added: 17618
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81108 genre15125
+addSong: SUCCESS
 Genre added: 47868
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -18619,9 +19912,11 @@ addGenre: SUCCESS
 Genre added: 26540
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 13246 genre32487
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 6272 genre16540
+addSong: SUCCESS
 Genre added: 78267
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -18630,22 +19925,27 @@ addGenre: SUCCESS
 Genre added: 58937
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 78166 genre27687
+addSong: SUCCESS
+song added: 69790 genre18792
+addSong: SUCCESS
+song added: 85168 genre72456
+addSong: SUCCESS
+song added: 87427 genre28708
+addSong: SUCCESS
 Genre added: 93274
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 25842
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 57463
 addGenre: SUCCESS
 Genre added: 46273
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55065 genre41155
+addSong: SUCCESS
 Genre added: 40710
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -18663,7 +19963,8 @@ addGenre: SUCCESS
 Genre added: 44570
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 48733 genre22962
+addSong: SUCCESS
 Genre added: 23924
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -18671,26 +19972,30 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 15361
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11884 genre79829
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 26197
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4125 genre51954
+addSong: SUCCESS
 Genre added: 74920
 addGenre: SUCCESS
 Genre added: 55192
 addGenre: SUCCESS
 Genre added: 20689
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5822 genre70730
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 69258
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92857 genre411
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 62771
@@ -18740,9 +20045,12 @@ Genre added: 27348
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 13112 genre25047
+addSong: SUCCESS
+song added: 77617 genre19691
+addSong: SUCCESS
+song added: 41178 genre29640
+addSong: SUCCESS
 Genre added: 63407
 addGenre: SUCCESS
 Genre added: 27393
@@ -18755,7 +20063,8 @@ Genre added: 15845
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 96203 genre79726
+addSong: SUCCESS
 Genre added: 98182
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -18784,7 +20093,8 @@ Genre added: 34330
 addGenre: SUCCESS
 Genre added: 4122
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15465 genre19806
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -18805,7 +20115,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4801
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24868 genre1226
+addSong: SUCCESS
 Genre added: 6974
 addGenre: SUCCESS
 Genre added: 80189
@@ -18818,7 +20129,8 @@ Genre added: 2954
 addGenre: SUCCESS
 Genre added: 62229
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85344 genre79620
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 5169
@@ -18847,18 +20159,21 @@ Genre added: 22026
 addGenre: SUCCESS
 Genre added: 17426
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32512 genre70678
+addSong: SUCCESS
 Genre added: 96487
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92055 genre97223
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 65127
 addGenre: SUCCESS
 Genre added: 62315
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79815 genre19386
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 17077
 addGenre: SUCCESS
@@ -18867,7 +20182,8 @@ addGenre: SUCCESS
 Genre added: 50836
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 61680 genre35788
+addSong: SUCCESS
 Genre added: 1943
 addGenre: SUCCESS
 Genre added: 87612
@@ -18890,17 +20206,22 @@ addGenre: SUCCESS
 Genre added: 60638
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 36961 genre38699
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39287 genre76266
+addSong: SUCCESS
 Genre added: 17388
 addGenre: SUCCESS
 Genre added: 8320
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 2416 genre86123
+addSong: SUCCESS
+song added: 95529 genre91625
+addSong: SUCCESS
+song added: 90712 genre77949
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92513
 addGenre: SUCCESS
@@ -18970,8 +20291,10 @@ addGenre: SUCCESS
 Genre added: 16553
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 93101 genre21075
+addSong: SUCCESS
+song added: 7892 genre87613
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 29402
 addGenre: SUCCESS
@@ -18986,7 +20309,8 @@ Genre added: 15104
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5721 genre17337
+addSong: SUCCESS
 Genre added: 92463
 addGenre: SUCCESS
 Genre added: 15340
@@ -19001,7 +20325,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 79685
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46800 genre73604
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 47357
 addGenre: SUCCESS
@@ -19011,7 +20336,8 @@ Genre added: 50053
 addGenre: SUCCESS
 Genre added: 35155
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84537 genre93322
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -19034,8 +20360,10 @@ Genre added: 14169
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 69482 genre76837
+addSong: SUCCESS
+song added: 97953 genre36982
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -19071,7 +20399,8 @@ addGenre: SUCCESS
 Genre added: 10077
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 29365 genre77887
+addSong: SUCCESS
 Genre added: 37147
 addGenre: SUCCESS
 Genre added: 7560
@@ -19098,7 +20427,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 43197
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3487 genre19216
+addSong: SUCCESS
 Genre added: 41550
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -19123,16 +20453,19 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 50366
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66936 genre56959
+addSong: SUCCESS
 Genre added: 11174
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 61895 genre60022
+addSong: SUCCESS
 Genre added: 31910
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 78734 genre12339
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 2192
@@ -19179,8 +20512,10 @@ mergeGenres: FAILURE
 Genre added: 60256
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 5403 genre6870
+addSong: SUCCESS
+song added: 15616 genre38568
+addSong: SUCCESS
 Genre added: 33953
 addGenre: SUCCESS
 Genre added: 98934
@@ -19221,7 +20556,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 35765
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37608 genre28281
+addSong: SUCCESS
 Genre added: 83605
 addGenre: SUCCESS
 Genre added: 48492
@@ -19310,7 +20646,8 @@ Genre added: 75835
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 45235 genre51578
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 81805
 addGenre: SUCCESS
@@ -19336,7 +20673,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58667
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55837 genre29894
+addSong: SUCCESS
 Genre added: 26045
 addGenre: SUCCESS
 Genre added: 53529
@@ -19354,7 +20692,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 88214 genre61422
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -19392,7 +20731,8 @@ addGenre: SUCCESS
 Genre added: 20667
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 52035 genre83344
+addSong: SUCCESS
 Genre added: 44935
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -19403,7 +20743,8 @@ Genre added: 62769
 addGenre: SUCCESS
 Genre added: 29157
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18881 genre2598
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66944
 addGenre: SUCCESS
@@ -19411,7 +20752,8 @@ Genre added: 56940
 addGenre: SUCCESS
 Genre added: 73793
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64511 genre87724
+addSong: SUCCESS
 Genre added: 34547
 addGenre: SUCCESS
 Genre added: 47074
@@ -19437,14 +20779,17 @@ Genre added: 82628
 addGenre: SUCCESS
 Genre added: 52865
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99727 genre2981
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 84500 genre25668
+addSong: SUCCESS
 Genre added: 9573
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 82465 genre36171
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 7602
@@ -19454,7 +20799,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 97336
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58256 genre60265
+addSong: SUCCESS
 Genre added: 11451
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -19464,7 +20810,8 @@ Genre added: 61802
 addGenre: SUCCESS
 Genre added: 61210
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77324 genre22683
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 13709
 addGenre: SUCCESS
@@ -19481,7 +20828,8 @@ Genre added: 84233
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 6677 genre14157
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 88736
@@ -19491,7 +20839,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 28073
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5376 genre14111
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 18299
@@ -19511,7 +20860,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 10975
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64443 genre72998
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19316
 addGenre: SUCCESS
@@ -19520,8 +20870,10 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 11887
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 85828 genre95765
+addSong: SUCCESS
+song added: 16602 genre39310
+addSong: SUCCESS
 Genre added: 12374
 addGenre: SUCCESS
 Genre added: 3439
@@ -19535,9 +20887,11 @@ addGenre: SUCCESS
 Genre added: 53439
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99562 genre11201
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9503 genre64137
+addSong: SUCCESS
 Genre added: 15480
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -19574,7 +20928,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 59856 genre49722
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 53638
 addGenre: SUCCESS
@@ -19583,13 +20938,16 @@ Genre added: 64876
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92740 genre50783
+addSong: SUCCESS
 Genre added: 32418
 addGenre: SUCCESS
 Genre added: 2367
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 69134 genre32125
+addSong: SUCCESS
+song added: 73581 genre93506
+addSong: SUCCESS
 Genre added: 10973
 addGenre: SUCCESS
 Genre added: 22032
@@ -19602,7 +20960,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60287
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95198 genre35976
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78469
 addGenre: SUCCESS
@@ -19611,7 +20970,8 @@ mergeGenres: FAILURE
 Genre added: 33635
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 91840 genre49465
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 90633
 addGenre: SUCCESS
@@ -19620,18 +20980,21 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92819 genre79331
+addSong: SUCCESS
 Genre added: 88824
 addGenre: SUCCESS
 Genre added: 18602
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 84560 genre83042
+addSong: SUCCESS
 Genre added: 92768
 addGenre: SUCCESS
 Genre added: 87453
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68339 genre31525
+addSong: SUCCESS
 Genre added: 19832
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -19651,7 +21014,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 8844
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20089 genre56232
+addSong: SUCCESS
 Genre added: 74983
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -19700,7 +21064,8 @@ mergeGenres: FAILURE
 Genre added: 69142
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 55330 genre21433
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -19716,7 +21081,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 10762
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3839 genre10558
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 84049
 addGenre: SUCCESS
@@ -19730,7 +21096,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85647
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39116 genre54735
+addSong: SUCCESS
 Genre added: 87664
 addGenre: SUCCESS
 Genre added: 22602
@@ -19740,7 +21107,8 @@ Genre added: 36630
 addGenre: SUCCESS
 Genre added: 35768
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52511 genre99520
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 41081
 addGenre: SUCCESS
@@ -19754,10 +21122,12 @@ addGenre: SUCCESS
 Genre added: 61332
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 76953 genre48203
+addSong: SUCCESS
 Genre added: 12157
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62151 genre43084
+addSong: SUCCESS
 Genre added: 58207
 addGenre: SUCCESS
 Genre added: 23150
@@ -19771,8 +21141,10 @@ Genre added: 42155
 addGenre: SUCCESS
 Genre added: 49292
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 72875 genre59293
+addSong: SUCCESS
+song added: 3750 genre11119
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 86346
@@ -19799,7 +21171,8 @@ Genre added: 38940
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 84742 genre50462
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 3553
@@ -19812,12 +21185,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 6500 genre44498
+addSong: SUCCESS
 Genre added: 36723
 addGenre: SUCCESS
 Genre added: 6861
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65012 genre60161
+addSong: SUCCESS
 Genre added: 14635
 addGenre: SUCCESS
 Genre added: 27239
@@ -19861,7 +21236,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 67760
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19637 genre26761
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 61568
 addGenre: SUCCESS
@@ -19872,8 +21248,10 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 75146
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 83304 genre62750
+addSong: SUCCESS
+song added: 64527 genre34151
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 64267
 addGenre: SUCCESS
@@ -19887,21 +21265,25 @@ Genre added: 37215
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 54927 genre7311
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 94170
 addGenre: SUCCESS
 Genre added: 68984
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51379 genre35943
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 27268
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90585 genre43874
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27828 genre26488
+addSong: SUCCESS
 Genre added: 99007
 addGenre: SUCCESS
 Genre added: 74331
@@ -19943,7 +21325,8 @@ addGenre: SUCCESS
 Genre added: 55906
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 81676 genre37814
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -19975,12 +21358,13 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 75244
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 93659 genre82594
+addSong: SUCCESS
 Genre added: 81671
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 22925
 addGenre: SUCCESS
@@ -20014,13 +21398,15 @@ Genre added: 6630
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 53409 genre56940
+addSong: SUCCESS
 Genre added: 912
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 61527
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57444 genre1581
+addSong: SUCCESS
 Genre added: 82613
 addGenre: SUCCESS
 Genre added: 46138
@@ -20029,7 +21415,8 @@ Genre added: 37962
 addGenre: SUCCESS
 Genre added: 28700
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53977 genre39463
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96076
@@ -20040,15 +21427,18 @@ Genre added: 30582
 addGenre: SUCCESS
 Genre added: 15979
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14048 genre5738
+addSong: SUCCESS
 Genre added: 6661
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 87666 genre77431
+addSong: SUCCESS
 Genre added: 93582
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 54866 genre35031
+addSong: SUCCESS
 Genre added: 29148
 addGenre: SUCCESS
 Genre added: 37706
@@ -20071,7 +21461,8 @@ Genre added: 53646
 addGenre: SUCCESS
 Genre added: 49079
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95951 genre26348
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20083,7 +21474,8 @@ Genre added: 34834
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 81298 genre6466
+addSong: SUCCESS
 Genre added: 9094
 addGenre: SUCCESS
 Genre added: 30472
@@ -20094,7 +21486,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 55419
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92144 genre3485
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -20118,7 +21511,8 @@ addGenre: SUCCESS
 Genre added: 56680
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 13594 genre70614
+addSong: SUCCESS
 Genre added: 88245
 addGenre: SUCCESS
 Genre added: 77198
@@ -20129,7 +21523,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 69988
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53006 genre52495
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20151,7 +21546,8 @@ Genre added: 61737
 addGenre: SUCCESS
 Genre added: 85788
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71874 genre89365
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 6979
 addGenre: SUCCESS
@@ -20159,7 +21555,8 @@ Genre added: 96925
 addGenre: SUCCESS
 Genre added: 35452
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41898 genre47901
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 39126
 addGenre: SUCCESS
@@ -20189,7 +21586,8 @@ mergeGenres: FAILURE
 Genre added: 46056
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47251 genre30945
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 34166
@@ -20206,7 +21604,8 @@ Genre added: 32434
 addGenre: SUCCESS
 Genre added: 76473
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48725 genre84416
+addSong: SUCCESS
 Genre added: 54011
 addGenre: SUCCESS
 Genre added: 99473
@@ -20215,7 +21614,8 @@ Genre added: 57829
 addGenre: SUCCESS
 Genre added: 52166
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12185 genre15511
+addSong: SUCCESS
 Genre added: 15950
 addGenre: SUCCESS
 Genre added: 40422
@@ -20232,7 +21632,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 99854
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19909 genre70043
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20267,10 +21668,12 @@ Genre added: 82892
 addGenre: SUCCESS
 Genre added: 4030
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12985 genre90953
+addSong: SUCCESS
 Genre added: 75526
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96096 genre83799
+addSong: SUCCESS
 Genre added: 57183
 addGenre: SUCCESS
 Genre added: 86611
@@ -20283,19 +21686,23 @@ Genre added: 94133
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 16510 genre43064
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 24504
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 16254 genre19383
+addSong: SUCCESS
+song added: 62963 genre96793
+addSong: SUCCESS
 Genre added: 92460
 addGenre: SUCCESS
 Genre added: 23254
 addGenre: SUCCESS
 Genre added: 26692
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74250 genre30188
+addSong: SUCCESS
 Genre added: 19885
 addGenre: SUCCESS
 Genre added: 59532
@@ -20318,7 +21725,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 60133
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84663 genre72208
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80795
 addGenre: SUCCESS
@@ -20335,8 +21743,10 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 43779 genre14922
+addSong: SUCCESS
+song added: 57292 genre51173
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 5303
 addGenre: SUCCESS
@@ -20375,7 +21785,8 @@ Genre added: 43086
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 81639 genre94155
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 10255
@@ -20385,21 +21796,26 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 97260 genre12929
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 78439 genre74050
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52647
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87243 genre37501
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 13515
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66071 genre77170
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50424 genre67722
+addSong: SUCCESS
 Genre added: 59439
 addGenre: SUCCESS
 Genre added: 85784
@@ -20411,7 +21827,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 78579
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20402 genre13139
+addSong: SUCCESS
 Genre added: 81895
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -20438,7 +21855,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2240 genre21229
+addSong: SUCCESS
 Genre added: 45206
 addGenre: SUCCESS
 Genre added: 18517
@@ -20460,9 +21878,11 @@ addGenre: SUCCESS
 Genre added: 16080
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 41527 genre22925
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75564 genre11078
+addSong: SUCCESS
 Genre added: 29789
 addGenre: SUCCESS
 Genre added: 42164
@@ -20482,10 +21902,12 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 14828
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51690 genre95821
+addSong: SUCCESS
 Genre added: 63004
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59819 genre40029
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 36400
 addGenre: SUCCESS
@@ -20495,12 +21917,14 @@ Genre added: 13539
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3031 genre66095
+addSong: SUCCESS
 Genre added: 34690
 addGenre: SUCCESS
 Genre added: 45955
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44263 genre24153
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 73175
 addGenre: SUCCESS
@@ -20509,7 +21933,8 @@ Genre added: 48479
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65928 genre46299
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 57631
 addGenre: SUCCESS
@@ -20522,12 +21947,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 256
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35376 genre31675
+addSong: SUCCESS
 Genre added: 393
 addGenre: SUCCESS
 Genre added: 75546
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13602 genre9700
+addSong: SUCCESS
 Genre added: 93014
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -20546,7 +21973,8 @@ Genre added: 85015
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 56768 genre78525
+addSong: SUCCESS
 Genre added: 35830
 addGenre: SUCCESS
 Genre added: 42241
@@ -20555,7 +21983,8 @@ Genre added: 12393
 addGenre: SUCCESS
 Genre added: 49508
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49768 genre73915
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 69661
 addGenre: SUCCESS
@@ -20589,7 +22018,8 @@ Genre added: 88331
 addGenre: SUCCESS
 Genre added: 49655
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13060 genre70040
+addSong: SUCCESS
 Genre added: 24478
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20606,10 +22036,12 @@ addGenre: SUCCESS
 Genre added: 81465
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50745 genre44825
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 48095 genre32685
+addSong: SUCCESS
 Genre added: 43336
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -20624,7 +22056,8 @@ Genre added: 7408
 addGenre: SUCCESS
 Genre added: 86394
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61363 genre18466
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 41121
 addGenre: SUCCESS
@@ -20637,7 +22070,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 86383
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11083 genre61404
+addSong: SUCCESS
 Genre added: 80727
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -20647,7 +22081,8 @@ Genre added: 62700
 addGenre: SUCCESS
 Genre added: 2886
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74142 genre84527
+addSong: SUCCESS
 Genre added: 57902
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -20655,7 +22090,7 @@ Genre added: 71972
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 5314
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -20675,7 +22110,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 80672
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29279 genre31379
+addSong: SUCCESS
 Genre added: 78603
 addGenre: SUCCESS
 Genre added: 44020
@@ -20708,7 +22144,8 @@ Genre added: 21119
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 34385 genre96329
+addSong: SUCCESS
 Genre added: 56235
 addGenre: SUCCESS
 Genre added: 23405
@@ -20761,7 +22198,8 @@ addGenre: SUCCESS
 Genre added: 11291
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 58270 genre54120
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 22030
 addGenre: SUCCESS
@@ -20771,13 +22209,15 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 74734 genre48163
+addSong: SUCCESS
 Genre added: 41411
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92998 genre65709
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 57059
 addGenre: SUCCESS
@@ -20792,9 +22232,11 @@ Genre added: 32328
 addGenre: SUCCESS
 Genre added: 81740
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91614 genre97141
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 1591 genre42317
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
@@ -20807,7 +22249,8 @@ Genre added: 39471
 addGenre: SUCCESS
 Genre added: 13790
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13321 genre52127
+addSong: SUCCESS
 Genre added: 47952
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -20828,7 +22271,8 @@ addGenre: SUCCESS
 Genre added: 59818
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 6301 genre51228
+addSong: SUCCESS
 Genre added: 62499
 addGenre: SUCCESS
 Genre added: 68502
@@ -20839,7 +22283,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82831
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77676 genre33854
+addSong: SUCCESS
 Genre added: 16614
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -20878,7 +22323,8 @@ Genre added: 91985
 addGenre: SUCCESS
 Genre added: 88769
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10110 genre15234
+addSong: SUCCESS
 Genre added: 94662
 addGenre: SUCCESS
 Genre added: 10815
@@ -20928,7 +22374,8 @@ addGenre: SUCCESS
 Genre added: 32370
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27252 genre673
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 39514
 addGenre: SUCCESS
@@ -20936,14 +22383,16 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48178 genre45880
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 54499
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 54979 genre45848
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 83084
 addGenre: SUCCESS
@@ -20976,13 +22425,17 @@ Genre added: 48708
 addGenre: SUCCESS
 Genre added: 35792
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 51872 genre87769
+addSong: SUCCESS
+song added: 42705 genre26803
+addSong: SUCCESS
+song added: 32003 genre11276
+addSong: SUCCESS
 Genre added: 39740
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60886 genre69997
+addSong: SUCCESS
 Genre added: 51626
 addGenre: SUCCESS
 Genre added: 56558
@@ -20994,7 +22447,8 @@ addGenre: SUCCESS
 Genre added: 57425
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92385 genre28986
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 88313
@@ -21017,7 +22471,8 @@ Genre added: 59288
 addGenre: SUCCESS
 Genre added: 84988
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10444 genre21256
+addSong: SUCCESS
 Genre added: 72827
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -21025,7 +22480,8 @@ Genre added: 83580
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89428 genre46084
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40459
 addGenre: SUCCESS
@@ -21035,7 +22491,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 88528
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84215 genre88673
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6
@@ -21054,7 +22511,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 95719
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37239 genre63733
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 31521
@@ -21062,8 +22520,10 @@ addGenre: SUCCESS
 Genre added: 21314
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 96894 genre43694
+addSong: SUCCESS
+song added: 80049 genre30586
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 87903
 addGenre: SUCCESS
@@ -21076,7 +22536,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 85802 genre38676
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 90233
 addGenre: SUCCESS
@@ -21098,7 +22559,8 @@ Genre added: 60443
 addGenre: SUCCESS
 Genre added: 13137
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90435 genre3076
+addSong: SUCCESS
 Genre added: 80270
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -21112,12 +22574,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 59705 genre55994
+addSong: SUCCESS
 Genre added: 50530
 addGenre: SUCCESS
 Genre added: 57564
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38116 genre86485
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31338
 addGenre: SUCCESS
@@ -21126,7 +22590,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 89207
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34542 genre98222
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 49294
 addGenre: SUCCESS
@@ -21141,7 +22606,8 @@ Genre added: 63730
 addGenre: SUCCESS
 Genre added: 28605
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5065 genre31927
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 27209
 addGenre: SUCCESS
@@ -21162,12 +22628,14 @@ Genre added: 21023
 addGenre: SUCCESS
 Genre added: 33999
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37507 genre79778
+addSong: SUCCESS
 Genre added: 91572
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 76693 genre46142
+addSong: SUCCESS
 Genre added: 90571
 addGenre: SUCCESS
 Genre added: 73051
@@ -21196,7 +22664,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 1821
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3528 genre99981
+addSong: SUCCESS
 Genre added: 50965
 addGenre: SUCCESS
 Genre added: 28393
@@ -21218,7 +22687,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80101
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3296 genre76264
+addSong: SUCCESS
 Genre added: 26478
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -21228,7 +22698,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 82616
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82031 genre32048
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31028
@@ -21237,7 +22708,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 64184
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 90599 genre15892
+addSong: SUCCESS
 Genre added: 23308
 addGenre: SUCCESS
 Genre added: 55393
@@ -21255,7 +22727,8 @@ Genre added: 61059
 addGenre: SUCCESS
 Genre added: 38990
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35488 genre33626
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33655
@@ -21292,7 +22765,8 @@ addGenre: SUCCESS
 Genre added: 23831
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57498 genre80589
+addSong: SUCCESS
 Genre added: 61845
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -21320,18 +22794,22 @@ Genre added: 92834
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7056 genre4614
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 88395 genre15011
+addSong: SUCCESS
 Genre added: 76214
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7388 genre58839
+addSong: SUCCESS
 Genre added: 10452
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 64462
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36581 genre44033
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 82299
 addGenre: SUCCESS
@@ -21339,8 +22817,10 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53117
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 84703 genre12100
+addSong: SUCCESS
+song added: 12092 genre57052
+addSong: SUCCESS
 Genre added: 10794
 addGenre: SUCCESS
 Genre added: 47743
@@ -21348,7 +22828,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 65957
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2644 genre67401
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51182
 addGenre: SUCCESS
@@ -21364,7 +22845,8 @@ Genre added: 84490
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11805 genre20978
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 89618
 addGenre: SUCCESS
@@ -21376,7 +22858,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 95584
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40672 genre35260
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 85974
 addGenre: SUCCESS
@@ -21412,7 +22895,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 5219 genre86893
+addSong: SUCCESS
 Genre added: 95681
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -21443,7 +22927,8 @@ Genre added: 90135
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41944 genre74701
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 40949
 addGenre: SUCCESS
@@ -21457,7 +22942,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73581
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57824 genre40633
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 11084
 addGenre: SUCCESS
@@ -21468,7 +22954,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66330
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20891 genre86642
+addSong: SUCCESS
 Genre added: 53204
 addGenre: SUCCESS
 Genre added: 64238
@@ -21489,7 +22976,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 63280
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41983 genre64748
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87872
@@ -21501,7 +22989,7 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 39904
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33538
 addGenre: SUCCESS
@@ -21509,7 +22997,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86323
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4790 genre34690
+addSong: SUCCESS
 Genre added: 93126
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -21520,8 +23009,10 @@ Genre added: 11662
 addGenre: SUCCESS
 Genre added: 63121
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 76889 genre69824
+addSong: SUCCESS
+song added: 71385 genre53439
+addSong: SUCCESS
 Genre added: 93108
 addGenre: SUCCESS
 Genre added: 30914
@@ -21532,7 +23023,8 @@ mergeGenres: FAILURE
 Genre added: 6925
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 89471 genre73809
+addSong: SUCCESS
 Genre added: 46544
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -21543,7 +23035,8 @@ addGenre: SUCCESS
 Genre added: 51945
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 551 genre44736
+addSong: SUCCESS
 Genre added: 52474
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -21555,7 +23048,8 @@ Genre added: 18283
 addGenre: SUCCESS
 Genre added: 61916
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39196 genre6705
+addSong: SUCCESS
 Genre added: 56885
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -21590,7 +23084,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 76187
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2899 genre15361
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 41908
 addGenre: SUCCESS
@@ -21600,7 +23095,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94487
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12578 genre97777
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15453
 addGenre: SUCCESS
@@ -21612,25 +23108,31 @@ Genre added: 33007
 addGenre: SUCCESS
 Genre added: 73343
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71247 genre52951
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 75621 genre64824
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 21988
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84078 genre85104
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 50606
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 96983 genre84528
+addSong: SUCCESS
+song added: 78173 genre88960
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51617 genre28456
+addSong: SUCCESS
 Genre added: 83948
 addGenre: SUCCESS
 Genre added: 64641
@@ -21678,12 +23180,15 @@ addGenre: SUCCESS
 Genre added: 59220
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 61785 genre38072
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 91551 genre30374
+addSong: SUCCESS
 Genre added: 75090
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58737 genre8236
+addSong: SUCCESS
 Genre added: 78178
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -21703,7 +23208,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 75520
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92523 genre45683
+addSong: SUCCESS
 Genre added: 54391
 addGenre: SUCCESS
 Genre added: 74637
@@ -21725,7 +23231,8 @@ Genre added: 87251
 addGenre: SUCCESS
 Genre added: 25852
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34007 genre35365
+addSong: SUCCESS
 Genre added: 81396
 addGenre: SUCCESS
 Genre added: 65850
@@ -21757,7 +23264,8 @@ Genre added: 78481
 addGenre: SUCCESS
 Genre added: 69826
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3 genre901
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -21767,7 +23275,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 34965
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 608 genre97259
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 20576
 addGenre: SUCCESS
@@ -21780,9 +23289,11 @@ Genre added: 92116
 addGenre: SUCCESS
 Genre added: 30929
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32653 genre32378
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18713 genre55331
+addSong: SUCCESS
 Genre added: 55653
 addGenre: SUCCESS
 Genre added: 24307
@@ -21790,7 +23301,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 28158 genre19253
+addSong: SUCCESS
 Genre added: 34482
 addGenre: SUCCESS
 Genre added: 72338
@@ -21836,7 +23348,8 @@ Genre added: 90049
 addGenre: SUCCESS
 Genre added: 80435
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74194 genre58644
+addSong: SUCCESS
 Genre added: 88883
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -21861,7 +23374,7 @@ Genre added: 9604
 addGenre: SUCCESS
 Genre added: 77119
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 23730
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -21877,7 +23390,8 @@ Genre added: 72267
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 79133 genre6451
+addSong: SUCCESS
 Genre added: 16595
 addGenre: SUCCESS
 Genre added: 92377
@@ -21925,7 +23439,8 @@ Genre added: 94766
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 98157 genre73645
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 22731
@@ -22009,7 +23524,8 @@ addGenre: SUCCESS
 Genre added: 63684
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 60928 genre10504
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -22021,7 +23537,8 @@ Genre added: 18106
 addGenre: SUCCESS
 Genre added: 63006
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40363 genre89972
+addSong: SUCCESS
 Genre added: 19780
 addGenre: SUCCESS
 Genre added: 59054
@@ -22051,16 +23568,20 @@ Genre added: 20892
 addGenre: SUCCESS
 Genre added: 85582
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33344 genre33999
+addSong: SUCCESS
 Genre added: 72052
 addGenre: SUCCESS
 Genre added: 94590
 addGenre: SUCCESS
 Genre added: 63599
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 77422 genre82240
+addSong: SUCCESS
+song added: 56733 genre6367
+addSong: SUCCESS
+song added: 25696 genre9686
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 48504
 addGenre: SUCCESS
@@ -22077,7 +23598,8 @@ Genre added: 39106
 addGenre: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 73080 genre18838
+addSong: SUCCESS
 Genre added: 16094
 addGenre: SUCCESS
 Genre added: 70050
@@ -22088,10 +23610,12 @@ Genre added: 49020
 addGenre: SUCCESS
 Genre added: 37730
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76666 genre53624
+addSong: SUCCESS
 Genre added: 20717
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66923 genre40710
+addSong: SUCCESS
 Genre added: 67404
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -22202,25 +23726,29 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 52333
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89947 genre58676
+addSong: SUCCESS
 Genre added: 35190
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73814 genre18816
+addSong: SUCCESS
 Genre added: 12690
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 60756 genre36350
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 21417
 addGenre: SUCCESS
 Genre added: 35404
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12229 genre12802
+addSong: SUCCESS
 Genre added: 52675
 addGenre: SUCCESS
 Genre added: 70705
@@ -22234,11 +23762,14 @@ Genre added: 44686
 addGenre: SUCCESS
 Genre added: 55855
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35539 genre85646
+addSong: SUCCESS
+song added: 61340 genre18353
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 26153 genre2433
+addSong: SUCCESS
 Genre added: 32978
 addGenre: SUCCESS
 Genre added: 72815
@@ -22259,11 +23790,13 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 15592
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76195 genre8602
+addSong: SUCCESS
 Genre added: 49120
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 15371 genre57132
+addSong: SUCCESS
 Genre added: 98137
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -22276,14 +23809,16 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80896
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99810 genre28833
+addSong: SUCCESS
 Genre added: 89712
 addGenre: SUCCESS
 Genre added: 43128
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 42106 genre87428
+addSong: SUCCESS
 Genre added: 31190
 addGenre: SUCCESS
 Genre added: 40788
@@ -22321,7 +23856,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 93751
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88785 genre25304
+addSong: SUCCESS
 Genre added: 90826
 addGenre: SUCCESS
 Genre added: 87113
@@ -22355,7 +23891,8 @@ Genre added: 53502
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3267 genre27453
+addSong: SUCCESS
 Genre added: 67525
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -22366,7 +23903,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85420 genre30762
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -22378,14 +23916,17 @@ Genre added: 83295
 addGenre: SUCCESS
 Genre added: 53148
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41294 genre26316
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64047 genre33953
+addSong: SUCCESS
 Genre added: 18454
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67278 genre70885
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 7626
 addGenre: SUCCESS
@@ -22395,7 +23936,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78815
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10442 genre78540
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 48771
@@ -22417,18 +23959,21 @@ Genre added: 90810
 addGenre: SUCCESS
 Genre added: 99857
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5282 genre83048
+addSong: SUCCESS
 Genre added: 55818
 addGenre: SUCCESS
 Genre added: 77136
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55545 genre20323
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 87312
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45010 genre13125
+addSong: SUCCESS
 Genre added: 10524
 addGenre: SUCCESS
 Genre added: 71084
@@ -22457,7 +24002,7 @@ mergeGenres: FAILURE
 Genre added: 48777
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -22465,9 +24010,11 @@ Genre added: 29004
 addGenre: SUCCESS
 Genre added: 9843
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24644 genre790
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31834 genre84121
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19397
@@ -22479,7 +24026,8 @@ addGenre: SUCCESS
 Genre added: 69058
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1015 genre29870
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 50881
@@ -22522,7 +24070,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 73921
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6157 genre95219
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 10284
 addGenre: SUCCESS
@@ -22530,7 +24079,8 @@ Genre added: 17508
 addGenre: SUCCESS
 Genre added: 99508
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12036 genre86873
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -22582,8 +24132,10 @@ Genre added: 47370
 addGenre: SUCCESS
 Genre added: 14543
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 64045 genre56461
+addSong: SUCCESS
+song added: 83287 genre90941
+addSong: SUCCESS
 Genre added: 89956
 addGenre: SUCCESS
 Genre added: 86352
@@ -22594,7 +24146,8 @@ Genre added: 54822
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 95785 genre33077
+addSong: SUCCESS
 Genre added: 6477
 addGenre: SUCCESS
 Genre added: 52840
@@ -22619,7 +24172,8 @@ Genre added: 78295
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 10277 genre70055
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 28328
 addGenre: SUCCESS
@@ -22663,14 +24217,16 @@ addGenre: SUCCESS
 Genre added: 26387
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 99071 genre37224
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 38828
 addGenre: SUCCESS
 Genre added: 73799
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31333 genre56243
+addSong: SUCCESS
 Genre added: 97902
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -22684,7 +24240,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 25046 genre76120
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 55912
 addGenre: SUCCESS
@@ -22695,14 +24252,16 @@ Genre added: 75458
 addGenre: SUCCESS
 Genre added: 83098
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16209 genre45716
+addSong: SUCCESS
 Genre added: 30516
 addGenre: SUCCESS
 Genre added: 11033
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27066 genre57695
+addSong: SUCCESS
 Genre added: 12257
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -22718,7 +24277,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 42460
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22494 genre21435
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -22739,7 +24299,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4394
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6771 genre82737
+addSong: SUCCESS
 Genre added: 37124
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -22759,11 +24320,13 @@ Genre added: 93021
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 20684 genre98934
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41582
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70073 genre86323
+addSong: SUCCESS
 Genre added: 26682
 addGenre: SUCCESS
 Genre added: 41202
@@ -22796,7 +24359,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74067
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31214 genre51642
+addSong: SUCCESS
 Genre added: 53107
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -22807,19 +24371,23 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87078
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 71155 genre31152
+addSong: SUCCESS
+song added: 88981 genre34820
+addSong: SUCCESS
 Genre added: 81686
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 78600
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45567 genre59417
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 54924 genre81740
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 467
 addGenre: SUCCESS
@@ -22866,16 +24434,19 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 52925
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96654 genre2897
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 24374 genre33932
+addSong: SUCCESS
 Genre added: 66998
 addGenre: SUCCESS
 Genre added: 57943
 addGenre: SUCCESS
 Genre added: 13230
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11545 genre98628
+addSong: SUCCESS
 Genre added: 84452
 addGenre: SUCCESS
 Genre added: 88122
@@ -22885,7 +24456,8 @@ addGenre: SUCCESS
 Genre added: 50557
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79081 genre45949
+addSong: SUCCESS
 Genre added: 94571
 addGenre: SUCCESS
 Genre added: 83440
@@ -22920,7 +24492,8 @@ Genre added: 79387
 addGenre: SUCCESS
 Genre added: 65893
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36770 genre97622
+addSong: SUCCESS
 Genre added: 69253
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -22939,7 +24512,8 @@ Genre added: 91218
 addGenre: SUCCESS
 Genre added: 51994
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59300 genre33910
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -22965,7 +24539,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51377
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 12102 genre99091
+addSong: SUCCESS
 Genre added: 84715
 addGenre: SUCCESS
 Genre added: 47911
@@ -22979,7 +24554,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48501 genre62842
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 13567
@@ -22995,12 +24571,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 18987
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46867 genre6861
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 76550
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 42806 genre81197
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 83429
@@ -23015,11 +24593,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 88664 genre80795
+addSong: SUCCESS
 Genre added: 30266
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 13433 genre48479
+addSong: SUCCESS
+song added: 5617 genre62771
+addSong: SUCCESS
 Genre added: 87442
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -23038,7 +24619,8 @@ Genre added: 31389
 addGenre: SUCCESS
 Genre added: 17248
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63306 genre67380
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 38518
 addGenre: SUCCESS
@@ -23046,16 +24628,20 @@ Genre added: 51396
 addGenre: SUCCESS
 Genre added: 3638
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97910 genre16374
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25660 genre80018
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21526
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 47925 genre99850
+addSong: SUCCESS
+song added: 62882 genre58366
+addSong: SUCCESS
 Genre added: 68591
 addGenre: SUCCESS
 Genre added: 37905
@@ -23079,7 +24665,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 26216 genre96158
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48887
 addGenre: SUCCESS
@@ -23098,7 +24685,8 @@ Genre added: 82246
 addGenre: SUCCESS
 Genre added: 11886
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40500 genre78484
+addSong: SUCCESS
 Genre added: 94553
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -23107,9 +24695,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 60322 genre37909
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44153 genre71752
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -23131,7 +24721,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 41720
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42153 genre76491
+addSong: SUCCESS
 Genre added: 69586
 addGenre: SUCCESS
 Genre added: 15187
@@ -23144,7 +24735,8 @@ addGenre: SUCCESS
 Genre added: 65608
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12699 genre59644
+addSong: SUCCESS
 Genre added: 72036
 addGenre: SUCCESS
 Genre added: 59077
@@ -23154,10 +24746,12 @@ getSongGenre: SUCCESS, 0
 Genre added: 56891
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 83136 genre33874
+addSong: SUCCESS
 Genre added: 91333
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89720 genre32655
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 86424
 addGenre: SUCCESS
@@ -23184,27 +24778,32 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 51441
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80156 genre57151
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53842
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 10248 genre75926
+addSong: SUCCESS
 Genre added: 52296
 addGenre: SUCCESS
 Genre added: 20009
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85166 genre83327
+addSong: SUCCESS
 Genre added: 68030
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39198 genre44952
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 98643
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54260 genre56461
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 95451
 addGenre: SUCCESS
@@ -23218,7 +24817,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 2712
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25985 genre25888
+addSong: SUCCESS
 Genre added: 19855
 addGenre: SUCCESS
 Genre added: 29713
@@ -23291,8 +24891,9 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 14110
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 4366 genre86424
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 87999
 addGenre: SUCCESS
@@ -23304,7 +24905,8 @@ Genre added: 107
 addGenre: SUCCESS
 Genre added: 83684
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2242 genre25650
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 46475
 addGenre: SUCCESS
@@ -23314,7 +24916,8 @@ Genre added: 14353
 addGenre: SUCCESS
 Genre added: 42900
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18296 genre3950
+addSong: SUCCESS
 Genre added: 31707
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -23322,10 +24925,12 @@ getSongGenre: SUCCESS, 0
 Genre added: 50403
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54589 genre82164
+addSong: SUCCESS
 Genre added: 5379
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79452 genre90947
+addSong: SUCCESS
 Genre added: 31001
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -23405,7 +25010,8 @@ addGenre: SUCCESS
 Genre added: 85302
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 88941 genre2172
+addSong: SUCCESS
 Genre added: 3043
 addGenre: SUCCESS
 Genre added: 24469
@@ -23462,13 +25068,16 @@ addGenre: SUCCESS
 Genre added: 57868
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 38095 genre55888
+addSong: SUCCESS
+song added: 94240 genre67265
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 13950
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 15858 genre78255
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 31531
 addGenre: SUCCESS
@@ -23485,11 +25094,13 @@ addGenre: SUCCESS
 Genre added: 9180
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51927 genre44883
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 30726
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56811 genre56178
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 83507
 addGenre: SUCCESS
@@ -23525,10 +25136,13 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 18290
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70996 genre26448
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 33784 genre63531
+addSong: SUCCESS
+song added: 79119 genre2966
+addSong: SUCCESS
 Genre added: 47957
 addGenre: SUCCESS
 Genre added: 71234
@@ -23542,7 +25156,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 28009
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 10151 genre66771
+addSong: SUCCESS
 Genre added: 25935
 addGenre: SUCCESS
 Genre added: 75143
@@ -23582,14 +25197,16 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 19342 genre25650
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 43469
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 46598
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94717 genre58056
+addSong: SUCCESS
 Genre added: 56258
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -23606,7 +25223,8 @@ addGenre: SUCCESS
 Genre added: 61866
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 93216 genre35679
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52310
@@ -23627,8 +25245,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 45030
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 373 genre6630
+addSong: SUCCESS
+song added: 66552 genre73529
+addSong: SUCCESS
 Genre added: 33925
 addGenre: SUCCESS
 Genre added: 93992
@@ -23636,7 +25256,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 55739 genre2654
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 62048
@@ -23644,7 +25265,8 @@ addGenre: SUCCESS
 Genre added: 63878
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 8407 genre35390
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28656
 addGenre: SUCCESS
@@ -23659,7 +25281,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 25628
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80591 genre36812
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 16671
 addGenre: SUCCESS
@@ -23668,8 +25291,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 33904
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 43698 genre44194
+addSong: SUCCESS
+song added: 5217 genre78946
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -23719,7 +25344,8 @@ Genre added: 38722
 addGenre: SUCCESS
 Genre added: 43769
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83557 genre87348
+addSong: SUCCESS
 Genre added: 98710
 addGenre: SUCCESS
 Genre added: 35951
@@ -23746,17 +25372,21 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 97338
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 26854 genre40773
+addSong: SUCCESS
 Genre added: 17027
 addGenre: SUCCESS
 Genre added: 28352
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 19155 genre12229
+addSong: SUCCESS
+song added: 3905 genre75455
+addSong: SUCCESS
 Genre added: 74703
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 82072 genre76413
+addSong: SUCCESS
 Genre added: 56323
 addGenre: SUCCESS
 Genre added: 51874
@@ -23805,19 +25435,22 @@ addGenre: SUCCESS
 Genre added: 33242
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94064 genre36590
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 79028
 addGenre: SUCCESS
 Genre added: 2049
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59236 genre83799
+addSong: SUCCESS
 Genre added: 16550
 addGenre: SUCCESS
 Genre added: 68814
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 3572 genre51027
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 563
 addGenre: SUCCESS
@@ -23825,7 +25458,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 77979 genre9843
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93554
 addGenre: SUCCESS
@@ -23854,12 +25488,14 @@ addGenre: SUCCESS
 Genre added: 68228
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 23371 genre51441
+addSong: SUCCESS
 Genre added: 81541
 addGenre: SUCCESS
 Genre added: 49570
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21120 genre70466
+addSong: SUCCESS
 Genre added: 25994
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -23883,7 +25519,8 @@ Genre added: 24145
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 93449 genre94124
+addSong: SUCCESS
 Genre added: 11643
 addGenre: SUCCESS
 Genre added: 42423
@@ -23906,7 +25543,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 55126
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17071 genre15970
+addSong: SUCCESS
 Genre added: 81844
 addGenre: SUCCESS
 Genre added: 32949
@@ -23916,7 +25554,8 @@ Genre added: 47682
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 13315 genre43578
+addSong: SUCCESS
 Genre added: 77269
 addGenre: SUCCESS
 Genre added: 21831
@@ -23925,7 +25564,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72442
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30106 genre84849
+addSong: SUCCESS
 Genre added: 75239
 addGenre: SUCCESS
 Genre added: 94540
@@ -23958,8 +25598,9 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56869
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 60882 genre91739
+addSong: SUCCESS
+addSong: INVALID_INPUT
 Genre added: 26019
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -23970,7 +25611,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 54113
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 35144 genre87770
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77948
 addGenre: SUCCESS
@@ -24039,7 +25681,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 11376
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27020 genre36120
+addSong: SUCCESS
 Genre added: 732
 addGenre: SUCCESS
 Genre added: 67090
@@ -24093,7 +25736,8 @@ Genre added: 48250
 addGenre: SUCCESS
 Genre added: 66433
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40906 genre67535
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 92172
@@ -24109,13 +25753,14 @@ Genre added: 31399
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 64102
 addGenre: SUCCESS
 Genre added: 17570
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 56795 genre39464
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 63870
 addGenre: SUCCESS
@@ -24123,7 +25768,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 27956
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50875 genre34260
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 72319
 addGenre: SUCCESS
@@ -24133,25 +25779,29 @@ addGenre: SUCCESS
 Genre added: 67857
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 20604 genre95423
+addSong: SUCCESS
 Genre added: 54787
 addGenre: SUCCESS
 Genre added: 11111
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 55726 genre71527
+addSong: SUCCESS
 Genre added: 57419
 addGenre: SUCCESS
 Genre added: 30570
 addGenre: SUCCESS
 Genre added: 39326
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68183 genre73976
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 94438
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2484 genre66944
+addSong: SUCCESS
 Genre added: 99357
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24170,18 +25820,22 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 36460
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 13360 genre3282
+addSong: SUCCESS
+song added: 16638 genre2596
+addSong: SUCCESS
 Genre added: 81818
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 25103
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21283 genre4885
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 8702
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51259 genre87449
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 26166
 addGenre: SUCCESS
@@ -24193,7 +25847,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 18624
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1340 genre80653
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 21704
 addGenre: SUCCESS
@@ -24209,7 +25864,8 @@ Genre added: 78694
 addGenre: SUCCESS
 Genre added: 58998
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5321 genre82169
+addSong: SUCCESS
 Genre added: 53247
 addGenre: SUCCESS
 Genre added: 68855
@@ -24225,14 +25881,17 @@ addGenre: SUCCESS
 Genre added: 50370
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5649 genre1674
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40365
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78259 genre39418
+addSong: SUCCESS
 Genre added: 5152
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21280 genre39065
+addSong: SUCCESS
 Genre added: 30223
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -24240,7 +25899,8 @@ Genre added: 18546
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45085 genre28255
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 35715
@@ -24264,12 +25924,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 77615
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62290 genre31284
+addSong: SUCCESS
 Genre added: 33550
 addGenre: SUCCESS
 Genre added: 98771
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14443 genre7363
+addSong: SUCCESS
 Genre added: 842
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24288,7 +25950,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 91622 genre79594
+addSong: SUCCESS
 Genre added: 60659
 addGenre: SUCCESS
 Genre added: 38221
@@ -24299,7 +25962,8 @@ mergeGenres: FAILURE
 Genre added: 84626
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89370 genre89274
+addSong: SUCCESS
 Genre added: 22480
 addGenre: SUCCESS
 Genre added: 76465
@@ -24312,7 +25976,8 @@ mergeGenres: FAILURE
 Genre added: 90152
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 49279 genre66
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
@@ -24331,15 +25996,18 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 88285
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 77354 genre38733
+addSong: SUCCESS
 Genre added: 59860
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 95872
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52628 genre12271
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57551 genre60133
+addSong: SUCCESS
 Genre added: 67112
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -24368,7 +26036,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31393 genre46936
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 35790
 addGenre: SUCCESS
@@ -24401,7 +26070,8 @@ addGenre: SUCCESS
 Genre added: 39241
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 49550 genre37423
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 51237
 addGenre: SUCCESS
@@ -24419,7 +26089,8 @@ addGenre: SUCCESS
 Genre added: 79209
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67068 genre17361
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 49878
 addGenre: SUCCESS
@@ -24437,9 +26108,11 @@ addGenre: SUCCESS
 Genre added: 72991
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64908 genre95533
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30537 genre34251
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24461,7 +26134,8 @@ Genre added: 69864
 addGenre: SUCCESS
 Genre added: 87809
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25876 genre93580
+addSong: SUCCESS
 Genre added: 15622
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -24474,7 +26148,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 78727
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60076 genre92109
+addSong: SUCCESS
 Genre added: 25942
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24483,8 +26158,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 8968 genre99228
+addSong: SUCCESS
+song added: 83065 genre80963
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15178
 addGenre: SUCCESS
@@ -24508,12 +26185,13 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 34827
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 75563
 addGenre: SUCCESS
 Genre added: 54825
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89479 genre22631
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 52882
 addGenre: SUCCESS
@@ -24530,7 +26208,8 @@ Genre added: 40318
 addGenre: SUCCESS
 Genre added: 63327
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11232 genre31982
+addSong: SUCCESS
 Genre added: 95317
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -24544,11 +26223,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 73519
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5638 genre63555
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 72062 genre27809
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 81282
@@ -24561,13 +26242,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 8045 genre8380
+addSong: SUCCESS
 Genre added: 7085
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 94545 genre62367
+addSong: SUCCESS
+song added: 60846 genre90319
+addSong: SUCCESS
+song added: 91569 genre11174
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 62028
@@ -24583,7 +26268,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 53755
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11243 genre2715
+addSong: SUCCESS
 Genre added: 3456
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -24605,7 +26291,8 @@ addGenre: SUCCESS
 Genre added: 3203
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90570 genre62750
+addSong: SUCCESS
 Genre added: 10215
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -24616,7 +26303,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52783
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75904 genre68277
+addSong: SUCCESS
 Genre added: 45128
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -24627,7 +26315,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3959 genre39517
+addSong: SUCCESS
 Genre added: 93385
 addGenre: SUCCESS
 Genre added: 28523
@@ -24637,7 +26326,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 20343
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76708 genre36499
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 55983
@@ -24650,7 +26340,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46488 genre78484
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96762
 addGenre: SUCCESS
@@ -24659,7 +26350,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 80137
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3677 genre94671
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 59400
 addGenre: SUCCESS
@@ -24675,7 +26367,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 63507
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89587 genre64165
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28151
 addGenre: SUCCESS
@@ -24711,9 +26404,11 @@ Genre added: 57350
 addGenre: SUCCESS
 Genre added: 453
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65498 genre13271
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 63973 genre12321
+addSong: SUCCESS
 Genre added: 16572
 addGenre: SUCCESS
 Genre added: 98311
@@ -24726,9 +26421,11 @@ getSongGenre: SUCCESS, 0
 Genre added: 57280
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16035 genre59112
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 10071 genre66102
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 45654
 addGenre: SUCCESS
@@ -24770,7 +26467,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92376 genre81930
+addSong: SUCCESS
 Genre added: 90322
 addGenre: SUCCESS
 Genre added: 1537
@@ -24782,7 +26480,8 @@ Genre added: 98682
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 35589 genre43893
+addSong: SUCCESS
 Genre added: 87907
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -24804,7 +26503,8 @@ Genre added: 85279
 addGenre: SUCCESS
 Genre added: 19707
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29436 genre4102
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 15276
 addGenre: SUCCESS
@@ -24812,7 +26512,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56151
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38497 genre70143
+addSong: SUCCESS
 Genre added: 81732
 addGenre: SUCCESS
 Genre added: 50903
@@ -24824,7 +26525,8 @@ Genre added: 18854
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87321 genre82761
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 36688
@@ -24836,7 +26538,8 @@ addGenre: SUCCESS
 Genre added: 98016
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 64785 genre39303
+addSong: SUCCESS
 Genre added: 14380
 addGenre: SUCCESS
 Genre added: 37386
@@ -24844,7 +26547,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 31379 genre60079
+addSong: SUCCESS
 Genre added: 14356
 addGenre: SUCCESS
 Genre added: 1526
@@ -24855,7 +26559,8 @@ Genre added: 24321
 addGenre: SUCCESS
 Genre added: 74861
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79848 genre2540
+addSong: SUCCESS
 Genre added: 15612
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -24879,7 +26584,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 64130
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59566 genre23150
+addSong: SUCCESS
 Genre added: 32955
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -24928,7 +26634,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 60348
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16561 genre48789
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 974
 addGenre: SUCCESS
@@ -24960,7 +26667,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 58516
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87425 genre66307
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 55100
 addGenre: SUCCESS
@@ -24968,7 +26676,8 @@ Genre added: 60019
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87123 genre49401
+addSong: SUCCESS
 Genre added: 91602
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -24977,8 +26686,10 @@ Genre added: 60418
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 66426 genre10063
+addSong: SUCCESS
+song added: 31912 genre23725
+addSong: SUCCESS
 Genre added: 44575
 addGenre: SUCCESS
 Genre added: 84731
@@ -24988,10 +26699,12 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 15704
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72318 genre93516
+addSong: SUCCESS
 Genre added: 63807
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6961 genre52203
+addSong: SUCCESS
 Genre added: 49392
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -25003,7 +26716,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 23661
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 64881 genre77179
+addSong: SUCCESS
 Genre added: 18845
 addGenre: SUCCESS
 Genre added: 35581
@@ -25016,14 +26730,16 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 46176
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26823 genre92909
+addSong: SUCCESS
 Genre added: 84719
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 27115
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 37128 genre95987
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 13724
 addGenre: SUCCESS
@@ -25042,7 +26758,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 24284
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35352 genre59973
+addSong: SUCCESS
 Genre added: 44881
 addGenre: SUCCESS
 Genre added: 30984
@@ -25072,9 +26789,11 @@ Genre added: 66388
 addGenre: SUCCESS
 Genre added: 96654
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60667 genre21189
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32978 genre66484
+addSong: SUCCESS
 Genre added: 63421
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -25088,8 +26807,10 @@ Genre added: 16921
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 73060 genre81362
+addSong: SUCCESS
+song added: 73141 genre53139
+addSong: SUCCESS
 Genre added: 90450
 addGenre: SUCCESS
 Genre added: 73571
@@ -25109,7 +26830,8 @@ Genre added: 60582
 addGenre: SUCCESS
 Genre added: 76848
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38426 genre13660
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -25119,7 +26841,8 @@ Genre added: 79129
 addGenre: SUCCESS
 Genre added: 48301
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23633 genre86817
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 12710
 addGenre: SUCCESS
@@ -25132,7 +26855,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 84808
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69207 genre14137
+addSong: SUCCESS
 Genre added: 32354
 addGenre: SUCCESS
 Genre added: 85746
@@ -25159,7 +26883,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 89130
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 93468 genre16614
+addSong: SUCCESS
 Genre added: 43934
 addGenre: SUCCESS
 Genre added: 13732
@@ -25167,7 +26892,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 14886
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71724 genre1674
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 84352
@@ -25180,7 +26906,8 @@ addGenre: SUCCESS
 Genre added: 6356
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27682 genre88311
+addSong: SUCCESS
 Genre added: 81851
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -25193,9 +26920,11 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15878
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69716 genre94125
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 91257 genre31927
+addSong: SUCCESS
 Genre added: 89463
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -25213,7 +26942,8 @@ Genre added: 9708
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 43513 genre57003
+addSong: SUCCESS
 Genre added: 74202
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -25234,7 +26964,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80001
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8212 genre34214
+addSong: SUCCESS
 Genre added: 32680
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -25247,7 +26978,8 @@ addGenre: SUCCESS
 Genre added: 61162
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42495 genre94662
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 96203
 addGenre: SUCCESS
@@ -25279,8 +27011,10 @@ addGenre: SUCCESS
 Genre added: 12210
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 63757 genre19885
+addSong: SUCCESS
+song added: 66249 genre10327
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 59871
 addGenre: SUCCESS
@@ -25322,7 +27056,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 67348 genre10654
+addSong: SUCCESS
 Genre added: 6568
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -25386,14 +27121,17 @@ Genre added: 95271
 addGenre: SUCCESS
 Genre added: 86117
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3955 genre69115
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57921 genre88826
+addSong: SUCCESS
 Genre added: 17779
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71883 genre42710
+addSong: SUCCESS
 Genre added: 3175
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -25410,7 +27148,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 24383 genre34324
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 90593
@@ -25420,7 +27159,8 @@ Genre added: 96975
 addGenre: SUCCESS
 Genre added: 77678
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41170 genre62413
+addSong: SUCCESS
 Genre added: 66781
 addGenre: SUCCESS
 Genre added: 85138
@@ -25455,14 +27195,16 @@ addGenre: SUCCESS
 Genre added: 37567
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 88975 genre29713
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 3424
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 19365 genre27603
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -25472,8 +27214,10 @@ Genre added: 75750
 addGenre: SUCCESS
 Genre added: 21656
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 61666 genre34601
+addSong: SUCCESS
+song added: 21959 genre686
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 12435
@@ -25486,11 +27230,13 @@ Genre added: 18625
 addGenre: SUCCESS
 Genre added: 97385
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31623 genre91768
+addSong: SUCCESS
 Genre added: 1613
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3652 genre7254
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 88200
 addGenre: SUCCESS
@@ -25509,10 +27255,12 @@ Genre added: 59812
 addGenre: SUCCESS
 Genre added: 92191
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36930 genre73045
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 86147 genre64029
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 50177
@@ -25530,7 +27278,8 @@ Genre added: 79476
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42874 genre16711
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 88732
 addGenre: SUCCESS
@@ -25594,7 +27343,8 @@ addGenre: SUCCESS
 Genre added: 33141
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 65975 genre17895
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51635
 addGenre: SUCCESS
@@ -25618,7 +27368,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 76320 genre38952
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 70267
@@ -25678,7 +27429,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 29309
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41066 genre82812
+addSong: SUCCESS
 Genre added: 82713
 addGenre: SUCCESS
 Genre added: 22482
@@ -25696,7 +27448,8 @@ Genre added: 59124
 addGenre: SUCCESS
 Genre added: 61177
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11663 genre16386
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 78509
 addGenre: SUCCESS
@@ -25736,11 +27489,13 @@ getSongGenre: SUCCESS, 0
 Genre added: 80814
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 78128 genre51727
+addSong: SUCCESS
 Genre added: 11705
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 13118 genre66522
+addSong: SUCCESS
 Genre added: 47663
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -25769,7 +27524,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60729
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56462 genre49780
+addSong: SUCCESS
 Genre added: 31140
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -25795,7 +27551,8 @@ addGenre: SUCCESS
 Genre added: 13036
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 584 genre42241
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 46659
 addGenre: SUCCESS
@@ -25819,7 +27576,8 @@ Genre added: 6253
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 33340 genre55537
+addSong: SUCCESS
 Genre added: 24462
 addGenre: SUCCESS
 Genre added: 19296
@@ -25830,7 +27588,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 90739
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36088 genre20978
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 96419
 addGenre: SUCCESS
@@ -25874,8 +27633,10 @@ Genre added: 95685
 addGenre: SUCCESS
 Genre added: 96970
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 97810 genre35792
+addSong: SUCCESS
+song added: 4496 genre35529
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 29030
@@ -25894,19 +27655,23 @@ addGenre: SUCCESS
 Genre added: 18072
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45003 genre82667
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 99909
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82258 genre17930
+addSong: SUCCESS
 Genre added: 2225
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21332 genre330
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 18041
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 10206 genre85509
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 59080
 addGenre: SUCCESS
@@ -25926,7 +27691,8 @@ Genre added: 85267
 addGenre: SUCCESS
 Genre added: 41355
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76500 genre69762
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -25940,14 +27706,16 @@ Genre added: 49112
 addGenre: SUCCESS
 Genre added: 72491
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67374 genre99007
+addSong: SUCCESS
 Genre added: 80565
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 9111
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38629 genre68895
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 46415
 addGenre: SUCCESS
@@ -25955,13 +27723,15 @@ Genre added: 90907
 addGenre: SUCCESS
 Genre added: 21157
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56975 genre16988
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 53724
 addGenre: SUCCESS
 Genre added: 47712
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58637 genre59423
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33675
 addGenre: SUCCESS
@@ -25974,9 +27744,11 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 31497
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15061 genre60759
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83310 genre1492
+addSong: SUCCESS
 Genre added: 78636
 addGenre: SUCCESS
 Genre added: 30347
@@ -25989,7 +27761,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 92612
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85203 genre73542
+addSong: SUCCESS
 Genre added: 81284
 addGenre: SUCCESS
 Genre added: 19750
@@ -26010,12 +27783,14 @@ Genre added: 73605
 addGenre: SUCCESS
 Genre added: 88707
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24236 genre74102
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 79501
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 82900 genre49782
+addSong: SUCCESS
 Genre added: 75361
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26028,7 +27803,8 @@ addGenre: SUCCESS
 Genre added: 36854
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 86349 genre14330
+addSong: SUCCESS
 Genre added: 85029
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -26053,7 +27829,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 92110
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26467 genre68985
+addSong: SUCCESS
 Genre added: 63171
 addGenre: SUCCESS
 Genre added: 80693
@@ -26062,7 +27839,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 53962
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32995 genre18860
+addSong: SUCCESS
 Genre added: 51582
 addGenre: SUCCESS
 Genre added: 63016
@@ -26082,8 +27860,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 75659
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 67096 genre31439
+addSong: SUCCESS
+song added: 20043 genre77398
+addSong: SUCCESS
 Genre added: 26702
 addGenre: SUCCESS
 Genre added: 9911
@@ -26091,12 +27871,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 43674 genre6876
+addSong: SUCCESS
 Genre added: 20296
 addGenre: SUCCESS
 Genre added: 14436
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57649 genre40624
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 91932
 addGenre: SUCCESS
@@ -26124,7 +27906,8 @@ addGenre: INVALID_INPUT
 Genre added: 30652
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45979 genre44955
+addSong: SUCCESS
 Genre added: 26870
 addGenre: SUCCESS
 Genre added: 91809
@@ -26135,26 +27918,31 @@ Genre added: 51030
 addGenre: SUCCESS
 Genre added: 39335
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20286 genre83010
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 62676
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77141 genre36982
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 99955
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59940 genre35158
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 53613
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 69811 genre13724
+addSong: SUCCESS
 Genre added: 1433
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53958 genre43998
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 66146
@@ -26171,7 +27959,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 19368
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47413 genre83614
+addSong: SUCCESS
 Genre added: 97228
 addGenre: SUCCESS
 Genre added: 97325
@@ -26189,7 +27978,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 82439
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 17800 genre23324
+addSong: SUCCESS
 Genre added: 62665
 addGenre: SUCCESS
 Genre added: 57319
@@ -26199,14 +27989,16 @@ addGenre: SUCCESS
 Genre added: 94211
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 75907 genre33435
+addSong: SUCCESS
 Genre added: 81337
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31959
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 23306 genre42484
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26248,7 +28040,8 @@ Genre added: 28043
 addGenre: SUCCESS
 Genre added: 67624
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10055 genre44024
+addSong: SUCCESS
 Genre added: 49358
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -26257,7 +28050,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79690 genre63297
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 1680
@@ -26275,7 +28069,8 @@ Genre added: 75294
 addGenre: SUCCESS
 Genre added: 10166
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11701 genre83981
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21674
 addGenre: SUCCESS
@@ -26307,7 +28102,8 @@ Genre added: 26545
 addGenre: SUCCESS
 Genre added: 34245
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90011 genre37952
+addSong: SUCCESS
 Genre added: 87371
 addGenre: SUCCESS
 Genre added: 89221
@@ -26316,7 +28112,8 @@ mergeGenres: FAILURE
 Genre added: 3701
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69136 genre27015
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 37781
@@ -26325,8 +28122,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 89264
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 57907 genre64184
+addSong: SUCCESS
+song added: 89995 genre27748
+addSong: SUCCESS
 Genre added: 20777
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -26342,7 +28141,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92672
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 25441 genre71084
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 99335
 addGenre: SUCCESS
@@ -26374,7 +28174,8 @@ Genre added: 24563
 addGenre: SUCCESS
 Genre added: 8211
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60418 genre2104
+addSong: SUCCESS
 Genre added: 16920
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26385,7 +28186,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 74664
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 5572
 addGenre: SUCCESS
@@ -26394,12 +28195,15 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 88320
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 634 genre73532
+addSong: SUCCESS
+song added: 52736 genre12140
+addSong: SUCCESS
 Genre added: 67777
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 73747 genre84108
+addSong: SUCCESS
 Genre added: 15164
 addGenre: SUCCESS
 Genre added: 54879
@@ -26444,7 +28248,8 @@ Genre added: 3365
 addGenre: SUCCESS
 Genre added: 25259
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65788 genre80236
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51331
 addGenre: SUCCESS
@@ -26496,12 +28301,15 @@ Genre added: 83313
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79534 genre8716
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27082 genre74067
+addSong: SUCCESS
 Genre added: 65535
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52998 genre53040
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 62070
@@ -26512,7 +28320,8 @@ Genre added: 88036
 addGenre: SUCCESS
 Genre added: 38282
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82529 genre35943
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -26528,15 +28337,19 @@ Genre added: 66874
 addGenre: SUCCESS
 Genre added: 92332
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14026 genre92354
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15149 genre83580
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 95471 genre53445
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 9239
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29359 genre82667
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 1471
@@ -26603,7 +28416,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 67563
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4343 genre2367
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 74520
 addGenre: SUCCESS
@@ -26620,7 +28434,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 10084
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61646 genre88724
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 69350
@@ -26645,12 +28460,14 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 42255 genre9808
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 11375
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80312 genre69799
+addSong: SUCCESS
 Genre added: 301
 addGenre: SUCCESS
 Genre added: 5479
@@ -26663,8 +28480,10 @@ addGenre: SUCCESS
 Genre added: 75566
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 27067 genre20867
+addSong: SUCCESS
+song added: 43644 genre79116
+addSong: SUCCESS
 Genre added: 45617
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26678,15 +28497,18 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65219 genre70947
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 7093
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8417 genre43084
+addSong: SUCCESS
 Genre added: 52559
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94929 genre57902
+addSong: SUCCESS
 Genre added: 64640
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26700,7 +28522,8 @@ Genre added: 75227
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89448 genre88478
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 91215
 addGenre: SUCCESS
@@ -26713,12 +28536,15 @@ Genre added: 45948
 addGenre: SUCCESS
 Genre added: 48701
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18797 genre69175
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 53054
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 55738 genre70905
+addSong: SUCCESS
+song added: 86312 genre58644
+addSong: SUCCESS
 Genre added: 43755
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -26730,14 +28556,17 @@ addGenre: SUCCESS
 Genre added: 82168
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 57969 genre1528
+addSong: SUCCESS
+song added: 8807 genre40184
+addSong: SUCCESS
 Genre added: 27611
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 92781
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74578 genre1069
+addSong: SUCCESS
 Genre added: 6939
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -26792,7 +28621,8 @@ Genre added: 75533
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 47643 genre86697
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 59503
 addGenre: SUCCESS
@@ -26819,7 +28649,8 @@ addGenre: SUCCESS
 Genre added: 74975
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 12505 genre2172
+addSong: SUCCESS
 Genre added: 65692
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26832,19 +28663,23 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 42214
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10190 genre6196
+addSong: SUCCESS
 Genre added: 80288
 addGenre: SUCCESS
 Genre added: 41460
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 24810 genre13221
+addSong: SUCCESS
+song added: 32752 genre77136
+addSong: SUCCESS
 Genre added: 65658
 addGenre: SUCCESS
 Genre added: 41247
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 15408 genre9596
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26853,10 +28688,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 31947
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45428 genre1176
+addSong: SUCCESS
 Genre added: 5185
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59954 genre55341
+addSong: SUCCESS
 Genre added: 86574
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -26884,11 +28721,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96757
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22123 genre94689
+addSong: SUCCESS
 Genre added: 6666
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 59563 genre52423
+addSong: SUCCESS
+song added: 30990 genre44129
+addSong: SUCCESS
 Genre added: 66133
 addGenre: SUCCESS
 Genre added: 47415
@@ -26899,7 +28739,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 9238
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4797 genre63101
+addSong: SUCCESS
 Genre added: 92723
 addGenre: SUCCESS
 Genre added: 16305
@@ -26925,7 +28766,8 @@ Genre added: 50293
 addGenre: SUCCESS
 Genre added: 6188
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1476 genre54837
+addSong: SUCCESS
 Genre added: 78947
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26975,14 +28817,16 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 90824
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98704 genre96666
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 79223
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82752 genre94066
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 32388
 addGenre: SUCCESS
@@ -26995,14 +28839,17 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 58450
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48030 genre49414
+addSong: SUCCESS
 Genre added: 7235
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46782 genre20305
+addSong: SUCCESS
 Genre added: 5464
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52350 genre90160
+addSong: SUCCESS
 Genre added: 9624
 addGenre: SUCCESS
 Genre added: 28840
@@ -27019,7 +28866,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 21233 genre28312
+addSong: SUCCESS
 Genre added: 10571
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -27029,13 +28877,15 @@ Genre added: 6397
 addGenre: SUCCESS
 Genre added: 72569
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14558 genre93158
+addSong: SUCCESS
 Genre added: 14760
 addGenre: SUCCESS
 Genre added: 45073
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 13335 genre41790
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 93875
@@ -27064,7 +28914,8 @@ Genre added: 22199
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 44775 genre48374
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60918
 addGenre: SUCCESS
@@ -27072,19 +28923,22 @@ Genre added: 6337
 addGenre: SUCCESS
 Genre added: 21111
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71679 genre76593
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 46230
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 1484 genre34854
+addSong: SUCCESS
 Genre added: 87299
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14354 genre87020
+addSong: SUCCESS
 Genre added: 1275
 addGenre: SUCCESS
 Genre added: 81115
@@ -27095,7 +28949,8 @@ addGenre: SUCCESS
 Genre added: 89326
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 36465 genre26102
+addSong: SUCCESS
 Genre added: 95203
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -27107,10 +28962,12 @@ getSongGenre: SUCCESS, 0
 Genre added: 96775
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 22800 genre52750
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49226 genre49578
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56467
 addGenre: SUCCESS
@@ -27166,14 +29023,16 @@ Genre added: 49279
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 57208 genre13072
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60397
 addGenre: SUCCESS
 Genre added: 27836
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3275 genre56568
+addSong: SUCCESS
 Genre added: 91427
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -27218,16 +29077,20 @@ Genre added: 66678
 addGenre: SUCCESS
 Genre added: 51431
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83309 genre4601
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 28486 genre9570
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28724 genre96201
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 94698 genre8936
+addSong: SUCCESS
 Genre added: 35698
 addGenre: SUCCESS
 Genre added: 72460
@@ -27238,7 +29101,8 @@ Genre added: 53330
 addGenre: SUCCESS
 Genre added: 55017
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83872 genre57451
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 12443
 addGenre: SUCCESS
@@ -27251,20 +29115,24 @@ addGenre: SUCCESS
 Genre added: 32785
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 73666 genre14853
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68776
 addGenre: SUCCESS
 Genre added: 15039
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93561 genre1706
+addSong: SUCCESS
 Genre added: 71811
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 42241 genre80711
+addSong: SUCCESS
+song added: 93794 genre90731
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 35891
@@ -27318,7 +29186,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 78611
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62197 genre88313
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 30256
 addGenre: SUCCESS
@@ -27326,16 +29195,20 @@ Genre added: 32815
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94892 genre15058
+addSong: SUCCESS
 Genre added: 44661
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 68823 genre46942
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 40436 genre97431
+addSong: SUCCESS
+song added: 29695 genre15234
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 81820
 addGenre: SUCCESS
@@ -27349,9 +29222,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77524
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61503 genre23730
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 86217 genre78339
+addSong: SUCCESS
 Genre added: 81467
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -27389,7 +29264,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52690
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 58982 genre30256
+addSong: SUCCESS
 Genre added: 78877
 addGenre: SUCCESS
 Genre added: 99266
@@ -27411,7 +29287,8 @@ Genre added: 34044
 addGenre: SUCCESS
 Genre added: 70853
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94139 genre11853
+addSong: SUCCESS
 Genre added: 4792
 addGenre: SUCCESS
 Genre added: 16914
@@ -27421,15 +29298,19 @@ Genre added: 73155
 addGenre: SUCCESS
 Genre added: 5058
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50181 genre87609
+addSong: SUCCESS
 Genre added: 69267
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5492 genre89318
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 24790 genre11078
+addSong: SUCCESS
+song added: 47506 genre61386
+addSong: SUCCESS
 Genre added: 94472
 addGenre: SUCCESS
 Genre added: 96520
@@ -27454,7 +29335,8 @@ Genre added: 84784
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27258 genre94745
+addSong: SUCCESS
 Genre added: 70996
 addGenre: SUCCESS
 Genre added: 54244
@@ -27464,7 +29346,8 @@ Genre added: 93991
 addGenre: SUCCESS
 Genre added: 45228
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78910 genre59311
+addSong: SUCCESS
 Genre added: 9606
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -27486,13 +29369,16 @@ getSongGenre: SUCCESS, 0
 Genre added: 31515
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 46796 genre56235
+addSong: SUCCESS
 Genre added: 5937
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15269 genre25222
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73453 genre96733
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56204
 addGenre: SUCCESS
@@ -27505,7 +29391,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 74125 genre34652
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52074
 addGenre: SUCCESS
@@ -27550,22 +29437,26 @@ Genre added: 38932
 addGenre: SUCCESS
 Genre added: 94723
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78621 genre43234
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 87590
 addGenre: SUCCESS
 Genre added: 96310
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86407 genre27198
+addSong: SUCCESS
 Genre added: 62804
 addGenre: SUCCESS
 Genre added: 49828
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 51499 genre31610
+addSong: SUCCESS
 Genre added: 19682
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34944 genre58067
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -27593,26 +29484,32 @@ Genre added: 91970
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 77968 genre75520
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 12648
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62295 genre23741
+addSong: SUCCESS
 Genre added: 73243
 addGenre: SUCCESS
 Genre added: 83970
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 24981 genre55556
+addSong: SUCCESS
+song added: 14592 genre29498
+addSong: SUCCESS
 Genre added: 18662
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1245 genre52226
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 71576 genre25259
+addSong: SUCCESS
 Genre added: 18436
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -27636,12 +29533,15 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 70537
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89279 genre64126
+addSong: SUCCESS
 Genre added: 20718
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 15179 genre44791
+addSong: SUCCESS
+song added: 88146 genre58358
+addSong: SUCCESS
 Genre added: 78755
 addGenre: SUCCESS
 Genre added: 85484
@@ -27670,9 +29570,11 @@ mergeGenres: FAILURE
 Genre added: 35893
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 899 genre59207
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 52813 genre467
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 31427
 addGenre: SUCCESS
@@ -27680,11 +29582,13 @@ addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58085
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44485 genre2041
+addSong: SUCCESS
 Genre added: 60045
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64977 genre9573
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 68956
 addGenre: SUCCESS
@@ -27694,7 +29598,8 @@ Genre added: 68269
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 70161 genre1774
+addSong: SUCCESS
 Genre added: 98498
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -27744,20 +29649,24 @@ Genre added: 32564
 addGenre: SUCCESS
 Genre added: 2531
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1264 genre31688
+addSong: SUCCESS
 Genre added: 1129
 addGenre: SUCCESS
 Genre added: 94048
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40232 genre25618
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96178
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39684 genre5682
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 40300
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21013 genre16823
+addSong: SUCCESS
 Genre added: 86250
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -27765,7 +29674,8 @@ mergeGenres: FAILURE
 Genre added: 46321
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 93536 genre95087
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 14368
 addGenre: SUCCESS
@@ -27781,13 +29691,15 @@ Genre added: 89027
 addGenre: SUCCESS
 Genre added: 24255
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57035 genre10364
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 83732
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26127 genre67938
+addSong: SUCCESS
 Genre added: 75110
 addGenre: SUCCESS
 Genre added: 25444
@@ -27803,13 +29715,15 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22538 genre60532
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 38085
 addGenre: SUCCESS
 Genre added: 50783
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69303 genre82102
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86698
 addGenre: SUCCESS
@@ -27835,12 +29749,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2677
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31664 genre44677
+addSong: SUCCESS
 Genre added: 32953
 addGenre: SUCCESS
 Genre added: 72339
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72915 genre31927
+addSong: SUCCESS
 Genre added: 62009
 addGenre: SUCCESS
 Genre added: 65654
@@ -27862,7 +29778,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 71060
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7937 genre98972
+addSong: SUCCESS
 Genre added: 9654
 addGenre: SUCCESS
 Genre added: 3997
@@ -27874,7 +29791,8 @@ addGenre: SUCCESS
 Genre added: 66503
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 40175 genre39653
+addSong: SUCCESS
 Genre added: 22751
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -27891,17 +29809,22 @@ addGenre: INVALID_INPUT
 Genre added: 71284
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2261 genre55126
+addSong: SUCCESS
 Genre added: 81366
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 19561 genre27239
+addSong: SUCCESS
+song added: 70456 genre54073
+addSong: SUCCESS
+song added: 27745 genre62635
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 86907
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 12516 genre27809
+addSong: SUCCESS
 Genre added: 55709
 addGenre: SUCCESS
 Genre added: 12309
@@ -27913,13 +29836,15 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50177 genre81419
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 57164
 addGenre: SUCCESS
 Genre added: 38381
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34880 genre4854
+addSong: SUCCESS
 Genre added: 61800
 addGenre: SUCCESS
 Genre added: 95384
@@ -27928,8 +29853,10 @@ Genre added: 7349
 addGenre: SUCCESS
 Genre added: 86957
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 72415 genre67690
+addSong: SUCCESS
+song added: 37688 genre18518
+addSong: SUCCESS
 Genre added: 52593
 addGenre: SUCCESS
 Genre added: 81305
@@ -27963,7 +29890,8 @@ Genre added: 21332
 addGenre: SUCCESS
 Genre added: 27846
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8178 genre69864
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 88003
@@ -27979,7 +29907,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 47129
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 63262 genre79442
+addSong: SUCCESS
 Genre added: 76210
 addGenre: SUCCESS
 Genre added: 83910
@@ -27988,7 +29917,8 @@ mergeGenres: FAILURE
 Genre added: 11680
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57723 genre78777
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -27998,8 +29928,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 51436 genre22237
+addSong: SUCCESS
+song added: 22170 genre76949
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -28044,8 +29976,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 47977
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 18461 genre97777
+addSong: SUCCESS
+song added: 90786 genre37555
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -28063,7 +29997,8 @@ Genre added: 29878
 addGenre: SUCCESS
 Genre added: 7593
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63753 genre55738
+addSong: SUCCESS
 Genre added: 48526
 addGenre: SUCCESS
 Genre added: 93691
@@ -28086,7 +30021,8 @@ Genre added: 21747
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32831 genre63645
+addSong: SUCCESS
 Genre added: 71484
 addGenre: SUCCESS
 Genre added: 16783
@@ -28100,8 +30036,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 85282 genre99991
+addSong: SUCCESS
+song added: 77876 genre75413
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15267
 addGenre: SUCCESS
@@ -28120,7 +30058,8 @@ Genre added: 89015
 addGenre: SUCCESS
 Genre added: 96843
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53883 genre71234
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37320
@@ -28132,8 +30071,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72294
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 63101 genre63684
+addSong: SUCCESS
+song added: 58709 genre56301
+addSong: SUCCESS
 Genre added: 19845
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -28156,7 +30097,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 7348
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35192 genre23760
+addSong: SUCCESS
 Genre added: 7758
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -28166,7 +30108,8 @@ addGenre: SUCCESS
 Genre added: 92686
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 21135 genre52442
+addSong: SUCCESS
 Genre added: 12908
 addGenre: SUCCESS
 Genre added: 72446
@@ -28176,7 +30119,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31893
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52401 genre38657
+addSong: SUCCESS
 Genre added: 81897
 addGenre: SUCCESS
 Genre added: 62387
@@ -28208,19 +30152,22 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51464
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13691 genre9235
+addSong: SUCCESS
 Genre added: 37179
 addGenre: SUCCESS
 Genre added: 56830
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63142 genre57280
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 45760
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64024 genre78370
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 70348
@@ -28244,7 +30191,8 @@ Genre added: 57596
 addGenre: SUCCESS
 Genre added: 51347
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95421 genre83760
+addSong: SUCCESS
 Genre added: 92159
 addGenre: SUCCESS
 Genre added: 41947
@@ -28269,7 +30217,8 @@ addGenre: SUCCESS
 Genre added: 19554
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 18753 genre60321
+addSong: SUCCESS
 Genre added: 47369
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -28299,7 +30248,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 19244
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52874 genre89373
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 82295
@@ -28326,24 +30276,29 @@ Genre added: 13749
 addGenre: SUCCESS
 Genre added: 80813
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2069 genre41425
+addSong: SUCCESS
 Genre added: 3647
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88197 genre56623
+addSong: SUCCESS
 Genre added: 31859
 addGenre: SUCCESS
 Genre added: 34918
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92647 genre76307
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 54385 genre83885
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 92792
 addGenre: SUCCESS
 Genre added: 91325
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 424 genre72956
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 30778
 addGenre: SUCCESS
@@ -28366,8 +30321,10 @@ addGenre: SUCCESS
 Genre added: 49348
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 20186 genre22602
+addSong: SUCCESS
+song added: 84139 genre79462
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 8504
 addGenre: SUCCESS
@@ -28378,7 +30335,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 42979
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6357 genre29751
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 76352
@@ -28399,8 +30357,10 @@ addGenre: SUCCESS
 Genre added: 86282
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 32251 genre29014
+addSong: SUCCESS
+song added: 64915 genre89303
+addSong: SUCCESS
 Genre added: 21468
 addGenre: SUCCESS
 Genre added: 55354
@@ -28409,7 +30369,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 15661
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35319 genre95541
+addSong: SUCCESS
 Genre added: 61341
 addGenre: SUCCESS
 Genre added: 7574
@@ -28422,14 +30383,16 @@ Genre added: 30132
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 14949 genre51064
+addSong: SUCCESS
 Genre added: 94905
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41360
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 26780 genre36460
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 90668
 addGenre: SUCCESS
@@ -28442,7 +30405,8 @@ addGenre: SUCCESS
 Genre added: 3291
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 97228 genre48641
+addSong: SUCCESS
 Genre added: 21693
 addGenre: SUCCESS
 Genre added: 32534
@@ -28464,7 +30428,8 @@ Genre added: 63321
 addGenre: SUCCESS
 Genre added: 28470
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36443 genre51878
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
@@ -28473,10 +30438,12 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19382
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23078 genre55354
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16095 genre63130
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 99330
 addGenre: SUCCESS
@@ -28484,8 +30451,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58825
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 20295 genre28584
+addSong: SUCCESS
+song added: 38928 genre42155
+addSong: SUCCESS
 Genre added: 15651
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -28494,12 +30463,14 @@ addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 16089
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94531 genre67312
+addSong: SUCCESS
 Genre added: 40021
 addGenre: SUCCESS
 Genre added: 99168
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31916 genre57683
+addSong: SUCCESS
 Genre added: 96964
 addGenre: SUCCESS
 Genre added: 51950
@@ -28515,7 +30486,8 @@ Genre added: 30972
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 19168 genre33945
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 43387
@@ -28555,7 +30527,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79832 genre58667
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 49394
@@ -28579,15 +30552,19 @@ Genre added: 53629
 addGenre: SUCCESS
 Genre added: 72364
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89243 genre90954
+addSong: SUCCESS
 Genre added: 91555
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 82837 genre63210
+addSong: SUCCESS
+song added: 94360 genre57829
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 36643 genre30984
+addSong: SUCCESS
 Genre added: 70394
 addGenre: SUCCESS
 Genre added: 51918
@@ -28617,15 +30594,18 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90160 genre26632
+addSong: SUCCESS
 Genre added: 49373
 addGenre: SUCCESS
 Genre added: 72849
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15806 genre91960
+addSong: SUCCESS
 Genre added: 39672
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33757 genre18826
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 39805
 addGenre: SUCCESS
@@ -28711,7 +30691,8 @@ addGenre: SUCCESS
 Genre added: 6350
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 37464 genre67869
+addSong: SUCCESS
 Genre added: 84973
 addGenre: SUCCESS
 Genre added: 34650
@@ -28722,7 +30703,8 @@ Genre added: 87257
 addGenre: SUCCESS
 Genre added: 564
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11053 genre5682
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 97386
 addGenre: SUCCESS
@@ -28735,7 +30717,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 5658
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35511 genre49856
+addSong: SUCCESS
 Genre added: 54920
 addGenre: SUCCESS
 Genre added: 38108
@@ -28745,8 +30728,10 @@ mergeGenres: FAILURE
 Genre added: 50398
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 98293 genre14018
+addSong: SUCCESS
+song added: 84807 genre45376
+addSong: SUCCESS
 Genre added: 9133
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -28780,7 +30765,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 39848
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5583 genre97364
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 96730
 addGenre: SUCCESS
@@ -28799,8 +30785,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 30913
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 42712 genre90375
+addSong: SUCCESS
+song added: 8081 genre55715
+addSong: SUCCESS
 Genre added: 93602
 addGenre: SUCCESS
 Genre added: 16513
@@ -28834,19 +30822,22 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80770 genre37540
+addSong: SUCCESS
 Genre added: 77983
 addGenre: SUCCESS
 Genre added: 20291
 addGenre: SUCCESS
 Genre added: 31967
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 50469 genre31967
+addSong: SUCCESS
 Genre added: 41837
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 80668 genre8715
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 12445
 addGenre: SUCCESS
@@ -28900,7 +30891,8 @@ Genre added: 71239
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9000 genre20475
+addSong: SUCCESS
 Genre added: 45939
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -28932,7 +30924,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 593 genre83339
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 59939
 addGenre: SUCCESS
@@ -28963,8 +30956,10 @@ Genre added: 95802
 addGenre: SUCCESS
 Genre added: 86094
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35612 genre64878
+addSong: SUCCESS
+song added: 68530 genre2054
+addSong: SUCCESS
 Genre added: 65588
 addGenre: SUCCESS
 Genre added: 40354
@@ -28974,20 +30969,24 @@ addGenre: SUCCESS
 Genre added: 11231
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81506 genre30442
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 48899
 addGenre: SUCCESS
 Genre added: 96961
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25603 genre22463
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87744 genre56848
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7620 genre60040
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 47732
@@ -29038,11 +31037,13 @@ addGenre: SUCCESS
 Genre added: 89152
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52202 genre28225
+addSong: SUCCESS
 Genre added: 20197
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92359 genre32546
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -29061,17 +31062,20 @@ addGenre: SUCCESS
 Genre added: 88113
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48429 genre59456
+addSong: SUCCESS
 Genre added: 23131
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34125 genre19550
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96759
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 52525
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76385 genre33794
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -29083,9 +31087,12 @@ Genre added: 92677
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 98461 genre54134
+addSong: SUCCESS
+song added: 82244 genre27409
+addSong: SUCCESS
+song added: 69713 genre38290
+addSong: SUCCESS
 Genre added: 72345
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -29095,9 +31102,11 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 54923
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10041 genre27862
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62814 genre53239
+addSong: SUCCESS
 Genre added: 7064
 addGenre: SUCCESS
 Genre added: 69981
@@ -29155,7 +31164,8 @@ Genre added: 46983
 addGenre: SUCCESS
 Genre added: 89596
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43254 genre10516
+addSong: SUCCESS
 Genre added: 1848
 addGenre: SUCCESS
 Genre added: 73899
@@ -29164,7 +31174,7 @@ Genre added: 298
 addGenre: SUCCESS
 Genre added: 4015
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93702
@@ -29230,7 +31240,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 14552 genre56626
+addSong: SUCCESS
 Genre added: 61175
 addGenre: SUCCESS
 Genre added: 83390
@@ -29238,7 +31249,8 @@ addGenre: SUCCESS
 Genre added: 27017
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 54852 genre67247
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 66682
 addGenre: SUCCESS
@@ -29280,11 +31292,13 @@ Genre added: 74615
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 72061 genre6363
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 32318
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19526 genre59288
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 78994
@@ -29312,7 +31326,8 @@ Genre added: 54826
 addGenre: SUCCESS
 Genre added: 31414
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88315 genre17361
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 95881
 addGenre: SUCCESS
@@ -29326,7 +31341,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 3331
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 349 genre52706
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 97046
 addGenre: SUCCESS
@@ -29348,7 +31364,8 @@ Genre added: 36581
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 98779 genre2055
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 93890
@@ -29365,10 +31382,12 @@ Genre added: 33392
 addGenre: SUCCESS
 Genre added: 48962
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62209 genre22046
+addSong: SUCCESS
 Genre added: 59705
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98962 genre58726
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 66439
 addGenre: SUCCESS
@@ -29417,7 +31436,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 43126
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35576 genre14639
+addSong: SUCCESS
 Genre added: 59568
 addGenre: SUCCESS
 Genre added: 77380
@@ -29426,7 +31446,8 @@ Genre added: 47604
 addGenre: SUCCESS
 Genre added: 22575
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38682 genre46356
+addSong: SUCCESS
 Genre added: 36338
 addGenre: SUCCESS
 Genre added: 36882
@@ -29434,7 +31455,8 @@ addGenre: SUCCESS
 Genre added: 2345
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 2423 genre49508
+addSong: SUCCESS
 Genre added: 12014
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -29442,7 +31464,8 @@ Genre added: 89668
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 11300 genre35269
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 12457
 addGenre: SUCCESS
@@ -29474,8 +31497,10 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 92194
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 67522 genre66037
+addSong: SUCCESS
+song added: 98010 genre1226
+addSong: SUCCESS
 Genre added: 18303
 addGenre: SUCCESS
 Genre added: 67344
@@ -29495,7 +31520,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28841 genre69838
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -29530,7 +31556,8 @@ addGenre: SUCCESS
 Genre added: 55376
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 94375 genre70515
+addSong: SUCCESS
 Genre added: 50054
 addGenre: SUCCESS
 Genre added: 23575
@@ -29554,7 +31581,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 50136
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58749 genre76445
+addSong: SUCCESS
 Genre added: 76302
 addGenre: SUCCESS
 Genre added: 17463
@@ -29578,7 +31606,8 @@ Genre added: 58933
 addGenre: SUCCESS
 Genre added: 94292
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19137 genre9781
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -29598,7 +31627,8 @@ addGenre: SUCCESS
 Genre added: 17469
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 41610 genre62160
+addSong: SUCCESS
 Genre added: 23660
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -29613,7 +31643,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25440 genre89768
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 47819
 addGenre: SUCCESS
@@ -29624,7 +31655,8 @@ Genre added: 22328
 addGenre: SUCCESS
 Genre added: 65204
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31648 genre68018
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77608
@@ -29649,10 +31681,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37891 genre46347
+addSong: SUCCESS
 Genre added: 1246
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51566 genre84452
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 48389
 addGenre: SUCCESS
@@ -29665,7 +31699,8 @@ Genre added: 77839
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 14876 genre84797
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -29700,7 +31735,8 @@ Genre added: 54369
 addGenre: SUCCESS
 Genre added: 78291
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46687 genre23560
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 34706
 addGenre: SUCCESS
@@ -29710,11 +31746,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 69718
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72830 genre55551
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29693
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56351 genre84618
+addSong: SUCCESS
 Genre added: 32246
 addGenre: SUCCESS
 Genre added: 98718
@@ -29733,9 +31771,11 @@ Genre added: 69270
 addGenre: SUCCESS
 Genre added: 80631
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73115 genre75058
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90407 genre74874
+addSong: SUCCESS
 Genre added: 82607
 addGenre: SUCCESS
 Genre added: 69314
@@ -29751,16 +31791,20 @@ Genre added: 82724
 addGenre: SUCCESS
 Genre added: 71312
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 83588 genre97079
+addSong: SUCCESS
+song added: 30135 genre29433
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 43592 genre22229
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 29056
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28671 genre50262
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 42014
 addGenre: SUCCESS
@@ -29782,7 +31826,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 36427
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52624 genre70994
+addSong: SUCCESS
 Genre added: 99053
 addGenre: SUCCESS
 Genre added: 11402
@@ -29806,8 +31851,10 @@ Genre added: 48889
 addGenre: SUCCESS
 Genre added: 20405
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 17927 genre16305
+addSong: SUCCESS
+song added: 36983 genre99374
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 75012
 addGenre: SUCCESS
@@ -29854,7 +31901,8 @@ addGenre: SUCCESS
 Genre added: 82861
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69687 genre28079
+addSong: SUCCESS
 Genre added: 83482
 addGenre: SUCCESS
 Genre added: 19913
@@ -29874,7 +31922,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 20919
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13921 genre89292
+addSong: SUCCESS
 Genre added: 23598
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -29900,11 +31949,13 @@ mergeGenres: FAILURE
 Genre added: 10961
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96822 genre56350
+addSong: SUCCESS
 Genre added: 3033
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90603 genre21673
+addSong: SUCCESS
 Genre added: 64623
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -29913,7 +31964,7 @@ Genre added: 14175
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 90316
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -29943,13 +31994,17 @@ addGenre: SUCCESS
 Genre added: 9906
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96279 genre55144
+addSong: SUCCESS
 Genre added: 99497
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15947 genre61071
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 12009 genre97998
+addSong: SUCCESS
+song added: 64201 genre36400
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -29982,11 +32037,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56310
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 66113 genre83428
+addSong: SUCCESS
+song added: 37680 genre25556
+addSong: SUCCESS
 Genre added: 22944
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57755 genre5173
+addSong: SUCCESS
 Genre added: 31171
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -29998,7 +32056,8 @@ Genre added: 74474
 addGenre: SUCCESS
 Genre added: 40051
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98350 genre50053
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 43639
@@ -30007,7 +32066,8 @@ Genre added: 19548
 addGenre: SUCCESS
 Genre added: 19680
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42025 genre94954
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 1915
@@ -30017,7 +32077,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38445 genre93358
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73499
 addGenre: SUCCESS
@@ -30051,13 +32112,17 @@ Genre added: 94168
 addGenre: SUCCESS
 Genre added: 50974
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 26598 genre96562
+addSong: SUCCESS
+song added: 69253 genre41091
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 29890 genre36168
+addSong: SUCCESS
 Genre added: 55274
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11508 genre76096
+addSong: SUCCESS
 Genre added: 90714
 addGenre: SUCCESS
 Genre added: 89300
@@ -30070,7 +32135,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 63259
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 4896 genre30468
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 43148
@@ -30090,12 +32156,14 @@ mergeGenres: FAILURE
 Genre added: 32696
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 34226 genre3375
+addSong: SUCCESS
 Genre added: 81863
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 10531 genre16340
+addSong: SUCCESS
 Genre added: 52250
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -30111,7 +32179,8 @@ addGenre: SUCCESS
 Genre added: 91942
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 10133 genre49794
+addSong: SUCCESS
 Genre added: 74884
 addGenre: SUCCESS
 Genre added: 53015
@@ -30126,7 +32195,8 @@ Genre added: 3207
 addGenre: SUCCESS
 Genre added: 10114
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3333 genre65388
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96286
@@ -30147,19 +32217,23 @@ Genre added: 54085
 addGenre: SUCCESS
 Genre added: 87007
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90231 genre16600
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 2188
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 92895 genre64119
+addSong: SUCCESS
+song added: 38182 genre84906
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 43828
 addGenre: SUCCESS
 Genre added: 58371
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42191 genre80963
+addSong: SUCCESS
 Genre added: 81845
 addGenre: SUCCESS
 Genre added: 272
@@ -30188,7 +32262,8 @@ addGenre: SUCCESS
 Genre added: 29508
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 13758 genre3756
+addSong: SUCCESS
 Genre added: 22417
 addGenre: SUCCESS
 Genre added: 80336
@@ -30206,7 +32281,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 69185
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92098 genre1817
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 14
@@ -30214,7 +32290,8 @@ addGenre: SUCCESS
 Genre added: 54269
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 21652 genre87012
+addSong: SUCCESS
 Genre added: 37220
 addGenre: SUCCESS
 Genre added: 84620
@@ -30223,8 +32300,10 @@ Genre added: 84722
 addGenre: SUCCESS
 Genre added: 76789
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 55169 genre52250
+addSong: SUCCESS
+song added: 3774 genre78904
+addSong: SUCCESS
 Genre added: 39007
 addGenre: SUCCESS
 Genre added: 43130
@@ -30235,7 +32314,8 @@ addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 35955 genre94696
+addSong: SUCCESS
 Genre added: 52822
 addGenre: SUCCESS
 Genre added: 76905
@@ -30259,10 +32339,12 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78376
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67262 genre13907
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 98059 genre68565
+addSong: SUCCESS
 Genre added: 69489
 addGenre: SUCCESS
 Genre added: 24268
@@ -30273,22 +32355,26 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87521
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41055 genre93179
+addSong: SUCCESS
 Genre added: 80337
 addGenre: SUCCESS
 Genre added: 34173
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 67218 genre63458
+addSong: SUCCESS
 Genre added: 73117
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 6874 genre50023
+addSong: SUCCESS
 Genre added: 53963
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90841 genre14586
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 36084
 addGenre: SUCCESS
@@ -30301,9 +32387,12 @@ Genre added: 14407
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 28836 genre12173
+addSong: SUCCESS
+song added: 53979 genre79947
+addSong: SUCCESS
+song added: 84229 genre88441
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 3900
 addGenre: SUCCESS
@@ -30313,7 +32402,8 @@ Genre added: 16256
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 48665 genre19149
+addSong: SUCCESS
 Genre added: 3347
 addGenre: SUCCESS
 Genre added: 31746
@@ -30327,7 +32417,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 977
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56502 genre63825
+addSong: SUCCESS
 Genre added: 88268
 addGenre: SUCCESS
 Genre added: 53477
@@ -30345,7 +32436,8 @@ addGenre: SUCCESS
 Genre added: 48208
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 91806 genre82589
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -30376,14 +32468,17 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 18680
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27922 genre70898
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38231 genre62562
+addSong: SUCCESS
 Genre added: 9051
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39568 genre36018
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 5428
@@ -30392,7 +32487,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 40161
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72321 genre28225
+addSong: SUCCESS
 Genre added: 63135
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -30415,17 +32511,21 @@ addGenre: SUCCESS
 Genre added: 6149
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47192 genre76609
+addSong: SUCCESS
 Genre added: 10176
 addGenre: SUCCESS
 Genre added: 68111
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2956 genre39342
+addSong: SUCCESS
 Genre added: 9849
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 1218 genre84776
+addSong: SUCCESS
+song added: 83480 genre80062
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
@@ -30437,14 +32537,16 @@ Genre added: 39899
 addGenre: SUCCESS
 Genre added: 89538
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61428 genre2466
+addSong: SUCCESS
 Genre added: 35630
 addGenre: SUCCESS
 Genre added: 98697
 addGenre: SUCCESS
 Genre added: 7572
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57361 genre28303
+addSong: SUCCESS
 Genre added: 29137
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -30466,12 +32568,16 @@ addGenre: SUCCESS
 Genre added: 20843
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 60734 genre50788
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 85619 genre89476
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 18364 genre13270
+addSong: SUCCESS
+song added: 40635 genre93781
+addSong: SUCCESS
 Genre added: 15855
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -30480,10 +32586,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 98094
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91255 genre8022
+addSong: SUCCESS
 Genre added: 65552
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41752 genre92875
+addSong: SUCCESS
 Genre added: 52570
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -30496,9 +32604,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 90003
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83506 genre40393
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46123 genre45874
+addSong: SUCCESS
 Genre added: 572
 addGenre: SUCCESS
 Genre added: 68247
@@ -30539,7 +32649,8 @@ addGenre: SUCCESS
 Genre added: 85602
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 20395 genre9186
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 55493
 addGenre: SUCCESS
@@ -30550,7 +32661,7 @@ Genre added: 38483
 addGenre: SUCCESS
 Genre added: 289
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 54437
 addGenre: SUCCESS
 Genre added: 16726
@@ -30575,7 +32686,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48020
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81403 genre83042
+addSong: SUCCESS
 Genre added: 1641
 addGenre: SUCCESS
 Genre added: 33380
@@ -30627,7 +32739,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 69829
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81644 genre36309
+addSong: SUCCESS
 Genre added: 68693
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -30656,9 +32769,11 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21617
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 2362 genre98277
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 21060 genre14330
+addSong: SUCCESS
 Genre added: 11014
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -30685,7 +32800,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 9541
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62960 genre10754
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -30709,17 +32825,21 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 49646 genre9899
+addSong: SUCCESS
 Genre added: 99365
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 93066
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 83638 genre73663
+addSong: SUCCESS
+song added: 11457 genre41535
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 93434 genre45276
+addSong: SUCCESS
 Genre added: 28835
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -30736,7 +32856,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 91133
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66245 genre62585
+addSong: SUCCESS
 Genre added: 64247
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -30744,7 +32865,8 @@ Genre added: 53757
 addGenre: SUCCESS
 Genre added: 46898
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84337 genre41916
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67859
 addGenre: SUCCESS
@@ -30755,7 +32877,8 @@ mergeGenres: FAILURE
 Genre added: 35095
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96346 genre79949
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 86469
@@ -30798,17 +32921,21 @@ Genre added: 88319
 addGenre: SUCCESS
 Genre added: 29606
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6594 genre43077
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2648 genre20992
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 66257 genre22232
+addSong: SUCCESS
 Genre added: 44037
 addGenre: SUCCESS
 Genre added: 71894
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13296 genre71239
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 51745
 addGenre: SUCCESS
@@ -30829,11 +32956,14 @@ addGenre: SUCCESS
 Genre added: 14862
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 43684 genre87902
+addSong: SUCCESS
+song added: 94686 genre62241
+addSong: SUCCESS
 Genre added: 69497
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32657 genre47120
+addSong: SUCCESS
 Genre added: 35207
 addGenre: SUCCESS
 Genre added: 40970
@@ -30843,14 +32973,16 @@ Genre added: 72072
 addGenre: SUCCESS
 Genre added: 90298
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 3913
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7036 genre25526
+addSong: SUCCESS
 Genre added: 1382
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7406 genre7618
+addSong: SUCCESS
 Genre added: 91293
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -30864,7 +32996,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 64982
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23320 genre71153
+addSong: SUCCESS
 Genre added: 77852
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -30903,15 +33036,18 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 36860
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43692 genre43517
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 61796
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43471 genre40393
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12255 genre77887
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 1151
 addGenre: SUCCESS
@@ -30955,7 +33091,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 10369
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 7064 genre57982
+addSong: SUCCESS
 Genre added: 46976
 addGenre: SUCCESS
 Genre added: 83050
@@ -30968,7 +33105,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 34504
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12854 genre18871
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 21479
 addGenre: SUCCESS
@@ -30976,7 +33114,8 @@ Genre added: 58878
 addGenre: SUCCESS
 Genre added: 1573
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72645 genre58744
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 87431
 addGenre: SUCCESS
@@ -31017,7 +33156,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28008 genre66341
+addSong: SUCCESS
 Genre added: 7354
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -31030,7 +33170,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 46451
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73628 genre52203
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 29692
 addGenre: SUCCESS
@@ -31057,9 +33198,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 36729
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43808 genre62239
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 4877 genre16143
+addSong: SUCCESS
 Genre added: 54523
 addGenre: SUCCESS
 Genre added: 36077
@@ -31080,7 +33223,8 @@ addGenre: INVALID_INPUT
 Genre added: 93818
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41083 genre63121
+addSong: SUCCESS
 Genre added: 87144
 addGenre: SUCCESS
 Genre added: 85481
@@ -31088,8 +33232,10 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 24149
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 3893 genre36467
+addSong: SUCCESS
+song added: 78965 genre1020
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 51746
 addGenre: SUCCESS
@@ -31110,7 +33256,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73859 genre46138
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8835
 addGenre: SUCCESS
@@ -31131,7 +33278,8 @@ Genre added: 11324
 addGenre: SUCCESS
 Genre added: 96405
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7823 genre62869
+addSong: SUCCESS
 Genre added: 14500
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -31153,10 +33301,12 @@ Genre added: 98629
 addGenre: SUCCESS
 Genre added: 75783
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22759 genre86364
+addSong: SUCCESS
 Genre added: 52325
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15253 genre49976
+addSong: SUCCESS
 Genre added: 83412
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -31172,7 +33322,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 13413
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28078 genre52865
+addSong: SUCCESS
 Genre added: 65386
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -31181,7 +33332,8 @@ addGenre: SUCCESS
 Genre added: 80796
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2633 genre78311
+addSong: SUCCESS
 Genre added: 25342
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31212,7 +33364,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68860
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12697 genre10939
+addSong: SUCCESS
 Genre added: 8849
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -31220,7 +33373,8 @@ Genre added: 96440
 addGenre: SUCCESS
 Genre added: 53331
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40227 genre4292
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
@@ -31257,14 +33411,16 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94406
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33846 genre86465
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51444
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 19251 genre35878
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34243
 addGenre: SUCCESS
@@ -31326,8 +33482,10 @@ Genre added: 27684
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 52977 genre62379
+addSong: SUCCESS
+song added: 63534 genre33341
+addSong: SUCCESS
 Genre added: 11477
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31369,7 +33527,8 @@ Genre added: 69865
 addGenre: SUCCESS
 Genre added: 76827
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39484 genre43533
+addSong: SUCCESS
 Genre added: 6172
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31377,7 +33536,8 @@ mergeGenres: FAILURE
 Genre added: 33505
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 95704 genre43533
+addSong: SUCCESS
 Genre added: 43089
 addGenre: SUCCESS
 Genre added: 28169
@@ -31394,7 +33554,8 @@ mergeGenres: FAILURE
 Genre added: 1543
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3900 genre10464
+addSong: SUCCESS
 Genre added: 78955
 addGenre: SUCCESS
 Genre added: 61197
@@ -31430,7 +33591,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 74483 genre18801
+addSong: SUCCESS
 Genre added: 74850
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -31475,7 +33637,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 63317
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97184 genre27845
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68073
 addGenre: SUCCESS
@@ -31483,11 +33646,13 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 13260 genre12339
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 71229
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81141 genre6500
+addSong: SUCCESS
 Genre added: 62824
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -31522,7 +33687,8 @@ addGenre: SUCCESS
 Genre added: 23848
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94129 genre48559
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 15474
@@ -31530,8 +33696,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 72068
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 9545 genre89193
+addSong: SUCCESS
+song added: 30902 genre75135
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 55072
 addGenre: SUCCESS
@@ -31541,14 +33709,16 @@ Genre added: 84769
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7098 genre55569
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 66116
 addGenre: SUCCESS
 Genre added: 41485
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55645 genre19627
+addSong: SUCCESS
 Genre added: 79758
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -31561,12 +33731,14 @@ addGenre: SUCCESS
 Genre added: 57047
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49396 genre9372
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 1621
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80252 genre48208
+addSong: SUCCESS
 Genre added: 6824
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -31578,7 +33750,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53434
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 6497 genre35533
+addSong: SUCCESS
 Genre added: 99951
 addGenre: SUCCESS
 Genre added: 24289
@@ -31588,7 +33761,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 57043
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4498 genre83710
+addSong: SUCCESS
 Genre added: 2078
 addGenre: SUCCESS
 Genre added: 32285
@@ -31607,15 +33781,18 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77197
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 93210 genre55419
+addSong: SUCCESS
+song added: 20617 genre1069
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52222
 addGenre: SUCCESS
 Genre added: 49866
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64542 genre52955
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 81060
 addGenre: SUCCESS
@@ -31623,7 +33800,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 26294
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90607 genre20100
+addSong: SUCCESS
 Genre added: 26645
 addGenre: SUCCESS
 Genre added: 94018
@@ -31636,7 +33814,8 @@ Genre added: 68010
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 71439 genre83684
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 9209
 addGenre: SUCCESS
@@ -31664,7 +33843,8 @@ Genre added: 92105
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 12007 genre29499
+addSong: SUCCESS
 Genre added: 3505
 addGenre: SUCCESS
 Genre added: 98494
@@ -31675,7 +33855,8 @@ addGenre: SUCCESS
 Genre added: 43587
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 40753 genre92074
+addSong: SUCCESS
 Genre added: 45322
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -31692,11 +33873,13 @@ addGenre: SUCCESS
 Genre added: 96438
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 70056 genre78493
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 5962
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96205 genre386
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 11455
 addGenre: SUCCESS
@@ -31723,7 +33906,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 73335 genre58207
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 51598
 addGenre: SUCCESS
@@ -31740,9 +33924,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 27646
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 81943 genre90826
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60270 genre57944
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -31766,7 +33952,8 @@ addGenre: SUCCESS
 Genre added: 49083
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 74700 genre76720
+addSong: SUCCESS
 Genre added: 22440
 addGenre: SUCCESS
 Genre added: 14314
@@ -31778,7 +33965,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92222 genre29014
+addSong: SUCCESS
 Genre added: 37924
 addGenre: SUCCESS
 Genre added: 99610
@@ -31791,7 +33979,8 @@ addGenre: SUCCESS
 Genre added: 43990
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14516 genre21668
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -31823,7 +34012,8 @@ Genre added: 77321
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 26392 genre79573
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 57488
 addGenre: SUCCESS
@@ -31851,7 +34041,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99782 genre37814
+addSong: SUCCESS
 Genre added: 23043
 addGenre: SUCCESS
 Genre added: 21053
@@ -31862,7 +34053,8 @@ Genre added: 29933
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27176 genre60171
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 22616
 addGenre: SUCCESS
@@ -31877,15 +34069,19 @@ Genre added: 61563
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 63326 genre95393
+addSong: SUCCESS
+song added: 69695 genre96105
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 54221
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68244 genre76975
+addSong: SUCCESS
 Genre added: 23979
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88387 genre55169
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 41197
 addGenre: SUCCESS
@@ -31915,7 +34111,8 @@ mergeGenres: FAILURE
 Genre added: 34879
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 93537 genre8627
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56483
 addGenre: SUCCESS
@@ -31924,18 +34121,21 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 86131
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36679 genre80418
+addSong: SUCCESS
 Genre added: 51882
 addGenre: SUCCESS
 Genre added: 21803
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84482 genre58610
+addSong: SUCCESS
 Genre added: 63271
 addGenre: SUCCESS
 Genre added: 24585
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81331 genre29544
+addSong: SUCCESS
 Genre added: 21420
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31961,12 +34161,15 @@ addGenre: SUCCESS
 Genre added: 48980
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79736 genre40694
+addSong: SUCCESS
 Genre added: 84114
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54434 genre52109
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51124 genre32960
+addSong: SUCCESS
 Genre added: 47280
 addGenre: SUCCESS
 Genre added: 99724
@@ -31993,7 +34196,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 56550 genre97285
+addSong: SUCCESS
 Genre added: 30905
 addGenre: SUCCESS
 Genre added: 15046
@@ -32004,7 +34208,8 @@ Genre added: 23245
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 34390 genre54493
+addSong: SUCCESS
 Genre added: 57342
 addGenre: SUCCESS
 Genre added: 99055
@@ -32012,7 +34217,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 89740
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58549 genre44163
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -32022,7 +34228,8 @@ Genre added: 28138
 addGenre: SUCCESS
 Genre added: 89050
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85546 genre69112
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31015
 addGenre: SUCCESS
@@ -32051,7 +34258,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 17215
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41248 genre57631
+addSong: SUCCESS
 Genre added: 85933
 addGenre: SUCCESS
 Genre added: 58464
@@ -32060,7 +34268,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 64874
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80955 genre700
+addSong: SUCCESS
 Genre added: 10818
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -32082,7 +34291,8 @@ Genre added: 14493
 addGenre: SUCCESS
 Genre added: 71313
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91067 genre25875
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -32104,7 +34314,8 @@ addGenre: SUCCESS
 Genre added: 3964
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 52826 genre22944
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82969
 addGenre: SUCCESS
@@ -32137,8 +34348,10 @@ addGenre: SUCCESS
 Genre added: 6361
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 22084 genre61800
+addSong: SUCCESS
+song added: 94739 genre31927
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -32148,10 +34361,12 @@ addGenre: SUCCESS
 Genre added: 32445
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 79821 genre7082
+addSong: SUCCESS
 Genre added: 65967
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75446 genre33083
+addSong: SUCCESS
 Genre added: 84465
 addGenre: SUCCESS
 Genre added: 17601
@@ -32186,7 +34401,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 22819
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19939 genre95695
+addSong: SUCCESS
 Genre added: 82625
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -32198,7 +34414,8 @@ addGenre: SUCCESS
 Genre added: 47524
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80489 genre56098
+addSong: SUCCESS
 Genre added: 43391
 addGenre: SUCCESS
 Genre added: 94057
@@ -32210,7 +34427,8 @@ Genre added: 26319
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31516 genre71159
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 81201
 addGenre: SUCCESS
@@ -32231,7 +34449,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 79157
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22586 genre5001
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 66458
@@ -32251,20 +34470,25 @@ Genre added: 66373
 addGenre: SUCCESS
 Genre added: 79076
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73480 genre65301
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 84688
 addGenre: SUCCESS
 Genre added: 11495
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26322 genre44504
+addSong: SUCCESS
 Genre added: 5730
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 8905 genre78794
+addSong: SUCCESS
+song added: 27165 genre74351
+addSong: SUCCESS
+song added: 16887 genre24931
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 5061
 addGenre: SUCCESS
@@ -32276,12 +34500,15 @@ addGenre: SUCCESS
 Genre added: 8475
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 29175 genre35314
+addSong: SUCCESS
 Genre added: 35940
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 64698 genre2178
+addSong: SUCCESS
+song added: 53246 genre11741
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 71643
@@ -32292,11 +34519,13 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83368 genre82814
+addSong: SUCCESS
 Genre added: 76631
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89625 genre18987
+addSong: SUCCESS
 Genre added: 9107
 addGenre: SUCCESS
 Genre added: 78280
@@ -32319,7 +34548,8 @@ Genre added: 66763
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 64094 genre35424
+addSong: SUCCESS
 Genre added: 33281
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -32327,7 +34557,8 @@ Genre added: 2732
 addGenre: SUCCESS
 Genre added: 10946
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34070 genre97989
+addSong: SUCCESS
 Genre added: 76716
 addGenre: SUCCESS
 Genre added: 52950
@@ -32337,9 +34568,11 @@ Genre added: 76101
 addGenre: SUCCESS
 Genre added: 97579
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1790 genre50053
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 88489 genre32366
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43422
 addGenre: SUCCESS
@@ -32369,8 +34602,10 @@ Genre added: 35277
 addGenre: SUCCESS
 Genre added: 70254
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 23801 genre85193
+addSong: SUCCESS
+song added: 39541 genre61800
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -32388,7 +34623,8 @@ Genre added: 83405
 addGenre: SUCCESS
 Genre added: 33702
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77893 genre871
+addSong: SUCCESS
 Genre added: 39302
 addGenre: SUCCESS
 Genre added: 26473
@@ -32409,7 +34645,8 @@ addGenre: SUCCESS
 Genre added: 64695
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15120 genre16148
+addSong: SUCCESS
 Genre added: 53306
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -32442,7 +34679,8 @@ Genre added: 51911
 addGenre: SUCCESS
 Genre added: 88201
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59365 genre68269
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 19042
 addGenre: SUCCESS
@@ -32461,7 +34699,8 @@ mergeGenres: FAILURE
 Genre added: 80467
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29707 genre45050
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65922
@@ -32484,7 +34723,8 @@ addGenre: SUCCESS
 Genre added: 15200
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7802 genre44883
+addSong: SUCCESS
 Genre added: 66383
 addGenre: SUCCESS
 Genre added: 79694
@@ -32516,7 +34756,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 56756
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49560 genre45653
+addSong: SUCCESS
 Genre added: 68122
 addGenre: SUCCESS
 Genre added: 98376
@@ -32536,7 +34777,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 30026
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 29868 genre15104
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 14896
 addGenre: SUCCESS
@@ -32558,7 +34800,8 @@ Genre added: 35341
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7302 genre98447
+addSong: SUCCESS
 Genre added: 72454
 addGenre: SUCCESS
 Genre added: 30706
@@ -32567,7 +34810,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 17647
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 79267 genre18598
+addSong: SUCCESS
 Genre added: 23853
 addGenre: SUCCESS
 Genre added: 21946
@@ -32581,7 +34825,8 @@ addGenre: SUCCESS
 Genre added: 14721
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 14722 genre43578
+addSong: SUCCESS
 Genre added: 69033
 addGenre: SUCCESS
 Genre added: 39385
@@ -32596,7 +34841,8 @@ addGenre: SUCCESS
 Genre added: 13077
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 75049 genre14721
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 88475
 addGenre: SUCCESS
@@ -32610,17 +34856,21 @@ Genre added: 8911
 addGenre: SUCCESS
 Genre added: 49293
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87869 genre79949
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 89356 genre69586
+addSong: SUCCESS
+song added: 20818 genre91992
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 29216
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31187 genre39126
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
@@ -32633,7 +34883,8 @@ addGenre: SUCCESS
 Genre added: 89727
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4144 genre256
+addSong: SUCCESS
 Genre added: 60158
 addGenre: SUCCESS
 Genre added: 87992
@@ -32645,9 +34896,11 @@ Genre added: 20809
 addGenre: SUCCESS
 Genre added: 5545
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77732 genre98066
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 66342 genre59288
+addSong: SUCCESS
 Genre added: 43159
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -32655,7 +34908,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 85198
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73019 genre23425
+addSong: SUCCESS
 Genre added: 92721
 addGenre: SUCCESS
 Genre added: 23090
@@ -32683,11 +34937,15 @@ Genre added: 71762
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 75336 genre92111
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 64995 genre13049
+addSong: SUCCESS
+song added: 58605 genre93731
+addSong: SUCCESS
+song added: 17021 genre81394
+addSong: SUCCESS
 Genre added: 44077
 addGenre: SUCCESS
 Genre added: 70778
@@ -32699,14 +34957,16 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 12826
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73887 genre95685
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 96567
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92540 genre55124
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 48968
 addGenre: SUCCESS
@@ -32721,10 +34981,12 @@ addGenre: SUCCESS
 Genre added: 12883
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 44363 genre98137
+addSong: SUCCESS
 Genre added: 67908
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1890 genre67524
+addSong: SUCCESS
 Genre added: 9394
 addGenre: SUCCESS
 Genre added: 62768
@@ -32742,7 +35004,8 @@ addGenre: SUCCESS
 Genre added: 22357
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 50966 genre90600
+addSong: SUCCESS
 Genre added: 93514
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -32760,7 +35023,8 @@ mergeGenres: FAILURE
 Genre added: 56807
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49092 genre6067
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 27871
@@ -32776,11 +35040,14 @@ Genre added: 77735
 addGenre: SUCCESS
 Genre added: 25236
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4535 genre17409
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1391 genre12582
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 44795 genre34482
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74030
 addGenre: SUCCESS
@@ -32793,7 +35060,8 @@ Genre added: 29737
 addGenre: SUCCESS
 Genre added: 47109
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15997 genre12826
+addSong: SUCCESS
 Genre added: 47051
 addGenre: SUCCESS
 Genre added: 79060
@@ -32807,12 +35075,15 @@ Genre added: 73208
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 19266 genre11948
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46413 genre3035
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15295 genre81843
+addSong: SUCCESS
 Genre added: 71529
 addGenre: SUCCESS
 Genre added: 49167
@@ -32827,15 +35098,19 @@ mergeGenres: FAILURE
 Genre added: 83189
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 20609 genre75981
+addSong: SUCCESS
 Genre added: 42242
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 11806 genre25888
+addSong: SUCCESS
+song added: 23698 genre59439
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 91849
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13148 genre33316
+addSong: SUCCESS
 Genre added: 10316
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -32860,10 +35135,12 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 90843 genre87446
+addSong: SUCCESS
 Genre added: 59257
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67881 genre42801
+addSong: SUCCESS
 Genre added: 92965
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -32880,17 +35157,20 @@ Genre added: 42780
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 17941 genre59796
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 57426
 addGenre: SUCCESS
 Genre added: 27849
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29030 genre75204
+addSong: SUCCESS
 Genre added: 86789
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72434 genre5001
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 50347
 addGenre: SUCCESS
@@ -32948,10 +35228,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 72308
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30343 genre42780
+addSong: SUCCESS
 Genre added: 62419
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11340 genre4766
+addSong: SUCCESS
 Genre added: 51071
 addGenre: SUCCESS
 Genre added: 92820
@@ -33031,15 +35313,18 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14009
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 87779
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80302 genre76414
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22521
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 68473 genre1880
+addSong: SUCCESS
+song added: 35255 genre74992
+addSong: SUCCESS
 Genre added: 17698
 addGenre: SUCCESS
 Genre added: 9787
@@ -33069,7 +35354,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63518
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22248 genre66763
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 41700
 addGenre: SUCCESS
@@ -33094,7 +35380,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 84397
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63840 genre21324
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -33106,7 +35393,8 @@ Genre added: 9914
 addGenre: SUCCESS
 Genre added: 70195
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16226 genre13899
+addSong: SUCCESS
 Genre added: 12377
 addGenre: SUCCESS
 Genre added: 9408
@@ -33173,7 +35461,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 6344
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39600 genre98737
+addSong: SUCCESS
 Genre added: 49147
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -33193,7 +35482,8 @@ addGenre: SUCCESS
 Genre added: 33648
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 58303 genre33859
+addSong: SUCCESS
 Genre added: 55142
 addGenre: SUCCESS
 Genre added: 80262
@@ -33213,16 +35503,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 69297
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56243 genre53963
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 40297 genre19575
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5893 genre74262
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 37675 genre79493
+addSong: SUCCESS
+song added: 17879 genre96487
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29783
@@ -33238,7 +35533,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 66210
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 83599 genre20307
+addSong: SUCCESS
 Genre added: 59828
 addGenre: SUCCESS
 Genre added: 71138
@@ -33305,7 +35601,8 @@ Genre added: 31958
 addGenre: SUCCESS
 Genre added: 7693
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69513 genre93813
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 12906
 addGenre: SUCCESS
@@ -33320,7 +35617,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92942
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7836 genre90615
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 46212
@@ -33347,7 +35645,8 @@ addGenre: SUCCESS
 Genre added: 12179
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 52376 genre14500
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 36655
@@ -33356,15 +35655,19 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 40901
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9904 genre32128
+addSong: SUCCESS
 Genre added: 43855
 addGenre: SUCCESS
 Genre added: 11370
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 42325 genre16374
+addSong: SUCCESS
+song added: 34420 genre27455
+addSong: SUCCESS
+song added: 17959 genre89740
+addSong: SUCCESS
 Genre added: 3314
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -33384,12 +35687,14 @@ addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 31476
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21326 genre75478
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 69577
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93633 genre50446
+addSong: SUCCESS
 Genre added: 14440
 addGenre: SUCCESS
 Genre added: 20124
@@ -33405,7 +35710,8 @@ addGenre: SUCCESS
 Genre added: 87185
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 31554 genre32318
+addSong: SUCCESS
 Genre added: 41654
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -33413,9 +35719,11 @@ Genre added: 91053
 addGenre: SUCCESS
 Genre added: 57352
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99636 genre61796
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 64829 genre33007
+addSong: SUCCESS
 Genre added: 15374
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -33447,7 +35755,8 @@ Genre added: 13711
 addGenre: SUCCESS
 Genre added: 81063
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25155 genre42929
+addSong: SUCCESS
 Genre added: 37875
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -33509,7 +35818,8 @@ Genre added: 12148
 addGenre: SUCCESS
 Genre added: 69805
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23322 genre16750
+addSong: SUCCESS
 Genre added: 54645
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -33522,7 +35832,8 @@ Genre added: 69161
 addGenre: SUCCESS
 Genre added: 11607
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70099 genre78472
+addSong: SUCCESS
 Genre added: 65845
 addGenre: SUCCESS
 Genre added: 37262
@@ -33532,7 +35843,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 59075
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3302 genre40680
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 9661
@@ -33554,7 +35866,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 8302
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63804 genre33999
+addSong: SUCCESS
 Genre added: 11254
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -33594,7 +35907,8 @@ Genre added: 94346
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 61252 genre29216
+addSong: SUCCESS
 Genre added: 97190
 addGenre: SUCCESS
 Genre added: 18258
@@ -33605,8 +35919,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 1121
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 23826 genre86957
+addSong: SUCCESS
+song added: 97580 genre173
+addSong: SUCCESS
 Genre added: 49223
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -33676,7 +35992,8 @@ addGenre: SUCCESS
 Genre added: 86087
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37518 genre22819
+addSong: SUCCESS
 Genre added: 75602
 addGenre: SUCCESS
 Genre added: 26497
@@ -33691,7 +36008,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 87137
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15139 genre35893
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 71844
 addGenre: SUCCESS
@@ -33737,14 +36055,16 @@ Genre added: 70588
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 26944 genre3878
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 89796
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75693 genre11173
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 55284
@@ -33772,10 +36092,13 @@ Genre added: 47516
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 21603 genre77437
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 43211 genre79476
+addSong: SUCCESS
+song added: 82747 genre82625
+addSong: SUCCESS
 Genre added: 18491
 addGenre: SUCCESS
 Genre added: 91146
@@ -33798,7 +36121,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 69697
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94933 genre50411
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 57854
 addGenre: SUCCESS
@@ -33806,7 +36130,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 63984
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 57960 genre76068
+addSong: SUCCESS
 Genre added: 19923
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -33816,15 +36141,18 @@ mergeGenres: FAILURE
 Genre added: 18160
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80527 genre61341
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 34723
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 54716 genre61616
+addSong: SUCCESS
 Genre added: 88782
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33921 genre65535
+addSong: SUCCESS
 Genre added: 77860
 addGenre: SUCCESS
 Genre added: 81010
@@ -33839,7 +36167,8 @@ mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 16186
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75535 genre21626
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 81323
 addGenre: SUCCESS
@@ -33847,7 +36176,8 @@ Genre added: 14308
 addGenre: SUCCESS
 Genre added: 86025
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54139 genre1038
+addSong: SUCCESS
 Genre added: 45213
 addGenre: SUCCESS
 Genre added: 75623
@@ -33863,7 +36193,8 @@ Genre added: 21494
 addGenre: SUCCESS
 Genre added: 11199
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84070 genre26005
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 15316
 addGenre: SUCCESS
@@ -33887,7 +36218,8 @@ addGenre: SUCCESS
 Genre added: 14992
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 80766 genre11343
+addSong: SUCCESS
 Genre added: 46121
 addGenre: SUCCESS
 Genre added: 7632
@@ -33916,11 +36248,13 @@ addGenre: SUCCESS
 Genre added: 5136
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 56317 genre40645
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 28016 genre221
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -33932,7 +36266,8 @@ Genre added: 9168
 addGenre: SUCCESS
 Genre added: 65628
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54615 genre46395
+addSong: SUCCESS
 Genre added: 605
 addGenre: SUCCESS
 Genre added: 56874
@@ -33940,7 +36275,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 5982
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29230 genre91461
+addSong: SUCCESS
 Genre added: 67373
 addGenre: SUCCESS
 Genre added: 84690
@@ -33955,7 +36291,8 @@ addGenre: SUCCESS
 Genre added: 64648
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 39267 genre50365
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 3106
 addGenre: SUCCESS
@@ -33982,10 +36319,12 @@ mergeGenres: FAILURE
 Genre added: 75422
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30281 genre22229
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 24287 genre69378
+addSong: SUCCESS
 Genre added: 15466
 addGenre: SUCCESS
 Genre added: 16707
@@ -33995,16 +36334,19 @@ Genre added: 75837
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 71489 genre25087
+addSong: SUCCESS
 Genre added: 214
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85185 genre46418
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19793
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56299 genre13228
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -34067,21 +36409,25 @@ mergeGenres: FAILURE
 Genre added: 14397
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7083 genre83163
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44721 genre82593
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 6383
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 58556 genre61223
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 302
 addGenre: SUCCESS
 Genre added: 58872
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88234 genre34320
+addSong: SUCCESS
 Genre added: 27523
 addGenre: SUCCESS
 Genre added: 75260
@@ -34102,7 +36448,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 1339
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 23901 genre10516
+addSong: SUCCESS
 Genre added: 76845
 addGenre: SUCCESS
 Genre added: 5788
@@ -34131,7 +36478,8 @@ Genre added: 19646
 addGenre: SUCCESS
 Genre added: 32096
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18909 genre60814
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -34190,7 +36538,8 @@ addGenre: SUCCESS
 Genre added: 31401
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 44342 genre94138
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -34248,14 +36597,16 @@ Genre added: 82527
 addGenre: SUCCESS
 Genre added: 84154
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89627 genre61800
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63253
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 24517
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43243 genre61296
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 10531
 addGenre: SUCCESS
@@ -34264,8 +36615,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 25495
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 82728 genre75804
+addSong: SUCCESS
+song added: 67690 genre15697
+addSong: SUCCESS
 Genre added: 88740
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -34280,7 +36633,8 @@ Genre added: 75891
 addGenre: SUCCESS
 Genre added: 78545
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90375 genre97380
+addSong: SUCCESS
 Genre added: 50635
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -34328,7 +36682,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80301
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51677 genre95158
+addSong: SUCCESS
 Genre added: 31286
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -34344,7 +36699,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 64675
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 883 genre59095
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -34361,26 +36717,32 @@ Genre added: 52353
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 28151 genre58056
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 45100 genre15634
+addSong: SUCCESS
 Genre added: 28349
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39077 genre40719
+addSong: SUCCESS
 Genre added: 58219
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67051 genre88402
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 52952 genre7049
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 68725
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70547 genre79001
+addSong: SUCCESS
 Genre added: 51458
 addGenre: SUCCESS
 Genre added: 58479
@@ -34388,15 +36750,18 @@ addGenre: SUCCESS
 Genre added: 67664
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 23795 genre33559
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 37217
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75344 genre70494
+addSong: SUCCESS
 Genre added: 1278
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 194 genre48259
+addSong: SUCCESS
 Genre added: 2842
 addGenre: SUCCESS
 Genre added: 19189
@@ -34416,15 +36781,17 @@ addGenre: SUCCESS
 Genre added: 91120
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65266 genre51077
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 57440
 addGenre: SUCCESS
 Genre added: 68186
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40683 genre20696
+addSong: SUCCESS
 Genre added: 60833
 addGenre: SUCCESS
 Genre added: 7723
@@ -34435,7 +36802,8 @@ Genre added: 9365
 addGenre: SUCCESS
 Genre added: 36344
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17236 genre79061
+addSong: SUCCESS
 Genre added: 91757
 addGenre: SUCCESS
 Genre added: 60596
@@ -34444,7 +36812,8 @@ mergeGenres: FAILURE
 Genre added: 44080
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 28447 genre20284
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -34453,7 +36822,8 @@ Genre added: 9163
 addGenre: SUCCESS
 Genre added: 9938
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90672 genre98658
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 13241
 addGenre: SUCCESS
@@ -34461,7 +36831,8 @@ Genre added: 56711
 addGenre: SUCCESS
 Genre added: 51427
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46884 genre56623
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -34517,7 +36888,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 86425
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43829 genre5697
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 48536
@@ -34533,7 +36905,8 @@ Genre added: 92696
 addGenre: SUCCESS
 Genre added: 65267
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72593 genre66869
+addSong: SUCCESS
 Genre added: 53754
 addGenre: SUCCESS
 Genre added: 69524
@@ -34565,11 +36938,13 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 27083
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43305 genre45576
+addSong: SUCCESS
 Genre added: 13798
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28322 genre36871
+addSong: SUCCESS
 Genre added: 46652
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -34577,7 +36952,8 @@ Genre added: 66813
 addGenre: SUCCESS
 Genre added: 80447
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34297 genre13417
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 41773
@@ -34598,7 +36974,8 @@ Genre added: 9468
 addGenre: SUCCESS
 Genre added: 46335
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20256 genre33626
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 53703
 addGenre: SUCCESS
@@ -34629,8 +37006,10 @@ Genre added: 76212
 addGenre: SUCCESS
 Genre added: 88121
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 51265 genre28656
+addSong: SUCCESS
+song added: 42504 genre20307
+addSong: SUCCESS
 Genre added: 2219
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -34643,10 +37022,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 71981
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28443 genre15715
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 39161 genre13358
+addSong: SUCCESS
 Genre added: 84739
 addGenre: SUCCESS
 Genre added: 69239
@@ -34662,7 +37043,8 @@ Genre added: 9826
 addGenre: SUCCESS
 Genre added: 53853
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34872 genre77008
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 97779
@@ -34717,7 +37099,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 32475
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88046 genre6327
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67405
@@ -34737,9 +37120,11 @@ Genre added: 43961
 addGenre: SUCCESS
 Genre added: 50880
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68219 genre75160
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25110 genre47217
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -34773,7 +37158,8 @@ Genre added: 4519
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47789 genre64004
+addSong: SUCCESS
 Genre added: 2354
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -34782,7 +37168,8 @@ addGenre: SUCCESS
 Genre added: 77686
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 73475 genre7078
+addSong: SUCCESS
 Genre added: 77541
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -34801,7 +37188,7 @@ Genre added: 15484
 addGenre: SUCCESS
 Genre added: 40972
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 31402
 addGenre: SUCCESS
 Genre added: 75947
@@ -34831,7 +37218,8 @@ Genre added: 39611
 addGenre: SUCCESS
 Genre added: 23395
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91119 genre20689
+addSong: SUCCESS
 Genre added: 4377
 addGenre: SUCCESS
 Genre added: 54240
@@ -34848,7 +37236,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75124 genre35377
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 58073
@@ -34873,26 +37262,31 @@ Genre added: 27452
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 51137 genre47430
+addSong: SUCCESS
+song added: 39834 genre56549
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 38998
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87107 genre83384
+addSong: SUCCESS
 Genre added: 57096
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12244 genre32928
+addSong: SUCCESS
 Genre added: 27055
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 36267 genre90912
+addSong: SUCCESS
 Genre added: 21377
 addGenre: SUCCESS
 Genre added: 4077
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 37892
 addGenre: SUCCESS
 Genre added: 81163
@@ -34912,7 +37306,8 @@ Genre added: 84336
 addGenre: SUCCESS
 Genre added: 91554
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46296 genre81622
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94872
 addGenre: SUCCESS
@@ -34920,7 +37315,8 @@ Genre added: 68350
 addGenre: SUCCESS
 Genre added: 68837
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87929 genre9408
+addSong: SUCCESS
 Genre added: 95867
 addGenre: SUCCESS
 Genre added: 81101
@@ -34931,14 +37327,16 @@ Genre added: 71932
 addGenre: SUCCESS
 Genre added: 36780
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78392 genre85700
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 33313
 addGenre: SUCCESS
 Genre added: 15096
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93361 genre44940
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 37664
 addGenre: SUCCESS
@@ -34953,8 +37351,9 @@ Genre added: 44019
 addGenre: SUCCESS
 addSong: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 34585 genre75594
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19692
@@ -34966,7 +37365,8 @@ Genre added: 39759
 addGenre: SUCCESS
 Genre added: 29257
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32925 genre25253
+addSong: SUCCESS
 Genre added: 83346
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -34979,14 +37379,16 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 67744
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77198 genre26091
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 99262
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49627 genre46418
+addSong: SUCCESS
 Genre added: 46007
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35002,11 +37404,13 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 24645
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92746 genre5923
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 4015 genre54685
+addSong: SUCCESS
 Genre added: 20253
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -35020,7 +37424,8 @@ Genre added: 43106
 addGenre: SUCCESS
 Genre added: 39052
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12373 genre15187
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 91643
@@ -35030,7 +37435,8 @@ addGenre: SUCCESS
 Genre added: 35051
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 44849 genre17618
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 21210
 addGenre: SUCCESS
@@ -35038,7 +37444,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2660
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11948 genre41730
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 80348
 addGenre: SUCCESS
@@ -35049,10 +37456,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 8603 genre44022
+addSong: SUCCESS
 Genre added: 25770
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93714 genre50555
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67100
 addGenre: SUCCESS
@@ -35062,7 +37471,8 @@ mergeGenres: FAILURE
 Genre added: 77189
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 57706 genre6141
+addSong: SUCCESS
 Genre added: 88721
 addGenre: SUCCESS
 Genre added: 79953
@@ -35073,12 +37483,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 683
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44620 genre88331
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 73342
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32774 genre89286
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 26969
@@ -35098,7 +37510,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58739
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17529 genre42430
+addSong: SUCCESS
 Genre added: 66019
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35164,7 +37577,8 @@ addGenre: SUCCESS
 Genre added: 13354
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 74762 genre48870
+addSong: SUCCESS
 Genre added: 42243
 addGenre: SUCCESS
 Genre added: 13611
@@ -35198,7 +37612,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 67774
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15748 genre38550
+addSong: SUCCESS
 Genre added: 18628
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35212,24 +37627,28 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22816
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7389 genre54920
+addSong: SUCCESS
 Genre added: 93808
 addGenre: SUCCESS
 Genre added: 51737
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87870 genre602
+addSong: SUCCESS
 Genre added: 52719
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 99785 genre97568
+addSong: SUCCESS
 Genre added: 47623
 addGenre: SUCCESS
 Genre added: 4745
 addGenre: SUCCESS
 Genre added: 50820
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86069 genre81446
+addSong: SUCCESS
 Genre added: 47736
 addGenre: SUCCESS
 Genre added: 79766
@@ -35238,7 +37657,8 @@ Genre added: 50682
 addGenre: SUCCESS
 Genre added: 13287
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58089 genre29730
+addSong: SUCCESS
 Genre added: 83136
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35250,7 +37670,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 71986
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38309 genre4877
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 78909
 addGenre: SUCCESS
@@ -35262,17 +37683,20 @@ addGenre: SUCCESS
 Genre added: 77331
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 40740 genre49279
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78673
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 95864 genre27616
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 30874
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3582 genre18202
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -35288,7 +37712,8 @@ Genre added: 51940
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 26663 genre68546
+addSong: SUCCESS
 Genre added: 71991
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35302,7 +37727,8 @@ Genre added: 19997
 addGenre: SUCCESS
 Genre added: 99319
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78752 genre20197
+addSong: SUCCESS
 Genre added: 56641
 addGenre: SUCCESS
 Genre added: 8894
@@ -35373,7 +37799,8 @@ addGenre: SUCCESS
 Genre added: 20377
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 35966 genre38325
+addSong: SUCCESS
 Genre added: 778
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -35389,7 +37816,7 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 20186
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 56041
 addGenre: SUCCESS
 Genre added: 98368
@@ -35429,7 +37856,8 @@ Genre added: 75057
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 76112 genre832
+addSong: SUCCESS
 Genre added: 47137
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -35485,7 +37913,8 @@ mergeGenres: FAILURE
 Genre added: 82237
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 80646 genre65848
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 4025
 addGenre: SUCCESS
@@ -35498,8 +37927,10 @@ Genre added: 6871
 addGenre: SUCCESS
 Genre added: 40993
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 30151 genre46962
+addSong: SUCCESS
+song added: 23850 genre1977
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 53070
 addGenre: SUCCESS
@@ -35521,8 +37952,10 @@ Genre added: 61797
 addGenre: SUCCESS
 Genre added: 2964
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35624 genre91554
+addSong: SUCCESS
+song added: 1592 genre78006
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74730
 addGenre: SUCCESS
@@ -35535,12 +37968,15 @@ Genre added: 36777
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 81932 genre13525
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 34303 genre62499
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 60309 genre11046
+addSong: SUCCESS
 Genre added: 28313
 addGenre: SUCCESS
 Genre added: 90939
@@ -35560,10 +37996,12 @@ addGenre: SUCCESS
 Genre added: 92841
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 44853 genre33489
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 1860 genre23175
+addSong: SUCCESS
 Genre added: 68551
 addGenre: SUCCESS
 Genre added: 23825
@@ -35574,15 +38012,18 @@ Genre added: 54767
 addGenre: SUCCESS
 Genre added: 51450
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8457 genre30122
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83422 genre12582
+addSong: SUCCESS
 Genre added: 97366
 addGenre: SUCCESS
 Genre added: 64635
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52559 genre56479
+addSong: SUCCESS
 Genre added: 45739
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -35596,13 +38037,15 @@ addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 34880
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74264 genre37332
+addSong: SUCCESS
 Genre added: 99691
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 60060
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52980 genre8289
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 24911
 addGenre: SUCCESS
@@ -35610,8 +38053,10 @@ Genre added: 98226
 addGenre: SUCCESS
 Genre added: 86732
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 27642 genre2540
+addSong: SUCCESS
+song added: 68714 genre56747
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 10233
@@ -35637,7 +38082,8 @@ Genre added: 99218
 addGenre: SUCCESS
 Genre added: 63001
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43080 genre57266
+addSong: SUCCESS
 Genre added: 987
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -35648,7 +38094,8 @@ Genre added: 83317
 addGenre: SUCCESS
 Genre added: 99013
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12881 genre65241
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 80323
@@ -35656,7 +38103,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80890
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65220 genre61402
+addSong: SUCCESS
 Genre added: 82029
 addGenre: SUCCESS
 Genre added: 11866
@@ -35737,13 +38185,15 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31021 genre79388
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 92772
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 45453 genre25830
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -35803,16 +38253,19 @@ Genre added: 30104
 addGenre: SUCCESS
 Genre added: 65226
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44496 genre54135
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 77743
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 70491 genre42203
+addSong: SUCCESS
 Genre added: 92858
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18168 genre44661
+addSong: SUCCESS
 Genre added: 11031
 addGenre: SUCCESS
 Genre added: 12863
@@ -35839,7 +38292,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 55288
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58502 genre3584
+addSong: SUCCESS
 Genre added: 58765
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -35867,7 +38321,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 14653 genre73770
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 92837
 addGenre: SUCCESS
@@ -35888,10 +38343,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35543
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62118 genre45508
+addSong: SUCCESS
 Genre added: 91204
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28330 genre3283
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 38869
@@ -35905,9 +38362,12 @@ Genre added: 45596
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 3852 genre80005
+addSong: SUCCESS
+song added: 54467 genre7593
+addSong: SUCCESS
+song added: 69865 genre76720
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 64477
 addGenre: SUCCESS
@@ -35925,7 +38385,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 71388 genre40518
+addSong: SUCCESS
 Genre added: 99411
 addGenre: SUCCESS
 Genre added: 31098
@@ -35935,7 +38396,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29623
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74965 genre77760
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35989,7 +38451,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 89901
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5473 genre6395
+addSong: SUCCESS
 Genre added: 13394
 addGenre: SUCCESS
 Genre added: 40241
@@ -36012,21 +38475,25 @@ Genre added: 6317
 addGenre: SUCCESS
 Genre added: 73089
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75136 genre39517
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 96469
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50309 genre98955
+addSong: SUCCESS
 Genre added: 68416
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 8803 genre98979
+addSong: SUCCESS
 Genre added: 34458
 addGenre: SUCCESS
 Genre added: 42439
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27093 genre78168
+addSong: SUCCESS
 Genre added: 52534
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -36100,7 +38567,8 @@ Genre added: 23633
 addGenre: SUCCESS
 Genre added: 33765
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15878 genre33380
+addSong: SUCCESS
 Genre added: 68497
 addGenre: SUCCESS
 Genre added: 59619
@@ -36155,7 +38623,8 @@ addGenre: SUCCESS
 Genre added: 89260
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 61634 genre17318
+addSong: SUCCESS
 Genre added: 88108
 addGenre: SUCCESS
 Genre added: 65968
@@ -36192,28 +38661,35 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40447
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 46964 genre84690
+addSong: SUCCESS
+song added: 66655 genre80678
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73828
 addGenre: SUCCESS
 Genre added: 82116
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 73990 genre37789
+addSong: SUCCESS
+song added: 18199 genre94604
+addSong: SUCCESS
 Genre added: 42737
 addGenre: SUCCESS
 Genre added: 67939
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35365 genre81576
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3958 genre41482
+addSong: SUCCESS
 Genre added: 15329
 addGenre: SUCCESS
 Genre added: 62215
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 37990 genre19691
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -36227,7 +38703,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70088 genre54826
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68529
 addGenre: SUCCESS
@@ -36240,7 +38717,8 @@ mergeGenres: FAILURE
 Genre added: 35194
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 9501 genre10866
+addSong: SUCCESS
 Genre added: 49894
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -36271,7 +38749,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 17657 genre24411
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52254
@@ -36285,7 +38764,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 92888
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24748 genre52730
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 55082
@@ -36300,18 +38780,22 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 38031
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 68837 genre32397
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 15544
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 68685 genre51025
+addSong: SUCCESS
 Genre added: 53921
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52772 genre26110
+addSong: SUCCESS
 Genre added: 8646
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48994 genre71582
+addSong: SUCCESS
 Genre added: 16990
 addGenre: SUCCESS
 Genre added: 42641
@@ -36356,7 +38840,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 74537
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17564 genre6472
+addSong: SUCCESS
 Genre added: 2072
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -36400,9 +38885,12 @@ Genre added: 95546
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 15628 genre16823
+addSong: SUCCESS
+song added: 43544 genre37830
+addSong: SUCCESS
+song added: 25902 genre58655
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -36418,7 +38906,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78122
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44638 genre55095
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -36428,7 +38917,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 2728 genre80135
+addSong: SUCCESS
 Genre added: 17233
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -36438,7 +38928,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 10080
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94714 genre59707
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 86600
@@ -36455,19 +38946,21 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22481
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52777 genre24255
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52086
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10676 genre45466
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 24195
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 59013
 addGenre: SUCCESS
@@ -36491,7 +38984,8 @@ Genre added: 32763
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 16325 genre31740
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 79566
 addGenre: SUCCESS
@@ -36500,7 +38994,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15478
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3222 genre1786
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 53879
@@ -36509,10 +39004,12 @@ Genre added: 92577
 addGenre: SUCCESS
 Genre added: 36223
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68740 genre92480
+addSong: SUCCESS
 Genre added: 19488
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67094 genre90701
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -36529,7 +39026,8 @@ Genre added: 93847
 addGenre: SUCCESS
 Genre added: 15637
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61230 genre25149
+addSong: SUCCESS
 Genre added: 34514
 addGenre: SUCCESS
 Genre added: 60549
@@ -36543,7 +39041,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 85440
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19286 genre39343
+addSong: SUCCESS
 Genre added: 82446
 addGenre: SUCCESS
 Genre added: 20704
@@ -36558,7 +39057,8 @@ Genre added: 43526
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 50337 genre9902
+addSong: SUCCESS
 Genre added: 98170
 addGenre: SUCCESS
 Genre added: 29787
@@ -36572,7 +39072,8 @@ Genre added: 58108
 addGenre: SUCCESS
 Genre added: 38742
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2361 genre68808
+addSong: SUCCESS
 Genre added: 8147
 addGenre: SUCCESS
 Genre added: 61421
@@ -36615,7 +39116,8 @@ addGenre: SUCCESS
 Genre added: 36572
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 16164 genre38896
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -36625,7 +39127,8 @@ Genre added: 87274
 addGenre: SUCCESS
 Genre added: 34602
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51824 genre50329
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 12074
 addGenre: SUCCESS
@@ -36639,12 +39142,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 20948 genre13891
+addSong: SUCCESS
+song added: 37588 genre14196
+addSong: SUCCESS
 Genre added: 59486
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -36660,22 +39165,25 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 59187
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72882 genre94031
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 8335
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4218 genre11084
+addSong: SUCCESS
 Genre added: 30932
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 1207
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 9530
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55876 genre13125
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 53577
 addGenre: SUCCESS
@@ -36704,7 +39212,8 @@ Genre added: 73322
 addGenre: SUCCESS
 Genre added: 55190
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35975 genre1834
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 74464
 addGenre: SUCCESS
@@ -36725,7 +39234,8 @@ Genre added: 43421
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92975 genre54546
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93575
 addGenre: SUCCESS
@@ -36765,13 +39275,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 59271
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 274 genre32539
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 37854
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 11042 genre74669
+addSong: SUCCESS
 Genre added: 56283
 addGenre: SUCCESS
 Genre added: 34743
@@ -36792,7 +39304,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 5141 genre86226
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2952
 addGenre: SUCCESS
@@ -36802,7 +39315,8 @@ Genre added: 86399
 addGenre: SUCCESS
 Genre added: 70685
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95387 genre60060
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 71244
 addGenre: SUCCESS
@@ -36813,16 +39327,19 @@ addGenre: SUCCESS
 Genre added: 41541
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 97541 genre1922
+addSong: SUCCESS
 Genre added: 41168
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15167 genre27729
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 70835
 addGenre: SUCCESS
 Genre added: 18049
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61096 genre84989
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -36833,7 +39350,8 @@ Genre added: 68471
 addGenre: SUCCESS
 Genre added: 13479
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5590 genre91378
+addSong: SUCCESS
 Genre added: 33235
 addGenre: SUCCESS
 Genre added: 12113
@@ -36847,7 +39365,8 @@ Genre added: 10419
 addGenre: SUCCESS
 Genre added: 74469
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20045 genre91575
+addSong: SUCCESS
 Genre added: 39456
 addGenre: SUCCESS
 Genre added: 57011
@@ -36907,7 +39426,8 @@ Genre added: 73023
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 97692 genre26572
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43553
 addGenre: SUCCESS
@@ -36935,8 +39455,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8042
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 76401 genre42248
+addSong: SUCCESS
+song added: 22192 genre87951
+addSong: SUCCESS
 Genre added: 92856
 addGenre: SUCCESS
 Genre added: 68852
@@ -36968,7 +39490,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 74081
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88407 genre10479
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 45712
 addGenre: SUCCESS
@@ -36995,7 +39518,8 @@ Genre added: 57130
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 11299 genre7921
+addSong: SUCCESS
 Genre added: 59438
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37008,7 +39532,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 47455
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87717 genre23066
+addSong: SUCCESS
 Genre added: 38240
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -37033,17 +39558,20 @@ addGenre: SUCCESS
 Genre added: 4228
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 36210 genre51094
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 23208
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28323 genre94980
+addSong: SUCCESS
 Genre added: 57285
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 75628
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61982 genre7038
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 44386
 addGenre: SUCCESS
@@ -37059,14 +39587,17 @@ getSongGenre: SUCCESS, 0
 Genre added: 59574
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 35290 genre57167
+addSong: SUCCESS
 Genre added: 57065
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57963 genre79187
+addSong: SUCCESS
 Genre added: 68120
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 55906 genre17500
+addSong: SUCCESS
 Genre added: 77435
 addGenre: SUCCESS
 Genre added: 39704
@@ -37077,7 +39608,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 25600 genre67974
+addSong: SUCCESS
 Genre added: 60190
 addGenre: SUCCESS
 Genre added: 39402
@@ -37087,15 +39619,18 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53761
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87463 genre37008
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 72683
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56144 genre18602
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 37667 genre69359
+addSong: SUCCESS
 Genre added: 87407
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -37112,7 +39647,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 40722
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16627 genre88200
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 89679
@@ -37145,7 +39681,8 @@ addGenre: SUCCESS
 Genre added: 93173
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 95590 genre11899
+addSong: SUCCESS
 Genre added: 30717
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -37153,18 +39690,21 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 96954
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63941 genre686
+addSong: SUCCESS
 Genre added: 89638
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 65873 genre90605
+addSong: SUCCESS
 Genre added: 91747
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 23579 genre87779
+addSong: SUCCESS
 Genre added: 2300
 addGenre: SUCCESS
 Genre added: 99575
@@ -37201,7 +39741,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 13669
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 46534 genre30414
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 9567
 addGenre: SUCCESS
@@ -37219,12 +39760,14 @@ addGenre: SUCCESS
 Genre added: 47547
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85563 genre95903
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 99939
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 65833 genre25172
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -37251,7 +39794,7 @@ Genre added: 6141
 addGenre: SUCCESS
 Genre added: 9632
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 15429
 addGenre: SUCCESS
@@ -37302,7 +39845,8 @@ Genre added: 61057
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22558 genre92865
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 94796
 addGenre: SUCCESS
@@ -37342,9 +39886,11 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 43825 genre20850
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 63274 genre32249
+addSong: SUCCESS
 Genre added: 9084
 addGenre: SUCCESS
 Genre added: 63776
@@ -37355,16 +39901,19 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 86988
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56651 genre25167
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 338
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55260 genre39402
+addSong: SUCCESS
 Genre added: 90837
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44436 genre50533
+addSong: SUCCESS
 Genre added: 69127
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -37379,9 +39928,11 @@ Genre added: 16961
 addGenre: SUCCESS
 Genre added: 23294
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4610 genre31927
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 59339 genre96205
+addSong: SUCCESS
 Genre added: 64864
 addGenre: SUCCESS
 Genre added: 77441
@@ -37390,8 +39941,10 @@ Genre added: 14174
 addGenre: SUCCESS
 Genre added: 44944
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 45214 genre73921
+addSong: SUCCESS
+song added: 25085 genre36630
+addSong: SUCCESS
 Genre added: 49470
 addGenre: SUCCESS
 Genre added: 10599
@@ -37403,7 +39956,7 @@ Genre added: 22117
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 27787
 addGenre: SUCCESS
@@ -37426,12 +39979,14 @@ addGenre: SUCCESS
 Genre added: 71618
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 6800 genre39979
+addSong: SUCCESS
 Genre added: 52445
 addGenre: SUCCESS
 Genre added: 27121
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36780 genre66324
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 65197
 addGenre: SUCCESS
@@ -37445,12 +40000,15 @@ Genre added: 87221
 addGenre: SUCCESS
 Genre added: 43774
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 5715 genre22246
+addSong: SUCCESS
+song added: 28990 genre7076
+addSong: SUCCESS
 Genre added: 45820
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 17110 genre79056
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 67976
 addGenre: SUCCESS
@@ -37475,7 +40033,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 55926 genre62427
+addSong: SUCCESS
 Genre added: 93502
 addGenre: SUCCESS
 Genre added: 38358
@@ -37483,7 +40042,8 @@ addGenre: SUCCESS
 Genre added: 95334
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 13600 genre95023
+addSong: SUCCESS
 Genre added: 57275
 addGenre: SUCCESS
 Genre added: 29171
@@ -37494,7 +40054,8 @@ Genre added: 55813
 addGenre: SUCCESS
 Genre added: 58884
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30789 genre96105
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 94547
 addGenre: SUCCESS
@@ -37511,7 +40072,8 @@ Genre added: 408
 addGenre: SUCCESS
 Genre added: 60189
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45744 genre21704
+addSong: SUCCESS
 Genre added: 14413
 addGenre: SUCCESS
 Genre added: 98449
@@ -37564,7 +40126,8 @@ addGenre: INVALID_INPUT
 Genre added: 34572
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 12969 genre84445
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82110
 addGenre: SUCCESS
@@ -37590,7 +40153,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 24239
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 96601 genre91120
+addSong: SUCCESS
 Genre added: 28792
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -37622,7 +40186,8 @@ Genre added: 83196
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 88798 genre87719
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 56529
@@ -37658,7 +40223,8 @@ addGenre: SUCCESS
 Genre added: 88290
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75074 genre67652
+addSong: SUCCESS
 Genre added: 22608
 addGenre: SUCCESS
 Genre added: 69700
@@ -37678,11 +40244,13 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72196
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3861 genre56221
+addSong: SUCCESS
 Genre added: 85855
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 57962 genre92643
+addSong: SUCCESS
 Genre added: 63609
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -37699,14 +40267,16 @@ Genre added: 50286
 addGenre: SUCCESS
 Genre added: 86002
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10193 genre97989
+addSong: SUCCESS
 Genre added: 28414
 addGenre: SUCCESS
 Genre added: 90304
 addGenre: SUCCESS
 Genre added: 33618
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17744 genre2056
+addSong: SUCCESS
 Genre added: 69923
 addGenre: SUCCESS
 Genre added: 45806
@@ -37718,8 +40288,10 @@ Genre added: 31620
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 84816 genre4516
+addSong: SUCCESS
+song added: 99204 genre90340
+addSong: SUCCESS
 Genre added: 60569
 addGenre: SUCCESS
 Genre added: 67566
@@ -37752,7 +40324,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66760 genre15568
+addSong: SUCCESS
 Genre added: 38780
 addGenre: SUCCESS
 Genre added: 66916
@@ -37782,7 +40355,8 @@ Genre added: 35325
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52456 genre96813
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 96172
 addGenre: SUCCESS
@@ -37813,7 +40387,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 4302
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83105 genre21500
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37833,7 +40408,8 @@ Genre added: 15003
 addGenre: SUCCESS
 Genre added: 28274
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31185 genre44278
+addSong: SUCCESS
 Genre added: 84812
 addGenre: SUCCESS
 Genre added: 79840
@@ -37845,7 +40421,8 @@ Genre added: 71689
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 17152 genre78481
+addSong: SUCCESS
 Genre added: 70811
 addGenre: SUCCESS
 Genre added: 11522
@@ -37857,7 +40434,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 55583
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37150 genre52559
+addSong: SUCCESS
 Genre added: 90594
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37866,7 +40444,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 94457
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47494 genre18624
+addSong: SUCCESS
 Genre added: 5470
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -37881,10 +40460,12 @@ Genre added: 10895
 addGenre: SUCCESS
 Genre added: 83286
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82115 genre55233
+addSong: SUCCESS
 Genre added: 33089
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93149 genre34854
+addSong: SUCCESS
 Genre added: 74253
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37894,7 +40475,8 @@ addGenre: SUCCESS
 Genre added: 35963
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 87824 genre54805
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 594
 addGenre: SUCCESS
@@ -37909,11 +40491,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92192 genre56680
+addSong: SUCCESS
 Genre added: 44986
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 14565 genre12635
+addSong: SUCCESS
+song added: 45186 genre39310
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96376
 addGenre: SUCCESS
@@ -37922,8 +40507,10 @@ Genre added: 6946
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 54496 genre56442
+addSong: SUCCESS
+song added: 8388 genre53656
+addSong: SUCCESS
 Genre added: 77979
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -37939,7 +40526,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 17400
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37669 genre46359
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 25709
 addGenre: SUCCESS
@@ -37956,7 +40544,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 53565 genre65654
+addSong: SUCCESS
 Genre added: 31535
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -38028,17 +40617,21 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 70487
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28460 genre59541
+addSong: SUCCESS
 Genre added: 52116
 addGenre: SUCCESS
 Genre added: 93947
 addGenre: SUCCESS
 Genre added: 65237
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12828 genre34554
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 19329 genre28150
+addSong: SUCCESS
+song added: 28422 genre95170
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 25993
@@ -38058,14 +40651,16 @@ Genre added: 66671
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81713 genre52114
+addSong: SUCCESS
 Genre added: 85810
 addGenre: SUCCESS
 Genre added: 81025
 addGenre: SUCCESS
 Genre added: 40047
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47092 genre4311
+addSong: SUCCESS
 Genre added: 13512
 addGenre: SUCCESS
 Genre added: 39005
@@ -38138,8 +40733,10 @@ Genre added: 17978
 addGenre: SUCCESS
 Genre added: 47469
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 74854 genre3207
+addSong: SUCCESS
+song added: 26524 genre2130
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -38148,7 +40745,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 40942
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30562 genre79442
+addSong: SUCCESS
 Genre added: 71243
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -38169,7 +40767,8 @@ Genre added: 33497
 addGenre: SUCCESS
 Genre added: 91648
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60640 genre89893
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 52371
@@ -38188,11 +40787,13 @@ Genre added: 96570
 addGenre: SUCCESS
 Genre added: 34381
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67688 genre98277
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 76100
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26349 genre14635
+addSong: SUCCESS
 Genre added: 49008
 addGenre: SUCCESS
 Genre added: 55899
@@ -38206,13 +40807,15 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 9852
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13779 genre39188
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 61476
 addGenre: SUCCESS
 Genre added: 2785
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86639 genre35341
+addSong: SUCCESS
 Genre added: 64872
 addGenre: SUCCESS
 Genre added: 27971
@@ -38239,7 +40842,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 9306
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85668 genre47415
+addSong: SUCCESS
 Genre added: 8687
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -38289,7 +40893,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 62756 genre698
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6023
@@ -38332,7 +40937,8 @@ Genre added: 98646
 addGenre: SUCCESS
 Genre added: 60030
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28105 genre33394
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -38348,9 +40954,11 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 55891 genre82028
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 31009 genre40990
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -38363,7 +40971,8 @@ Genre added: 79686
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 14659 genre31851
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -38402,7 +41011,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 34173 genre68205
+addSong: SUCCESS
 Genre added: 95132
 addGenre: SUCCESS
 Genre added: 7972
@@ -38432,7 +41042,8 @@ Genre added: 49874
 addGenre: SUCCESS
 Genre added: 15994
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12993 genre94243
+addSong: SUCCESS
 Genre added: 81303
 addGenre: SUCCESS
 Genre added: 5284
@@ -38462,7 +41073,8 @@ Genre added: 32966
 addGenre: SUCCESS
 Genre added: 32169
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24820 genre89712
+addSong: SUCCESS
 Genre added: 55001
 addGenre: SUCCESS
 Genre added: 93567
@@ -38476,7 +41088,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 3276
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4920 genre28833
+addSong: SUCCESS
 Genre added: 82810
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -38492,11 +41105,13 @@ Genre added: 36489
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 76856 genre68532
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33798
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73123 genre58976
+addSong: SUCCESS
 Genre added: 71035
 addGenre: SUCCESS
 Genre added: 48438
@@ -38504,7 +41119,7 @@ addGenre: SUCCESS
 Genre added: 45800
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 40622
 addGenre: SUCCESS
@@ -38548,7 +41163,8 @@ addGenre: SUCCESS
 Genre added: 16044
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 36921 genre64429
+addSong: SUCCESS
 Genre added: 89154
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -38572,7 +41188,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 40952
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48096 genre16008
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 373
 addGenre: SUCCESS
@@ -38609,7 +41226,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 36814
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25096 genre36777
+addSong: SUCCESS
 Genre added: 98849
 addGenre: SUCCESS
 Genre added: 65634
@@ -38631,7 +41249,7 @@ Genre added: 92821
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 49752
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -38680,7 +41298,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 81110
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18350 genre95600
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 53178
 addGenre: SUCCESS
@@ -38701,9 +41320,11 @@ addGenre: SUCCESS
 Genre added: 8532
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11310 genre69412
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50006 genre85788
+addSong: SUCCESS
 Genre added: 43453
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -38736,8 +41357,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 29487
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 27072 genre23002
+addSong: SUCCESS
+song added: 3989 genre57596
+addSong: SUCCESS
 Genre added: 63729
 addGenre: SUCCESS
 Genre added: 98393
@@ -38748,9 +41371,11 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 37249
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7106 genre89865
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 14015 genre28281
+addSong: SUCCESS
 Genre added: 7380
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -38773,7 +41398,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 50508
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12060 genre60307
+addSong: SUCCESS
 Genre added: 47126
 addGenre: SUCCESS
 Genre added: 77273
@@ -38782,7 +41408,8 @@ mergeGenres: FAILURE
 Genre added: 22772
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 35198 genre65694
+addSong: SUCCESS
 Genre added: 30948
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -38792,9 +41419,12 @@ Genre added: 8322
 addGenre: SUCCESS
 Genre added: 62599
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 98320 genre58911
+addSong: SUCCESS
+song added: 61892 genre21305
+addSong: SUCCESS
+song added: 37067 genre56605
+addSong: SUCCESS
 Genre added: 50224
 addGenre: SUCCESS
 Genre added: 45414
@@ -38810,7 +41440,8 @@ addGenre: SUCCESS
 Genre added: 97422
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 80221 genre13023
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 30805
 addGenre: SUCCESS
@@ -38820,7 +41451,8 @@ Genre added: 13579
 addGenre: SUCCESS
 Genre added: 89394
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22473 genre89413
+addSong: SUCCESS
 Genre added: 85875
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -38828,7 +41460,8 @@ Genre added: 18796
 addGenre: SUCCESS
 Genre added: 60732
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80564 genre92656
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 95868
 addGenre: SUCCESS
@@ -38842,21 +41475,26 @@ Genre added: 89376
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 9759 genre64261
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 94288
 addGenre: SUCCESS
 Genre added: 7742
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 7837 genre17528
+addSong: SUCCESS
+song added: 76315 genre15039
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 4756
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17754 genre11554
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48239 genre60161
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 85521
@@ -38893,7 +41531,8 @@ Genre added: 72936
 addGenre: SUCCESS
 Genre added: 73007
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35430 genre94170
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 36311
 addGenre: SUCCESS
@@ -38916,7 +41555,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 50424
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1170 genre99163
+addSong: SUCCESS
 Genre added: 68292
 addGenre: SUCCESS
 Genre added: 25760
@@ -38925,7 +41565,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89064
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3351 genre27506
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 16713
@@ -38940,8 +41581,10 @@ addGenre: SUCCESS
 Genre added: 14730
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 3738 genre57488
+addSong: SUCCESS
+song added: 74534 genre36916
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -38955,7 +41598,8 @@ Genre added: 28992
 addGenre: SUCCESS
 Genre added: 70141
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17292 genre71843
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 54231
 addGenre: SUCCESS
@@ -38963,7 +41607,8 @@ Genre added: 85684
 addGenre: SUCCESS
 Genre added: 18265
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 605 genre3291
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58868
@@ -38976,7 +41621,8 @@ Genre added: 54504
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 84920 genre24587
+addSong: SUCCESS
 Genre added: 85385
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -38986,7 +41632,8 @@ Genre added: 51050
 addGenre: SUCCESS
 Genre added: 35954
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85885 genre74398
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -39013,7 +41660,8 @@ Genre added: 58927
 addGenre: SUCCESS
 Genre added: 49519
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11477 genre44392
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 54608
@@ -39022,7 +41670,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 9178
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9087 genre85077
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 68419
 addGenre: SUCCESS
@@ -39057,7 +41706,8 @@ Genre added: 61464
 addGenre: SUCCESS
 Genre added: 62372
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10873 genre4854
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -39075,9 +41725,12 @@ Genre added: 44880
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 41104 genre9744
+addSong: SUCCESS
+song added: 86974 genre71041
+addSong: SUCCESS
+song added: 54582 genre78638
+addSong: SUCCESS
 Genre added: 45969
 addGenre: SUCCESS
 Genre added: 2673
@@ -39085,7 +41738,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 35920 genre57902
+addSong: SUCCESS
 Genre added: 69068
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -39096,7 +41750,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2784
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84821 genre69063
+addSong: SUCCESS
 Genre added: 17551
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -39140,7 +41795,8 @@ Genre added: 5649
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 97640 genre14702
+addSong: SUCCESS
 Genre added: 92203
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -39155,7 +41811,8 @@ Genre added: 67666
 addGenre: SUCCESS
 Genre added: 89317
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45884 genre43306
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 46583
 addGenre: SUCCESS
@@ -39186,13 +41843,15 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 85904
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46233 genre10571
+addSong: SUCCESS
 Genre added: 83911
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 69126 genre69549
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 66730
 addGenre: SUCCESS
@@ -39206,7 +41865,8 @@ addGenre: SUCCESS
 Genre added: 65647
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 59591 genre28277
+addSong: SUCCESS
 Genre added: 57633
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -39218,7 +41878,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 1374
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22352 genre44773
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 20136
@@ -39232,8 +41893,10 @@ Genre added: 72485
 addGenre: SUCCESS
 Genre added: 76612
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 89007 genre78092
+addSong: SUCCESS
+song added: 19048 genre54635
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 75960
 addGenre: SUCCESS
@@ -39260,7 +41923,8 @@ Genre added: 26855
 addGenre: SUCCESS
 Genre added: 14153
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10008 genre77150
+addSong: SUCCESS
 Genre added: 10241
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -39315,17 +41979,22 @@ Genre added: 40784
 addGenre: SUCCESS
 Genre added: 36952
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 31982 genre17187
+addSong: SUCCESS
+song added: 54412 genre75013
+addSong: SUCCESS
 Genre added: 51536
 addGenre: SUCCESS
 Genre added: 74411
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29212 genre35424
+addSong: SUCCESS
 Genre added: 90027
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 77211 genre56461
+addSong: SUCCESS
+song added: 41530 genre82245
+addSong: SUCCESS
 Genre added: 74189
 addGenre: SUCCESS
 Genre added: 22821
@@ -39341,7 +42010,8 @@ addGenre: SUCCESS
 Genre added: 22104
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42198 genre3131
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 59943
 addGenre: SUCCESS
@@ -39389,7 +42059,8 @@ addGenre: SUCCESS
 Genre added: 20600
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 64723 genre16420
+addSong: SUCCESS
 Genre added: 99234
 addGenre: SUCCESS
 Genre added: 3040
@@ -39400,7 +42071,8 @@ Genre added: 62606
 addGenre: SUCCESS
 Genre added: 45779
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20853 genre8642
+addSong: SUCCESS
 Genre added: 96436
 addGenre: SUCCESS
 Genre added: 27429
@@ -39415,7 +42087,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 96080 genre74720
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -39440,10 +42113,12 @@ Genre added: 5856
 addGenre: SUCCESS
 Genre added: 84870
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58723 genre11084
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 84710 genre9750
+addSong: SUCCESS
 Genre added: 69337
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -39458,9 +42133,11 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 37504
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93993 genre71243
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64764 genre89054
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 82453
 addGenre: SUCCESS
@@ -39493,7 +42170,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 2942
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64947 genre62179
+addSong: SUCCESS
 Genre added: 33682
 addGenre: SUCCESS
 Genre added: 17386
@@ -39511,7 +42189,8 @@ Genre added: 67262
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66390 genre94237
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 45090
 addGenre: SUCCESS
@@ -39551,7 +42230,8 @@ Genre added: 95577
 addGenre: SUCCESS
 Genre added: 10178
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25556 genre14000
+addSong: SUCCESS
 Genre added: 52526
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -39565,10 +42245,12 @@ Genre added: 27152
 addGenre: SUCCESS
 Genre added: 66173
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67082 genre7365
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 73002 genre85288
+addSong: SUCCESS
 Genre added: 61265
 addGenre: SUCCESS
 Genre added: 86299
@@ -39589,8 +42271,10 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 94918
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 72268 genre52950
+addSong: SUCCESS
+song added: 53475 genre23308
+addSong: SUCCESS
 Genre added: 62332
 addGenre: SUCCESS
 Genre added: 28542
@@ -39612,7 +42296,8 @@ mergeGenres: FAILURE
 Genre added: 87945
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 9121 genre12644
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
@@ -39626,7 +42311,8 @@ mergeGenres: FAILURE
 Genre added: 78616
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 62451 genre64334
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 51500
@@ -39639,7 +42325,8 @@ Genre added: 73328
 addGenre: SUCCESS
 Genre added: 55300
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4064 genre97094
+addSong: SUCCESS
 Genre added: 94373
 addGenre: SUCCESS
 Genre added: 65712
@@ -39682,8 +42369,10 @@ addGenre: SUCCESS
 Genre added: 57717
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 88008 genre56848
+addSong: SUCCESS
+song added: 10641 genre20223
+addSong: SUCCESS
 Genre added: 48649
 addGenre: SUCCESS
 Genre added: 22981
@@ -39729,7 +42418,8 @@ Genre added: 51783
 addGenre: SUCCESS
 Genre added: 9777
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45570 genre19291
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 90817
@@ -39744,7 +42434,8 @@ Genre added: 42683
 addGenre: SUCCESS
 Genre added: 44826
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76857 genre19246
+addSong: SUCCESS
 Genre added: 16435
 addGenre: SUCCESS
 Genre added: 67957
@@ -39812,20 +42503,23 @@ getSongGenre: SUCCESS, 0
 Genre added: 69693
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 73107 genre18887
+addSong: SUCCESS
 Genre added: 51362
 addGenre: SUCCESS
 Genre added: 52782
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 19569 genre7203
+addSong: SUCCESS
 Genre added: 87833
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 94588
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98051 genre75089
+addSong: SUCCESS
 Genre added: 8452
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -39837,7 +42531,8 @@ Genre added: 92817
 addGenre: SUCCESS
 Genre added: 36987
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69357 genre14978
+addSong: SUCCESS
 Genre added: 45896
 addGenre: SUCCESS
 Genre added: 41620
@@ -39873,8 +42568,10 @@ Genre added: 50311
 addGenre: SUCCESS
 Genre added: 7850
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 59832 genre44100
+addSong: SUCCESS
+song added: 25182 genre16049
+addSong: SUCCESS
 Genre added: 62270
 addGenre: SUCCESS
 Genre added: 62598
@@ -39899,7 +42596,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 44870 genre42628
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 81364
 addGenre: SUCCESS
@@ -39919,7 +42617,8 @@ Genre added: 56289
 addGenre: SUCCESS
 Genre added: 50570
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97728 genre98309
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94008
 addGenre: SUCCESS
@@ -39972,7 +42671,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 79735
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20288 genre51468
+addSong: SUCCESS
 Genre added: 64779
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -39989,7 +42689,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93344
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66947 genre69865
+addSong: SUCCESS
 Genre added: 98317
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -40036,7 +42737,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 41733
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 544 genre51582
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -40044,7 +42746,8 @@ Genre added: 57505
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12148 genre69359
+addSong: SUCCESS
 Genre added: 21268
 addGenre: SUCCESS
 Genre added: 26423
@@ -40074,9 +42777,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 85986
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 62596 genre97769
+addSong: SUCCESS
+song added: 42297 genre82522
+addSong: SUCCESS
+song added: 50000 genre92623
+addSong: SUCCESS
 Genre added: 81484
 addGenre: SUCCESS
 Genre added: 22303
@@ -40089,8 +42795,10 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 7718
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 94087 genre35823
+addSong: SUCCESS
+song added: 48973 genre77237
+addSong: SUCCESS
 Genre added: 22991
 addGenre: SUCCESS
 Genre added: 34339
@@ -40123,7 +42831,8 @@ addGenre: SUCCESS
 Genre added: 60734
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 76374 genre77289
+addSong: SUCCESS
 Genre added: 38379
 addGenre: SUCCESS
 Genre added: 18547
@@ -40161,8 +42870,10 @@ Genre added: 2414
 addGenre: SUCCESS
 Genre added: 46861
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 58495 genre77594
+addSong: SUCCESS
+song added: 88240 genre86453
+addSong: SUCCESS
 Genre added: 73034
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -40180,10 +42891,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2705 genre90944
+addSong: SUCCESS
 Genre added: 87923
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70686 genre16393
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 41783
 addGenre: SUCCESS
@@ -40201,7 +42914,8 @@ Genre added: 3277
 addGenre: SUCCESS
 Genre added: 94790
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36555 genre65139
+addSong: SUCCESS
 Genre added: 67514
 addGenre: SUCCESS
 Genre added: 51817
@@ -40271,7 +42985,8 @@ Genre added: 72495
 addGenre: SUCCESS
 Genre added: 10721
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9575 genre45405
+addSong: SUCCESS
 Genre added: 7947
 addGenre: SUCCESS
 Genre added: 75893
@@ -40283,12 +42998,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 69882 genre11023
+addSong: SUCCESS
 Genre added: 18629
 addGenre: SUCCESS
 Genre added: 66660
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54698 genre30792
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 63770
 addGenre: SUCCESS
@@ -40330,7 +43047,8 @@ Genre added: 93327
 addGenre: SUCCESS
 Genre added: 24875
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55216 genre90981
+addSong: SUCCESS
 Genre added: 22097
 addGenre: SUCCESS
 Genre added: 2803
@@ -40362,7 +43080,8 @@ Genre added: 96054
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 36069 genre9372
+addSong: SUCCESS
 Genre added: 14460
 addGenre: SUCCESS
 Genre added: 42584
@@ -40414,7 +43133,8 @@ Genre added: 5293
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 73767 genre11160
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 70452
@@ -40444,8 +43164,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 84086
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 40895 genre7070
+addSong: SUCCESS
+song added: 92792 genre90739
+addSong: SUCCESS
 Genre added: 52006
 addGenre: SUCCESS
 Genre added: 25739
@@ -40470,12 +43192,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16891 genre85376
+addSong: SUCCESS
 Genre added: 41742
 addGenre: SUCCESS
 Genre added: 28304
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70962 genre7172
+addSong: SUCCESS
 Genre added: 34101
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -40530,7 +43254,8 @@ Genre added: 80893
 addGenre: SUCCESS
 Genre added: 20855
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30075 genre30944
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 42759
 addGenre: SUCCESS
@@ -40549,8 +43274,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 23667
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 41046 genre84354
+addSong: SUCCESS
+song added: 19334 genre93502
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 73346
@@ -40590,32 +43317,39 @@ addGenre: SUCCESS
 Genre added: 29869
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 53460 genre96481
+addSong: SUCCESS
 Genre added: 28739
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44973 genre28489
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 55985
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80644 genre61700
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40708
 addGenre: SUCCESS
 Genre added: 55902
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 27115 genre93813
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 4271 genre26342
+addSong: SUCCESS
+song added: 42535 genre99055
+addSong: SUCCESS
 Genre added: 16851
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 68178 genre85567
+addSong: SUCCESS
 Genre added: 9922
 addGenre: SUCCESS
 Genre added: 822
@@ -40642,7 +43376,8 @@ Genre added: 43149
 addGenre: SUCCESS
 Genre added: 11211
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31279 genre9399
+addSong: SUCCESS
 Genre added: 2997
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -40656,7 +43391,8 @@ Genre added: 70039
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 35103 genre26620
+addSong: SUCCESS
 Genre added: 69050
 addGenre: SUCCESS
 Genre added: 19826
@@ -40678,7 +43414,8 @@ Genre added: 34630
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 35995 genre87303
+addSong: SUCCESS
 Genre added: 25623
 addGenre: SUCCESS
 Genre added: 1260
@@ -40689,15 +43426,19 @@ Genre added: 85951
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 4461 genre51598
+addSong: SUCCESS
 Genre added: 4970
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81591 genre23592
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 44694 genre91414
+addSong: SUCCESS
+song added: 27618 genre81945
+addSong: SUCCESS
 Genre added: 57236
 addGenre: SUCCESS
 Genre added: 569
@@ -40724,10 +43465,12 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 85639 genre62558
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 64532 genre79704
+addSong: SUCCESS
 Genre added: 45377
 addGenre: SUCCESS
 Genre added: 44515
@@ -40736,13 +43479,15 @@ Genre added: 94454
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 63011 genre15637
+addSong: SUCCESS
 Genre added: 28987
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15150
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54637 genre57443
+addSong: SUCCESS
 Genre added: 60454
 addGenre: SUCCESS
 Genre added: 14806
@@ -40797,7 +43542,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 58966
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62582 genre51378
+addSong: SUCCESS
 Genre added: 5134
 addGenre: SUCCESS
 Genre added: 73780
@@ -40838,7 +43584,8 @@ Genre added: 74500
 addGenre: SUCCESS
 Genre added: 98633
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76608 genre58500
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 91909
 addGenre: SUCCESS
@@ -40864,10 +43611,13 @@ mergeGenres: FAILURE
 Genre added: 5531
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91065 genre11989
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 61681 genre86168
+addSong: SUCCESS
+song added: 24655 genre93523
+addSong: SUCCESS
 Genre added: 56035
 addGenre: SUCCESS
 Genre added: 99096
@@ -40881,7 +43631,8 @@ Genre added: 74461
 addGenre: SUCCESS
 Genre added: 77874
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22070 genre17747
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53970
@@ -40902,7 +43653,8 @@ addGenre: SUCCESS
 Genre added: 12789
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 29227 genre33007
+addSong: SUCCESS
 Genre added: 45738
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -40912,7 +43664,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 76782
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68500 genre58793
+addSong: SUCCESS
 Genre added: 55712
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -40922,14 +43675,16 @@ Genre added: 24538
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 57490 genre25963
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 29781
 addGenre: SUCCESS
 Genre added: 71101
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 56992 genre74538
+addSong: SUCCESS
 Genre added: 73631
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -40952,7 +43707,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 12791
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67779 genre94515
+addSong: SUCCESS
 Genre added: 27254
 addGenre: SUCCESS
 Genre added: 78184
@@ -40989,10 +43745,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 31283
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33758 genre87436
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 24166 genre92579
+addSong: SUCCESS
+song added: 95118 genre47577
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 9814
@@ -41009,14 +43768,16 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 64515
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90994 genre21163
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 30108
 addGenre: SUCCESS
 Genre added: 30807
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98944 genre67857
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 46265
 addGenre: SUCCESS
@@ -41025,8 +43786,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 8031 genre54892
+addSong: SUCCESS
+song added: 85878 genre17053
+addSong: SUCCESS
 Genre added: 86683
 addGenre: SUCCESS
 Genre added: 45230
@@ -41036,18 +43799,20 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15826
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66523 genre74398
+addSong: SUCCESS
 Genre added: 22961
 addGenre: SUCCESS
 Genre added: 89955
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35531 genre1641
+addSong: SUCCESS
 Genre added: 60585
 addGenre: SUCCESS
 Genre added: 39767
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 7568
 addGenre: SUCCESS
 Genre added: 40131
@@ -41078,8 +43843,10 @@ addGenre: SUCCESS
 Genre added: 92125
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 29262 genre45378
+addSong: SUCCESS
+song added: 85345 genre11615
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -41111,7 +43878,8 @@ Genre added: 32639
 addGenre: SUCCESS
 Genre added: 65253
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33495 genre43242
+addSong: SUCCESS
 Genre added: 19877
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -41121,12 +43889,14 @@ Genre added: 91627
 addGenre: SUCCESS
 Genre added: 96771
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66667 genre93027
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 31934
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14887 genre34645
+addSong: SUCCESS
 Genre added: 87024
 addGenre: SUCCESS
 Genre added: 56548
@@ -41137,7 +43907,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 22137
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73112 genre51431
+addSong: SUCCESS
 Genre added: 83810
 addGenre: SUCCESS
 Genre added: 70386
@@ -41162,7 +43933,7 @@ Genre added: 74355
 addGenre: SUCCESS
 Genre added: 78463
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 23027
 addGenre: SUCCESS
@@ -41171,10 +43942,12 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 47438
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33957 genre12582
+addSong: SUCCESS
 Genre added: 56572
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13551 genre86372
+addSong: SUCCESS
 Genre added: 77964
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -41210,15 +43983,19 @@ Genre added: 92734
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72447 genre96436
+addSong: SUCCESS
 Genre added: 67406
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60850 genre74031
+addSong: SUCCESS
 Genre added: 67749
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67364 genre22944
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 80735 genre66230
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 34705
@@ -41246,7 +44023,8 @@ Genre added: 94735
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 35836 genre93715
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 66692
@@ -41276,15 +44054,18 @@ Genre added: 6885
 addGenre: SUCCESS
 Genre added: 70456
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7820 genre35529
+addSong: SUCCESS
 Genre added: 70924
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 8225 genre5444
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 20143 genre7700
+addSong: SUCCESS
 Genre added: 92622
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -41296,10 +44077,12 @@ addGenre: SUCCESS
 Genre added: 76979
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 1686 genre19460
+addSong: SUCCESS
 Genre added: 83571
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5596 genre55682
+addSong: SUCCESS
 Genre added: 55667
 addGenre: SUCCESS
 Genre added: 71165
@@ -41314,14 +44097,16 @@ Genre added: 25369
 addGenre: SUCCESS
 Genre added: 61282
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59568 genre90863
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 24426
 addGenre: SUCCESS
 Genre added: 73746
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 74750 genre59080
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63833
@@ -41337,19 +44122,22 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 83980
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66322 genre33892
+addSong: SUCCESS
 Genre added: 87513
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 47647
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 8815 genre87695
+addSong: SUCCESS
 Genre added: 83342
 addGenre: SUCCESS
 Genre added: 28032
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17810 genre26429
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -41359,7 +44147,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 68105
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 71624 genre30947
+addSong: SUCCESS
 Genre added: 56522
 addGenre: SUCCESS
 Genre added: 91969
@@ -41373,7 +44162,8 @@ Genre added: 80709
 addGenre: SUCCESS
 Genre added: 37991
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33168 genre12934
+addSong: SUCCESS
 Genre added: 18750
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -41383,7 +44173,8 @@ Genre added: 15853
 addGenre: SUCCESS
 Genre added: 19546
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73495 genre19872
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 88028
@@ -41395,7 +44186,8 @@ Genre added: 42658
 addGenre: SUCCESS
 Genre added: 91497
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15967 genre39302
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65863
@@ -41423,8 +44215,10 @@ Genre added: 88380
 addGenre: SUCCESS
 Genre added: 24270
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 81072 genre97163
+addSong: SUCCESS
+song added: 48246 genre57448
+addSong: SUCCESS
 Genre added: 56268
 addGenre: SUCCESS
 Genre added: 73003
@@ -41457,7 +44251,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 3306
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 7234 genre14436
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 49336
@@ -41481,7 +44276,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78647
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50260 genre8289
+addSong: SUCCESS
 Genre added: 97594
 addGenre: SUCCESS
 Genre added: 2287
@@ -41494,7 +44290,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 27681
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63449 genre99397
+addSong: SUCCESS
 Genre added: 77176
 addGenre: SUCCESS
 Genre added: 68475
@@ -41510,16 +44307,18 @@ Genre added: 76458
 addGenre: SUCCESS
 Genre added: 27244
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66137 genre15229
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48813
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30223 genre83482
+addSong: SUCCESS
 Genre added: 40085
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -41532,7 +44331,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 4169
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80601 genre20879
+addSong: SUCCESS
 Genre added: 54
 addGenre: SUCCESS
 Genre added: 32003
@@ -41561,7 +44361,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 64263
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80442 genre36084
+addSong: SUCCESS
 Genre added: 3378
 addGenre: SUCCESS
 Genre added: 24421
@@ -41579,7 +44380,8 @@ Genre added: 5920
 addGenre: SUCCESS
 Genre added: 56615
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97863 genre75432
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 21372
 addGenre: SUCCESS
@@ -41594,16 +44396,19 @@ Genre added: 72223
 addGenre: SUCCESS
 Genre added: 74792
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13125 genre32485
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 82170
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 24838 genre76320
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 21408
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9597 genre9567
+addSong: SUCCESS
 Genre added: 79361
 addGenre: SUCCESS
 Genre added: 87731
@@ -41634,7 +44439,8 @@ Genre added: 46492
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73233 genre42112
+addSong: SUCCESS
 Genre added: 69906
 addGenre: SUCCESS
 Genre added: 18692
@@ -41643,7 +44449,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89641
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81627 genre98066
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 26343
 addGenre: SUCCESS
@@ -41665,7 +44472,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 51447
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 71977 genre97026
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -41676,7 +44484,8 @@ Genre added: 37525
 addGenre: SUCCESS
 Genre added: 24965
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50044 genre51027
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -41690,15 +44499,18 @@ Genre added: 90240
 addGenre: SUCCESS
 Genre added: 4617
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7505 genre58149
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 30335 genre87063
+addSong: SUCCESS
 Genre added: 19587
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 2073 genre19877
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 80906
@@ -41716,7 +44528,8 @@ Genre added: 62702
 addGenre: SUCCESS
 Genre added: 74936
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31298 genre21674
+addSong: SUCCESS
 Genre added: 24953
 addGenre: SUCCESS
 Genre added: 70609
@@ -41729,7 +44542,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 74338
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73819 genre48250
+addSong: SUCCESS
 Genre added: 96298
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -41746,9 +44560,11 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 2243
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41494 genre4377
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 96948 genre33854
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 17316
 addGenre: SUCCESS
@@ -41761,7 +44577,8 @@ addGenre: SUCCESS
 Genre added: 2536
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2344 genre45459
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 87930
 addGenre: SUCCESS
@@ -41785,7 +44602,8 @@ Genre added: 83895
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3868 genre46368
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 42847
 addGenre: SUCCESS
@@ -41816,24 +44634,28 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 75465
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78705 genre15593
+addSong: SUCCESS
 Genre added: 53270
 addGenre: SUCCESS
 Genre added: 7337
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30258 genre26540
+addSong: SUCCESS
 Genre added: 92787
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19390
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52961 genre70389
+addSong: SUCCESS
 Genre added: 76990
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 88026 genre86131
+addSong: SUCCESS
 Genre added: 72171
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -41841,7 +44663,8 @@ Genre added: 39228
 addGenre: SUCCESS
 Genre added: 40844
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98521 genre4934
+addSong: SUCCESS
 Genre added: 68340
 addGenre: SUCCESS
 Genre added: 64415
@@ -41851,7 +44674,8 @@ addGenre: SUCCESS
 Genre added: 40834
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 39971 genre58599
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 55227
 addGenre: SUCCESS
@@ -41889,11 +44713,13 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 43153 genre32329
+addSong: SUCCESS
 Genre added: 73834
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 62307 genre74088
+addSong: SUCCESS
 Genre added: 59025
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -41928,7 +44754,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67994 genre80338
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 3667
 addGenre: SUCCESS
@@ -41940,37 +44767,45 @@ Genre added: 76702
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 789 genre78545
+addSong: SUCCESS
 Genre added: 58387
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 63337 genre32288
+addSong: SUCCESS
+song added: 68374 genre55759
+addSong: SUCCESS
 Genre added: 55840
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 30815 genre8761
+addSong: SUCCESS
 Genre added: 95605
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 24414
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96436 genre29354
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 92797
 addGenre: SUCCESS
 Genre added: 13153
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5658 genre9372
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 71577
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 9950 genre65018
+addSong: SUCCESS
+song added: 79636 genre32125
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 67411
 addGenre: SUCCESS
@@ -41979,12 +44814,14 @@ Genre added: 53705
 addGenre: SUCCESS
 Genre added: 39763
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8276 genre89564
+addSong: SUCCESS
 Genre added: 96012
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 89994 genre14191
+addSong: SUCCESS
 Genre added: 50465
 addGenre: SUCCESS
 Genre added: 66768
@@ -42005,8 +44842,10 @@ Genre added: 49477
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 18609 genre36382
+addSong: SUCCESS
+song added: 93869 genre14774
+addSong: SUCCESS
 Genre added: 95864
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -42107,7 +44946,8 @@ Genre added: 36943
 addGenre: SUCCESS
 Genre added: 83028
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68260 genre18423
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 50580
@@ -42116,7 +44956,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 99139
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63421 genre42981
+addSong: SUCCESS
 Genre added: 14905
 addGenre: SUCCESS
 Genre added: 82482
@@ -42126,11 +44967,13 @@ Genre added: 97160
 addGenre: SUCCESS
 Genre added: 71796
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67215 genre41260
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 53527
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6884 genre36555
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 40653
 addGenre: SUCCESS
@@ -42152,7 +44995,8 @@ addGenre: SUCCESS
 Genre added: 46050
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15945 genre6000
+addSong: SUCCESS
 Genre added: 35060
 addGenre: SUCCESS
 Genre added: 87172
@@ -42167,9 +45011,11 @@ addGenre: SUCCESS
 Genre added: 41051
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 6541 genre53740
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72036 genre85187
+addSong: SUCCESS
 Genre added: 83723
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -42180,9 +45026,11 @@ Genre added: 76833
 addGenre: SUCCESS
 Genre added: 51964
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 483 genre50579
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 476 genre42925
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 16460
 addGenre: SUCCESS
@@ -42203,7 +45051,8 @@ mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 5763
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32721 genre39444
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 29627
 addGenre: SUCCESS
@@ -42222,7 +45071,8 @@ Genre added: 18775
 addGenre: SUCCESS
 Genre added: 64709
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73225 genre64264
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -42233,7 +45083,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43619
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44619 genre15113
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 14569
 addGenre: SUCCESS
@@ -42244,10 +45095,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96598
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91859 genre39656
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39999 genre56292
+addSong: SUCCESS
 Genre added: 76141
 addGenre: SUCCESS
 Genre added: 48329
@@ -42255,14 +45108,17 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 68733
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19970 genre27124
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 67114 genre84719
+addSong: SUCCESS
 Genre added: 51115
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83972 genre89842
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 39388
 addGenre: SUCCESS
@@ -42336,7 +45192,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8931
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53810 genre89326
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 14119
@@ -42368,7 +45225,8 @@ addGenre: SUCCESS
 Genre added: 95888
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 61477 genre91187
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 48361
@@ -42392,9 +45250,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 69543
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 88988 genre47747
+addSong: SUCCESS
+song added: 78667 genre8093
+addSong: SUCCESS
+song added: 39914 genre63121
+addSong: SUCCESS
 Genre added: 6014
 addGenre: SUCCESS
 Genre added: 36610
@@ -42429,12 +45290,15 @@ Genre added: 80105
 addGenre: SUCCESS
 Genre added: 24383
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77725 genre93757
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 31180 genre26914
+addSong: SUCCESS
+song added: 82469 genre83094
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 60821
 addGenre: SUCCESS
@@ -42464,13 +45328,15 @@ Genre added: 55636
 addGenre: SUCCESS
 Genre added: 69572
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94703 genre85076
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 26298
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10665 genre63407
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 19976
 addGenre: SUCCESS
@@ -42522,14 +45388,16 @@ Genre added: 17157
 addGenre: SUCCESS
 Genre added: 35974
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16813 genre71420
+addSong: SUCCESS
 Genre added: 33312
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 79351
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17165 genre95867
+addSong: SUCCESS
 Genre added: 72292
 addGenre: SUCCESS
 Genre added: 47670
@@ -42563,7 +45431,8 @@ addGenre: SUCCESS
 Genre added: 43003
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 44905 genre38290
+addSong: SUCCESS
 Genre added: 9524
 addGenre: SUCCESS
 Genre added: 38428
@@ -42597,7 +45466,8 @@ Genre added: 43448
 addGenre: SUCCESS
 Genre added: 63120
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95027 genre17962
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 15503
 addGenre: SUCCESS
@@ -42606,7 +45476,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 14638
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72848 genre96676
+addSong: SUCCESS
 Genre added: 99121
 addGenre: SUCCESS
 Genre added: 81056
@@ -42640,7 +45511,8 @@ addGenre: SUCCESS
 Genre added: 98360
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 48163 genre24452
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 99626
 addGenre: SUCCESS
@@ -42669,7 +45541,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 86193 genre51556
+addSong: SUCCESS
 Genre added: 12253
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -42689,7 +45562,8 @@ addGenre: SUCCESS
 Genre added: 83389
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 19322 genre34228
+addSong: SUCCESS
 Genre added: 63343
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -42700,7 +45574,8 @@ addGenre: SUCCESS
 Genre added: 27697
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 54425 genre23667
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 29771
@@ -42711,12 +45586,14 @@ Genre added: 47143
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 8964 genre51537
+addSong: SUCCESS
 Genre added: 60681
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 51127 genre1986
+addSong: SUCCESS
 Genre added: 40820
 addGenre: SUCCESS
 Genre added: 51498
@@ -42731,7 +45608,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 59235
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40339 genre85684
+addSong: SUCCESS
 Genre added: 71223
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -42801,8 +45679,9 @@ addGenre: SUCCESS
 Genre added: 54276
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 98706 genre17245
+addSong: SUCCESS
 Genre added: 16918
 addGenre: SUCCESS
 Genre added: 75580
@@ -42827,7 +45706,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63596
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77512 genre59355
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 81889
 addGenre: SUCCESS
@@ -42835,24 +45715,30 @@ Genre added: 877
 addGenre: SUCCESS
 Genre added: 2755
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 46745 genre27587
+addSong: SUCCESS
+song added: 67891 genre15969
+addSong: SUCCESS
 Genre added: 46520
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 16696
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26076 genre5903
+addSong: SUCCESS
 Genre added: 8285
 addGenre: SUCCESS
 Genre added: 95252
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 1807 genre42900
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 17336 genre29632
+addSong: SUCCESS
+song added: 79118 genre46962
+addSong: SUCCESS
 Genre added: 87788
 addGenre: SUCCESS
 Genre added: 38391
@@ -42864,7 +45750,8 @@ addGenre: SUCCESS
 Genre added: 81742
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54168 genre11321
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21018
@@ -42879,7 +45766,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48674
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97601 genre77029
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 81047
 addGenre: SUCCESS
@@ -42887,7 +45775,8 @@ Genre added: 44132
 addGenre: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 30970 genre23070
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 6597
 addGenre: SUCCESS
@@ -42953,12 +45842,16 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 45812
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95467 genre56871
+addSong: SUCCESS
 Genre added: 93558
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 30057 genre803
+addSong: SUCCESS
+song added: 24481 genre21826
+addSong: SUCCESS
+song added: 12785 genre4721
+addSong: SUCCESS
 Genre added: 54754
 addGenre: SUCCESS
 Genre added: 10525
@@ -42970,7 +45863,8 @@ Genre added: 75903
 addGenre: SUCCESS
 Genre added: 30070
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50667 genre71117
+addSong: SUCCESS
 Genre added: 52235
 addGenre: SUCCESS
 Genre added: 7573
@@ -42982,8 +45876,10 @@ Genre added: 28168
 addGenre: SUCCESS
 Genre added: 15591
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 98691 genre3316
+addSong: SUCCESS
+song added: 38630 genre28225
+addSong: SUCCESS
 Genre added: 38202
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -42991,14 +45887,17 @@ Genre added: 12254
 addGenre: SUCCESS
 Genre added: 91138
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 7317 genre29787
+addSong: SUCCESS
+song added: 24417 genre21439
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 12741
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4199 genre32256
+addSong: SUCCESS
 Genre added: 41486
 addGenre: SUCCESS
 Genre added: 93594
@@ -43015,7 +45914,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 19418 genre22816
+addSong: SUCCESS
 Genre added: 95692
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43048,7 +45948,8 @@ addGenre: SUCCESS
 Genre added: 6699
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7725 genre99911
+addSong: SUCCESS
 Genre added: 94756
 addGenre: SUCCESS
 Genre added: 2215
@@ -43061,7 +45962,8 @@ addGenre: SUCCESS
 Genre added: 95602
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 74633 genre88401
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 4073
@@ -43074,7 +45976,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 39960
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31711 genre98979
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -43099,7 +46002,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 87287
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46742 genre81805
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -43113,13 +46017,15 @@ Genre added: 10757
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 89048 genre4921
+addSong: SUCCESS
 Genre added: 33481
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 153 genre89768
+addSong: SUCCESS
 Genre added: 32834
 addGenre: SUCCESS
 Genre added: 37291
@@ -43134,10 +46040,12 @@ Genre added: 87970
 addGenre: SUCCESS
 Genre added: 68873
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28296 genre57440
+addSong: SUCCESS
 Genre added: 53209
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60706 genre61008
+addSong: SUCCESS
 Genre added: 66764
 addGenre: SUCCESS
 Genre added: 7504
@@ -43151,7 +46059,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 84421
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 73928 genre65922
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 81095
@@ -43189,7 +46098,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 17628
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 83295 genre44270
+addSong: SUCCESS
 Genre added: 34704
 addGenre: SUCCESS
 Genre added: 17474
@@ -43248,13 +46158,15 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 85306
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4531 genre46659
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 26810
 addGenre: SUCCESS
 Genre added: 5096
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45027 genre15893
+addSong: SUCCESS
 Genre added: 57874
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -43262,7 +46174,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 8675
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99733 genre154
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -43283,7 +46196,8 @@ addGenre: SUCCESS
 Genre added: 33668
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 672 genre91372
+addSong: SUCCESS
 Genre added: 22110
 addGenre: SUCCESS
 Genre added: 35308
@@ -43329,7 +46243,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 57128
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93596 genre99425
+addSong: SUCCESS
 Genre added: 83393
 addGenre: SUCCESS
 Genre added: 70169
@@ -43338,9 +46253,11 @@ Genre added: 26817
 addGenre: SUCCESS
 Genre added: 94475
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16597 genre28440
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37831 genre37789
+addSong: SUCCESS
 Genre added: 79699
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -43371,7 +46288,8 @@ Genre added: 2069
 addGenre: SUCCESS
 Genre added: 44819
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26316 genre54879
+addSong: SUCCESS
 Genre added: 70818
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43383,10 +46301,12 @@ Genre added: 32261
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51523 genre88595
+addSong: SUCCESS
 Genre added: 34931
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49714 genre8349
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 27167
 addGenre: SUCCESS
@@ -43410,7 +46330,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 10071
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50518 genre10983
+addSong: SUCCESS
 Genre added: 89847
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -43423,7 +46344,8 @@ Genre added: 14974
 addGenre: SUCCESS
 Genre added: 72593
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93467 genre94622
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 87636
@@ -43431,12 +46353,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 20682
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43530 genre54902
+addSong: SUCCESS
 Genre added: 63361
 addGenre: SUCCESS
 Genre added: 22613
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22559 genre14416
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 18717
 addGenre: SUCCESS
@@ -43453,7 +46377,8 @@ Genre added: 90274
 addGenre: SUCCESS
 Genre added: 11460
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56642 genre49244
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34055
 addGenre: SUCCESS
@@ -43464,17 +46389,20 @@ Genre added: 7466
 addGenre: SUCCESS
 Genre added: 68574
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61110 genre72339
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 43719 genre56891
+addSong: SUCCESS
 Genre added: 54707
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67473
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58747 genre2169
+addSong: SUCCESS
 Genre added: 28479
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43511,8 +46439,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 32545 genre88290
+addSong: SUCCESS
+song added: 50251 genre75028
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 75218
@@ -43532,11 +46462,12 @@ Genre added: 20950
 addGenre: SUCCESS
 Genre added: 84837
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67030 genre59227
+addSong: SUCCESS
 Genre added: 34393
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 83933
@@ -43544,7 +46475,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 39927 genre77494
+addSong: SUCCESS
 Genre added: 32055
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -43558,7 +46490,8 @@ Genre added: 12806
 addGenre: SUCCESS
 Genre added: 98280
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4611 genre13337
+addSong: SUCCESS
 Genre added: 2656
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43567,7 +46500,8 @@ Genre added: 6225
 addGenre: SUCCESS
 Genre added: 96881
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88348 genre61635
+addSong: SUCCESS
 Genre added: 60501
 addGenre: SUCCESS
 Genre added: 91980
@@ -43590,13 +46524,15 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 11426
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73426 genre83136
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 25246
 addGenre: SUCCESS
 Genre added: 28337
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77672 genre18680
+addSong: SUCCESS
 Genre added: 34755
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -43606,15 +46542,18 @@ Genre added: 86132
 addGenre: SUCCESS
 Genre added: 5086
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9526 genre31798
+addSong: SUCCESS
 Genre added: 30618
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87756 genre27419
+addSong: SUCCESS
 Genre added: 38147
 addGenre: SUCCESS
 Genre added: 8136
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47588 genre23711
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 30381
 addGenre: SUCCESS
@@ -43624,7 +46563,8 @@ Genre added: 69756
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 8506 genre79573
+addSong: SUCCESS
 Genre added: 29332
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43637,7 +46577,8 @@ addGenre: SUCCESS
 Genre added: 49447
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 65820 genre87020
+addSong: SUCCESS
 Genre added: 1465
 addGenre: SUCCESS
 Genre added: 9005
@@ -43658,7 +46599,8 @@ Genre added: 31803
 addGenre: SUCCESS
 Genre added: 4627
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92910 genre40103
+addSong: SUCCESS
 Genre added: 12303
 addGenre: SUCCESS
 Genre added: 46063
@@ -43673,13 +46615,15 @@ addGenre: SUCCESS
 Genre added: 19100
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 19064 genre75792
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 23097
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87111 genre94065
+addSong: SUCCESS
 Genre added: 19331
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -43689,7 +46633,8 @@ Genre added: 59690
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 71191 genre12591
+addSong: SUCCESS
 Genre added: 54383
 addGenre: SUCCESS
 Genre added: 63044
@@ -43714,7 +46659,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 13840 genre52693
+addSong: SUCCESS
 Genre added: 28715
 addGenre: SUCCESS
 Genre added: 7747
@@ -43732,8 +46678,10 @@ Genre added: 43113
 addGenre: SUCCESS
 Genre added: 30504
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 11762 genre62768
+addSong: SUCCESS
+song added: 46116 genre29542
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67072
@@ -43776,13 +46724,15 @@ Genre added: 78963
 addGenre: SUCCESS
 Genre added: 97602
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 27272 genre14129
+addSong: SUCCESS
 Genre added: 59980
 addGenre: SUCCESS
 Genre added: 41452
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41222 genre18529
+addSong: SUCCESS
 Genre added: 2390
 addGenre: SUCCESS
 Genre added: 31408
@@ -43801,7 +46751,8 @@ Genre added: 92973
 addGenre: SUCCESS
 Genre added: 61186
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28503 genre96724
+addSong: SUCCESS
 Genre added: 73853
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43822,9 +46773,11 @@ Genre added: 4192
 addGenre: SUCCESS
 Genre added: 56464
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1573 genre95788
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 40076 genre62822
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -43832,7 +46785,8 @@ Genre added: 13154
 addGenre: SUCCESS
 Genre added: 79600
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18141 genre82861
+addSong: SUCCESS
 Genre added: 32619
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -43849,7 +46803,8 @@ Genre added: 58747
 addGenre: SUCCESS
 Genre added: 66368
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81742 genre40949
+addSong: SUCCESS
 Genre added: 5312
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43861,7 +46816,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 54662
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52197 genre67240
+addSong: SUCCESS
 Genre added: 3026
 addGenre: SUCCESS
 Genre added: 38793
@@ -43906,7 +46862,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 78471 genre23677
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 28917
 addGenre: SUCCESS
@@ -43931,7 +46888,8 @@ Genre added: 96207
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5569 genre70123
+addSong: SUCCESS
 Genre added: 77006
 addGenre: SUCCESS
 Genre added: 2101
@@ -43950,11 +46908,12 @@ Genre added: 20661
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 16976 genre70868
+addSong: SUCCESS
 Genre added: 77877
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 1009
 addGenre: SUCCESS
 Genre added: 99901
@@ -43978,17 +46937,20 @@ Genre added: 56169
 addGenre: SUCCESS
 Genre added: 73457
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 82094 genre98447
+addSong: SUCCESS
+song added: 38222 genre19111
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 61570
 addGenre: SUCCESS
 Genre added: 83920
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92965 genre24108
+addSong: SUCCESS
 Genre added: 5014
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -43996,8 +46958,10 @@ Genre added: 34861
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 43609 genre97008
+addSong: SUCCESS
+song added: 65291 genre69489
+addSong: SUCCESS
 Genre added: 18725
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -44007,7 +46971,8 @@ Genre added: 49847
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 79399 genre60327
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -44017,7 +46982,8 @@ Genre added: 86857
 addGenre: SUCCESS
 Genre added: 80685
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46326 genre12494
+addSong: SUCCESS
 Genre added: 94510
 addGenre: SUCCESS
 Genre added: 34172
@@ -44052,7 +47018,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 8087
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 94066 genre78589
+addSong: SUCCESS
 Genre added: 57519
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -44061,13 +47028,15 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 17686
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3748 genre74342
+addSong: SUCCESS
 Genre added: 44555
 addGenre: SUCCESS
 Genre added: 90722
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12178 genre98393
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 69849
 addGenre: SUCCESS
@@ -44097,8 +47066,9 @@ Genre added: 48181
 addGenre: SUCCESS
 Genre added: 31795
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 90468 genre40051
+addSong: SUCCESS
 Genre added: 5741
 addGenre: SUCCESS
 Genre added: 16096
@@ -44109,11 +47079,15 @@ mergeGenres: FAILURE
 Genre added: 53888
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 68601 genre1723
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 21509 genre75197
+addSong: SUCCESS
+song added: 45139 genre2148
+addSong: SUCCESS
+song added: 20222 genre1063
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -44130,7 +47104,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 8321 genre51641
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -44147,7 +47122,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 92312
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26202 genre89310
+addSong: SUCCESS
 Genre added: 2987
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -44168,7 +47144,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48823
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77146 genre4816
+addSong: SUCCESS
 Genre added: 52071
 addGenre: SUCCESS
 Genre added: 40616
@@ -44182,8 +47159,10 @@ addGenre: SUCCESS
 Genre added: 69708
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 50396 genre55888
+addSong: SUCCESS
+song added: 70011 genre94133
+addSong: SUCCESS
 Genre added: 60573
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -44199,7 +47178,8 @@ Genre added: 83066
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29048 genre71308
+addSong: SUCCESS
 Genre added: 9776
 addGenre: SUCCESS
 Genre added: 37726
@@ -44211,7 +47191,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50273 genre70952
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 55675
@@ -44226,7 +47207,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 5316
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29780 genre72503
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 89636
 addGenre: SUCCESS
@@ -44237,7 +47219,8 @@ addGenre: SUCCESS
 Genre added: 14492
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 95498 genre63521
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -44292,7 +47275,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8438
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29511 genre83399
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 81594
 addGenre: SUCCESS
@@ -44300,7 +47284,8 @@ Genre added: 44674
 addGenre: SUCCESS
 Genre added: 45441
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25109 genre40132
+addSong: SUCCESS
 Genre added: 17032
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -44308,7 +47293,8 @@ Genre added: 22016
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 20759 genre95942
+addSong: SUCCESS
 Genre added: 98335
 addGenre: SUCCESS
 Genre added: 43076
@@ -44333,8 +47319,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 65961 genre9309
+addSong: SUCCESS
+song added: 40973 genre63047
+addSong: SUCCESS
 Genre added: 85568
 addGenre: SUCCESS
 Genre added: 44187
@@ -44409,7 +47397,8 @@ addGenre: SUCCESS
 Genre added: 19700
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 44817 genre32852
+addSong: SUCCESS
 Genre added: 30608
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -44420,14 +47409,17 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 61849
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22507 genre96643
+addSong: SUCCESS
 Genre added: 64911
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68275 genre11720
+addSong: SUCCESS
 Genre added: 94309
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 98343 genre4624
+addSong: SUCCESS
 Genre added: 64246
 addGenre: SUCCESS
 Genre added: 41017
@@ -44436,11 +47428,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 58144
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77463 genre53206
+addSong: SUCCESS
 Genre added: 66800
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 38283 genre72941
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 731
@@ -44462,8 +47456,10 @@ addGenre: SUCCESS
 Genre added: 17902
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 6440 genre19832
+addSong: SUCCESS
+song added: 60308 genre76668
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 26770
 addGenre: SUCCESS
@@ -44492,7 +47488,8 @@ addGenre: SUCCESS
 Genre added: 51960
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 53863 genre12457
+addSong: SUCCESS
 Genre added: 70657
 addGenre: SUCCESS
 Genre added: 28756
@@ -44500,7 +47497,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 14302
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67562 genre62131
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 36565
@@ -44514,10 +47512,12 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18363 genre41948
+addSong: SUCCESS
 Genre added: 58905
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 103 genre78006
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 14002
@@ -44547,7 +47547,8 @@ Genre added: 34117
 addGenre: SUCCESS
 Genre added: 96194
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98575 genre85289
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 47840
@@ -44585,10 +47586,12 @@ Genre added: 95720
 addGenre: SUCCESS
 Genre added: 8938
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26040 genre9826
+addSong: SUCCESS
 Genre added: 31714
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67062 genre56891
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 63881
 addGenre: SUCCESS
@@ -44598,9 +47601,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 10753 genre4038
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 54069 genre34040
+addSong: SUCCESS
 Genre added: 89212
 addGenre: SUCCESS
 Genre added: 5370
@@ -44615,7 +47620,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80739 genre40684
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 7501
@@ -44625,7 +47631,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 89866
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53243 genre74138
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 83564
 addGenre: SUCCESS
@@ -44634,13 +47641,15 @@ Genre added: 85897
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 15879 genre53919
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 63739
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73352 genre54608
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 65854
 addGenre: SUCCESS
@@ -44655,22 +47664,26 @@ getSongGenre: SUCCESS, 0
 Genre added: 73618
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 93170 genre83084
+addSong: SUCCESS
 Genre added: 89610
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18286 genre28597
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 42899 genre62378
+addSong: SUCCESS
 Genre added: 4976
 addGenre: SUCCESS
 Genre added: 9292
 addGenre: SUCCESS
 Genre added: 5421
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18371 genre78964
+addSong: SUCCESS
 Genre added: 52084
 addGenre: SUCCESS
 Genre added: 42579
@@ -44688,8 +47701,10 @@ Genre added: 79946
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 48493 genre16756
+addSong: SUCCESS
+song added: 97602 genre67518
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -44699,7 +47714,8 @@ addGenre: SUCCESS
 Genre added: 25686
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 4350 genre99857
+addSong: SUCCESS
 Genre added: 44837
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -44707,17 +47723,20 @@ Genre added: 76441
 addGenre: SUCCESS
 Genre added: 20883
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52508 genre27055
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 71785
 addGenre: SUCCESS
 Genre added: 70758
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89594 genre61160
+addSong: SUCCESS
 Genre added: 73166
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89315 genre53796
+addSong: SUCCESS
 Genre added: 51825
 addGenre: SUCCESS
 Genre added: 68924
@@ -44729,7 +47748,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51774 genre36630
+addSong: SUCCESS
 Genre added: 12742
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -44750,10 +47770,12 @@ Genre added: 7565
 addGenre: SUCCESS
 Genre added: 36689
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95378 genre12682
+addSong: SUCCESS
 Genre added: 90470
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95116 genre41986
+addSong: SUCCESS
 Genre added: 28506
 addGenre: SUCCESS
 Genre added: 48439
@@ -44772,7 +47794,8 @@ addGenre: SUCCESS
 Genre added: 36964
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7214 genre95763
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -44790,7 +47813,8 @@ Genre added: 81893
 addGenre: SUCCESS
 Genre added: 51308
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65987 genre37236
+addSong: SUCCESS
 Genre added: 60802
 addGenre: SUCCESS
 Genre added: 50161
@@ -44798,7 +47822,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73706 genre36038
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -44839,11 +47864,14 @@ addGenre: SUCCESS
 Genre added: 23005
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 68645 genre16713
+addSong: SUCCESS
 Genre added: 71559
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 82871 genre40719
+addSong: SUCCESS
+song added: 18221 genre8147
+addSong: SUCCESS
 Genre added: 26179
 addGenre: SUCCESS
 Genre added: 139
@@ -44860,7 +47888,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 20537
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72694 genre85129
+addSong: SUCCESS
 Genre added: 21306
 addGenre: SUCCESS
 Genre added: 94131
@@ -44878,7 +47907,8 @@ Genre added: 33813
 addGenre: SUCCESS
 Genre added: 74767
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2159 genre37672
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 34767
@@ -44887,11 +47917,13 @@ Genre added: 98343
 addGenre: SUCCESS
 Genre added: 98926
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13428 genre53706
+addSong: SUCCESS
 Genre added: 45171
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 17594 genre66854
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 73253
 addGenre: SUCCESS
@@ -44902,7 +47934,8 @@ Genre added: 14726
 addGenre: SUCCESS
 Genre added: 20399
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17039 genre17276
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -44925,7 +47958,8 @@ Genre added: 93780
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 89964 genre12710
+addSong: SUCCESS
 Genre added: 85115
 addGenre: SUCCESS
 Genre added: 91680
@@ -44944,12 +47978,14 @@ Genre added: 95227
 addGenre: SUCCESS
 Genre added: 11867
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22531 genre53117
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 32997 genre85695
+addSong: SUCCESS
 Genre added: 8886
 addGenre: SUCCESS
 Genre added: 8773
@@ -44968,7 +48004,8 @@ Genre added: 56701
 addGenre: SUCCESS
 Genre added: 48670
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52157 genre28071
+addSong: SUCCESS
 Genre added: 16794
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -44992,7 +48029,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 30737
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78404 genre93991
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94978
 addGenre: SUCCESS
@@ -45010,7 +48048,8 @@ Genre added: 29215
 addGenre: SUCCESS
 Genre added: 10603
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59633 genre3389
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 98649
 addGenre: SUCCESS
@@ -45020,12 +48059,14 @@ Genre added: 98684
 addGenre: SUCCESS
 Genre added: 51402
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29153 genre61275
+addSong: SUCCESS
 Genre added: 59130
 addGenre: SUCCESS
 Genre added: 98768
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1005 genre94429
+addSong: SUCCESS
 Genre added: 34753
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -45036,7 +48077,8 @@ Genre added: 93490
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 68509 genre66430
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -45067,7 +48109,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 20202
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 50492 genre55341
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
@@ -45081,7 +48124,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 32024
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 95967 genre78062
+addSong: SUCCESS
 Genre added: 86588
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -45093,7 +48137,8 @@ Genre added: 98203
 addGenre: SUCCESS
 Genre added: 52063
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66930 genre71721
+addSong: SUCCESS
 Genre added: 228
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -45107,9 +48152,12 @@ getSongGenre: SUCCESS, 0
 Genre added: 87278
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 38692 genre37814
+addSong: SUCCESS
+song added: 31957 genre47129
+addSong: SUCCESS
+song added: 84575 genre76096
+addSong: SUCCESS
 Genre added: 14916
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -45139,12 +48187,14 @@ Genre added: 53723
 addGenre: SUCCESS
 Genre added: 80608
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75774 genre41347
+addSong: SUCCESS
 Genre added: 87184
 addGenre: SUCCESS
 Genre added: 55159
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74204 genre87597
+addSong: SUCCESS
 Genre added: 48321
 addGenre: SUCCESS
 Genre added: 10993
@@ -45155,7 +48205,8 @@ Genre added: 28358
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 8984 genre80813
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 67554
 addGenre: SUCCESS
@@ -45185,15 +48236,18 @@ Genre added: 63177
 addGenre: SUCCESS
 Genre added: 58501
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64626 genre3289
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 21966
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86315 genre8301
+addSong: SUCCESS
 Genre added: 27949
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46653 genre78927
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -45203,10 +48257,12 @@ addGenre: SUCCESS
 Genre added: 133
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 95217 genre13607
+addSong: SUCCESS
 Genre added: 35920
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25048 genre86617
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 58369
 addGenre: SUCCESS
@@ -45249,14 +48305,18 @@ addGenre: SUCCESS
 Genre added: 7952
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 53827 genre77147
+addSong: SUCCESS
+song added: 99659 genre55609
+addSong: SUCCESS
 Genre added: 8074
 addGenre: SUCCESS
 Genre added: 65168
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 68675 genre70123
+addSong: SUCCESS
+song added: 23448 genre81337
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 85382
 addGenre: SUCCESS
@@ -45275,7 +48335,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 61395 genre9408
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 22499
 addGenre: SUCCESS
@@ -45287,9 +48348,11 @@ Genre added: 57199
 addGenre: SUCCESS
 Genre added: 61233
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28562 genre25993
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 99102 genre9158
+addSong: SUCCESS
 Genre added: 99128
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -45311,7 +48374,8 @@ Genre added: 65120
 addGenre: SUCCESS
 Genre added: 23901
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53797 genre3894
+addSong: SUCCESS
 Genre added: 15629
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -45325,7 +48389,8 @@ Genre added: 78103
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87847 genre36572
+addSong: SUCCESS
 Genre added: 28342
 addGenre: SUCCESS
 Genre added: 17127
@@ -45350,7 +48415,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 39905
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17348 genre33711
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 45509
 addGenre: SUCCESS
@@ -45360,9 +48426,11 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85536 genre57435
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2561 genre11274
+addSong: SUCCESS
 Genre added: 10910
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -45370,7 +48438,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 11280
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84425 genre76993
+addSong: SUCCESS
 Genre added: 76873
 addGenre: SUCCESS
 Genre added: 61457
@@ -45382,19 +48451,23 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 54144
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34702 genre1613
+addSong: SUCCESS
 Genre added: 46500
 addGenre: SUCCESS
 Genre added: 63402
 addGenre: SUCCESS
 Genre added: 37131
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35759 genre21935
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 38241 genre13568
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 2169 genre44176
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -45407,7 +48480,8 @@ addGenre: SUCCESS
 Genre added: 5147
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 71455 genre68473
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 8251
 addGenre: SUCCESS
@@ -45430,14 +48504,18 @@ addGenre: SUCCESS
 Genre added: 50056
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 75902 genre13430
+addSong: SUCCESS
+song added: 73694 genre8
+addSong: SUCCESS
 Genre added: 55383
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55629 genre18258
+addSong: SUCCESS
 Genre added: 88073
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46806 genre46127
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 18434
 addGenre: SUCCESS
@@ -45453,7 +48531,8 @@ addGenre: SUCCESS
 Genre added: 71745
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 13168 genre27691
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 34281
 addGenre: SUCCESS
@@ -45490,7 +48569,8 @@ Genre added: 61067
 addGenre: SUCCESS
 Genre added: 99384
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36518 genre26487
+addSong: SUCCESS
 Genre added: 11259
 addGenre: SUCCESS
 Genre added: 8057
@@ -45510,13 +48590,16 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 40019
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 77159 genre38869
+addSong: SUCCESS
+song added: 38610 genre73406
+addSong: SUCCESS
 Genre added: 3197
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86093 genre43939
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 75710
 addGenre: SUCCESS
@@ -45543,9 +48626,11 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 5606
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1781 genre60306
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 93131 genre12173
+addSong: SUCCESS
 Genre added: 77291
 addGenre: SUCCESS
 Genre added: 51590
@@ -45560,7 +48645,8 @@ Genre added: 73377
 addGenre: SUCCESS
 Genre added: 89738
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97798 genre47379
+addSong: SUCCESS
 Genre added: 16618
 addGenre: SUCCESS
 Genre added: 86353
@@ -45580,7 +48666,8 @@ Genre added: 58508
 addGenre: SUCCESS
 Genre added: 61610
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84847 genre75294
+addSong: SUCCESS
 Genre added: 1771
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -45602,7 +48689,8 @@ Genre added: 61772
 addGenre: SUCCESS
 Genre added: 77810
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34494 genre26578
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 74402
 addGenre: SUCCESS
@@ -45630,7 +48718,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 64204
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69428 genre77315
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 9947
 addGenre: SUCCESS
@@ -45640,7 +48729,8 @@ Genre added: 80322
 addGenre: SUCCESS
 Genre added: 26218
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7525 genre41852
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -45655,7 +48745,8 @@ Genre added: 12681
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42038 genre44026
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 35141
@@ -45678,15 +48769,18 @@ Genre added: 94934
 addGenre: SUCCESS
 Genre added: 72099
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76492 genre118
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 77240
 addGenre: SUCCESS
 Genre added: 7132
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 49498 genre22837
+addSong: SUCCESS
+song added: 99504 genre95182
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 22183
 addGenre: SUCCESS
@@ -45705,7 +48799,8 @@ Genre added: 72395
 addGenre: SUCCESS
 Genre added: 52717
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8688 genre37714
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 43256
 addGenre: SUCCESS
@@ -45743,7 +48838,8 @@ Genre added: 27038
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69095 genre12321
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63757
 addGenre: SUCCESS
@@ -45753,7 +48849,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 89329
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54130 genre16178
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -45766,7 +48863,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 78716 genre10721
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 32
 addGenre: SUCCESS
@@ -45780,7 +48878,8 @@ mergeGenres: FAILURE
 Genre added: 98558
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 10311 genre29752
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 59863
 addGenre: SUCCESS
@@ -45819,7 +48918,8 @@ addGenre: SUCCESS
 Genre added: 1954
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62543 genre61886
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 42429
 addGenre: SUCCESS
@@ -45828,13 +48928,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28063
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71108 genre62591
+addSong: SUCCESS
 Genre added: 68129
 addGenre: SUCCESS
 Genre added: 87958
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 68866 genre27474
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 32352
@@ -45853,7 +48955,8 @@ Genre added: 1530
 addGenre: SUCCESS
 Genre added: 12076
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39119 genre97196
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -45874,10 +48977,13 @@ Genre added: 55027
 addGenre: SUCCESS
 Genre added: 26056
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 56359 genre47619
+addSong: SUCCESS
+song added: 99472 genre87090
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 39478 genre81035
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -45895,7 +49001,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 28857
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 59865 genre82888
+addSong: SUCCESS
 Genre added: 10776
 addGenre: SUCCESS
 Genre added: 71148
@@ -45906,12 +49013,15 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 1291
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16120 genre89945
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 90909
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 84664 genre98244
+addSong: SUCCESS
+song added: 60760 genre87398
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 87381
 addGenre: SUCCESS
@@ -45944,7 +49054,8 @@ mergeGenres: FAILURE
 Genre added: 59457
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31633 genre46369
+addSong: SUCCESS
 Genre added: 98959
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -45955,8 +49066,10 @@ Genre added: 65610
 addGenre: SUCCESS
 Genre added: 38409
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 73282 genre14834
+addSong: SUCCESS
+song added: 49740 genre34314
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78689
@@ -45964,7 +49077,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 95198
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30369 genre56662
+addSong: SUCCESS
 Genre added: 40312
 addGenre: SUCCESS
 Genre added: 28318
@@ -45994,7 +49108,8 @@ Genre added: 35539
 addGenre: SUCCESS
 Genre added: 85906
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86239 genre63596
+addSong: SUCCESS
 Genre added: 79507
 addGenre: SUCCESS
 Genre added: 83565
@@ -46010,7 +49125,8 @@ Genre added: 13588
 addGenre: SUCCESS
 Genre added: 2351
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53485 genre96054
+addSong: SUCCESS
 Genre added: 82838
 addGenre: SUCCESS
 Genre added: 89594
@@ -46024,7 +49140,8 @@ addGenre: SUCCESS
 Genre added: 46853
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 69979 genre11023
+addSong: SUCCESS
 Genre added: 31979
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -46037,21 +49154,27 @@ Genre added: 81539
 addGenre: SUCCESS
 Genre added: 84309
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95284 genre96794
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 47570 genre76795
+addSong: SUCCESS
+song added: 14847 genre25992
+addSong: SUCCESS
 Genre added: 97858
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90906 genre2934
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 30059
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46172 genre12846
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 19047 genre1218
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 22704
 addGenre: SUCCESS
@@ -46068,7 +49191,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 12553 genre1978
+addSong: SUCCESS
 Genre added: 25339
 addGenre: SUCCESS
 Genre added: 318
@@ -46077,20 +49201,25 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 47838
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 20384 genre61167
+addSong: SUCCESS
+song added: 60448 genre44795
+addSong: SUCCESS
 Genre added: 21572
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62705 genre79683
+addSong: SUCCESS
 Genre added: 25915
 addGenre: SUCCESS
 Genre added: 73536
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77599 genre23848
+addSong: SUCCESS
 Genre added: 42368
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26968 genre28503
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 62233
 addGenre: SUCCESS
@@ -46102,7 +49231,8 @@ Genre added: 12944
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 68609 genre14480
+addSong: SUCCESS
 Genre added: 7154
 addGenre: SUCCESS
 Genre added: 70598
@@ -46123,14 +49253,16 @@ Genre added: 22252
 addGenre: SUCCESS
 Genre added: 32894
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49882 genre55813
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 97952
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45954 genre14314
+addSong: SUCCESS
 Genre added: 88838
 addGenre: SUCCESS
 Genre added: 33039
@@ -46139,7 +49271,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 19990 genre10031
+addSong: SUCCESS
 Genre added: 70443
 addGenre: SUCCESS
 Genre added: 95531
@@ -46147,7 +49280,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 51934
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29675 genre35788
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -46177,16 +49311,19 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 63222 genre24236
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85139 genre57509
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 5374
 addGenre: SUCCESS
 Genre added: 24728
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19922 genre348
+addSong: SUCCESS
 Genre added: 61557
 addGenre: SUCCESS
 Genre added: 44206
@@ -46210,11 +49347,13 @@ Genre added: 91164
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 2518 genre51237
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 49705
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65335 genre85567
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 24626
 addGenre: SUCCESS
@@ -46229,17 +49368,22 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 10
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 35986 genre14777
+addSong: SUCCESS
+song added: 47776 genre73621
+addSong: SUCCESS
+song added: 633 genre83
+addSong: SUCCESS
 Genre added: 39415
 addGenre: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 61786
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 46145 genre48120
+addSong: SUCCESS
+song added: 21714 genre53809
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 27915
@@ -46247,17 +49391,20 @@ addGenre: SUCCESS
 Genre added: 62469
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 55518 genre70180
+addSong: SUCCESS
 Genre added: 82856
 addGenre: SUCCESS
 Genre added: 89295
 addGenre: SUCCESS
 Genre added: 46996
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47165 genre82735
+addSong: SUCCESS
 Genre added: 75898
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24553 genre82102
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -46306,11 +49453,13 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 39424
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49493 genre21319
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 63466
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15037 genre96482
+addSong: SUCCESS
 Genre added: 36345
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -46340,7 +49489,8 @@ Genre added: 17625
 addGenre: SUCCESS
 Genre added: 66542
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21059 genre66957
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 3793
 addGenre: SUCCESS
@@ -46351,10 +49501,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 60523
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41057 genre6383
+addSong: SUCCESS
 Genre added: 95609
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21854 genre58247
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 96692
@@ -46365,7 +49517,8 @@ Genre added: 33634
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18791 genre19792
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94104
@@ -46380,7 +49533,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 36391
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43944 genre4292
+addSong: SUCCESS
 Genre added: 21813
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -46412,7 +49566,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62055 genre65912
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -46422,11 +49577,13 @@ addGenre: SUCCESS
 Genre added: 56518
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 55341 genre22738
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 57730
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12789 genre91437
+addSong: SUCCESS
 Genre added: 37990
 addGenre: SUCCESS
 Genre added: 48064
@@ -46444,13 +49601,15 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81846 genre93014
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 65907
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 74151 genre97002
+addSong: SUCCESS
 Genre added: 30533
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -46458,7 +49617,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 59163 genre39298
+addSong: SUCCESS
 Genre added: 31093
 addGenre: SUCCESS
 Genre added: 68136
@@ -46467,14 +49627,16 @@ Genre added: 76400
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87248 genre79861
+addSong: SUCCESS
 Genre added: 34916
 addGenre: SUCCESS
 Genre added: 82055
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3317 genre43242
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 17836
 addGenre: SUCCESS
@@ -46488,7 +49650,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 98313
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35584 genre12411
+addSong: SUCCESS
 Genre added: 38217
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -46497,7 +49660,8 @@ Genre added: 61695
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91935 genre69489
+addSong: SUCCESS
 Genre added: 11169
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -46505,12 +49669,14 @@ Genre added: 32849
 addGenre: SUCCESS
 Genre added: 68404
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88183 genre38358
+addSong: SUCCESS
 Genre added: 6598
 addGenre: SUCCESS
 Genre added: 15151
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32617 genre83286
+addSong: SUCCESS
 Genre added: 15770
 addGenre: SUCCESS
 Genre added: 42525
@@ -46528,11 +49694,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 73678
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 20453 genre90944
+addSong: SUCCESS
+song added: 42184 genre59293
+addSong: SUCCESS
 Genre added: 9818
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89903 genre6274
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 6243
 addGenre: SUCCESS
@@ -46549,12 +49718,14 @@ addGenre: SUCCESS
 Genre added: 28159
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85967 genre19114
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 48079
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49688 genre87105
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 17794
 addGenre: SUCCESS
@@ -46606,9 +49777,10 @@ Genre added: 93779
 addGenre: SUCCESS
 Genre added: 78366
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84725 genre37220
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28504
 addGenre: SUCCESS
@@ -46626,7 +49798,8 @@ Genre added: 63924
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91301 genre52200
+addSong: SUCCESS
 Genre added: 20909
 addGenre: SUCCESS
 Genre added: 30
@@ -46634,7 +49807,8 @@ addGenre: SUCCESS
 Genre added: 4191
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 60556 genre51358
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 98431
 addGenre: SUCCESS
@@ -46658,9 +49832,12 @@ mergeGenres: FAILURE
 Genre added: 11433
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 50740 genre17881
+addSong: SUCCESS
+song added: 70540 genre63790
+addSong: SUCCESS
+song added: 47512 genre91435
+addSong: SUCCESS
 Genre added: 73084
 addGenre: SUCCESS
 Genre added: 61398
@@ -46674,7 +49851,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 4059
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72367 genre86280
+addSong: SUCCESS
 Genre added: 50400
 addGenre: SUCCESS
 Genre added: 54676
@@ -46706,7 +49884,8 @@ addGenre: SUCCESS
 Genre added: 24945
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 23691 genre13189
+addSong: SUCCESS
 Genre added: 79667
 addGenre: SUCCESS
 Genre added: 83143
@@ -46720,14 +49899,17 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 58513
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28113 genre23184
+addSong: SUCCESS
 Genre added: 40056
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37436 genre34644
+addSong: SUCCESS
 Genre added: 23431
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 8143 genre18717
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -46769,12 +49951,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 33486 genre36023
+addSong: SUCCESS
 Genre added: 27521
 addGenre: SUCCESS
 Genre added: 67587
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82784 genre59464
+addSong: SUCCESS
 Genre added: 63342
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -46784,7 +49968,8 @@ addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 68019
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23715 genre62404
+addSong: SUCCESS
 Genre added: 6847
 addGenre: SUCCESS
 Genre added: 12555
@@ -46800,12 +49985,15 @@ addGenre: SUCCESS
 Genre added: 41236
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 40806 genre22635
+addSong: SUCCESS
+song added: 17048 genre31556
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 96017 genre91677
+addSong: SUCCESS
 Genre added: 39777
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -46818,7 +50006,8 @@ addGenre: SUCCESS
 Genre added: 56091
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 2328 genre1821
+addSong: SUCCESS
 Genre added: 40272
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -46832,16 +50021,20 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 92740
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7035 genre85904
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 46380
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 11668 genre22627
+addSong: SUCCESS
+song added: 75689 genre24735
+addSong: SUCCESS
 Genre added: 40158
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19414 genre54065
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 84037
@@ -46870,7 +50063,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 81569 genre81101
+addSong: SUCCESS
 Genre added: 79434
 addGenre: SUCCESS
 Genre added: 813
@@ -46881,7 +50075,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 1928
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 12730 genre2233
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 61907
 addGenre: SUCCESS
@@ -46902,7 +50097,8 @@ addGenre: INVALID_INPUT
 Genre added: 75307
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 20752 genre68438
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 72022
 addGenre: SUCCESS
@@ -46924,7 +50120,8 @@ Genre added: 31554
 addGenre: SUCCESS
 Genre added: 74700
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59505 genre57512
+addSong: SUCCESS
 Genre added: 50736
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -46948,7 +50145,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 10205
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3491 genre44270
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -46985,10 +50183,13 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 94807
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 62497 genre42610
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 935 genre44611
+addSong: SUCCESS
+song added: 79617 genre93102
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 14944
@@ -46999,7 +50200,8 @@ Genre added: 99629
 addGenre: SUCCESS
 Genre added: 587
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50478 genre55759
+addSong: SUCCESS
 Genre added: 24363
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -47014,7 +50216,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 15558
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 68934 genre78268
+addSong: SUCCESS
 Genre added: 79767
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -47043,7 +50246,8 @@ addGenre: SUCCESS
 Genre added: 30205
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 921 genre34695
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 36719
@@ -47083,12 +50287,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 48395
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41053 genre2803
+addSong: SUCCESS
 Genre added: 43385
 addGenre: SUCCESS
 Genre added: 60896
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32816 genre57940
+addSong: SUCCESS
 Genre added: 98364
 addGenre: SUCCESS
 Genre added: 42790
@@ -47139,11 +50345,13 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 8452 genre91405
+addSong: SUCCESS
 Genre added: 73287
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 75499 genre66424
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -47163,8 +50371,10 @@ addGenre: SUCCESS
 Genre added: 81149
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 51210 genre15697
+addSong: SUCCESS
+song added: 85497 genre69702
+addSong: SUCCESS
 Genre added: 49641
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -47178,14 +50388,18 @@ Genre added: 1952
 addGenre: SUCCESS
 Genre added: 26282
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 74152 genre55482
+addSong: SUCCESS
+song added: 7569 genre2433
+addSong: SUCCESS
+song added: 79242 genre34931
+addSong: SUCCESS
 Genre added: 81147
 addGenre: SUCCESS
 Genre added: 17787
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11109 genre55799
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 37289
 addGenre: SUCCESS
@@ -47205,7 +50419,8 @@ Genre added: 57455
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 83968 genre47840
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 667
 addGenre: SUCCESS
@@ -47226,9 +50441,11 @@ Genre added: 86975
 addGenre: SUCCESS
 Genre added: 49525
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70166 genre61178
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 41544 genre14440
+addSong: SUCCESS
 Genre added: 99494
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -47286,8 +50503,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 6972 genre63004
+addSong: SUCCESS
+song added: 96896 genre83956
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
@@ -47313,7 +50532,8 @@ Genre added: 87101
 addGenre: SUCCESS
 Genre added: 44737
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33896 genre63768
+addSong: SUCCESS
 Genre added: 57464
 addGenre: SUCCESS
 Genre added: 32744
@@ -47322,10 +50542,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 90308
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96034 genre3071
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 49513 genre1746
+addSong: SUCCESS
+song added: 41705 genre35475
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -47373,7 +50596,8 @@ Genre added: 18755
 addGenre: SUCCESS
 Genre added: 15435
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39674 genre7266
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 21105
 addGenre: SUCCESS
@@ -47382,7 +50606,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 11916
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10308 genre59744
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 67679
 addGenre: SUCCESS
@@ -47396,10 +50621,12 @@ Genre added: 30802
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28814 genre75432
+addSong: SUCCESS
 Genre added: 80072
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10359 genre38711
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63078
 addGenre: SUCCESS
@@ -47413,7 +50640,8 @@ Genre added: 55857
 addGenre: SUCCESS
 Genre added: 4893
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96102 genre9938
+addSong: SUCCESS
 Genre added: 64476
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -47424,9 +50652,11 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 19625
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92673 genre27219
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 90232 genre25820
+addSong: SUCCESS
 Genre added: 93787
 addGenre: SUCCESS
 Genre added: 29088
@@ -47438,7 +50668,8 @@ Genre added: 31663
 addGenre: SUCCESS
 Genre added: 13617
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42009 genre13036
+addSong: SUCCESS
 Genre added: 66530
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -47461,7 +50692,8 @@ Genre added: 84609
 addGenre: SUCCESS
 Genre added: 38477
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73421 genre20417
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 54410
 addGenre: SUCCESS
@@ -47470,7 +50702,8 @@ addGenre: SUCCESS
 Genre added: 42299
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 82005 genre16594
+addSong: SUCCESS
 Genre added: 79373
 addGenre: SUCCESS
 Genre added: 72359
@@ -47514,17 +50747,20 @@ Genre added: 21879
 addGenre: SUCCESS
 Genre added: 9745
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74418 genre99115
+addSong: SUCCESS
 Genre added: 51997
 addGenre: SUCCESS
 Genre added: 49841
 addGenre: SUCCESS
 Genre added: 71131
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41276 genre50453
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 46695 genre58387
+addSong: SUCCESS
 Genre added: 88783
 addGenre: SUCCESS
 Genre added: 78845
@@ -47560,7 +50796,8 @@ Genre added: 57148
 addGenre: SUCCESS
 Genre added: 24797
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59311 genre53646
+addSong: SUCCESS
 Genre added: 15216
 addGenre: SUCCESS
 Genre added: 39075
@@ -47609,7 +50846,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 56888
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60285 genre94438
+addSong: SUCCESS
 Genre added: 15444
 addGenre: SUCCESS
 Genre added: 54897
@@ -47666,7 +50904,8 @@ addGenre: SUCCESS
 Genre added: 70107
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 82168 genre3425
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 28681
 addGenre: SUCCESS
@@ -47685,7 +50924,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40465
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 74020 genre54841
+addSong: SUCCESS
 Genre added: 96373
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -47699,9 +50939,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 70383
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 18539 genre60289
+addSong: SUCCESS
+song added: 6737 genre45361
+addSong: SUCCESS
+song added: 64735 genre70554
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74053
 addGenre: SUCCESS
@@ -47715,7 +50958,8 @@ Genre added: 82552
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62341 genre67910
+addSong: SUCCESS
 Genre added: 98738
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -47728,12 +50972,14 @@ Genre added: 99757
 addGenre: SUCCESS
 Genre added: 87071
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20236 genre62069
+addSong: SUCCESS
 Genre added: 34674
 addGenre: SUCCESS
 Genre added: 56130
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48118 genre42966
+addSong: SUCCESS
 Genre added: 82235
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -47746,7 +50992,8 @@ Genre added: 2099
 addGenre: SUCCESS
 Genre added: 29237
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33008 genre85358
+addSong: SUCCESS
 Genre added: 54092
 addGenre: SUCCESS
 Genre added: 78956
@@ -47769,7 +51016,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 90681
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62134 genre19692
+addSong: SUCCESS
 Genre added: 59221
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -47786,7 +51034,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 729
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1284 genre57753
+addSong: SUCCESS
 Genre added: 61998
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -47794,7 +51043,8 @@ Genre added: 45452
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 13258 genre57808
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6340
 addGenre: SUCCESS
@@ -47816,17 +51066,20 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 3423
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 20474 genre5688
+addSong: SUCCESS
 Genre added: 34010
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90791 genre8631
+addSong: SUCCESS
 Genre added: 55572
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86329
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38564 genre92496
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 50928
 addGenre: SUCCESS
@@ -47836,7 +51089,8 @@ Genre added: 97646
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7953 genre76214
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 6247
 addGenre: SUCCESS
@@ -47853,7 +51107,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 2589
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 39871 genre80693
+addSong: SUCCESS
 Genre added: 58277
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -47885,7 +51140,8 @@ Genre added: 52501
 addGenre: SUCCESS
 Genre added: 70677
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17155 genre10166
+addSong: SUCCESS
 Genre added: 37866
 addGenre: SUCCESS
 Genre added: 37765
@@ -47917,7 +51173,8 @@ Genre added: 90782
 addGenre: SUCCESS
 Genre added: 45035
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34093 genre87279
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 21645
@@ -47953,21 +51210,25 @@ Genre added: 31471
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 24980 genre89394
+addSong: SUCCESS
+song added: 2807 genre70588
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 12313
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54428 genre3760
+addSong: SUCCESS
 Genre added: 24283
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52318
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53956 genre41350
+addSong: SUCCESS
 Genre added: 94435
 addGenre: SUCCESS
 Genre added: 32188
@@ -47990,16 +51251,20 @@ addGenre: SUCCESS
 Genre added: 33221
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 40722 genre18838
+addSong: SUCCESS
+song added: 42026 genre18775
+addSong: SUCCESS
 Genre added: 57894
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67499 genre90125
+addSong: SUCCESS
 Genre added: 25962
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 39735 genre6356
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 47916
 addGenre: SUCCESS
@@ -48012,10 +51277,12 @@ Genre added: 99762
 addGenre: SUCCESS
 Genre added: 77505
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43501 genre80917
+addSong: SUCCESS
 Genre added: 28124
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6159 genre22644
+addSong: SUCCESS
 Genre added: 74249
 addGenre: SUCCESS
 Genre added: 73579
@@ -48036,7 +51303,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 52081
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51249 genre26026
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -48063,7 +51331,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 71288
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88690 genre1023
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -48079,7 +51348,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 90927
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 96126 genre51950
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37177
 addGenre: SUCCESS
@@ -48090,7 +51360,7 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 45624
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74287
 addGenre: SUCCESS
@@ -48101,14 +51371,17 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18510 genre86208
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 86497 genre46483
+addSong: SUCCESS
 Genre added: 70867
 addGenre: SUCCESS
 Genre added: 69917
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75293 genre6075
+addSong: SUCCESS
 Genre added: 51324
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -48133,7 +51406,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 76060
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59133 genre53938
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 50088
 addGenre: SUCCESS
@@ -48155,14 +51429,16 @@ addGenre: SUCCESS
 Genre added: 32025
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 90736 genre47796
+addSong: SUCCESS
 Genre added: 64551
 addGenre: SUCCESS
 Genre added: 72946
 addGenre: SUCCESS
 Genre added: 90634
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7180 genre48038
+addSong: SUCCESS
 Genre added: 17870
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -48171,15 +51447,18 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6955
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 95120 genre31384
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8146
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30409 genre85501
+addSong: SUCCESS
 Genre added: 70134
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 26035 genre92009
+addSong: SUCCESS
 Genre added: 93961
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -48193,7 +51472,8 @@ Genre added: 97218
 addGenre: SUCCESS
 Genre added: 51232
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42598 genre9445
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 49652
 addGenre: SUCCESS
@@ -48220,7 +51500,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 29117
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30347 genre26335
+addSong: SUCCESS
 Genre added: 86795
 addGenre: SUCCESS
 Genre added: 74762
@@ -48239,27 +51520,32 @@ Genre added: 44468
 addGenre: SUCCESS
 Genre added: 98901
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 46963 genre33325
+addSong: SUCCESS
 Genre added: 77140
 addGenre: SUCCESS
 Genre added: 86858
 addGenre: SUCCESS
 Genre added: 8279
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97038 genre45813
+addSong: SUCCESS
 Genre added: 93069
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 78835 genre31423
+addSong: SUCCESS
+song added: 5031 genre72783
+addSong: SUCCESS
 Genre added: 48793
 addGenre: SUCCESS
 Genre added: 48244
 addGenre: SUCCESS
 Genre added: 75769
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21409 genre40465
+addSong: SUCCESS
 Genre added: 29289
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -48284,7 +51570,8 @@ addGenre: SUCCESS
 Genre added: 2995
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87380 genre72006
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 28808
@@ -48302,7 +51589,8 @@ addGenre: SUCCESS
 Genre added: 68498
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 72329 genre66381
+addSong: SUCCESS
 Genre added: 2272
 addGenre: SUCCESS
 Genre added: 24444
@@ -48313,9 +51601,12 @@ Genre added: 1389
 addGenre: SUCCESS
 Genre added: 21740
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 33638 genre41260
+addSong: SUCCESS
+song added: 48368 genre32229
+addSong: SUCCESS
+song added: 49319 genre16447
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 54859
 addGenre: SUCCESS
@@ -48328,7 +51619,8 @@ addGenre: SUCCESS
 Genre added: 62329
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39687 genre89080
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -48355,14 +51647,17 @@ addGenre: SUCCESS
 Genre added: 17153
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 58449 genre70427
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 60009
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2489 genre80787
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39204 genre36204
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 5677
 addGenre: SUCCESS
@@ -48378,7 +51673,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 16966
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78181 genre6163
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 13438
 addGenre: SUCCESS
@@ -48386,7 +51682,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 33496 genre14218
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 30768
 addGenre: SUCCESS
@@ -48397,13 +51694,16 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 27989
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 69228 genre51494
+addSong: SUCCESS
+song added: 82895 genre32854
+addSong: SUCCESS
 Genre added: 71
 addGenre: SUCCESS
 Genre added: 95008
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39140 genre27862
+addSong: SUCCESS
 Genre added: 18652
 addGenre: SUCCESS
 Genre added: 67048
@@ -48416,7 +51716,8 @@ Genre added: 99786
 addGenre: SUCCESS
 Genre added: 8124
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22417 genre63807
+addSong: SUCCESS
 Genre added: 6042
 addGenre: SUCCESS
 Genre added: 46754
@@ -48442,7 +51743,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 83914
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76197 genre71143
+addSong: SUCCESS
 Genre added: 8625
 addGenre: SUCCESS
 Genre added: 92635
@@ -48452,17 +51754,19 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 76021
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 48491
 addGenre: SUCCESS
 Genre added: 10157
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39305 genre26969
+addSong: SUCCESS
 Genre added: 24324
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 85961 genre79388
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 6370
 addGenre: SUCCESS
@@ -48531,21 +51835,25 @@ addGenre: SUCCESS
 Genre added: 43078
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60366 genre41750
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 62245 genre30614
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 25553
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70838 genre53238
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 74011
 addGenre: SUCCESS
 Genre added: 56544
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84242 genre45138
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37310
 addGenre: SUCCESS
@@ -48585,10 +51893,12 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 47783
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65247 genre17365
+addSong: SUCCESS
 Genre added: 43605
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78368 genre89606
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85584
@@ -48608,10 +51918,13 @@ Genre added: 10275
 addGenre: SUCCESS
 Genre added: 44009
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88472 genre92172
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 90494 genre70053
+addSong: SUCCESS
+song added: 93995 genre19296
+addSong: SUCCESS
 Genre added: 68839
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -48627,11 +51940,13 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 83162
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56438 genre35954
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 31282
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26974 genre36475
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -48668,7 +51983,8 @@ Genre added: 87675
 addGenre: SUCCESS
 Genre added: 43773
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46516 genre49238
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 25769
@@ -48676,7 +51992,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52541
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39206 genre12415
+addSong: SUCCESS
 Genre added: 78402
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -48697,12 +52014,14 @@ Genre added: 22506
 addGenre: SUCCESS
 Genre added: 36924
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88290 genre79824
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 76220
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 41717 genre74494
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 1780
 addGenre: SUCCESS
@@ -48713,7 +52032,8 @@ Genre added: 48859
 addGenre: SUCCESS
 Genre added: 41151
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48667 genre67607
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -48740,12 +52060,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 53922
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49328 genre73417
+addSong: SUCCESS
 Genre added: 22331
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 43514 genre57349
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19319
@@ -48768,7 +52090,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65360
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28106 genre44853
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -48796,12 +52119,14 @@ addGenre: SUCCESS
 Genre added: 11921
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 46451 genre85911
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 34938 genre17117
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 86248
@@ -48853,7 +52178,8 @@ Genre added: 86769
 addGenre: SUCCESS
 Genre added: 81894
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46816 genre18156
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 74417
 addGenre: SUCCESS
@@ -48861,8 +52187,10 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 29242
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 46192 genre11662
+addSong: SUCCESS
+song added: 89117 genre52442
+addSong: SUCCESS
 Genre added: 31674
 addGenre: SUCCESS
 Genre added: 12211
@@ -48905,7 +52233,8 @@ Genre added: 24689
 addGenre: SUCCESS
 Genre added: 40755
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59510 genre26178
+addSong: SUCCESS
 Genre added: 35329
 addGenre: SUCCESS
 Genre added: 15006
@@ -48945,7 +52274,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41884
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 62152 genre68864
+addSong: SUCCESS
 Genre added: 96427
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -48961,7 +52291,8 @@ Genre added: 22472
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92051 genre44553
+addSong: SUCCESS
 Genre added: 97450
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -48985,7 +52316,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 12537
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87426 genre66768
+addSong: SUCCESS
 Genre added: 70261
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -48997,13 +52329,16 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 96351
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35451 genre55456
+addSong: SUCCESS
+song added: 53032 genre40906
+addSong: SUCCESS
 Genre added: 62382
 addGenre: SUCCESS
 Genre added: 64359
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88260 genre84817
+addSong: SUCCESS
 Genre added: 94390
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -49012,8 +52347,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4412
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 76858 genre95493
+addSong: SUCCESS
+song added: 16641 genre91187
+addSong: SUCCESS
 Genre added: 54806
 addGenre: SUCCESS
 Genre added: 97500
@@ -49026,7 +52363,8 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 43711
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71630 genre2305
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 42089
@@ -49036,7 +52374,8 @@ addGenre: SUCCESS
 Genre added: 1810
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 17109 genre15151
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -49052,7 +52391,8 @@ Genre added: 10584
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87155 genre60892
+addSong: SUCCESS
 Genre added: 90243
 addGenre: SUCCESS
 Genre added: 3483
@@ -49091,10 +52431,12 @@ Genre added: 68958
 addGenre: SUCCESS
 Genre added: 39189
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52702 genre50191
+addSong: SUCCESS
 Genre added: 64099
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23420 genre2893
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 28403
@@ -49120,15 +52462,18 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 42377
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60903 genre90832
+addSong: SUCCESS
 Genre added: 69831
 addGenre: SUCCESS
 Genre added: 82744
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93403 genre14604
+addSong: SUCCESS
 Genre added: 95670
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31170 genre21871
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -49173,15 +52518,18 @@ Genre added: 82523
 addGenre: SUCCESS
 Genre added: 67108
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7023 genre60992
+addSong: SUCCESS
 Genre added: 34423
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 61678 genre45922
+addSong: SUCCESS
 Genre added: 94781
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96053 genre82861
+addSong: SUCCESS
 Genre added: 88920
 addGenre: SUCCESS
 Genre added: 56672
@@ -49233,13 +52581,15 @@ Genre added: 61707
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46335 genre2392
+addSong: SUCCESS
 Genre added: 48032
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 74996
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19098 genre20718
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -49266,7 +52616,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70583 genre76924
+addSong: SUCCESS
 Genre added: 30814
 addGenre: SUCCESS
 Genre added: 57311
@@ -49277,11 +52628,13 @@ Genre added: 26934
 addGenre: SUCCESS
 Genre added: 60466
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81720 genre83143
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 64355 genre68860
+addSong: SUCCESS
 Genre added: 74044
 addGenre: SUCCESS
 Genre added: 34573
@@ -49306,7 +52659,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 68530
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65489 genre49294
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35214
@@ -49327,7 +52681,8 @@ Genre added: 66930
 addGenre: SUCCESS
 Genre added: 82674
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67787 genre37706
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 81058
@@ -49347,11 +52702,13 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 8295
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19396 genre41443
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 70422
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33259 genre75143
+addSong: SUCCESS
 Genre added: 29987
 addGenre: SUCCESS
 Genre added: 38491
@@ -49373,7 +52730,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 33054 genre20528
+addSong: SUCCESS
 Genre added: 68731
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -49381,14 +52739,18 @@ Genre added: 41439
 addGenre: SUCCESS
 Genre added: 82437
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12837 genre69385
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 77753 genre51792
+addSong: SUCCESS
+song added: 86866 genre45416
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60291 genre30472
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77993
 addGenre: SUCCESS
@@ -49398,7 +52760,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 72163
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29629 genre95833
+addSong: SUCCESS
 Genre added: 22278
 addGenre: SUCCESS
 Genre added: 7498
@@ -49448,20 +52811,23 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8974
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30356 genre29742
+addSong: SUCCESS
 Genre added: 38652
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 120
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18358 genre35909
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96939
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87402 genre55441
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 65724
 addGenre: SUCCESS
@@ -49471,18 +52837,22 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29671
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17755 genre14830
+addSong: SUCCESS
 Genre added: 6872
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 14780 genre18944
+addSong: SUCCESS
+song added: 83188 genre93290
+addSong: SUCCESS
 Genre added: 87823
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 20911
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74107 genre37026
+addSong: SUCCESS
 Genre added: 3279
 addGenre: SUCCESS
 Genre added: 76317
@@ -49498,18 +52868,21 @@ Genre added: 87955
 addGenre: SUCCESS
 Genre added: 54379
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73333 genre27684
+addSong: SUCCESS
 Genre added: 15016
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 10062
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 22401 genre75442
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 67260
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10073 genre80982
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 31441
 addGenre: SUCCESS
@@ -49549,7 +52922,8 @@ Genre added: 12593
 addGenre: SUCCESS
 Genre added: 21244
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3807 genre82655
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 69984
 addGenre: SUCCESS
@@ -49565,7 +52939,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 42127
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 29346 genre78255
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 41218
 addGenre: SUCCESS
@@ -49581,16 +52956,19 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86527
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10818 genre54607
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 88532
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83130 genre26583
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 10923
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23356 genre64641
+addSong: SUCCESS
 Genre added: 45644
 addGenre: SUCCESS
 Genre added: 95090
@@ -49639,7 +53017,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 99637
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77734 genre4182
+addSong: SUCCESS
 Genre added: 17418
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -49680,9 +53059,11 @@ addGenre: SUCCESS
 Genre added: 5674
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 53614 genre60246
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31437 genre61160
+addSong: SUCCESS
 Genre added: 5940
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -49701,11 +53082,13 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 7621 genre79342
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 2610
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74887 genre18725
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -49721,7 +53104,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 52273
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75472 genre82309
+addSong: SUCCESS
 Genre added: 81283
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -49772,10 +53156,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 38729
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42693 genre57849
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72002 genre5607
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -49789,16 +53175,20 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 47386
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26746 genre20866
+addSong: SUCCESS
 Genre added: 62438
 addGenre: SUCCESS
 Genre added: 46578
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 57941 genre19336
+addSong: SUCCESS
+song added: 45430 genre70797
+addSong: SUCCESS
+song added: 67667 genre13922
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 83150
@@ -49807,7 +53197,8 @@ Genre added: 47814
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 21374 genre49619
+addSong: SUCCESS
 Genre added: 83926
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -49822,7 +53213,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8459
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 17211 genre13288
+addSong: SUCCESS
 Genre added: 14938
 addGenre: SUCCESS
 Genre added: 41287
@@ -49849,7 +53241,8 @@ Genre added: 46530
 addGenre: SUCCESS
 Genre added: 55049
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56688 genre30914
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -49866,15 +53259,18 @@ Genre added: 63268
 addGenre: SUCCESS
 Genre added: 36953
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 53296 genre95469
+addSong: SUCCESS
+song added: 47770 genre60535
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 11403
 addGenre: SUCCESS
 Genre added: 186
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 9745 genre35122
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 90642
 addGenre: SUCCESS
@@ -49884,7 +53280,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 94677
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45970 genre40967
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82895
 addGenre: SUCCESS
@@ -49892,7 +53289,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19699
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 7284 genre82028
+addSong: SUCCESS
 Genre added: 86388
 addGenre: SUCCESS
 Genre added: 46133
@@ -49904,7 +53302,8 @@ addGenre: SUCCESS
 Genre added: 81555
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 55978 genre82637
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 31755
@@ -49916,7 +53315,8 @@ Genre added: 89046
 addGenre: SUCCESS
 Genre added: 41555
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31569 genre57241
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 60367
 addGenre: SUCCESS
@@ -49929,8 +53329,10 @@ Genre added: 12607
 addGenre: SUCCESS
 Genre added: 36566
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 31862 genre18193
+addSong: SUCCESS
+song added: 26726 genre16509
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 96023
 addGenre: SUCCESS
@@ -49943,18 +53345,21 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 37234
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18815 genre36814
+addSong: SUCCESS
 Genre added: 46258
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 38122 genre43864
+addSong: SUCCESS
 Genre added: 23412
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44319 genre87101
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56021
@@ -49969,11 +53374,14 @@ addGenre: SUCCESS
 Genre added: 45172
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 1091 genre20469
+addSong: SUCCESS
 Genre added: 8887
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 41740 genre64600
+addSong: SUCCESS
+song added: 71330 genre66271
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 4426
 addGenre: SUCCESS
@@ -49989,7 +53397,8 @@ Genre added: 15455
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27529 genre31963
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 21375
 addGenre: SUCCESS
@@ -50041,8 +53450,10 @@ addGenre: SUCCESS
 Genre added: 83994
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 54710 genre50723
+addSong: SUCCESS
+song added: 30772 genre91802
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 88463
 addGenre: SUCCESS
@@ -50065,7 +53476,8 @@ Genre added: 67852
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 72736 genre48532
+addSong: SUCCESS
 Genre added: 5983
 addGenre: SUCCESS
 Genre added: 87339
@@ -50085,19 +53497,22 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48437
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44982 genre86571
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 30837
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47224 genre11006
+addSong: SUCCESS
 Genre added: 80084
 addGenre: SUCCESS
 Genre added: 49661
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86566 genre26737
+addSong: SUCCESS
 Genre added: 88477
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -50123,7 +53538,7 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 50070
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 18880
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -50153,16 +53568,20 @@ mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 Genre added: 43002
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 58581 genre93862
+addSong: SUCCESS
+song added: 22167 genre88195
+addSong: SUCCESS
 Genre added: 17391
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86088 genre39522
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 61097
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 75406 genre59226
+addSong: SUCCESS
 Genre added: 69413
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -50177,7 +53596,8 @@ Genre added: 80285
 addGenre: SUCCESS
 Genre added: 41660
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97498 genre1046
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 39537
 addGenre: SUCCESS
@@ -50190,7 +53610,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 97498
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 23896 genre89268
+addSong: SUCCESS
 Genre added: 7906
 addGenre: SUCCESS
 Genre added: 1507
@@ -50226,7 +53647,8 @@ Genre added: 4729
 addGenre: SUCCESS
 Genre added: 8003
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51181 genre8973
+addSong: SUCCESS
 Genre added: 42130
 addGenre: SUCCESS
 Genre added: 78072
@@ -50235,7 +53657,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 68699
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48788 genre7938
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 31059
@@ -50245,13 +53668,15 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 42600
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84148 genre40177
+addSong: SUCCESS
 Genre added: 8492
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 77208
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5291 genre86281
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 62696
 addGenre: SUCCESS
@@ -50272,7 +53697,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 95767
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 66101 genre64874
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 82580
 addGenre: SUCCESS
@@ -50292,14 +53718,16 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77531
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12392 genre98382
+addSong: SUCCESS
 Genre added: 12624
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3055 genre19146
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 11018
@@ -50320,11 +53748,13 @@ mergeGenres: FAILURE
 Genre added: 87627
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9690 genre30588
+addSong: SUCCESS
 Genre added: 33024
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 88225 genre60992
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80495
 addGenre: SUCCESS
@@ -50335,8 +53765,10 @@ addGenre: SUCCESS
 Genre added: 94712
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 31797 genre51511
+addSong: SUCCESS
+song added: 341 genre89373
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29278
 addGenre: SUCCESS
@@ -50358,7 +53790,8 @@ addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 73384
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47218 genre63020
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 73323
 addGenre: SUCCESS
@@ -50411,7 +53844,8 @@ addGenre: SUCCESS
 Genre added: 86712
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91804 genre56891
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 78523
 addGenre: SUCCESS
@@ -50430,7 +53864,8 @@ Genre added: 26860
 addGenre: SUCCESS
 Genre added: 30226
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67595 genre56235
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 98002
 addGenre: SUCCESS
@@ -50475,7 +53910,7 @@ Genre added: 22664
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 13930
 addGenre: SUCCESS
@@ -50499,10 +53934,12 @@ addGenre: SUCCESS
 Genre added: 86751
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 78769 genre73544
+addSong: SUCCESS
 Genre added: 36756
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47659 genre98988
+addSong: SUCCESS
 Genre added: 92029
 addGenre: SUCCESS
 Genre added: 41058
@@ -50526,7 +53963,8 @@ Genre added: 84554
 addGenre: SUCCESS
 Genre added: 95321
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49189 genre22666
+addSong: SUCCESS
 Genre added: 71900
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -50548,7 +53986,8 @@ Genre added: 43800
 addGenre: SUCCESS
 Genre added: 23320
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99222 genre60754
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56443
 addGenre: SUCCESS
@@ -50557,7 +53996,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 3034
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19411 genre10975
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 39525
@@ -50565,11 +54005,13 @@ addGenre: SUCCESS
 Genre added: 79484
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73151 genre36460
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 3679
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38783 genre58094
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 17938
 addGenre: SUCCESS
@@ -50586,10 +54028,12 @@ Genre added: 93183
 addGenre: SUCCESS
 Genre added: 10137
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74427 genre78333
+addSong: SUCCESS
 Genre added: 47191
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39965 genre83910
+addSong: SUCCESS
 Genre added: 68157
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -50597,8 +54041,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92034
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 35682 genre44441
+addSong: SUCCESS
+song added: 23210 genre45901
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 67392
 addGenre: SUCCESS
@@ -50625,7 +54071,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21819
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38094 genre5304
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -50647,7 +54094,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 83736
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 30980 genre82460
+addSong: SUCCESS
 Genre added: 21478
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -50659,7 +54107,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 49311
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 252 genre68370
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 8244
 addGenre: SUCCESS
@@ -50668,18 +54117,21 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 25064
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40962 genre50388
+addSong: SUCCESS
 Genre added: 73989
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 39419 genre51414
+addSong: SUCCESS
 Genre added: 79744
 addGenre: SUCCESS
 Genre added: 27411
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80365 genre44989
+addSong: SUCCESS
 Genre added: 76739
 addGenre: SUCCESS
 Genre added: 38211
@@ -50721,7 +54173,8 @@ Genre added: 33587
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9059 genre53113
+addSong: SUCCESS
 Genre added: 22385
 addGenre: SUCCESS
 Genre added: 64385
@@ -50730,7 +54183,8 @@ Genre added: 93493
 addGenre: SUCCESS
 Genre added: 15502
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90171 genre50841
+addSong: SUCCESS
 Genre added: 55914
 addGenre: SUCCESS
 Genre added: 48782
@@ -50764,12 +54218,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 52157
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85949 genre18170
+addSong: SUCCESS
 Genre added: 33920
 addGenre: SUCCESS
 Genre added: 68809
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73476 genre70249
+addSong: SUCCESS
 Genre added: 24949
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -50784,7 +54240,8 @@ addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 92413
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7544 genre95751
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 3401
 addGenre: SUCCESS
@@ -50796,11 +54253,13 @@ Genre added: 73725
 addGenre: SUCCESS
 Genre added: 46181
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77983 genre16708
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 16326
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35398 genre48741
+addSong: SUCCESS
 Genre added: 19010
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -50823,7 +54282,8 @@ Genre added: 13538
 addGenre: SUCCESS
 Genre added: 64456
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40690 genre54372
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 21595
 addGenre: SUCCESS
@@ -50863,7 +54323,8 @@ Genre added: 77752
 addGenre: SUCCESS
 Genre added: 54591
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20989 genre84354
+addSong: SUCCESS
 Genre added: 98111
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -50909,10 +54370,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 35741 genre36680
+addSong: SUCCESS
 Genre added: 21364
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66611 genre20924
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93392
@@ -50924,24 +54387,30 @@ addGenre: SUCCESS
 Genre added: 82411
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49851 genre19386
+addSong: SUCCESS
 Genre added: 33740
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 90086
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35805 genre67170
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 80935
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 99816 genre43483
+addSong: SUCCESS
+song added: 86757 genre30601
+addSong: SUCCESS
+song added: 97683 genre19089
+addSong: SUCCESS
 Genre added: 78867
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16707 genre45136
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -50949,7 +54418,8 @@ Genre added: 84266
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29747 genre1918
+addSong: SUCCESS
 Genre added: 38708
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -50974,7 +54444,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 77927
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35502 genre5581
+addSong: SUCCESS
 Genre added: 91101
 addGenre: SUCCESS
 Genre added: 71460
@@ -51033,14 +54504,16 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 65834
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38807 genre9592
+addSong: SUCCESS
 Genre added: 20660
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 3516
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 98393 genre38836
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 8515
@@ -51053,7 +54526,8 @@ Genre added: 7400
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 55038 genre55261
+addSong: SUCCESS
 Genre added: 71739
 addGenre: SUCCESS
 Genre added: 190
@@ -51063,7 +54537,8 @@ Genre added: 86141
 addGenre: SUCCESS
 Genre added: 16171
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83870 genre97774
+addSong: SUCCESS
 Genre added: 15535
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -51080,15 +54555,19 @@ addGenre: SUCCESS
 Genre added: 56300
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94705 genre93289
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 82516 genre93536
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 28266 genre70425
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49630 genre5741
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85557
 addGenre: SUCCESS
@@ -51112,7 +54591,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 66039
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42480 genre53004
+addSong: SUCCESS
 Genre added: 63199
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -51142,7 +54622,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 12491
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99736 genre48259
+addSong: SUCCESS
 Genre added: 43259
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -51154,7 +54635,8 @@ addGenre: SUCCESS
 Genre added: 43964
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 90349 genre35057
+addSong: SUCCESS
 Genre added: 23393
 addGenre: SUCCESS
 Genre added: 61572
@@ -51163,7 +54645,8 @@ Genre added: 20613
 addGenre: SUCCESS
 Genre added: 41770
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1618 genre30932
+addSong: SUCCESS
 Genre added: 96292
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -51195,13 +54678,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50180 genre13526
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19427
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 75930 genre91531
+addSong: SUCCESS
 Genre added: 81335
 addGenre: SUCCESS
 Genre added: 28647
@@ -51228,10 +54713,12 @@ Genre added: 29413
 addGenre: SUCCESS
 Genre added: 88357
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5223 genre29292
+addSong: SUCCESS
 Genre added: 13788
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3127 genre80923
+addSong: SUCCESS
 Genre added: 27384
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -51241,12 +54728,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 49082
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 73761 genre55001
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 47731
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62759 genre40039
+addSong: SUCCESS
 Genre added: 88499
 addGenre: SUCCESS
 Genre added: 18708
@@ -51256,11 +54745,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74815
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96941 genre38112
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 21081
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16240 genre66245
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 46562
 addGenre: SUCCESS
@@ -51270,12 +54761,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 27829
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18834 genre96975
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 59811 genre15076
+addSong: SUCCESS
 Genre added: 34272
 addGenre: SUCCESS
 Genre added: 81285
@@ -51289,7 +54782,8 @@ Genre added: 80994
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 34347 genre6349
+addSong: SUCCESS
 Genre added: 39976
 addGenre: SUCCESS
 Genre added: 85283
@@ -51315,7 +54809,8 @@ mergeGenres: FAILURE
 Genre added: 38852
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 20332 genre95193
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 85661
 addGenre: SUCCESS
@@ -51324,7 +54819,8 @@ Genre added: 79928
 addGenre: SUCCESS
 Genre added: 35671
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68189 genre62508
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 50195
 addGenre: SUCCESS
@@ -51335,7 +54831,8 @@ Genre added: 43058
 addGenre: SUCCESS
 Genre added: 20940
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79407 genre7244
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 15834
 addGenre: SUCCESS
@@ -51350,7 +54847,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 99383
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66270 genre66193
+addSong: SUCCESS
 Genre added: 50484
 addGenre: SUCCESS
 Genre added: 29555
@@ -51383,7 +54881,8 @@ Genre added: 50010
 addGenre: SUCCESS
 Genre added: 90288
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4438 genre41212
+addSong: SUCCESS
 Genre added: 70395
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -51446,7 +54945,8 @@ addGenre: SUCCESS
 Genre added: 3731
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 78763 genre70658
+addSong: SUCCESS
 Genre added: 9768
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -51502,7 +55002,8 @@ Genre added: 58923
 addGenre: SUCCESS
 Genre added: 22933
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93124 genre16968
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 966
@@ -51535,13 +55036,14 @@ addGenre: SUCCESS
 Genre added: 24170
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 18992 genre10063
+addSong: SUCCESS
 Genre added: 40858
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 43721
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 69116
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -51588,7 +55090,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 82719
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79142 genre77136
+addSong: SUCCESS
 Genre added: 44876
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -51607,11 +55110,14 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 97027
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45188 genre12592
+addSong: SUCCESS
 Genre added: 68533
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 14794 genre57542
+addSong: SUCCESS
+song added: 20249 genre71165
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -51621,14 +55127,17 @@ Genre added: 47290
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96095 genre98387
+addSong: SUCCESS
 Genre added: 81995
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 90329 genre76458
+addSong: SUCCESS
 Genre added: 76753
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14588 genre25973
+addSong: SUCCESS
 Genre added: 84447
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -51682,14 +55191,16 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 64915
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 43208 genre82831
+addSong: SUCCESS
+song added: 23308 genre42801
+addSong: SUCCESS
 Genre added: 60755
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 49225
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 81292
 addGenre: SUCCESS
@@ -51741,8 +55252,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 69521
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 80007 genre32999
+addSong: SUCCESS
+song added: 43693 genre21586
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 88555
 addGenre: SUCCESS
@@ -51757,8 +55270,10 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 56673
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 38746 genre73930
+addSong: SUCCESS
+song added: 50536 genre2651
+addSong: SUCCESS
 Genre added: 22685
 addGenre: SUCCESS
 Genre added: 43280
@@ -51798,7 +55313,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 53298
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29190 genre95138
+addSong: SUCCESS
 Genre added: 70566
 addGenre: SUCCESS
 Genre added: 54619
@@ -51814,7 +55330,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 62262
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 45367
 addGenre: SUCCESS
 Genre added: 86104
@@ -51841,7 +55357,8 @@ Genre added: 39812
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86186 genre45770
+addSong: SUCCESS
 Genre added: 81398
 addGenre: SUCCESS
 Genre added: 60997
@@ -51914,7 +55431,8 @@ Genre added: 6481
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 21408 genre84552
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 16897
 addGenre: SUCCESS
@@ -51925,12 +55443,15 @@ Genre added: 78668
 addGenre: SUCCESS
 Genre added: 78246
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50132 genre26535
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 93582 genre35529
+addSong: SUCCESS
 Genre added: 13329
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6315 genre60367
+addSong: SUCCESS
 Genre added: 53718
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -51943,8 +55464,10 @@ addGenre: INVALID_INPUT
 Genre added: 4818
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 61289 genre33026
+addSong: SUCCESS
+song added: 97641 genre83612
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -51956,7 +55479,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 13192
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90113 genre46138
+addSong: SUCCESS
 Genre added: 73620
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -51966,7 +55490,8 @@ addGenre: SUCCESS
 Genre added: 94016
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 74982 genre27318
+addSong: SUCCESS
 Genre added: 58887
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -51974,7 +55499,8 @@ Genre added: 2847
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45266 genre3707
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 43053
 addGenre: SUCCESS
@@ -51988,7 +55514,8 @@ Genre added: 83702
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 55004 genre52294
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
@@ -52024,7 +55551,7 @@ Genre added: 57158
 addGenre: SUCCESS
 Genre added: 68629
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 52178
 addGenre: SUCCESS
 Genre added: 37144
@@ -52059,7 +55586,8 @@ Genre added: 30363
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12733 genre35190
+addSong: SUCCESS
 Genre added: 28484
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -52070,7 +55598,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 11872
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82294 genre84266
+addSong: SUCCESS
 Genre added: 5716
 addGenre: SUCCESS
 Genre added: 2031
@@ -52089,7 +55618,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29523 genre94031
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -52104,7 +55634,8 @@ Genre added: 99954
 addGenre: SUCCESS
 Genre added: 76073
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86793 genre45222
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 57231
 addGenre: SUCCESS
@@ -52112,7 +55643,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56115
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94362 genre77019
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 55147
 addGenre: SUCCESS
@@ -52129,7 +55661,8 @@ Genre added: 77255
 addGenre: SUCCESS
 Genre added: 21357
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65834 genre41678
+addSong: SUCCESS
 Genre added: 77655
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -52147,9 +55680,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 56789
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59231 genre60397
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 48829 genre92909
+addSong: SUCCESS
 Genre added: 3024
 addGenre: SUCCESS
 Genre added: 26912
@@ -52163,8 +55698,10 @@ Genre added: 56850
 addGenre: SUCCESS
 Genre added: 20468
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 95587 genre21306
+addSong: SUCCESS
+song added: 3599 genre46895
+addSong: SUCCESS
 Genre added: 4758
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -52184,8 +55721,10 @@ Genre added: 18946
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 21158 genre85986
+addSong: SUCCESS
+song added: 55120 genre56479
+addSong: SUCCESS
 Genre added: 22227
 addGenre: SUCCESS
 Genre added: 61817
@@ -52196,8 +55735,9 @@ addGenre: SUCCESS
 Genre added: 21064
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 11695 genre45479
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89794
 addGenre: SUCCESS
@@ -52238,21 +55778,25 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 2910
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60125 genre27094
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 58268
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52554 genre41774
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 48399
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49275 genre94049
+addSong: SUCCESS
 Genre added: 70661
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44572 genre2753
+addSong: SUCCESS
 Genre added: 62836
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -52304,7 +55848,8 @@ Genre added: 4378
 addGenre: SUCCESS
 Genre added: 29780
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44525 genre87344
+addSong: SUCCESS
 Genre added: 89222
 addGenre: SUCCESS
 Genre added: 70761
@@ -52324,8 +55869,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 73578
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 10318 genre64876
+addSong: SUCCESS
+song added: 56594 genre21103
+addSong: SUCCESS
 Genre added: 72935
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -52335,7 +55882,8 @@ Genre added: 19642
 addGenre: SUCCESS
 Genre added: 43017
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64142 genre56567
+addSong: SUCCESS
 Genre added: 17636
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -52363,12 +55911,15 @@ Genre added: 647
 addGenre: SUCCESS
 Genre added: 49472
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 26260 genre7521
+addSong: SUCCESS
+song added: 55446 genre2231
+addSong: SUCCESS
 Genre added: 48769
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66711 genre78316
+addSong: SUCCESS
 Genre added: 41399
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -52464,7 +56015,8 @@ addGenre: SUCCESS
 Genre added: 79018
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 59392 genre87833
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 76440
@@ -52472,7 +56024,8 @@ addGenre: SUCCESS
 Genre added: 24465
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64101 genre68219
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -52499,12 +56052,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 88170
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83583 genre37026
+addSong: SUCCESS
 Genre added: 9990
 addGenre: SUCCESS
 Genre added: 13311
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34649 genre6342
+addSong: SUCCESS
 Genre added: 75438
 addGenre: SUCCESS
 Genre added: 60989
@@ -52514,8 +56069,10 @@ addGenre: SUCCESS
 Genre added: 53380
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 65415 genre96893
+addSong: SUCCESS
+song added: 70771 genre21457
+addSong: SUCCESS
 Genre added: 52397
 addGenre: SUCCESS
 Genre added: 20708
@@ -52539,7 +56096,8 @@ Genre added: 30364
 addGenre: SUCCESS
 Genre added: 40657
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31047 genre68591
+addSong: SUCCESS
 Genre added: 17683
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -52578,8 +56136,10 @@ addGenre: SUCCESS
 Genre added: 23623
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 88854 genre41237
+addSong: SUCCESS
+song added: 38389 genre4030
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 79423
 addGenre: SUCCESS
@@ -52610,18 +56170,23 @@ Genre added: 86966
 addGenre: SUCCESS
 Genre added: 73429
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69346 genre88982
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 26805 genre91133
+addSong: SUCCESS
+song added: 199 genre50903
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 12204
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77719 genre65031
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 48086
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35160 genre11525
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -52637,7 +56202,8 @@ addGenre: SUCCESS
 Genre added: 74943
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 77200 genre51561
+addSong: SUCCESS
 Genre added: 91466
 addGenre: SUCCESS
 Genre added: 70404
@@ -52674,11 +56240,13 @@ Genre added: 60521
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 85320 genre36310
+addSong: SUCCESS
 Genre added: 87942
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 29598 genre805
+addSong: SUCCESS
 Genre added: 67952
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -52728,13 +56296,15 @@ Genre added: 51808
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 93428 genre40949
+addSong: SUCCESS
 Genre added: 65666
 addGenre: SUCCESS
 Genre added: 80111
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 74971 genre48374
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 3074
 addGenre: SUCCESS
@@ -52746,16 +56316,19 @@ Genre added: 99510
 addGenre: SUCCESS
 Genre added: 29796
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8478 genre72846
+addSong: SUCCESS
 Genre added: 38110
 addGenre: SUCCESS
 Genre added: 63675
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72013 genre70691
+addSong: SUCCESS
 Genre added: 3265
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 59517 genre3179
+addSong: SUCCESS
 Genre added: 9586
 addGenre: SUCCESS
 Genre added: 74406
@@ -52766,10 +56339,12 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 18958
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51244 genre88798
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 57760 genre34425
+addSong: SUCCESS
 Genre added: 30096
 addGenre: SUCCESS
 Genre added: 64839
@@ -52779,8 +56354,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 40786
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 92050 genre75106
+addSong: SUCCESS
+song added: 76359 genre61527
+addSong: SUCCESS
 Genre added: 35035
 addGenre: SUCCESS
 Genre added: 29786
@@ -52832,19 +56409,23 @@ Genre added: 83248
 addGenre: SUCCESS
 Genre added: 43456
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68745 genre65587
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 36783
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34090 genre4871
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 40953 genre18285
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 94727
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86429 genre96925
+addSong: SUCCESS
 Genre added: 88839
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -52872,7 +56453,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 23872
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14871 genre5079
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 10331
 addGenre: SUCCESS
@@ -52931,7 +56513,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 3362
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5199 genre50133
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 27782
@@ -52943,7 +56526,8 @@ addGenre: SUCCESS
 Genre added: 35005
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25240 genre46483
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 76407
@@ -52959,17 +56543,20 @@ Genre added: 82809
 addGenre: SUCCESS
 Genre added: 54082
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12973 genre72941
+addSong: SUCCESS
 Genre added: 24227
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 62714
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 12441 genre87156
+addSong: SUCCESS
 Genre added: 32501
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92653 genre25741
+addSong: SUCCESS
 Genre added: 50688
 addGenre: SUCCESS
 Genre added: 85769
@@ -52982,7 +56569,8 @@ addGenre: SUCCESS
 Genre added: 75297
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99837 genre2272
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 31288
 addGenre: SUCCESS
@@ -53000,8 +56588,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 79676
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 52904 genre96801
+addSong: SUCCESS
+song added: 92110 genre44995
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 51755
 addGenre: SUCCESS
@@ -53029,11 +56619,13 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44406 genre71985
+addSong: SUCCESS
 Genre added: 11126
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 68538 genre61527
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 70828
 addGenre: SUCCESS
@@ -53052,11 +56644,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 23170
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 91236 genre27393
+addSong: SUCCESS
+song added: 46030 genre92333
+addSong: SUCCESS
 Genre added: 45087
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46771 genre6866
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 1675
 addGenre: SUCCESS
@@ -53067,11 +56662,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65770
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 23169 genre98776
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 58263 genre96482
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48036
 addGenre: SUCCESS
@@ -53085,7 +56682,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 72873
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79859 genre76979
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -53104,9 +56702,11 @@ Genre added: 19338
 addGenre: SUCCESS
 Genre added: 99719
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48042 genre63001
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60610 genre2463
+addSong: SUCCESS
 Genre added: 43613
 addGenre: SUCCESS
 Genre added: 52306
@@ -53114,7 +56714,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 76956
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4833 genre69817
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 70198
@@ -53144,13 +56745,15 @@ Genre added: 1911
 addGenre: SUCCESS
 Genre added: 47371
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26927 genre93459
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 58087
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 79180 genre83535
+addSong: SUCCESS
 Genre added: 79546
 addGenre: SUCCESS
 Genre added: 63485
@@ -53158,7 +56761,8 @@ addGenre: SUCCESS
 Genre added: 52119
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70765 genre9235
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 73986
 addGenre: SUCCESS
@@ -53194,13 +56798,15 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29973 genre98124
+addSong: SUCCESS
 Genre added: 6420
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 79808
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72112 genre67573
+addSong: SUCCESS
 Genre added: 24183
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -53215,7 +56821,8 @@ Genre added: 17286
 addGenre: SUCCESS
 Genre added: 66140
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52073 genre118
+addSong: SUCCESS
 Genre added: 81196
 addGenre: SUCCESS
 Genre added: 37397
@@ -53223,7 +56830,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29255
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12313 genre62280
+addSong: SUCCESS
 Genre added: 5666
 addGenre: SUCCESS
 Genre added: 25244
@@ -53236,17 +56844,20 @@ addGenre: SUCCESS
 Genre added: 62885
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 76580 genre66650
+addSong: SUCCESS
 Genre added: 25271
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34097
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69361 genre75836
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 9045 genre61519
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 15222
@@ -53300,7 +56911,8 @@ addGenre: INVALID_INPUT
 Genre added: 18485
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 70721 genre96603
+addSong: SUCCESS
 Genre added: 86713
 addGenre: SUCCESS
 Genre added: 12081
@@ -53315,7 +56927,8 @@ mergeGenres: FAILURE
 Genre added: 36722
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9818 genre5493
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 79677
 addGenre: SUCCESS
@@ -53333,14 +56946,17 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44214 genre12946
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78923
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 33851 genre87907
+addSong: SUCCESS
+song added: 15736 genre6
+addSong: SUCCESS
 Genre added: 63632
 addGenre: SUCCESS
 Genre added: 70286
@@ -53357,7 +56973,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 56725
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22090 genre54092
+addSong: SUCCESS
 Genre added: 23389
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -53377,7 +56994,8 @@ addGenre: SUCCESS
 Genre added: 60319
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 68912 genre27361
+addSong: SUCCESS
 Genre added: 79512
 addGenre: SUCCESS
 Genre added: 68982
@@ -53391,7 +57009,8 @@ Genre added: 49603
 addGenre: SUCCESS
 Genre added: 6413
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11373 genre76233
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 12937
 addGenre: SUCCESS
@@ -53407,9 +57026,11 @@ addGenre: SUCCESS
 Genre added: 65731
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 30459 genre81736
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 30523 genre40710
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
@@ -53418,8 +57039,10 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 8362 genre72213
+addSong: SUCCESS
+song added: 47104 genre87906
+addSong: SUCCESS
 Genre added: 15220
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -53428,10 +57051,12 @@ addGenre: SUCCESS
 Genre added: 98036
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 78399 genre73363
+addSong: SUCCESS
 Genre added: 22343
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65269 genre16305
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 2407
 addGenre: SUCCESS
@@ -53455,7 +57080,8 @@ Genre added: 54630
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45709 genre79692
+addSong: SUCCESS
 Genre added: 27127
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -53482,7 +57108,8 @@ Genre added: 56426
 addGenre: SUCCESS
 Genre added: 57369
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10120 genre22495
+addSong: SUCCESS
 Genre added: 10741
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -53493,7 +57120,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 74718
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97652 genre55215
+addSong: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
@@ -53522,7 +57150,7 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 44273
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -53533,12 +57161,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40656
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 18879 genre12014
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75977 genre9093
+addSong: SUCCESS
 Genre added: 59718
 addGenre: SUCCESS
 Genre added: 14336
@@ -53553,7 +57183,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 64391 genre82327
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 54865
@@ -53632,9 +57263,11 @@ Genre added: 56403
 addGenre: SUCCESS
 Genre added: 30622
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10251 genre81866
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67959 genre51561
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 52110
 addGenre: SUCCESS
@@ -53652,7 +57285,8 @@ Genre added: 28157
 addGenre: SUCCESS
 Genre added: 89454
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58247 genre56134
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86860
 addGenre: SUCCESS
@@ -53666,19 +57300,22 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2810
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 16453 genre43599
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66014
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95530 genre59130
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 74742
 addGenre: SUCCESS
 Genre added: 47425
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 388 genre73218
+addSong: SUCCESS
 Genre added: 63139
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -53722,21 +57359,25 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 195
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14937 genre17852
+addSong: SUCCESS
 Genre added: 56825
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98400 genre23724
+addSong: SUCCESS
 Genre added: 4735
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 80322 genre13257
+addSong: SUCCESS
 Genre added: 18237
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 25474
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2505 genre3262
+addSong: SUCCESS
 Genre added: 99797
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -53750,7 +57391,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92321
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 50062 genre90826
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 8132
@@ -53759,7 +57401,8 @@ Genre added: 34127
 addGenre: SUCCESS
 Genre added: 75174
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38532 genre97602
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 26627
 addGenre: SUCCESS
@@ -53768,7 +57411,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81152 genre6196
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 30849
 addGenre: SUCCESS
@@ -53792,7 +57436,8 @@ Genre added: 37644
 addGenre: SUCCESS
 Genre added: 1868
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13605 genre41647
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -53804,7 +57449,8 @@ Genre added: 24611
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 53030 genre45871
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 45417
 addGenre: SUCCESS
@@ -53859,9 +57505,11 @@ Genre added: 66958
 addGenre: SUCCESS
 Genre added: 52979
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81115 genre20754
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 3635 genre17900
+addSong: SUCCESS
 Genre added: 63408
 addGenre: SUCCESS
 Genre added: 7233
@@ -53873,9 +57521,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 65476
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86738 genre77783
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 10833 genre687
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87173
@@ -53905,7 +57555,8 @@ addGenre: SUCCESS
 Genre added: 15755
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 33236 genre30432
+addSong: SUCCESS
 Genre added: 25824
 addGenre: SUCCESS
 Genre added: 86798
@@ -53931,7 +57582,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 57820
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 94958 genre53727
+addSong: SUCCESS
 Genre added: 28147
 addGenre: SUCCESS
 Genre added: 838
@@ -53967,10 +57619,14 @@ getSongGenre: SUCCESS, 0
 Genre added: 29765
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 59687 genre29608
+addSong: SUCCESS
+song added: 9977 genre85653
+addSong: SUCCESS
+song added: 9562 genre82345
+addSong: SUCCESS
+song added: 14857 genre52797
+addSong: SUCCESS
 Genre added: 74937
 addGenre: SUCCESS
 Genre added: 99926
@@ -53978,7 +57634,8 @@ addGenre: SUCCESS
 Genre added: 30047
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 64853 genre64697
+addSong: SUCCESS
 Genre added: 26808
 addGenre: SUCCESS
 Genre added: 36707
@@ -53986,7 +57643,8 @@ addGenre: SUCCESS
 Genre added: 44101
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72910 genre34679
+addSong: SUCCESS
 Genre added: 82373
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -54010,7 +57668,8 @@ Genre added: 9853
 addGenre: SUCCESS
 Genre added: 66475
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48131 genre77209
+addSong: SUCCESS
 Genre added: 66965
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -54040,13 +57699,15 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 8153
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58826 genre54702
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 37920
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 34362 genre65628
+addSong: SUCCESS
 Genre added: 44587
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -54059,7 +57720,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85454
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86379 genre46351
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 32454
@@ -54075,7 +57737,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 13289
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13040 genre57695
+addSong: SUCCESS
 Genre added: 422
 addGenre: SUCCESS
 Genre added: 29408
@@ -54098,16 +57761,20 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 71279 genre5917
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 40893 genre97750
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 43848
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 14925 genre86769
+addSong: SUCCESS
+song added: 47793 genre96794
+addSong: SUCCESS
 Genre added: 20170
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -54118,10 +57785,12 @@ Genre added: 90604
 addGenre: SUCCESS
 Genre added: 38707
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55744 genre60411
+addSong: SUCCESS
 Genre added: 24292
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37482 genre6861
+addSong: SUCCESS
 Genre added: 7357
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -54140,7 +57809,8 @@ Genre added: 92747
 addGenre: SUCCESS
 Genre added: 77356
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49682 genre76340
+addSong: SUCCESS
 Genre added: 60528
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -54148,8 +57818,10 @@ Genre added: 71659
 addGenre: SUCCESS
 Genre added: 13452
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 80782 genre46386
+addSong: SUCCESS
+song added: 92944 genre15553
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -54185,13 +57857,15 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 8386 genre65933
+addSong: SUCCESS
 Genre added: 97917
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 88254
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41229 genre57391
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 22562
 addGenre: SUCCESS
@@ -54217,22 +57891,25 @@ Genre added: 26923
 addGenre: SUCCESS
 Genre added: 64893
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 64808
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68670 genre44555
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37605 genre29897
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 20607
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1640 genre26004
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 3120
 addGenre: SUCCESS
@@ -54273,7 +57950,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 51931
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 49716 genre32593
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 9734
 addGenre: SUCCESS
@@ -54284,7 +57962,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 30238
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 91875 genre80070
+addSong: SUCCESS
 Genre added: 34404
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -54297,7 +57976,8 @@ Genre added: 8605
 addGenre: SUCCESS
 Genre added: 44556
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5637 genre98244
+addSong: SUCCESS
 Genre added: 63970
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -54309,7 +57989,8 @@ Genre added: 76376
 addGenre: SUCCESS
 Genre added: 78362
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68683 genre26717
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 52569
 addGenre: SUCCESS
@@ -54354,9 +58035,11 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 36815
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77720 genre88400
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9624 genre98738
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 47688
 addGenre: SUCCESS
@@ -54374,7 +58057,8 @@ Genre added: 10312
 addGenre: SUCCESS
 Genre added: 4523
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28371 genre67069
+addSong: SUCCESS
 Genre added: 67831
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -54407,7 +58091,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 9002
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75553 genre98111
+addSong: SUCCESS
 Genre added: 12738
 addGenre: SUCCESS
 Genre added: 16168
@@ -54430,7 +58115,8 @@ Genre added: 23509
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48765 genre65610
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 76216
 addGenre: SUCCESS
@@ -54474,7 +58160,8 @@ Genre added: 82119
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 37116 genre12355
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 18744
@@ -54506,7 +58193,8 @@ Genre added: 69148
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12777 genre88169
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 47355
 addGenre: SUCCESS
@@ -54520,14 +58208,16 @@ Genre added: 52886
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72846 genre53108
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 72376
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 82814 genre73988
+addSong: SUCCESS
 Genre added: 81755
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -54580,15 +58270,18 @@ Genre added: 23638
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 62141 genre50118
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89601
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 68015 genre87038
+addSong: SUCCESS
+song added: 73781 genre90433
+addSong: SUCCESS
 Genre added: 64098
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -54602,8 +58295,10 @@ Genre added: 68420
 addGenre: SUCCESS
 Genre added: 35722
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 7833 genre58192
+addSong: SUCCESS
+song added: 80161 genre62746
+addSong: SUCCESS
 Genre added: 62265
 addGenre: SUCCESS
 Genre added: 67195
@@ -54629,7 +58324,8 @@ mergeGenres: FAILURE
 Genre added: 50202
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 94736 genre30026
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 82612
 addGenre: SUCCESS
@@ -54643,7 +58339,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68838
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70841 genre80433
+addSong: SUCCESS
 Genre added: 8379
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -54657,7 +58354,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87993
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 36184 genre42430
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 38486
@@ -54676,7 +58374,8 @@ Genre added: 30934
 addGenre: SUCCESS
 Genre added: 40655
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83258 genre44862
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89656
 addGenre: SUCCESS
@@ -54708,7 +58407,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 53341
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 8016 genre7089
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 2860
 addGenre: SUCCESS
@@ -54745,7 +58445,8 @@ Genre added: 23305
 addGenre: SUCCESS
 Genre added: 70360
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68156 genre41081
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8261
 addGenre: SUCCESS
@@ -54778,7 +58479,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69442 genre34767
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 8666
 addGenre: SUCCESS
@@ -54829,11 +58531,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 819
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89977 genre81814
+addSong: SUCCESS
 Genre added: 86035
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 77686 genre23552
+addSong: SUCCESS
 Genre added: 26879
 addGenre: SUCCESS
 Genre added: 70669
@@ -54844,29 +58548,36 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 10562
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 35989 genre81562
+addSong: SUCCESS
+song added: 13692 genre24602
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21067
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38602 genre98122
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 88643
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 40627 genre9823
+addSong: SUCCESS
+song added: 89963 genre20409
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 33429
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44772 genre44570
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 95262 genre22070
+addSong: SUCCESS
 Genre added: 93758
 addGenre: SUCCESS
 Genre added: 7188
@@ -54894,7 +58605,7 @@ Genre added: 23011
 addGenre: SUCCESS
 Genre added: 22457
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 60432
 addGenre: SUCCESS
@@ -54905,7 +58616,8 @@ Genre added: 12804
 addGenre: SUCCESS
 Genre added: 80241
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2076 genre84678
+addSong: SUCCESS
 Genre added: 63143
 addGenre: SUCCESS
 Genre added: 55028
@@ -54929,7 +58641,8 @@ Genre added: 4196
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44828 genre24799
+addSong: SUCCESS
 Genre added: 72578
 addGenre: SUCCESS
 Genre added: 59580
@@ -54943,7 +58656,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 36304
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77586 genre11726
+addSong: SUCCESS
 Genre added: 97068
 addGenre: SUCCESS
 Genre added: 52657
@@ -54953,7 +58667,8 @@ Genre added: 5327
 addGenre: SUCCESS
 Genre added: 94628
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70823 genre94475
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -54964,7 +58679,8 @@ Genre added: 49905
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94479 genre49791
+addSong: SUCCESS
 Genre added: 48672
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -54978,7 +58694,8 @@ Genre added: 9738
 addGenre: SUCCESS
 Genre added: 49846
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63540 genre48050
+addSong: SUCCESS
 Genre added: 61250
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -54986,7 +58703,8 @@ Genre added: 87305
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54861 genre48971
+addSong: SUCCESS
 Genre added: 9977
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -55015,24 +58733,27 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 34761
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 29181
 addGenre: SUCCESS
 Genre added: 36517
 addGenre: SUCCESS
 Genre added: 29075
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43925 genre32315
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 59544
 addGenre: SUCCESS
 Genre added: 87248
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81554 genre68301
+addSong: SUCCESS
 Genre added: 30351
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 78307 genre39634
+addSong: SUCCESS
 Genre added: 5733
 addGenre: SUCCESS
 Genre added: 32406
@@ -55041,7 +58762,8 @@ Genre added: 22297
 addGenre: SUCCESS
 Genre added: 77058
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29176 genre97479
+addSong: SUCCESS
 Genre added: 55518
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -55051,7 +58773,8 @@ addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 98452
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83451 genre38240
+addSong: SUCCESS
 Genre added: 45666
 addGenre: SUCCESS
 Genre added: 33658
@@ -55061,7 +58784,8 @@ addGenre: SUCCESS
 Genre added: 40487
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11131 genre17469
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 96029
@@ -55078,7 +58802,7 @@ Genre added: 4199
 addGenre: SUCCESS
 Genre added: 75049
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 69087
 addGenre: SUCCESS
@@ -55088,14 +58812,16 @@ Genre added: 72842
 addGenre: SUCCESS
 Genre added: 72752
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 375 genre8316
+addSong: SUCCESS
 Genre added: 70292
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 21812 genre72306
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 4613
 addGenre: SUCCESS
@@ -55136,13 +58862,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74210
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44231 genre75953
+addSong: SUCCESS
 Genre added: 40733
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65754
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7763 genre81732
+addSong: SUCCESS
 Genre added: 38184
 addGenre: SUCCESS
 Genre added: 74810
@@ -55153,7 +58881,8 @@ Genre added: 80908
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92275 genre78266
+addSong: SUCCESS
 Genre added: 92595
 addGenre: SUCCESS
 Genre added: 79750
@@ -55193,7 +58922,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 91066
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80809 genre29221
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -55213,7 +58943,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 44228
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98737 genre88380
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34179
@@ -55244,7 +58975,8 @@ Genre added: 37378
 addGenre: SUCCESS
 Genre added: 39607
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74735 genre65202
+addSong: SUCCESS
 Genre added: 38751
 addGenre: SUCCESS
 Genre added: 86723
@@ -55276,7 +59008,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 31392
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13025 genre10663
+addSong: SUCCESS
 Genre added: 82994
 addGenre: SUCCESS
 Genre added: 64624
@@ -55286,7 +59019,8 @@ addGenre: SUCCESS
 Genre added: 20383
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89165 genre24826
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 41201
@@ -55294,7 +59028,8 @@ addGenre: SUCCESS
 Genre added: 67232
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 7848 genre82831
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 40476
@@ -55310,9 +59045,11 @@ addGenre: SUCCESS
 Genre added: 17701
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69558 genre74686
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 91768 genre45578
+addSong: SUCCESS
 Genre added: 67993
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -55323,7 +59060,8 @@ addGenre: SUCCESS
 Genre added: 23204
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 12726 genre61010
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -55356,7 +59094,8 @@ Genre added: 36091
 addGenre: SUCCESS
 Genre added: 74894
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40817 genre12445
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 44490
 addGenre: SUCCESS
@@ -55368,7 +59107,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 54245
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 70623 genre43681
+addSong: SUCCESS
 Genre added: 83939
 addGenre: SUCCESS
 Genre added: 8738
@@ -55402,7 +59142,8 @@ Genre added: 33546
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 24552 genre83286
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 34223
 addGenre: SUCCESS
@@ -55410,14 +59151,17 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 30485
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41621 genre89412
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 8665 genre70495
+addSong: SUCCESS
 Genre added: 3499
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34100 genre36533
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 65303
 addGenre: SUCCESS
@@ -55457,14 +59201,16 @@ Genre added: 43594
 addGenre: SUCCESS
 Genre added: 96823
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85791 genre79349
+addSong: SUCCESS
 Genre added: 98860
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66888 genre13930
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -55479,7 +59225,8 @@ Genre added: 22842
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66135 genre16298
+addSong: SUCCESS
 Genre added: 80788
 addGenre: SUCCESS
 Genre added: 37259
@@ -55488,7 +59235,8 @@ mergeGenres: FAILURE
 Genre added: 53189
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 9779 genre43280
+addSong: SUCCESS
 Genre added: 44992
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -55502,7 +59250,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 40082 genre59080
+addSong: SUCCESS
 Genre added: 82773
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -55515,14 +59264,16 @@ getSongGenre: SUCCESS, 0
 Genre added: 70533
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 55724 genre20891
+addSong: SUCCESS
 Genre added: 80038
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82911
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17540 genre57452
+addSong: SUCCESS
 Genre added: 95465
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -55532,7 +59283,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 11661
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26106 genre97746
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -55546,7 +59298,8 @@ Genre added: 98527
 addGenre: SUCCESS
 Genre added: 48135
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6145 genre62900
+addSong: SUCCESS
 Genre added: 57289
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -55559,7 +59312,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31768
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19924 genre55566
+addSong: SUCCESS
 Genre added: 31478
 addGenre: SUCCESS
 Genre added: 21797
@@ -55578,7 +59332,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22466 genre36984
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 51625
 addGenre: SUCCESS
@@ -55586,7 +59341,8 @@ Genre added: 18824
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 23695 genre71055
+addSong: SUCCESS
 Genre added: 57885
 addGenre: SUCCESS
 Genre added: 42744
@@ -55608,21 +59364,25 @@ Genre added: 43249
 addGenre: SUCCESS
 Genre added: 55178
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26129 genre1808
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 43894 genre56053
+addSong: SUCCESS
 Genre added: 92429
 addGenre: SUCCESS
 Genre added: 93213
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29685 genre72691
+addSong: SUCCESS
 Genre added: 46232
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 83922 genre46310
+addSong: SUCCESS
 Genre added: 42833
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -55655,7 +59415,8 @@ Genre added: 67931
 addGenre: SUCCESS
 Genre added: 52878
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12718 genre40744
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -55715,11 +59476,13 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 13997
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 43121 genre26110
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86827 genre43773
+addSong: SUCCESS
 Genre added: 84923
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -55777,7 +59540,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 16530
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28162 genre86399
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 16952
@@ -55801,11 +59565,13 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 22377
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92947 genre93875
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 12905
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8711 genre73578
+addSong: SUCCESS
 Genre added: 46553
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -55837,15 +59603,18 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 79807
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76835 genre94490
+addSong: SUCCESS
 Genre added: 55852
 addGenre: SUCCESS
 Genre added: 67841
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 53266 genre57231
+addSong: SUCCESS
+song added: 96768 genre55840
+addSong: SUCCESS
 Genre added: 86497
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -55866,16 +59635,19 @@ Genre added: 48779
 addGenre: SUCCESS
 Genre added: 58437
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28479 genre23504
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 21129
 addGenre: SUCCESS
 Genre added: 95641
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 97731 genre24338
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67268 genre29742
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 67943
@@ -55901,7 +59673,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 57851
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1647 genre27465
+addSong: SUCCESS
 Genre added: 68833
 addGenre: SUCCESS
 Genre added: 86999
@@ -55912,18 +59685,22 @@ Genre added: 22003
 addGenre: SUCCESS
 Genre added: 60736
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53238 genre96376
+addSong: SUCCESS
 Genre added: 48726
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4012 genre76225
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 21621
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 57002 genre62863
+addSong: SUCCESS
+song added: 77227 genre50743
+addSong: SUCCESS
 Genre added: 51461
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -55941,7 +59718,8 @@ addGenre: SUCCESS
 Genre added: 9383
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14140 genre98382
+addSong: SUCCESS
 Genre added: 91149
 addGenre: SUCCESS
 Genre added: 76077
@@ -55957,7 +59735,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52560 genre54240
+addSong: SUCCESS
 Genre added: 17678
 addGenre: SUCCESS
 Genre added: 49826
@@ -55998,7 +59777,8 @@ Genre added: 70793
 addGenre: SUCCESS
 Genre added: 66870
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3427 genre96574
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -56009,11 +59789,13 @@ Genre added: 59261
 addGenre: SUCCESS
 Genre added: 58737
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36021 genre99951
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 33207
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84902 genre16374
+addSong: SUCCESS
 Genre added: 34254
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -56072,11 +59854,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 36606
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43224 genre99055
+addSong: SUCCESS
 Genre added: 64088
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96295 genre9885
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 58544
@@ -56090,7 +59874,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33613
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8156 genre60050
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73
 addGenre: SUCCESS
@@ -56108,8 +59893,9 @@ addGenre: SUCCESS
 Genre added: 44018
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 7322 genre11294
+addSong: SUCCESS
+addSong: INVALID_INPUT
 Genre added: 48445
 addGenre: SUCCESS
 Genre added: 55825
@@ -56121,7 +59907,8 @@ addGenre: SUCCESS
 Genre added: 44008
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85814 genre14637
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -56130,7 +59917,8 @@ addGenre: SUCCESS
 Genre added: 56219
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 63352 genre66125
+addSong: SUCCESS
 Genre added: 17453
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -56148,7 +59936,8 @@ addGenre: SUCCESS
 Genre added: 9957
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 52984 genre52532
+addSong: SUCCESS
 Genre added: 13379
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -56191,7 +59980,8 @@ Genre added: 44404
 addGenre: SUCCESS
 Genre added: 26784
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9372 genre13396
+addSong: SUCCESS
 Genre added: 76765
 addGenre: SUCCESS
 Genre added: 87978
@@ -56202,23 +59992,29 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 85814
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 25311 genre30414
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 94615 genre69038
+addSong: SUCCESS
 Genre added: 20357
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 52557 genre51374
+addSong: SUCCESS
+song added: 52824 genre14140
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 93460 genre65815
+addSong: SUCCESS
 Genre added: 87245
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 59950 genre54448
+addSong: SUCCESS
 Genre added: 34389
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -56228,7 +60024,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96706 genre96105
+addSong: SUCCESS
 Genre added: 49930
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -56238,9 +60035,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72543
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78870 genre97435
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 43634 genre11018
+addSong: SUCCESS
 Genre added: 88659
 addGenre: SUCCESS
 Genre added: 98940
@@ -56254,13 +60053,15 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 28084
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89425 genre76408
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 31061
 addGenre: SUCCESS
 Genre added: 27169
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2951 genre73522
+addSong: SUCCESS
 Genre added: 31177
 addGenre: SUCCESS
 Genre added: 13501
@@ -56280,8 +60081,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73979
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 29114 genre13234
+addSong: SUCCESS
+song added: 49471 genre50545
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 6404
@@ -56291,8 +60094,10 @@ Genre added: 91672
 addGenre: SUCCESS
 Genre added: 40871
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 96992 genre91116
+addSong: SUCCESS
+song added: 77568 genre86030
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 62191
 addGenre: SUCCESS
@@ -56316,7 +60121,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 87928
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 58151 genre57854
+addSong: SUCCESS
 Genre added: 76152
 addGenre: SUCCESS
 Genre added: 70263
@@ -56330,10 +60136,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 16606
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 90966 genre95180
+addSong: SUCCESS
+song added: 6686 genre27361
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22280 genre47051
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78404
 addGenre: SUCCESS
@@ -56345,13 +60154,15 @@ Genre added: 68644
 addGenre: SUCCESS
 Genre added: 61125
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55363 genre57374
+addSong: SUCCESS
 Genre added: 56515
 addGenre: SUCCESS
 Genre added: 34785
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39838 genre82089
+addSong: SUCCESS
 Genre added: 41878
 addGenre: SUCCESS
 Genre added: 37406
@@ -56377,13 +60188,15 @@ Genre added: 98013
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1162 genre11350
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35590
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 72995 genre74011
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 75156
 addGenre: SUCCESS
@@ -56411,8 +60224,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93914
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 31952 genre62978
+addSong: SUCCESS
+song added: 60559 genre17305
+addSong: SUCCESS
 Genre added: 3905
 addGenre: SUCCESS
 Genre added: 77483
@@ -56423,25 +60238,31 @@ addGenre: SUCCESS
 Genre added: 71848
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92309 genre63518
+addSong: SUCCESS
 Genre added: 80263
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92183
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46090 genre9515
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 33683 genre95235
+addSong: SUCCESS
+song added: 53869 genre70494
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 70799
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99275 genre93421
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 83645 genre133
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 86367
 addGenre: SUCCESS
@@ -56466,7 +60287,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 95039
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25944 genre2722
+addSong: SUCCESS
 Genre added: 77203
 addGenre: SUCCESS
 Genre added: 29229
@@ -56479,7 +60301,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 58726 genre832
+addSong: SUCCESS
 Genre added: 4526
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -56491,7 +60314,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 48475
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11394 genre29004
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -56551,10 +60375,12 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 38782 genre46184
+addSong: SUCCESS
 Genre added: 62447
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 79890 genre14353
+addSong: SUCCESS
 Genre added: 35275
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -56596,13 +60422,16 @@ addGenre: SUCCESS
 Genre added: 30319
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 28435 genre36459
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 92237 genre34381
+addSong: SUCCESS
+song added: 3007 genre77167
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -56612,7 +60441,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 19789
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 33373 genre3247
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 502
@@ -56621,7 +60451,8 @@ Genre added: 38023
 addGenre: SUCCESS
 Genre added: 45990
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1617 genre84722
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 53318
@@ -56632,7 +60463,8 @@ Genre added: 87153
 addGenre: SUCCESS
 Genre added: 23882
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47975 genre85432
+addSong: SUCCESS
 Genre added: 15218
 addGenre: SUCCESS
 Genre added: 38593
@@ -56645,7 +60477,8 @@ addGenre: SUCCESS
 Genre added: 41595
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 52455 genre41936
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 66636
 addGenre: SUCCESS
@@ -56695,7 +60528,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 54147
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60411 genre64864
+addSong: SUCCESS
 Genre added: 75325
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -56705,7 +60539,8 @@ Genre added: 54850
 addGenre: SUCCESS
 Genre added: 62465
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97739 genre83982
+addSong: SUCCESS
 Genre added: 23640
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -56713,7 +60548,8 @@ Genre added: 36918
 addGenre: SUCCESS
 Genre added: 56016
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50931 genre32965
+addSong: SUCCESS
 Genre added: 1705
 addGenre: SUCCESS
 Genre added: 37957
@@ -56734,7 +60570,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 79929
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61192 genre42550
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -56754,7 +60591,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 74686 genre54270
+addSong: SUCCESS
 Genre added: 90931
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -56768,10 +60606,12 @@ Genre added: 72747
 addGenre: SUCCESS
 Genre added: 39096
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18576 genre36764
+addSong: SUCCESS
 Genre added: 27822
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 96196 genre86580
+addSong: SUCCESS
 Genre added: 56810
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -56783,7 +60623,8 @@ addGenre: SUCCESS
 Genre added: 75994
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 94133 genre77948
+addSong: SUCCESS
 Genre added: 30415
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -56799,8 +60640,10 @@ Genre added: 1189
 addGenre: SUCCESS
 Genre added: 45483
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 55719 genre26568
+addSong: SUCCESS
+song added: 48135 genre87609
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -56811,7 +60654,8 @@ mergeGenres: FAILURE
 Genre added: 61380
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 84050 genre7952
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -56827,7 +60671,8 @@ Genre added: 21352
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79925 genre42504
+addSong: SUCCESS
 Genre added: 28601
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -56842,7 +60687,8 @@ Genre added: 7505
 addGenre: SUCCESS
 Genre added: 14683
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32980 genre90637
+addSong: SUCCESS
 Genre added: 27676
 addGenre: SUCCESS
 Genre added: 68527
@@ -56852,7 +60698,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 79556
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34924 genre56892
+addSong: SUCCESS
 Genre added: 8567
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -56862,8 +60709,10 @@ addGenre: SUCCESS
 Genre added: 68141
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 12434 genre2989
+addSong: SUCCESS
+song added: 41967 genre53633
+addSong: SUCCESS
 Genre added: 14114
 addGenre: SUCCESS
 Genre added: 58742
@@ -56900,7 +60749,8 @@ Genre added: 62936
 addGenre: SUCCESS
 Genre added: 27664
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 63562 genre790
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96604
@@ -56955,7 +60805,8 @@ Genre added: 49253
 addGenre: SUCCESS
 Genre added: 9255
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3386 genre30062
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -56979,19 +60830,23 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5835 genre13034
+addSong: SUCCESS
 Genre added: 62806
 addGenre: SUCCESS
 Genre added: 72046
 addGenre: SUCCESS
 Genre added: 95724
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46807 genre94487
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 98699
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 36634 genre86372
+addSong: SUCCESS
+song added: 23717 genre4590
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 89388
 addGenre: SUCCESS
@@ -57028,13 +60883,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31920
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66463 genre68815
+addSong: SUCCESS
 Genre added: 38956
 addGenre: SUCCESS
 Genre added: 86811
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86909 genre54185
+addSong: SUCCESS
 Genre added: 98913
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -57048,7 +60905,8 @@ addGenre: SUCCESS
 Genre added: 93363
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 80574 genre50168
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 84132
 addGenre: SUCCESS
@@ -57071,12 +60929,14 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48421
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20255 genre74667
+addSong: SUCCESS
 Genre added: 36760
 addGenre: SUCCESS
 Genre added: 67160
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27207 genre97916
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -57100,8 +60960,10 @@ addGenre: SUCCESS
 Genre added: 47169
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 56584 genre87833
+addSong: SUCCESS
+song added: 28882 genre70411
+addSong: SUCCESS
 Genre added: 65651
 addGenre: SUCCESS
 Genre added: 93769
@@ -57123,7 +60985,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 13319
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19169 genre79317
+addSong: SUCCESS
 Genre added: 2822
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -57148,22 +61011,28 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 27456 genre86407
+addSong: SUCCESS
+song added: 54940 genre53705
+addSong: SUCCESS
 Genre added: 7876
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 19288 genre61733
+addSong: SUCCESS
+song added: 83168 genre89455
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22883 genre96732
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52548 genre66664
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 90336
 addGenre: SUCCESS
 Genre added: 45995
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 66899
 addGenre: SUCCESS
 Genre added: 9147
@@ -57177,7 +61046,8 @@ mergeGenres: FAILURE
 Genre added: 24348
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 59444 genre49167
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -57191,7 +61061,8 @@ addGenre: SUCCESS
 Genre added: 87904
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 29074 genre7048
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 62856
 addGenre: SUCCESS
@@ -57205,14 +61076,17 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 93777 genre55757
+addSong: SUCCESS
+song added: 53034 genre70657
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 12183
 addGenre: SUCCESS
 Genre added: 77340
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66938 genre57512
+addSong: SUCCESS
 Genre added: 52642
 addGenre: SUCCESS
 Genre added: 74334
@@ -57247,18 +61121,22 @@ Genre added: 71485
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 86474 genre5583
+addSong: SUCCESS
+song added: 61131 genre17957
+addSong: SUCCESS
 Genre added: 53973
 addGenre: SUCCESS
 Genre added: 75040
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5677 genre79143
+addSong: SUCCESS
 Genre added: 34021
 addGenre: SUCCESS
 Genre added: 5898
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19195 genre42032
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 93314
 addGenre: SUCCESS
@@ -57278,7 +61156,8 @@ addGenre: SUCCESS
 Genre added: 24124
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 1420 genre18546
+addSong: SUCCESS
 Genre added: 19609
 addGenre: SUCCESS
 Genre added: 24618
@@ -57289,15 +61168,19 @@ Genre added: 58660
 addGenre: SUCCESS
 Genre added: 414
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 61222 genre80678
+addSong: SUCCESS
+song added: 78160 genre63555
+addSong: SUCCESS
 Genre added: 13224
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 91497 genre96579
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 39646 genre50034
+addSong: SUCCESS
 Genre added: 37850
 addGenre: SUCCESS
 Genre added: 29341
@@ -57319,7 +61202,8 @@ Genre added: 55972
 addGenre: SUCCESS
 Genre added: 44032
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32456 genre73936
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 19693
 addGenre: SUCCESS
@@ -57347,7 +61231,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 97644
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83953 genre84114
+addSong: SUCCESS
 Genre added: 59114
 addGenre: SUCCESS
 Genre added: 98347
@@ -57355,12 +61240,14 @@ addGenre: SUCCESS
 Genre added: 96820
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38681 genre44302
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 52392
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28626 genre92577
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 48478
@@ -57373,7 +61260,8 @@ Genre added: 70860
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 44246 genre93888
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 24316
 addGenre: SUCCESS
@@ -57425,7 +61313,8 @@ addGenre: SUCCESS
 Genre added: 40961
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 89613 genre64838
+addSong: SUCCESS
 Genre added: 52653
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -57444,12 +61333,15 @@ addGenre: SUCCESS
 Genre added: 68153
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 75471 genre2981
+addSong: SUCCESS
+song added: 15613 genre27897
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 57359 genre65483
+addSong: SUCCESS
 Genre added: 85176
 addGenre: SUCCESS
 Genre added: 53291
@@ -57469,11 +61361,13 @@ Genre added: 42001
 addGenre: SUCCESS
 Genre added: 35116
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84377 genre12393
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22872 genre35341
+addSong: SUCCESS
 Genre added: 15644
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -57486,7 +61380,8 @@ Genre added: 99060
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 52326 genre20512
+addSong: SUCCESS
 Genre added: 2320
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -57501,14 +61396,17 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 93163
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 553 genre93577
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 90660 genre16140
+addSong: SUCCESS
 Genre added: 76916
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35756 genre1562
+addSong: SUCCESS
 Genre added: 94083
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -57516,14 +61414,18 @@ Genre added: 24297
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16348 genre6894
+addSong: SUCCESS
 Genre added: 27056
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 70871 genre93188
+addSong: SUCCESS
+song added: 82521 genre57319
+addSong: SUCCESS
 Genre added: 45051
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59976 genre18232
+addSong: SUCCESS
 Genre added: 95839
 addGenre: SUCCESS
 Genre added: 75482
@@ -57532,9 +61434,11 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 30245
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91308 genre17902
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 80447 genre24799
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -57558,7 +61462,8 @@ Genre added: 51253
 addGenre: SUCCESS
 Genre added: 25682
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71833 genre55785
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 21327
 addGenre: SUCCESS
@@ -57576,7 +61481,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 47144
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28861 genre4928
+addSong: SUCCESS
 Genre added: 30868
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -57590,7 +61496,8 @@ Genre added: 49911
 addGenre: SUCCESS
 Genre added: 5791
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38670 genre21613
+addSong: SUCCESS
 Genre added: 14021
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -57624,7 +61531,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 5279 genre38684
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 76777
 addGenre: SUCCESS
@@ -57644,10 +61552,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65132 genre66887
+addSong: SUCCESS
 Genre added: 89786
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98285 genre32414
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 12714
 addGenre: SUCCESS
@@ -57672,11 +61582,13 @@ Genre added: 44012
 addGenre: SUCCESS
 Genre added: 60733
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68155 genre32375
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 8315
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14413 genre57931
+addSong: SUCCESS
 Genre added: 62666
 addGenre: SUCCESS
 Genre added: 73874
@@ -57702,11 +61614,13 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 9319
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27185 genre14916
+addSong: SUCCESS
 Genre added: 30057
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66479 genre41743
+addSong: SUCCESS
 Genre added: 84394
 addGenre: SUCCESS
 Genre added: 22394
@@ -57744,11 +61658,14 @@ getSongGenre: SUCCESS, 0
 Genre added: 57270
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 25352 genre90622
+addSong: SUCCESS
+song added: 5706 genre11726
+addSong: SUCCESS
 Genre added: 52700
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68565 genre66019
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 65215
 addGenre: SUCCESS
@@ -57756,10 +61673,12 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 1241
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83949 genre27587
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 84808 genre81937
+addSong: SUCCESS
 Genre added: 5930
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -57774,8 +61693,10 @@ addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 7302
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 66512 genre49465
+addSong: SUCCESS
+song added: 22449 genre85067
+addSong: SUCCESS
 Genre added: 35548
 addGenre: SUCCESS
 Genre added: 21491
@@ -57805,7 +61726,8 @@ addGenre: INVALID_INPUT
 Genre added: 67118
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44826 genre47435
+addSong: SUCCESS
 Genre added: 84206
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -57813,21 +61735,25 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66961
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25830 genre33491
+addSong: SUCCESS
 Genre added: 23536
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 13923 genre66236
+addSong: SUCCESS
 Genre added: 7731
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 65736 genre73819
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 62914
 addGenre: SUCCESS
 Genre added: 37549
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94336 genre65
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 95005
@@ -57836,7 +61762,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 90541
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14223 genre2231
+addSong: SUCCESS
 Genre added: 32195
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -57860,7 +61787,8 @@ Genre added: 55796
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 37216 genre13478
+addSong: SUCCESS
 Genre added: 32394
 addGenre: SUCCESS
 Genre added: 62883
@@ -57880,7 +61808,8 @@ Genre added: 83869
 addGenre: SUCCESS
 Genre added: 61608
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18019 genre53114
+addSong: SUCCESS
 Genre added: 22171
 addGenre: SUCCESS
 Genre added: 30979
@@ -57892,7 +61821,8 @@ addGenre: SUCCESS
 Genre added: 24256
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 72545 genre93779
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 32790
@@ -57901,7 +61831,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 50847
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 78842 genre97989
+addSong: SUCCESS
 Genre added: 32269
 addGenre: SUCCESS
 Genre added: 18352
@@ -57911,7 +61842,8 @@ Genre added: 22766
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15230 genre44388
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68054
@@ -57928,11 +61860,13 @@ Genre added: 40902
 addGenre: SUCCESS
 Genre added: 77865
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75786 genre65
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 26507
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2177 genre7104
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 49943
@@ -57943,7 +61877,8 @@ Genre added: 91635
 addGenre: SUCCESS
 Genre added: 48607
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94525 genre31751
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15670
 addGenre: SUCCESS
@@ -57976,13 +61911,15 @@ Genre added: 88747
 addGenre: SUCCESS
 Genre added: 46524
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85818 genre36425
+addSong: SUCCESS
 Genre added: 15562
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 36857
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49062 genre8756
+addSong: SUCCESS
 Genre added: 38634
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -58023,10 +61960,12 @@ Genre added: 91807
 addGenre: SUCCESS
 Genre added: 95956
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60585 genre95802
+addSong: SUCCESS
 Genre added: 56685
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33414 genre85795
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 50209
 addGenre: SUCCESS
@@ -58057,7 +61996,8 @@ Genre added: 15214
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 71956 genre94587
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 22409
 addGenre: SUCCESS
@@ -58065,11 +62005,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 72895
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50372 genre57116
+addSong: SUCCESS
 Genre added: 82858
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 27800 genre67038
+addSong: SUCCESS
 Genre added: 48371
 addGenre: SUCCESS
 Genre added: 4484
@@ -58092,7 +62034,8 @@ Genre added: 76261
 addGenre: SUCCESS
 Genre added: 55151
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69531 genre45376
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 16376
 addGenre: SUCCESS
@@ -58102,7 +62045,8 @@ Genre added: 63434
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 34 genre28496
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 19210
 addGenre: SUCCESS
@@ -58143,7 +62087,8 @@ Genre added: 95704
 addGenre: SUCCESS
 Genre added: 88930
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38571 genre55147
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 15369
@@ -58170,18 +62115,21 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 70633 genre50042
+addSong: SUCCESS
 Genre added: 46485
 addGenre: SUCCESS
 Genre added: 30490
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 77981 genre92389
+addSong: SUCCESS
 Genre added: 1045
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 21348 genre60582
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 56656
 addGenre: SUCCESS
@@ -58193,7 +62141,8 @@ Genre added: 6679
 addGenre: SUCCESS
 Genre added: 8588
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60865 genre1918
+addSong: SUCCESS
 Genre added: 88570
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -58212,7 +62161,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 86863
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37104 genre55636
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 57688
 addGenre: SUCCESS
@@ -58230,7 +62180,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 36111
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 33745 genre72815
+addSong: SUCCESS
 Genre added: 65601
 addGenre: SUCCESS
 Genre added: 31445
@@ -58244,7 +62195,8 @@ Genre added: 37105
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31807 genre69451
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 29267
 addGenre: SUCCESS
@@ -58282,18 +62234,21 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 4116
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40970 genre10916
+addSong: SUCCESS
 Genre added: 18521
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 27743 genre8516
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 89380
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 2980 genre62000
+addSong: SUCCESS
 Genre added: 93880
 addGenre: SUCCESS
 Genre added: 2428
@@ -58302,17 +62257,20 @@ Genre added: 44945
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 84427 genre95066
+addSong: SUCCESS
 Genre added: 24709
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65195 genre14085
+addSong: SUCCESS
 Genre added: 34521
 addGenre: SUCCESS
 Genre added: 3561
 addGenre: SUCCESS
 Genre added: 28795
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43268 genre9812
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 45343
 addGenre: SUCCESS
@@ -58332,7 +62290,8 @@ Genre added: 61363
 addGenre: SUCCESS
 Genre added: 19008
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70442 genre34172
+addSong: SUCCESS
 Genre added: 4973
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -58375,12 +62334,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 34614
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47176 genre22731
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 33350
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31071 genre67521
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -58391,13 +62352,15 @@ Genre added: 44817
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 92172 genre7957
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72473
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27698 genre18843
+addSong: SUCCESS
 Genre added: 50130
 addGenre: SUCCESS
 Genre added: 49954
@@ -58409,17 +62372,20 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 39788
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48910 genre32186
+addSong: SUCCESS
 Genre added: 54007
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23714 genre54165
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 58150
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32562 genre51850
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 5789
 addGenre: SUCCESS
@@ -58445,7 +62411,8 @@ Genre added: 9510
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 18014 genre99362
+addSong: SUCCESS
 Genre added: 79313
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -58493,18 +62460,21 @@ addGenre: SUCCESS
 Genre added: 98789
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7195 genre2105
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 4035 genre73895
+addSong: SUCCESS
 Genre added: 12101
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 96950
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81261 genre4071
+addSong: SUCCESS
 Genre added: 64426
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -58544,7 +62514,8 @@ Genre added: 23106
 addGenre: SUCCESS
 Genre added: 29539
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88239 genre99864
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -58565,15 +62536,19 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 72790
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39308 genre89938
+addSong: SUCCESS
 Genre added: 26591
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12160 genre76496
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 54436
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 21539 genre74610
+addSong: SUCCESS
+song added: 5203 genre70555
+addSong: SUCCESS
 Genre added: 23643
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -58584,7 +62559,8 @@ Genre added: 20217
 addGenre: SUCCESS
 Genre added: 56776
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93852 genre60780
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 39855
 addGenre: SUCCESS
@@ -58596,7 +62572,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 82305
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99703 genre8140
+addSong: SUCCESS
 Genre added: 5018
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -58640,10 +62617,12 @@ Genre added: 46081
 addGenre: SUCCESS
 Genre added: 14352
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72695 genre45616
+addSong: SUCCESS
 Genre added: 24196
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 38406 genre40858
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93906
 addGenre: SUCCESS
@@ -58652,7 +62631,8 @@ Genre added: 98732
 addGenre: SUCCESS
 Genre added: 83451
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49818 genre70799
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -58665,7 +62645,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 45763
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3052 genre51897
+addSong: SUCCESS
 Genre added: 8404
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -58678,14 +62659,16 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 32455
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 55856 genre36232
+addSong: SUCCESS
 Genre added: 90396
 addGenre: SUCCESS
 Genre added: 39290
 addGenre: SUCCESS
 Genre added: 64705
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5507 genre87243
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 76454
 addGenre: SUCCESS
@@ -58699,12 +62682,14 @@ addGenre: SUCCESS
 Genre added: 94819
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 56702 genre62393
+addSong: SUCCESS
 Genre added: 41724
 addGenre: SUCCESS
 Genre added: 40122
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56058 genre59088
+addSong: SUCCESS
 Genre added: 61731
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -58724,23 +62709,27 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 47629
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17924 genre46973
+addSong: SUCCESS
 Genre added: 65026
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 43348 genre97163
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 15854
 addGenre: SUCCESS
 Genre added: 38986
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92690 genre57700
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63017
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7719 genre16306
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 10832
 addGenre: SUCCESS
@@ -58748,7 +62737,8 @@ Genre added: 87414
 addGenre: SUCCESS
 Genre added: 51069
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4789 genre36857
+addSong: SUCCESS
 Genre added: 55909
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -58771,7 +62761,8 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 3787
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23318 genre23097
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 96941
 addGenre: SUCCESS
@@ -58779,12 +62770,14 @@ Genre added: 28988
 addGenre: SUCCESS
 Genre added: 59110
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78643 genre83390
+addSong: SUCCESS
 Genre added: 78468
 addGenre: SUCCESS
 Genre added: 6233
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47523 genre32804
+addSong: SUCCESS
 Genre added: 20054
 addGenre: SUCCESS
 Genre added: 92563
@@ -58820,7 +62813,8 @@ Genre added: 68377
 addGenre: SUCCESS
 Genre added: 27813
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35866 genre4361
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 32923
 addGenre: SUCCESS
@@ -58828,12 +62822,16 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 70512
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 243 genre4839
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 33984 genre63016
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
-addSong: FAILURE
+song added: 44491 genre90082
+addSong: SUCCESS
+song added: 53300 genre52063
+addSong: SUCCESS
 Genre added: 93931
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -58855,7 +62853,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 67439
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83466 genre27862
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 75522
@@ -58890,7 +62889,7 @@ Genre added: 31179
 addGenre: SUCCESS
 Genre added: 17188
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 48035
 addGenre: SUCCESS
@@ -58913,7 +62912,8 @@ Genre added: 87269
 addGenre: SUCCESS
 Genre added: 13530
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74499 genre10158
+addSong: SUCCESS
 Genre added: 11645
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -58922,7 +62922,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 7279
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 67185 genre83143
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 45854
@@ -58935,10 +62936,12 @@ Genre added: 81991
 addGenre: SUCCESS
 Genre added: 85660
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70581 genre21281
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 84293 genre36062
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 34233
 addGenre: SUCCESS
@@ -58948,10 +62951,12 @@ Genre added: 24518
 addGenre: SUCCESS
 Genre added: 30461
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25792 genre16190
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27998 genre77251
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 36701
 addGenre: SUCCESS
@@ -58969,7 +62974,8 @@ Genre added: 37857
 addGenre: SUCCESS
 Genre added: 51650
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22877 genre45508
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 92929
 addGenre: SUCCESS
@@ -59001,13 +63007,15 @@ addGenre: SUCCESS
 Genre added: 72481
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 80273 genre73588
+addSong: SUCCESS
 Genre added: 57358
 addGenre: SUCCESS
 Genre added: 96904
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 49721 genre47409
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 63396
@@ -59038,7 +63046,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 74231 genre44523
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 42464
@@ -59053,7 +63062,8 @@ Genre added: 41449
 addGenre: SUCCESS
 Genre added: 89958
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72532 genre45953
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 65170
@@ -59125,7 +63135,8 @@ Genre added: 48131
 addGenre: SUCCESS
 Genre added: 72632
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60241 genre24821
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 77895
@@ -59150,12 +63161,14 @@ getSongGenre: SUCCESS, 0
 Genre added: 10484
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 48128 genre92474
+addSong: SUCCESS
+song added: 46402 genre93640
+addSong: SUCCESS
 Genre added: 21287
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -59176,10 +63189,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 36559 genre49525
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48311 genre15214
+addSong: SUCCESS
 Genre added: 12838
 addGenre: SUCCESS
 Genre added: 4572
@@ -59245,9 +63260,11 @@ Genre added: 56667
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 28349 genre23294
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 35587 genre30369
+addSong: SUCCESS
 Genre added: 79456
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -59256,11 +63273,14 @@ mergeGenres: FAILURE
 Genre added: 26170
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 55088 genre96801
+addSong: SUCCESS
 Genre added: 69893
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 43906 genre85498
+addSong: SUCCESS
+song added: 57264 genre88935
+addSong: SUCCESS
 Genre added: 66833
 addGenre: SUCCESS
 Genre added: 72436
@@ -59272,7 +63292,8 @@ Genre added: 58181
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80793 genre12333
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 25141
 addGenre: SUCCESS
@@ -59322,7 +63343,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48215
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13982 genre7663
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 21887
@@ -59333,16 +63355,19 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 82682
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28308 genre67428
+addSong: SUCCESS
 Genre added: 20656
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72253 genre6573
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37336
 addGenre: SUCCESS
 Genre added: 1238
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46118 genre30689
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 40903
 addGenre: SUCCESS
@@ -59358,7 +63383,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 29449
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60050 genre48474
+addSong: SUCCESS
 Genre added: 57713
 addGenre: SUCCESS
 Genre added: 51446
@@ -59375,11 +63401,13 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 88131 genre38112
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 77379 genre60681
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 7786
 addGenre: SUCCESS
@@ -59391,7 +63419,8 @@ addGenre: SUCCESS
 Genre added: 37876
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 50049 genre92682
+addSong: SUCCESS
 Genre added: 11957
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -59423,14 +63452,16 @@ Genre added: 21696
 addGenre: SUCCESS
 Genre added: 45025
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89227 genre7899
+addSong: SUCCESS
 Genre added: 4700
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 29699
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95346 genre13676
+addSong: SUCCESS
 Genre added: 45575
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -59446,11 +63477,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 57870
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39575 genre24868
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 24148 genre95540
+addSong: SUCCESS
 Genre added: 80195
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -59459,7 +63492,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 34518 genre16316
+addSong: SUCCESS
 Genre added: 10886
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -59469,10 +63503,12 @@ Genre added: 68718
 addGenre: SUCCESS
 Genre added: 43303
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47743 genre62601
+addSong: SUCCESS
 Genre added: 56059
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35439 genre7910
+addSong: SUCCESS
 Genre added: 71320
 addGenre: SUCCESS
 Genre added: 767
@@ -59501,7 +63537,8 @@ Genre added: 8491
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 1699 genre98625
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 26350
@@ -59555,7 +63592,8 @@ Genre added: 46020
 addGenre: SUCCESS
 Genre added: 62987
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90066 genre99910
+addSong: SUCCESS
 Genre added: 88492
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -59578,7 +63616,8 @@ addGenre: SUCCESS
 Genre added: 86884
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 77709 genre92929
+addSong: SUCCESS
 Genre added: 57761
 addGenre: SUCCESS
 Genre added: 10237
@@ -59598,7 +63637,8 @@ Genre added: 32990
 addGenre: SUCCESS
 Genre added: 79884
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66896 genre77996
+addSong: SUCCESS
 Genre added: 51328
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -59608,8 +63648,10 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 70611
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 87168 genre26777
+addSong: SUCCESS
+song added: 24248 genre78727
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 45669
@@ -59618,7 +63660,8 @@ Genre added: 7727
 addGenre: SUCCESS
 Genre added: 4374
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32474 genre79028
+addSong: SUCCESS
 Genre added: 30412
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -59632,10 +63675,12 @@ Genre added: 41021
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 95312 genre73665
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51502 genre13019
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 48652
@@ -59677,7 +63722,8 @@ Genre added: 23775
 addGenre: SUCCESS
 Genre added: 99636
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99111 genre24636
+addSong: SUCCESS
 Genre added: 59632
 addGenre: SUCCESS
 Genre added: 79232
@@ -59697,7 +63743,8 @@ Genre added: 52695
 addGenre: SUCCESS
 Genre added: 23502
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67537 genre1266
+addSong: SUCCESS
 Genre added: 55324
 addGenre: SUCCESS
 Genre added: 48264
@@ -59762,16 +63809,19 @@ Genre added: 83075
 addGenre: SUCCESS
 Genre added: 48452
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19602 genre54958
+addSong: SUCCESS
 Genre added: 87066
 addGenre: SUCCESS
 Genre added: 26529
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20780 genre50410
+addSong: SUCCESS
 Genre added: 92791
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 321 genre15892
+addSong: SUCCESS
 Genre added: 24238
 addGenre: SUCCESS
 Genre added: 6503
@@ -59802,7 +63852,8 @@ Genre added: 42984
 addGenre: SUCCESS
 Genre added: 9588
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20211 genre72491
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -59843,7 +63894,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 55999 genre37589
+addSong: SUCCESS
 Genre added: 97801
 addGenre: SUCCESS
 Genre added: 22538
@@ -59858,14 +63910,17 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67959
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 24034 genre43681
+addSong: SUCCESS
+song added: 8230 genre28700
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 68268
 addGenre: SUCCESS
 Genre added: 51788
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27766 genre75288
+addSong: SUCCESS
 Genre added: 33967
 addGenre: SUCCESS
 Genre added: 45162
@@ -59902,7 +63957,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 93192 genre89721
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 21959
 addGenre: SUCCESS
@@ -59959,8 +64015,9 @@ addGenre: SUCCESS
 Genre added: 75451
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 5515 genre71433
+addSong: SUCCESS
+addSong: INVALID_INPUT
 Genre added: 8472
 addGenre: SUCCESS
 Genre added: 58954
@@ -59975,7 +64032,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 7757
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42855 genre36407
+addSong: SUCCESS
 Genre added: 29514
 addGenre: SUCCESS
 Genre added: 86779
@@ -59998,14 +64056,18 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 8893
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 17606 genre26040
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 46438 genre83421
+addSong: SUCCESS
+song added: 86405 genre98010
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 44272 genre47895
+addSong: SUCCESS
 Genre added: 1367
 addGenre: SUCCESS
 Genre added: 94412
@@ -60020,7 +64082,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 69712
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 38265
 addGenre: SUCCESS
@@ -60032,7 +64094,8 @@ Genre added: 45890
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 51850 genre35860
+addSong: SUCCESS
 Genre added: 82930
 addGenre: SUCCESS
 Genre added: 23099
@@ -60050,9 +64113,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 61403
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97177 genre17868
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64093 genre13354
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 62632
@@ -60069,7 +64134,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92904 genre26884
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 39833
 addGenre: SUCCESS
@@ -60083,7 +64149,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 54588
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25905 genre83757
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2894
 addGenre: SUCCESS
@@ -60097,7 +64164,8 @@ addGenre: SUCCESS
 Genre added: 48391
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49787 genre4627
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -60115,16 +64183,20 @@ Genre added: 73165
 addGenre: SUCCESS
 Genre added: 28499
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41900 genre68266
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16391 genre16572
+addSong: SUCCESS
 Genre added: 69363
 addGenre: SUCCESS
 Genre added: 76078
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 38324 genre92234
+addSong: SUCCESS
+song added: 89877 genre99915
+addSong: SUCCESS
 Genre added: 39383
 addGenre: SUCCESS
 Genre added: 14065
@@ -60151,7 +64223,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 68759
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72102 genre43427
+addSong: SUCCESS
 Genre added: 57446
 addGenre: SUCCESS
 Genre added: 48149
@@ -60162,7 +64235,8 @@ Genre added: 30583
 addGenre: SUCCESS
 Genre added: 29364
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98527 genre78372
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 61168
@@ -60203,7 +64277,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 47603 genre8835
+addSong: SUCCESS
 Genre added: 55406
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -60220,14 +64295,17 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 48255
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 11991 genre67222
+addSong: SUCCESS
+song added: 59575 genre10946
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78652
 addGenre: SUCCESS
 Genre added: 17043
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9201 genre70657
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 22670
 addGenre: SUCCESS
@@ -60258,7 +64336,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 18281 genre18160
+addSong: SUCCESS
 Genre added: 69663
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -60310,13 +64389,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 18390
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32693 genre37567
+addSong: SUCCESS
 Genre added: 63134
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 55812 genre40050
+addSong: SUCCESS
 Genre added: 75604
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -60333,8 +64414,10 @@ getSongGenre: SUCCESS, 0
 Genre added: 7457
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 59665 genre97981
+addSong: SUCCESS
+song added: 15890 genre42273
+addSong: SUCCESS
 Genre added: 82597
 addGenre: SUCCESS
 Genre added: 41732
@@ -60361,13 +64444,17 @@ Genre added: 40453
 addGenre: SUCCESS
 Genre added: 98752
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 11599 genre79392
+addSong: SUCCESS
+song added: 96743 genre62378
+addSong: SUCCESS
 Genre added: 57020
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40787 genre1208
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 6570 genre1478
+addSong: SUCCESS
 Genre added: 26279
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -60380,14 +64467,17 @@ addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 12812
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70700 genre69271
+addSong: SUCCESS
 Genre added: 41300
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99924 genre56203
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 63281
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21864 genre54865
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 59771
 addGenre: SUCCESS
@@ -60409,7 +64499,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 92727
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92654 genre98445
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 99900
@@ -60434,8 +64525,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 41346 genre13168
+addSong: SUCCESS
+song added: 63149 genre26835
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34712
 addGenre: SUCCESS
@@ -60468,7 +64561,8 @@ Genre added: 97144
 addGenre: SUCCESS
 Genre added: 14840
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23361 genre30666
+addSong: SUCCESS
 Genre added: 57817
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -60517,7 +64611,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33492
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42112 genre5265
+addSong: SUCCESS
 Genre added: 94616
 addGenre: SUCCESS
 Genre added: 68338
@@ -60536,7 +64631,8 @@ addGenre: SUCCESS
 Genre added: 11521
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 33170 genre70905
+addSong: SUCCESS
 Genre added: 64689
 addGenre: SUCCESS
 Genre added: 91563
@@ -60572,7 +64668,8 @@ mergeGenres: FAILURE
 Genre added: 81748
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 92855 genre16096
+addSong: SUCCESS
 Genre added: 53544
 addGenre: SUCCESS
 Genre added: 45563
@@ -60582,7 +64679,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 80490 genre32580
+addSong: SUCCESS
 Genre added: 15289
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -60590,13 +64688,15 @@ Genre added: 4595
 addGenre: SUCCESS
 Genre added: 99635
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64453 genre42661
+addSong: SUCCESS
 Genre added: 50241
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38394 genre32315
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 25017
@@ -60617,7 +64717,8 @@ Genre added: 36227
 addGenre: SUCCESS
 Genre added: 25554
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22024 genre60981
+addSong: SUCCESS
 Genre added: 68045
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -60632,7 +64733,8 @@ Genre added: 64936
 addGenre: SUCCESS
 Genre added: 80316
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93285 genre23837
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 80357
@@ -60642,12 +64744,15 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 13446
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 72997 genre76647
+addSong: SUCCESS
+song added: 76110 genre4402
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 19069
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2599 genre4041
+addSong: SUCCESS
 Genre added: 10989
 addGenre: SUCCESS
 Genre added: 35647
@@ -60674,7 +64779,8 @@ Genre added: 13854
 addGenre: SUCCESS
 Genre added: 35948
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34059 genre60709
+addSong: SUCCESS
 Genre added: 53819
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -60686,13 +64792,15 @@ Genre added: 47341
 addGenre: SUCCESS
 Genre added: 40704
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 85496 genre93776
+addSong: SUCCESS
 Genre added: 30534
 addGenre: SUCCESS
 Genre added: 30804
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 76517 genre44385
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34494
@@ -60709,7 +64817,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 83306
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7640 genre41058
+addSong: SUCCESS
 Genre added: 49640
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -60745,7 +64854,8 @@ Genre added: 20229
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27572 genre33711
+addSong: SUCCESS
 Genre added: 1174
 addGenre: SUCCESS
 Genre added: 94175
@@ -60756,7 +64866,7 @@ Genre added: 21944
 addGenre: SUCCESS
 Genre added: 11361
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 76908
 addGenre: SUCCESS
 Genre added: 11134
@@ -60785,7 +64895,8 @@ addGenre: SUCCESS
 Genre added: 99528
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 38423 genre89446
+addSong: SUCCESS
 Genre added: 25921
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -60807,7 +64918,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 66515
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52763 genre29117
+addSong: SUCCESS
 Genre added: 19438
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -60829,16 +64941,19 @@ Genre added: 5514
 addGenre: SUCCESS
 Genre added: 45064
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 30522 genre64184
+addSong: SUCCESS
 Genre added: 16616
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 62419 genre60622
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 51114
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37038 genre8180
+addSong: SUCCESS
 Genre added: 93805
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -60872,7 +64987,8 @@ addGenre: SUCCESS
 Genre added: 84991
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 29116 genre72909
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -60882,7 +64998,8 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43318
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21366 genre83693
+addSong: SUCCESS
 Genre added: 53966
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -60908,7 +65025,8 @@ addGenre: INVALID_INPUT
 Genre added: 7058
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73482 genre76413
+addSong: SUCCESS
 Genre added: 88287
 addGenre: SUCCESS
 Genre added: 16443
@@ -60954,7 +65072,8 @@ Genre added: 95440
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 26354 genre18894
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 25849
 addGenre: SUCCESS
@@ -60975,7 +65094,8 @@ Genre added: 54447
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 72552 genre65676
+addSong: SUCCESS
 Genre added: 91460
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -61013,14 +65133,17 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43698
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 3378 genre77059
+addSong: SUCCESS
 Genre added: 80222
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 76067
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 68966 genre71433
+addSong: SUCCESS
+song added: 34132 genre71743
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 57933
@@ -61060,7 +65183,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 67970 genre47677
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -61086,7 +65210,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 21400
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58106 genre65540
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 59786
 addGenre: SUCCESS
@@ -61116,7 +65241,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 63702
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97438 genre47863
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 21205
 addGenre: SUCCESS
@@ -61124,7 +65250,8 @@ Genre added: 48052
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2725 genre20909
+addSong: SUCCESS
 Genre added: 40668
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -61156,19 +65283,23 @@ Genre added: 78047
 addGenre: SUCCESS
 Genre added: 25693
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20532 genre4462
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 33418 genre93961
+addSong: SUCCESS
+song added: 36761 genre20693
+addSong: SUCCESS
 Genre added: 46259
 addGenre: SUCCESS
 Genre added: 26676
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 53738 genre7541
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 80776
 addGenre: SUCCESS
@@ -61187,7 +65318,8 @@ mergeGenres: FAILURE
 Genre added: 28964
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60064 genre44555
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 81611
 addGenre: SUCCESS
@@ -61213,7 +65345,8 @@ Genre added: 34927
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52412 genre73950
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 86327
@@ -61238,7 +65371,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 16856 genre35394
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 39555
 addGenre: SUCCESS
@@ -61249,10 +65383,12 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67157
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 99488 genre41584
+addSong: SUCCESS
 Genre added: 45627
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31751 genre60449
+addSong: SUCCESS
 Genre added: 19894
 addGenre: SUCCESS
 Genre added: 10831
@@ -61261,11 +65397,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 96752
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 45597 genre70633
+addSong: SUCCESS
+song added: 86755 genre43528
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14237 genre95085
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -61277,11 +65416,14 @@ Genre added: 99403
 addGenre: SUCCESS
 Genre added: 22940
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16716 genre12742
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 31564 genre77970
+addSong: SUCCESS
+song added: 46986 genre4328
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -61305,10 +65447,13 @@ Genre added: 64917
 addGenre: SUCCESS
 Genre added: 93170
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61884 genre75012
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 23743 genre65839
+addSong: SUCCESS
+song added: 6942 genre80776
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -61328,7 +65473,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 49745
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7199 genre9838
+addSong: SUCCESS
 Genre added: 79658
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -61361,7 +65507,8 @@ Genre added: 81777
 addGenre: SUCCESS
 Genre added: 96363
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40858 genre95796
+addSong: SUCCESS
 Genre added: 90798
 addGenre: SUCCESS
 Genre added: 76768
@@ -61372,7 +65519,8 @@ Genre added: 32101
 addGenre: SUCCESS
 Genre added: 14022
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86565 genre65262
+addSong: SUCCESS
 Genre added: 73878
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -61404,7 +65552,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 26763
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86828 genre72790
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -61413,7 +65562,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 82071 genre1419
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 44628
 addGenre: SUCCESS
@@ -61430,8 +65580,10 @@ Genre added: 39093
 addGenre: SUCCESS
 Genre added: 12694
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 70829 genre19482
+addSong: SUCCESS
+song added: 70529 genre91724
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 87227
 addGenre: SUCCESS
@@ -61440,7 +65592,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 34498
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65454 genre9769
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 95490
 addGenre: SUCCESS
@@ -61465,10 +65618,13 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 15711
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50111 genre68940
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 27604 genre14537
+addSong: SUCCESS
+song added: 4486 genre36783
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -61497,7 +65653,8 @@ Genre added: 38519
 addGenre: SUCCESS
 Genre added: 63510
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77076 genre54676
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 36131
 addGenre: SUCCESS
@@ -61508,15 +65665,18 @@ Genre added: 26747
 addGenre: SUCCESS
 Genre added: 46116
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 47478 genre96566
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 96831 genre53425
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 14099
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57748 genre93301
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 72003
@@ -61526,7 +65686,7 @@ addGenre: SUCCESS
 Genre added: 88544
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -61534,7 +65694,8 @@ Genre added: 59202
 addGenre: SUCCESS
 Genre added: 35884
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54626 genre57789
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 2315
@@ -61556,8 +65717,9 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 27052
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 88307 genre91688
+addSong: SUCCESS
 Genre added: 12295
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -61568,7 +65730,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4991
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73084 genre37674
+addSong: SUCCESS
 Genre added: 11785
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -61599,19 +65762,23 @@ addGenre: SUCCESS
 Genre added: 88048
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52244 genre73329
+addSong: SUCCESS
 Genre added: 11909
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 3491
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64281 genre81777
+addSong: SUCCESS
 Genre added: 52149
 addGenre: SUCCESS
 Genre added: 48659
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 32394 genre28302
+addSong: SUCCESS
+song added: 95805 genre4212
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -61623,8 +65790,10 @@ Genre added: 73182
 addGenre: SUCCESS
 Genre added: 81155
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 6193 genre64427
+addSong: SUCCESS
+song added: 28317 genre60365
+addSong: SUCCESS
 Genre added: 20701
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -61647,7 +65816,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 11160 genre22772
+addSong: SUCCESS
 Genre added: 92218
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -61658,7 +65828,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1368 genre14291
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 18438
 addGenre: SUCCESS
@@ -61684,7 +65855,8 @@ Genre added: 3938
 addGenre: SUCCESS
 Genre added: 23355
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88737 genre73746
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 11385
 addGenre: SUCCESS
@@ -61693,9 +65865,11 @@ addGenre: SUCCESS
 Genre added: 64371
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 80967 genre63739
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16739 genre38112
+addSong: SUCCESS
 Genre added: 6390
 addGenre: SUCCESS
 Genre added: 840
@@ -61717,13 +65891,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 1707
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 99902 genre71045
+addSong: SUCCESS
+song added: 33737 genre58770
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 3101 genre72595
+addSong: SUCCESS
 Genre added: 89453
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39271 genre97237
+addSong: SUCCESS
 Genre added: 96819
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -61747,11 +65925,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 41707
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37576 genre86114
+addSong: SUCCESS
 Genre added: 68600
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 77482 genre66323
+addSong: SUCCESS
 Genre added: 30505
 addGenre: SUCCESS
 Genre added: 47741
@@ -61778,10 +65958,13 @@ addGenre: SUCCESS
 Genre added: 26177
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 17766 genre82864
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 933 genre70813
+addSong: SUCCESS
+song added: 28585 genre58937
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35704
 addGenre: SUCCESS
@@ -61804,14 +65987,16 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 1347 genre33235
+addSong: SUCCESS
 Genre added: 58569
 addGenre: SUCCESS
 Genre added: 62216
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16533 genre95100
+addSong: SUCCESS
 Genre added: 71640
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -61825,11 +66010,13 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51733 genre69684
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 95539
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83326 genre262
+addSong: SUCCESS
 Genre added: 26084
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -61839,7 +66026,8 @@ addGenre: SUCCESS
 Genre added: 90928
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54194 genre13300
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 10445
 addGenre: SUCCESS
@@ -61880,7 +66068,8 @@ Genre added: 58782
 addGenre: SUCCESS
 Genre added: 73380
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69122 genre99161
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 37865
 addGenre: SUCCESS
@@ -61890,7 +66079,8 @@ Genre added: 25483
 addGenre: SUCCESS
 Genre added: 88447
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45295 genre49420
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 70221
 addGenre: SUCCESS
@@ -61900,10 +66090,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 57665
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9505 genre18488
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 51590 genre81615
+addSong: SUCCESS
+song added: 52838 genre10916
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 91953
 addGenre: SUCCESS
@@ -61927,9 +66120,11 @@ Genre added: 70713
 addGenre: SUCCESS
 Genre added: 10772
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14350 genre82992
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 81642 genre24124
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
@@ -61955,7 +66150,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85223 genre80565
+addSong: SUCCESS
 Genre added: 27531
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -61963,7 +66159,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4468 genre25856
+addSong: SUCCESS
 Genre added: 40411
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -61988,7 +66185,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89813 genre36093
+addSong: SUCCESS
 Genre added: 2492
 addGenre: SUCCESS
 Genre added: 72170
@@ -62008,7 +66206,8 @@ Genre added: 48978
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 44376 genre28517
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 20057
@@ -62038,7 +66237,8 @@ Genre added: 8008
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81741 genre86160
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 58031
 addGenre: SUCCESS
@@ -62051,14 +66251,16 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 36099 genre81511
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 312
 addGenre: SUCCESS
 Genre added: 40982
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 6903 genre68440
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 96057
 addGenre: SUCCESS
@@ -62078,13 +66280,16 @@ Genre added: 13924
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 17839 genre11813
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 48895 genre86306
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 75672
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4664 genre53788
+addSong: SUCCESS
 Genre added: 13093
 addGenre: SUCCESS
 Genre added: 40403
@@ -62097,14 +66302,16 @@ Genre added: 22423
 addGenre: SUCCESS
 Genre added: 19493
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22631 genre9460
+addSong: SUCCESS
 Genre added: 20815
 addGenre: SUCCESS
 Genre added: 64483
 addGenre: SUCCESS
 Genre added: 18976
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42897 genre31322
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31526
 addGenre: SUCCESS
@@ -62206,7 +66413,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 67228
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52505 genre91053
+addSong: SUCCESS
 Genre added: 13505
 addGenre: SUCCESS
 Genre added: 2972
@@ -62248,14 +66456,16 @@ Genre added: 21543
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 88501 genre37127
+addSong: SUCCESS
 Genre added: 59831
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 59923
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 41882 genre60079
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 42221
 addGenre: SUCCESS
@@ -62267,7 +66477,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 48432
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1685 genre72619
+addSong: SUCCESS
 Genre added: 17919
 addGenre: SUCCESS
 Genre added: 31318
@@ -62277,7 +66488,8 @@ addGenre: SUCCESS
 Genre added: 40003
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69968 genre63133
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 81723
 addGenre: SUCCESS
@@ -62289,12 +66501,14 @@ Genre added: 35360
 addGenre: SUCCESS
 Genre added: 2769
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97005 genre93348
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 57530 genre52610
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 76926
@@ -62317,7 +66531,8 @@ Genre added: 79637
 addGenre: SUCCESS
 Genre added: 3798
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28952 genre96219
+addSong: SUCCESS
 Genre added: 69755
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -62341,13 +66556,15 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 28394
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 14542 genre2835
+addSong: SUCCESS
 Genre added: 65564
 addGenre: SUCCESS
 Genre added: 90317
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 79966 genre71376
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -62355,8 +66572,10 @@ Genre added: 27005
 addGenre: SUCCESS
 Genre added: 87870
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 52271 genre73261
+addSong: SUCCESS
+song added: 4874 genre73748
+addSong: SUCCESS
 Genre added: 32964
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -62379,7 +66598,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 54444
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 8712 genre12593
+addSong: SUCCESS
 Genre added: 16517
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -62455,17 +66675,20 @@ Genre added: 64309
 addGenre: SUCCESS
 Genre added: 25611
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54644 genre67072
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 30863
 addGenre: SUCCESS
 Genre added: 58959
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65855 genre40241
+addSong: SUCCESS
 Genre added: 967
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75994 genre77273
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 58363
 addGenre: SUCCESS
@@ -62478,7 +66701,8 @@ Genre added: 68014
 addGenre: SUCCESS
 Genre added: 37082
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23284 genre82904
+addSong: SUCCESS
 Genre added: 28664
 addGenre: SUCCESS
 Genre added: 62312
@@ -62494,7 +66718,8 @@ Genre added: 47212
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 50082 genre93134
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 17104
 addGenre: SUCCESS
@@ -62504,8 +66729,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 54804 genre21052
+addSong: SUCCESS
+song added: 3945 genre29569
+addSong: SUCCESS
 Genre added: 90577
 addGenre: SUCCESS
 Genre added: 64884
@@ -62514,7 +66741,8 @@ Genre added: 70724
 addGenre: SUCCESS
 Genre added: 26296
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3597 genre46963
+addSong: SUCCESS
 Genre added: 83524
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -62534,7 +66762,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 97788
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 65289 genre20197
+addSong: SUCCESS
 Genre added: 7444
 addGenre: SUCCESS
 Genre added: 89143
@@ -62542,7 +66771,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 61579
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46465 genre23371
+addSong: SUCCESS
 Genre added: 91000
 addGenre: SUCCESS
 Genre added: 25239
@@ -62551,15 +66781,18 @@ Genre added: 90060
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 60719 genre88825
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 86378
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22555 genre54327
+addSong: SUCCESS
 Genre added: 29288
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26107 genre79281
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 94754
@@ -62571,7 +66804,8 @@ Genre added: 76126
 addGenre: SUCCESS
 Genre added: 19619
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13059 genre6401
+addSong: SUCCESS
 Genre added: 13377
 addGenre: SUCCESS
 Genre added: 91104
@@ -62579,12 +66813,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 35299
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46627 genre63044
+addSong: SUCCESS
 Genre added: 62545
 addGenre: SUCCESS
 Genre added: 99655
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 45035 genre80206
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -62634,7 +66870,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 89275
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11337 genre65387
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35873
 addGenre: SUCCESS
@@ -62668,7 +66905,8 @@ Genre added: 34181
 addGenre: SUCCESS
 Genre added: 64366
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 72892 genre25556
+addSong: SUCCESS
 Genre added: 50082
 addGenre: SUCCESS
 Genre added: 59717
@@ -62680,7 +66918,8 @@ Genre added: 80783
 addGenre: SUCCESS
 Genre added: 32776
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95774 genre49989
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 59451
@@ -62708,7 +66947,8 @@ Genre added: 61823
 addGenre: SUCCESS
 Genre added: 65479
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43631 genre77588
+addSong: SUCCESS
 Genre added: 56125
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -62760,7 +67000,8 @@ addGenre: SUCCESS
 Genre added: 66996
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50259 genre52028
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 90381
 addGenre: SUCCESS
@@ -62771,7 +67012,8 @@ addGenre: SUCCESS
 Genre added: 89110
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7274 genre47254
+addSong: SUCCESS
 Genre added: 40743
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -62795,7 +67037,8 @@ Genre added: 4457
 addGenre: SUCCESS
 Genre added: 81077
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81845 genre55813
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67670
@@ -62803,7 +67046,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73968 genre85193
+addSong: SUCCESS
 Genre added: 90211
 addGenre: SUCCESS
 Genre added: 70132
@@ -62820,24 +67064,28 @@ Genre added: 46419
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 63387 genre93610
+addSong: SUCCESS
 Genre added: 78397
 addGenre: SUCCESS
 Genre added: 99263
 addGenre: SUCCESS
 Genre added: 95269
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75731 genre96310
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 22907
 addGenre: SUCCESS
 Genre added: 86049
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 429 genre99869
+addSong: SUCCESS
 Genre added: 70833
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24795 genre74285
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 10253
 addGenre: SUCCESS
@@ -62868,7 +67116,8 @@ mergeGenres: FAILURE
 Genre added: 10057
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 94403 genre44241
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 22368
 addGenre: SUCCESS
@@ -62889,7 +67138,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 94099
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64135 genre93493
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 93471
@@ -62912,7 +67162,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 8454
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 6510 genre26159
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 46416
 addGenre: SUCCESS
@@ -62921,7 +67172,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31575
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 66031 genre54663
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -62932,10 +67184,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 73374
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98344 genre78472
+addSong: SUCCESS
 Genre added: 43770
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 4912 genre8107
+addSong: SUCCESS
 Genre added: 71654
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -62946,13 +67200,15 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 9790
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39189 genre57048
+addSong: SUCCESS
 Genre added: 60524
 addGenre: SUCCESS
 Genre added: 50683
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52210 genre65848
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 69903
 addGenre: SUCCESS
@@ -62960,7 +67216,8 @@ Genre added: 77908
 addGenre: SUCCESS
 Genre added: 67183
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99090 genre46755
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 95268
@@ -62985,7 +67242,8 @@ addGenre: SUCCESS
 Genre added: 39095
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51423 genre65082
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 52566
@@ -62998,7 +67256,8 @@ Genre added: 68095
 addGenre: SUCCESS
 Genre added: 33149
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43767 genre45233
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -63080,13 +67339,15 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 26547
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70774 genre90514
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 50040
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12111 genre60026
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58414
 addGenre: SUCCESS
@@ -63097,14 +67358,15 @@ addGenre: SUCCESS
 Genre added: 84241
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 55245 genre78679
+addSong: SUCCESS
 Genre added: 42657
 addGenre: SUCCESS
 Genre added: 59410
 addGenre: SUCCESS
 Genre added: 42092
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 95257
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -63112,7 +67374,8 @@ Genre added: 72709
 addGenre: SUCCESS
 Genre added: 67730
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34185 genre84797
+addSong: SUCCESS
 Genre added: 44752
 addGenre: SUCCESS
 Genre added: 71303
@@ -63138,7 +67401,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32422 genre89268
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -63153,7 +67417,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 88437
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64086 genre20576
+addSong: SUCCESS
 Genre added: 10736
 addGenre: SUCCESS
 Genre added: 6430
@@ -63164,7 +67429,8 @@ Genre added: 33323
 addGenre: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 49699 genre3847
+addSong: SUCCESS
 Genre added: 12090
 addGenre: SUCCESS
 Genre added: 7409
@@ -63177,7 +67443,8 @@ Genre added: 78550
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22346 genre54865
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 450
 addGenre: SUCCESS
@@ -63197,26 +67464,30 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 57871
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32026 genre987
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 53859
 addGenre: SUCCESS
 Genre added: 38525
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35934 genre67778
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 1355
 addGenre: SUCCESS
 Genre added: 54788
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5897 genre56313
+addSong: SUCCESS
 Genre added: 96112
 addGenre: SUCCESS
 Genre added: 86470
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 90384 genre29657
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 21556
 addGenre: SUCCESS
@@ -63237,8 +67508,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 87602
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 29052 genre98164
+addSong: SUCCESS
+song added: 28546 genre2898
+addSong: SUCCESS
 Genre added: 9106
 addGenre: SUCCESS
 Genre added: 60910
@@ -63248,7 +67521,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 23748
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52857 genre96359
+addSong: SUCCESS
 Genre added: 93266
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -63279,7 +67553,8 @@ Genre added: 14625
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 70134 genre35794
+addSong: SUCCESS
 Genre added: 59642
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -63300,11 +67575,13 @@ Genre added: 72526
 addGenre: SUCCESS
 Genre added: 87247
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29320 genre40642
+addSong: SUCCESS
 Genre added: 81548
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39709 genre54250
+addSong: SUCCESS
 Genre added: 27388
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -63321,13 +67598,16 @@ Genre added: 92433
 addGenre: SUCCESS
 Genre added: 30307
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 25859 genre63084
+addSong: SUCCESS
+song added: 63418 genre36778
+addSong: SUCCESS
 Genre added: 84302
 addGenre: SUCCESS
 Genre added: 41958
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80678 genre33343
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 74074
 addGenre: SUCCESS
@@ -63341,7 +67621,8 @@ Genre added: 2648
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 47723 genre28067
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 57453
 addGenre: SUCCESS
@@ -63351,7 +67632,8 @@ addGenre: SUCCESS
 Genre added: 73741
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11595 genre91854
+addSong: SUCCESS
 Genre added: 25270
 addGenre: SUCCESS
 Genre added: 91132
@@ -63371,12 +67653,15 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 57841
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64508 genre1355
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 19785 genre47211
+addSong: SUCCESS
 Genre added: 44329
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34346 genre29096
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 42926
 addGenre: SUCCESS
@@ -63393,11 +67678,13 @@ Genre added: 69003
 addGenre: SUCCESS
 Genre added: 82553
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26400 genre15721
+addSong: SUCCESS
 Genre added: 94187
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42463 genre71844
+addSong: SUCCESS
 Genre added: 51730
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -63406,10 +67693,12 @@ Genre added: 1714
 addGenre: SUCCESS
 Genre added: 13814
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10895 genre1530
+addSong: SUCCESS
 Genre added: 2348
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 22915 genre29713
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 30654
 addGenre: SUCCESS
@@ -63417,7 +67706,8 @@ Genre added: 16287
 addGenre: SUCCESS
 Genre added: 85643
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20900 genre69554
+addSong: SUCCESS
 Genre added: 5921
 addGenre: SUCCESS
 Genre added: 69024
@@ -63427,8 +67717,10 @@ Genre added: 97606
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 65265 genre72024
+addSong: SUCCESS
+song added: 21529 genre63017
+addSong: SUCCESS
 Genre added: 92345
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -63459,21 +67751,24 @@ addGenre: SUCCESS
 Genre added: 80879
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87515 genre42398
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 35164
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 149
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14476 genre88092
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89112
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 34222
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83171 genre4149
+addSong: SUCCESS
 Genre added: 98442
 addGenre: SUCCESS
 Genre added: 53006
@@ -63486,17 +67781,21 @@ Genre added: 78163
 addGenre: SUCCESS
 Genre added: 81682
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 985 genre78841
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 66548 genre55968
+addSong: SUCCESS
 Genre added: 29814
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 77609 genre95100
+addSong: SUCCESS
+song added: 42416 genre14689
+addSong: SUCCESS
 Genre added: 63230
 addGenre: SUCCESS
 Genre added: 48458
@@ -63504,7 +67803,8 @@ addGenre: SUCCESS
 Genre added: 37158
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 15919 genre74700
+addSong: SUCCESS
 Genre added: 45759
 addGenre: SUCCESS
 Genre added: 24378
@@ -63519,7 +67819,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 94282
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51574 genre56078
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 30476
 addGenre: SUCCESS
@@ -63537,10 +67838,12 @@ addGenre: SUCCESS
 Genre added: 81291
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 72171 genre92699
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30035 genre46169
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 16330
 addGenre: SUCCESS
@@ -63557,7 +67860,8 @@ Genre added: 77780
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 39319 genre80864
+addSong: SUCCESS
 Genre added: 804
 addGenre: SUCCESS
 Genre added: 49988
@@ -63575,7 +67879,8 @@ Genre added: 53906
 addGenre: SUCCESS
 Genre added: 95550
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31295 genre28350
+addSong: SUCCESS
 Genre added: 84709
 addGenre: SUCCESS
 Genre added: 61080
@@ -63584,7 +67889,8 @@ addGenre: INVALID_INPUT
 Genre added: 9869
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 11008 genre60826
+addSong: SUCCESS
 Genre added: 39560
 addGenre: SUCCESS
 Genre added: 75101
@@ -63604,10 +67910,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 41419
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80594 genre45263
+addSong: SUCCESS
 Genre added: 40497
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71683 genre43895
+addSong: SUCCESS
 Genre added: 77236
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -63647,8 +67955,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67564
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 43948 genre58642
+addSong: SUCCESS
+song added: 39245 genre64998
+addSong: SUCCESS
 Genre added: 45069
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -63688,12 +67998,15 @@ addGenre: SUCCESS
 Genre added: 84993
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 64444 genre36063
+addSong: SUCCESS
+song added: 40481 genre69893
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 48382 genre19735
+addSong: SUCCESS
 Genre added: 26145
 addGenre: SUCCESS
 Genre added: 54810
@@ -63701,7 +68014,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 78681
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
@@ -63721,13 +68034,16 @@ getSongGenre: SUCCESS, 0
 Genre added: 45445
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 6891 genre37969
+addSong: SUCCESS
+song added: 23342 genre48976
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 58286 genre4025
+addSong: SUCCESS
 Genre added: 74104
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -63745,14 +68061,17 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35362
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 88112 genre18923
+addSong: SUCCESS
 Genre added: 45310
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83280 genre70143
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 33726
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82520 genre31019
+addSong: SUCCESS
 Genre added: 49429
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -63770,7 +68089,8 @@ addGenre: SUCCESS
 Genre added: 70464
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 63167 genre22670
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 86275
 addGenre: SUCCESS
@@ -63779,7 +68099,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 30613
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 76250 genre25304
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 3547
@@ -63797,10 +68118,12 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68909
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55613 genre78268
+addSong: SUCCESS
 Genre added: 92530
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 95098 genre86107
+addSong: SUCCESS
 Genre added: 8840
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -63817,7 +68140,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 12657 genre85738
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 85880
@@ -63828,7 +68152,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27273 genre76738
+addSong: SUCCESS
 Genre added: 21593
 addGenre: SUCCESS
 Genre added: 84905
@@ -63864,7 +68189,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 36569
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 60997 genre69693
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 99396
 addGenre: SUCCESS
@@ -63875,11 +68201,13 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82636
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41642 genre10818
+addSong: SUCCESS
 Genre added: 25600
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 97181 genre82655
+addSong: SUCCESS
 Genre added: 74154
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -63889,13 +68217,16 @@ Genre added: 30970
 addGenre: SUCCESS
 Genre added: 49730
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 66844 genre66550
+addSong: SUCCESS
+song added: 653 genre60181
+addSong: SUCCESS
 Genre added: 20328
 addGenre: SUCCESS
 Genre added: 96921
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 50960 genre68731
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 55013
 addGenre: SUCCESS
@@ -63930,7 +68261,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 3507 genre67564
+addSong: SUCCESS
 Genre added: 60531
 addGenre: SUCCESS
 Genre added: 62568
@@ -63942,8 +68274,10 @@ Genre added: 8111
 addGenre: SUCCESS
 Genre added: 74236
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 41398 genre20562
+addSong: SUCCESS
+song added: 18473 genre24180
+addSong: SUCCESS
 Genre added: 70878
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -63951,7 +68285,8 @@ Genre added: 86222
 addGenre: SUCCESS
 Genre added: 80481
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 65088 genre80023
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 35959
 addGenre: SUCCESS
@@ -63964,7 +68299,8 @@ Genre added: 50068
 addGenre: SUCCESS
 Genre added: 72330
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41803 genre49028
+addSong: SUCCESS
 Genre added: 43366
 addGenre: SUCCESS
 Genre added: 43558
@@ -63980,7 +68316,8 @@ addGenre: SUCCESS
 Genre added: 27464
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 6419 genre54454
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 80734
@@ -63988,7 +68325,8 @@ addGenre: SUCCESS
 Genre added: 70137
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92896 genre66970
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -64004,7 +68342,8 @@ addGenre: SUCCESS
 Genre added: 4099
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 7973 genre31244
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 34480
 addGenre: SUCCESS
@@ -64015,7 +68354,8 @@ addGenre: SUCCESS
 Genre added: 17098
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 53580 genre64779
+addSong: SUCCESS
 Genre added: 95673
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -64135,7 +68475,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 29421
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 60866 genre36566
+addSong: SUCCESS
 Genre added: 18681
 addGenre: SUCCESS
 Genre added: 37881
@@ -64156,13 +68497,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 87736
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12442 genre61989
+addSong: SUCCESS
 Genre added: 71044
 addGenre: SUCCESS
 Genre added: 62186
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 3792
 addGenre: SUCCESS
 Genre added: 68903
@@ -64203,7 +68545,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 70548
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93325 genre13450
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 46289
 addGenre: SUCCESS
@@ -64214,7 +68557,8 @@ addGenre: SUCCESS
 Genre added: 1596
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87896 genre96641
+addSong: SUCCESS
 Genre added: 27243
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -64260,7 +68604,8 @@ Genre added: 7272
 addGenre: SUCCESS
 Genre added: 19630
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 76016 genre33880
+addSong: SUCCESS
 Genre added: 91454
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -64276,7 +68621,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 2955
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 14626 genre31173
+addSong: SUCCESS
 Genre added: 93556
 addGenre: SUCCESS
 Genre added: 26902
@@ -64288,7 +68634,8 @@ Genre added: 55664
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44492 genre48719
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -64320,12 +68667,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78234
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15642 genre49035
+addSong: SUCCESS
 Genre added: 2528
 addGenre: SUCCESS
 Genre added: 21474
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34848 genre5139
+addSong: SUCCESS
 Genre added: 63409
 addGenre: SUCCESS
 Genre added: 30924
@@ -64346,16 +68695,19 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 43562
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 13470 genre34239
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 38984 genre30334
+addSong: SUCCESS
 Genre added: 86818
 addGenre: SUCCESS
 Genre added: 89546
 addGenre: SUCCESS
 Genre added: 88280
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23212 genre75308
+addSong: SUCCESS
 Genre added: 24789
 addGenre: SUCCESS
 Genre added: 17294
@@ -64368,7 +68720,8 @@ Genre added: 1460
 addGenre: SUCCESS
 Genre added: 93090
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 34556 genre27555
+addSong: SUCCESS
 Genre added: 54353
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -64406,10 +68759,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 94537
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 14115 genre20545
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 5941 genre61363
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 72971
@@ -64420,14 +68775,17 @@ Genre added: 66592
 addGenre: SUCCESS
 Genre added: 3338
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 70897 genre49300
+addSong: SUCCESS
 Genre added: 76463
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33642 genre31878
+addSong: SUCCESS
 Genre added: 92488
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 99963 genre73168
+addSong: SUCCESS
 Genre added: 97799
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -64445,9 +68803,11 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 75002
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27064 genre9025
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 14743 genre20318
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 78723
@@ -64462,7 +68822,8 @@ addGenre: SUCCESS
 Genre added: 24105
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 74717 genre72047
+addSong: SUCCESS
 Genre added: 10515
 addGenre: SUCCESS
 Genre added: 94626
@@ -64546,7 +68907,8 @@ Genre added: 75347
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52960 genre42316
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 86593
@@ -64561,19 +68923,22 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 28442
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 61710 genre45090
+addSong: SUCCESS
 Genre added: 43641
 addGenre: SUCCESS
 Genre added: 53456
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36956 genre35977
+addSong: SUCCESS
 Genre added: 96591
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 19910
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4509 genre47796
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67842
 addGenre: SUCCESS
@@ -64583,7 +68948,8 @@ addGenre: SUCCESS
 Genre added: 46568
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 99015 genre37127
+addSong: SUCCESS
 Genre added: 41068
 addGenre: SUCCESS
 Genre added: 83481
@@ -64600,17 +68966,22 @@ addGenre: SUCCESS
 Genre added: 87743
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 95594 genre3390
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 79838 genre22727
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 61245 genre70724
+addSong: SUCCESS
 Genre added: 94195
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69334 genre34652
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 65078 genre36761
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 65500
 addGenre: SUCCESS
@@ -64624,7 +68995,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 44928
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 53806 genre12090
+addSong: SUCCESS
 Genre added: 75013
 addGenre: SUCCESS
 Genre added: 89867
@@ -64638,12 +69010,15 @@ Genre added: 92648
 addGenre: SUCCESS
 Genre added: 57344
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41233 genre75173
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 51237 genre60112
+addSong: SUCCESS
 Genre added: 70407
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 369 genre54743
+addSong: SUCCESS
 Genre added: 3659
 addGenre: SUCCESS
 Genre added: 69704
@@ -64684,7 +69059,8 @@ addGenre: SUCCESS
 Genre added: 11874
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 61614 genre47861
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 66980
 addGenre: SUCCESS
@@ -64703,7 +69079,8 @@ Genre added: 15451
 addGenre: SUCCESS
 Genre added: 4091
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 119 genre78511
+addSong: SUCCESS
 Genre added: 43444
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -64724,7 +69101,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 88646
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25060 genre23365
+addSong: SUCCESS
 Genre added: 55154
 addGenre: SUCCESS
 Genre added: 30878
@@ -64738,11 +69116,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19571
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23473 genre89708
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 52826
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 482 genre74500
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 12315
 addGenre: SUCCESS
@@ -64756,19 +69136,21 @@ addGenre: SUCCESS
 Genre added: 39668
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 27298 genre69647
+addSong: SUCCESS
 Genre added: 23543
 addGenre: SUCCESS
 Genre added: 51076
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 90264 genre93531
+addSong: SUCCESS
 Genre added: 45711
 addGenre: SUCCESS
 Genre added: 24972
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 62257
 addGenre: SUCCESS
 Genre added: 5813
@@ -64800,14 +69182,17 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 32920 genre86064
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 49016 genre77170
+addSong: SUCCESS
 Genre added: 75079
 addGenre: SUCCESS
 Genre added: 71736
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 28114 genre83708
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -64815,18 +69200,23 @@ Genre added: 55988
 addGenre: SUCCESS
 Genre added: 98746
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29759 genre24646
+addSong: SUCCESS
 Genre added: 53219
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 81307
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 73434 genre16108
+addSong: SUCCESS
+song added: 48544 genre81294
+addSong: SUCCESS
+song added: 48201 genre97150
+addSong: SUCCESS
 Genre added: 60460
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 15694 genre85514
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 94481
 addGenre: SUCCESS
@@ -64840,8 +69230,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 80750
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 67498 genre85077
+addSong: SUCCESS
+song added: 82929 genre94390
+addSong: SUCCESS
 Genre added: 40170
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -64851,21 +69243,25 @@ Genre added: 73624
 addGenre: SUCCESS
 Genre added: 66327
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23655 genre49742
+addSong: SUCCESS
 Genre added: 27515
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 45980
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16219 genre85192
+addSong: SUCCESS
 Genre added: 94491
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20520 genre42929
+addSong: SUCCESS
 Genre added: 99443
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 40447 genre63674
+addSong: SUCCESS
 Genre added: 64973
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -64894,16 +69290,20 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 23904
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 32839 genre82719
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 74005 genre54003
+addSong: SUCCESS
+song added: 3442 genre93728
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 83616
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75161 genre54004
+addSong: SUCCESS
 Genre added: 39381
 addGenre: SUCCESS
 Genre added: 34559
@@ -64914,11 +69314,14 @@ getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 18452 genre90574
+addSong: SUCCESS
+song added: 11853 genre97470
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 84973 genre52677
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 73251
 addGenre: SUCCESS
@@ -64927,13 +69330,16 @@ Genre added: 71428
 addGenre: SUCCESS
 Genre added: 82284
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 15760 genre10176
+addSong: SUCCESS
+song added: 85744 genre78697
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 88484 genre84164
+addSong: SUCCESS
 Genre added: 20322
 addGenre: SUCCESS
 Genre added: 55128
@@ -64959,7 +69365,8 @@ Genre added: 46599
 addGenre: SUCCESS
 Genre added: 53745
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51639 genre66071
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 49349
 addGenre: SUCCESS
@@ -64972,7 +69379,8 @@ Genre added: 87504
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81887 genre58061
+addSong: SUCCESS
 Genre added: 69486
 addGenre: SUCCESS
 Genre added: 40727
@@ -64985,7 +69393,8 @@ mergeGenres: FAILURE
 Genre added: 13727
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 94542 genre36286
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 53501
 addGenre: SUCCESS
@@ -65024,14 +69433,16 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 21963
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33551 genre14275
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 31014
 addGenre: SUCCESS
 Genre added: 24168
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31405 genre55415
+addSong: SUCCESS
 Genre added: 84919
 addGenre: SUCCESS
 Genre added: 97835
@@ -65055,7 +69466,8 @@ Genre added: 50335
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54184 genre91846
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -65068,7 +69480,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 76852
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32815 genre6062
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 67355
 addGenre: SUCCESS
@@ -65076,8 +69489,9 @@ Genre added: 96687
 addGenre: SUCCESS
 Genre added: 23719
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 38683 genre9463
+addSong: SUCCESS
 Genre added: 43634
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -65100,7 +69514,8 @@ addGenre: SUCCESS
 Genre added: 49267
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42840 genre70980
+addSong: SUCCESS
 Genre added: 48499
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -65124,10 +69539,13 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 25675
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 44612 genre99439
+addSong: SUCCESS
+song added: 24395 genre75960
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 38041 genre55815
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 5641
@@ -65138,7 +69556,8 @@ Genre added: 78226
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 87935 genre24643
+addSong: SUCCESS
 Genre added: 34321
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -65150,14 +69569,16 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 64809
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41018 genre56698
+addSong: SUCCESS
 Genre added: 38832
 addGenre: SUCCESS
 Genre added: 60328
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 73648 genre8263
+addSong: SUCCESS
 Genre added: 63574
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -65208,10 +69629,12 @@ Genre added: 60020
 addGenre: SUCCESS
 Genre added: 58967
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35320 genre59985
+addSong: SUCCESS
 Genre added: 56714
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5948 genre65970
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -65220,7 +69643,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 66286
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 23867 genre34281
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -65250,12 +69674,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 27424
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84619 genre96418
+addSong: SUCCESS
 Genre added: 34411
 addGenre: SUCCESS
 Genre added: 76343
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 27431 genre60079
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 18542
 addGenre: SUCCESS
@@ -65263,7 +69689,8 @@ Genre added: 72945
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 83357 genre31739
+addSong: SUCCESS
 Genre added: 55870
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -65317,7 +69744,8 @@ mergeGenres: FAILURE
 Genre added: 38773
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 63456 genre25907
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 18368
 addGenre: SUCCESS
@@ -65334,7 +69762,8 @@ addGenre: SUCCESS
 Genre added: 54947
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 92923 genre97422
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 78899
 addGenre: SUCCESS
@@ -65343,10 +69772,12 @@ mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46777 genre58807
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41880 genre49360
+addSong: SUCCESS
 Genre added: 29980
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -65372,7 +69803,8 @@ Genre added: 77114
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 65865 genre31408
+addSong: SUCCESS
 Genre added: 76481
 addGenre: SUCCESS
 Genre added: 90989
@@ -65405,7 +69837,8 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 61308
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71827 genre48064
+addSong: SUCCESS
 Genre added: 29447
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -65492,11 +69925,14 @@ Genre added: 17824
 addGenre: SUCCESS
 Genre added: 96668
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 40464 genre21693
+addSong: SUCCESS
+song added: 24074 genre8126
+addSong: SUCCESS
 Genre added: 87552
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68992 genre13215
+addSong: SUCCESS
 Genre added: 74603
 addGenre: SUCCESS
 Genre added: 64078
@@ -65518,7 +69954,8 @@ mergeGenres: FAILURE
 Genre added: 26648
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52631 genre40029
+addSong: SUCCESS
 Genre added: 80958
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -65530,7 +69967,8 @@ Genre added: 5866
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 98741 genre60837
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -65538,11 +69976,13 @@ Genre added: 24474
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 69406 genre68444
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 41982
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59963 genre76591
+addSong: SUCCESS
 Genre added: 3993
 addGenre: SUCCESS
 Genre added: 47076
@@ -65576,14 +70016,16 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 16418
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44315 genre54102
+addSong: SUCCESS
 Genre added: 55729
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22444
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 54368 genre34013
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 75924
 addGenre: SUCCESS
@@ -65616,7 +70058,8 @@ addGenre: SUCCESS
 Genre added: 90998
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 53148 genre66704
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 22615
 addGenre: SUCCESS
@@ -65647,7 +70090,8 @@ Genre added: 66698
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 81137 genre79500
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 45679
@@ -65697,7 +70141,8 @@ addGenre: SUCCESS
 Genre added: 62368
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 22520 genre95023
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 84843
 addGenre: SUCCESS
@@ -65718,7 +70163,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 48282
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81826 genre2130
+addSong: SUCCESS
 Genre added: 33329
 addGenre: SUCCESS
 Genre added: 44676
@@ -65739,7 +70185,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 49857
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 10967 genre574
+addSong: SUCCESS
 Genre added: 32472
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -65754,7 +70201,8 @@ Genre added: 9600
 addGenre: SUCCESS
 Genre added: 36540
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33143 genre16892
+addSong: SUCCESS
 Genre added: 80256
 addGenre: SUCCESS
 Genre added: 65747
@@ -65815,7 +70263,8 @@ Genre added: 26964
 addGenre: SUCCESS
 Genre added: 33563
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 81743 genre14639
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -65852,7 +70301,8 @@ Genre added: 98025
 addGenre: SUCCESS
 Genre added: 15751
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 24362 genre13139
+addSong: SUCCESS
 Genre added: 79424
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -65891,7 +70341,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 31667
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 7357 genre25915
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 14431
 addGenre: SUCCESS
@@ -65902,14 +70353,18 @@ Genre added: 38222
 addGenre: SUCCESS
 Genre added: 57877
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93623 genre26907
+addSong: SUCCESS
 Genre added: 94959
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 89810 genre71574
+addSong: SUCCESS
 Genre added: 48840
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 65483 genre42233
+addSong: SUCCESS
+song added: 33368 genre56421
+addSong: SUCCESS
 Genre added: 43779
 addGenre: SUCCESS
 Genre added: 78490
@@ -65948,7 +70403,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 24575
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 67051
 addGenre: SUCCESS
@@ -65982,7 +70437,7 @@ Genre added: 49760
 addGenre: SUCCESS
 Genre added: 36231
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 67315
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -65990,11 +70445,14 @@ Genre added: 65124
 addGenre: SUCCESS
 Genre added: 77939
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 65932 genre40582
+addSong: SUCCESS
+song added: 90324 genre33648
+addSong: SUCCESS
 Genre added: 10830
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94875 genre25912
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 25560
 addGenre: SUCCESS
@@ -66070,7 +70528,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 65091
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 28993 genre62668
+addSong: SUCCESS
 Genre added: 49765
 addGenre: SUCCESS
 Genre added: 5381
@@ -66094,7 +70553,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 16905
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75301 genre51547
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 26826
 addGenre: SUCCESS
@@ -66114,7 +70574,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29007 genre99221
+addSong: SUCCESS
 Genre added: 39103
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -66130,7 +70591,8 @@ addGenre: SUCCESS
 Genre added: 15559
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 78346 genre35155
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 83959
 addGenre: SUCCESS
@@ -66140,7 +70602,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 45507
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29716 genre96950
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 44212
 addGenre: SUCCESS
@@ -66173,7 +70636,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 78659
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 26704 genre43064
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 58922
@@ -66181,14 +70645,17 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 37773 genre40122
+addSong: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 5781 genre31203
+addSong: SUCCESS
 Genre added: 69518
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 39849 genre66651
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -66204,7 +70671,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 33148
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 23131 genre37857
+addSong: SUCCESS
 Genre added: 73368
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -66223,7 +70691,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 22066
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 98324 genre24489
+addSong: SUCCESS
 Genre added: 22112
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -66239,7 +70708,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 25000
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 467 genre46596
+addSong: SUCCESS
 Genre added: 90535
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -66249,7 +70719,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 68829
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 29663 genre44190
+addSong: SUCCESS
 Genre added: 10750
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -66258,7 +70729,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 91142
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68231 genre85748
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 38556
 addGenre: SUCCESS
@@ -66270,7 +70742,8 @@ Genre added: 19823
 addGenre: SUCCESS
 Genre added: 30967
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57741 genre34645
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 60746
@@ -66299,23 +70772,28 @@ mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 32389
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 52660 genre56629
+addSong: SUCCESS
+song added: 32807 genre46449
+addSong: SUCCESS
 Genre added: 6230
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 752 genre97027
+addSong: SUCCESS
 Genre added: 57367
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 30228
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25479 genre87462
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 48136 genre71640
+addSong: SUCCESS
 Genre added: 87170
 addGenre: SUCCESS
 Genre added: 82392
@@ -66326,8 +70804,10 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 mergeGenres: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 1930 genre30446
+addSong: SUCCESS
+song added: 44651 genre14503
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -66349,7 +70829,8 @@ Genre added: 80759
 addGenre: SUCCESS
 Genre added: 12170
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36279 genre1865
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 17261
 addGenre: SUCCESS
@@ -66400,7 +70881,8 @@ Genre added: 68696
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92419 genre97594
+addSong: SUCCESS
 Genre added: 17297
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -66412,10 +70894,12 @@ Genre added: 59246
 addGenre: SUCCESS
 Genre added: 18498
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 40610 genre67566
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 27186 genre58564
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 8950
 addGenre: SUCCESS
@@ -66444,15 +70928,18 @@ Genre added: 77393
 addGenre: SUCCESS
 Genre added: 2232
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 41301 genre42998
+addSong: SUCCESS
+song added: 83382 genre80558
+addSong: SUCCESS
 Genre added: 57919
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 95133
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78373 genre76352
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 61761
 addGenre: SUCCESS
@@ -66463,7 +70950,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 49893
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 10126 genre39621
+addSong: SUCCESS
 Genre added: 42488
 addGenre: SUCCESS
 Genre added: 57431
@@ -66485,7 +70973,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 82972
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93968 genre86795
+addSong: SUCCESS
 Genre added: 15102
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -66522,7 +71011,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 60511
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 43500 genre62154
+addSong: SUCCESS
 Genre added: 27006
 addGenre: SUCCESS
 Genre added: 31570
@@ -66540,7 +71030,8 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 54273
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43379 genre5042
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 4380
 addGenre: SUCCESS
@@ -66572,17 +71063,21 @@ getSongGenre: SUCCESS, 0
 Genre added: 81586
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46104 genre88318
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64911 genre64917
+addSong: SUCCESS
 Genre added: 66212
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 94733 genre33263
+addSong: SUCCESS
 Genre added: 113
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 56176 genre95885
+addSong: SUCCESS
 Genre added: 12263
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -66599,7 +71094,8 @@ mergeGenres: FAILURE
 Genre added: 1064
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 35109 genre19967
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: FAILURE
 Genre added: 25757
@@ -66609,12 +71105,14 @@ addGenre: SUCCESS
 Genre added: 77940
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 50410 genre29689
+addSong: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 11345
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99016 genre76768
+addSong: SUCCESS
 Genre added: 49795
 addGenre: SUCCESS
 Genre added: 69730
@@ -66653,7 +71151,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 78607
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36701 genre33526
+addSong: SUCCESS
 Genre added: 52022
 addGenre: SUCCESS
 Genre added: 94644
@@ -66710,9 +71209,12 @@ Genre added: 28309
 addGenre: SUCCESS
 Genre added: 27385
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 90887 genre35337
+addSong: SUCCESS
+song added: 45324 genre17734
+addSong: SUCCESS
+song added: 28001 genre9582
+addSong: SUCCESS
 Genre added: 53063
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -66741,13 +71243,17 @@ Genre added: 96341
 addGenre: SUCCESS
 Genre added: 22250
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 87570 genre73013
+addSong: SUCCESS
+song added: 79911 genre41696
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 40376 genre54352
+addSong: SUCCESS
 Genre added: 62799
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99619 genre23958
+addSong: SUCCESS
 Genre added: 74911
 addGenre: SUCCESS
 Genre added: 83547
@@ -66758,7 +71264,8 @@ Genre added: 21539
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25688 genre61023
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 99231
 addGenre: SUCCESS
@@ -66781,7 +71288,8 @@ Genre added: 86066
 addGenre: SUCCESS
 Genre added: 80830
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 59726 genre70333
+addSong: SUCCESS
 Genre added: 36085
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -66807,7 +71315,8 @@ Genre added: 87913
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 55374 genre99857
+addSong: SUCCESS
 Genre added: 97069
 addGenre: SUCCESS
 Genre added: 4828
@@ -66831,9 +71340,11 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 72410
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 3946 genre40549
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 31253 genre64004
+addSong: SUCCESS
 Genre added: 98187
 addGenre: SUCCESS
 Genre added: 37043
@@ -66857,7 +71368,8 @@ Genre added: 95723
 addGenre: SUCCESS
 Genre added: 74511
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 8128 genre50525
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 54743
@@ -66891,10 +71403,12 @@ Genre added: 22236
 addGenre: SUCCESS
 Genre added: 78332
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2657 genre53178
+addSong: SUCCESS
 Genre added: 18882
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 69235 genre35874
+addSong: SUCCESS
 Genre added: 76499
 addGenre: SUCCESS
 Genre added: 41587
@@ -66902,7 +71416,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 11289 genre30179
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 37286
@@ -66917,12 +71432,14 @@ Genre added: 95124
 addGenre: SUCCESS
 Genre added: 67
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84625 genre50698
+addSong: SUCCESS
 Genre added: 12691
 addGenre: SUCCESS
 Genre added: 92338
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64208 genre86087
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
@@ -66944,7 +71461,8 @@ Genre added: 50163
 addGenre: SUCCESS
 Genre added: 29763
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31841 genre20767
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 95208
 addGenre: SUCCESS
@@ -66971,13 +71489,15 @@ mergeGenres: FAILURE
 Genre added: 75986
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 704 genre47559
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 7034
 addGenre: SUCCESS
 Genre added: 61774
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64599 genre73150
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 62972
 addGenre: SUCCESS
@@ -67020,14 +71540,17 @@ addGenre: SUCCESS
 Genre added: 32027
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 58415 genre29092
+addSong: SUCCESS
 Genre added: 88129
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 48599 genre23543
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 90806
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58976 genre7231
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4200
 addGenre: SUCCESS
@@ -67039,12 +71562,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64217 genre57139
+addSong: SUCCESS
 Genre added: 30513
 addGenre: SUCCESS
 Genre added: 97287
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 68076 genre19792
+addSong: SUCCESS
 Genre added: 92804
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -67055,7 +71580,8 @@ Genre added: 27831
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 89333 genre98715
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 48610
 addGenre: SUCCESS
@@ -67081,7 +71607,8 @@ Genre added: 77092
 addGenre: SUCCESS
 Genre added: 17229
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92702 genre7969
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 41327
 addGenre: SUCCESS
@@ -67089,24 +71616,28 @@ Genre added: 21787
 addGenre: SUCCESS
 Genre added: 72817
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12750 genre83713
+addSong: SUCCESS
 Genre added: 91270
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 97177
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 2782 genre79223
+addSong: SUCCESS
 Genre added: 43262
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86806 genre91404
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 91972
 addGenre: SUCCESS
 Genre added: 18851
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55870 genre58307
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 80604
 addGenre: SUCCESS
@@ -67118,7 +71649,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 88607 genre8151
+addSong: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 Genre added: 5555
@@ -67126,7 +71658,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4985
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 44307 genre4839
+addSong: SUCCESS
 Genre added: 34415
 addGenre: SUCCESS
 Genre added: 74558
@@ -67158,7 +71691,8 @@ Genre added: 23835
 addGenre: SUCCESS
 Genre added: 1015
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 51678 genre95288
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 88360
@@ -67194,12 +71728,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 58211
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25008 genre65878
+addSong: SUCCESS
 Genre added: 66734
 addGenre: SUCCESS
 Genre added: 65812
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19965 genre17858
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 4631
@@ -67221,7 +71757,8 @@ getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 95939
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 13207 genre85473
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58727
 addGenre: SUCCESS
@@ -67230,8 +71767,10 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 67272
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 76771 genre6699
+addSong: SUCCESS
+song added: 27564 genre5752
+addSong: SUCCESS
 Genre added: 55117
 addGenre: SUCCESS
 Genre added: 29446
@@ -67240,7 +71779,8 @@ Genre added: 93386
 addGenre: SUCCESS
 Genre added: 36865
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62436 genre96552
+addSong: SUCCESS
 Genre added: 41619
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -67249,7 +71789,8 @@ addGenre: SUCCESS
 Genre added: 5292
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 55205 genre26699
+addSong: SUCCESS
 Genre added: 8241
 addGenre: SUCCESS
 Genre added: 28654
@@ -67275,7 +71816,8 @@ Genre added: 91003
 addGenre: SUCCESS
 Genre added: 52750
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71192 genre517
+addSong: SUCCESS
 Genre added: 83715
 addGenre: SUCCESS
 Genre added: 86230
@@ -67284,7 +71826,8 @@ Genre added: 42809
 addGenre: SUCCESS
 Genre added: 32814
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 12941 genre11720
+addSong: SUCCESS
 Genre added: 47238
 addGenre: SUCCESS
 Genre added: 30975
@@ -67304,26 +71847,32 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 74769
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5703 genre6455
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52198
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 23832 genre21696
+addSong: SUCCESS
 Genre added: 34864
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 75651
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 44403 genre15359
+addSong: SUCCESS
+song added: 28508 genre93385
+addSong: SUCCESS
+song added: 74289 genre19049
+addSong: SUCCESS
 Genre added: 73576
 addGenre: SUCCESS
 Genre added: 98253
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 88473 genre50937
+addSong: SUCCESS
 Genre added: 84619
 addGenre: SUCCESS
 Genre added: 22210
@@ -67340,7 +71889,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 97270
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 85178 genre6924
+addSong: SUCCESS
 Genre added: 91492
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -67359,7 +71909,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 5591
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 52858 genre50847
+addSong: SUCCESS
 Genre added: 10096
 addGenre: SUCCESS
 Genre added: 97782
@@ -67370,11 +71921,14 @@ Genre added: 71608
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 32191 genre95827
+addSong: SUCCESS
+song added: 60915 genre54943
+addSong: SUCCESS
 Genre added: 19848
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 39665 genre86338
+addSong: SUCCESS
 Genre added: 99323
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -67429,7 +71983,8 @@ Genre added: 29282
 addGenre: SUCCESS
 Genre added: 29930
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 71428 genre5704
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 45435
 addGenre: SUCCESS
@@ -67461,7 +72016,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 3634
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58606 genre16405
+addSong: SUCCESS
 Genre added: 5605
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -67511,11 +72067,13 @@ Genre added: 14695
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 15462 genre61823
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 37388
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84440 genre16851
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 11997
 addGenre: SUCCESS
@@ -67537,7 +72095,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 91035
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 78302 genre53721
+addSong: SUCCESS
 Genre added: 44721
 addGenre: SUCCESS
 Genre added: 77900
@@ -67552,7 +72111,8 @@ addGenre: SUCCESS
 Genre added: 85623
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 64584 genre94084
+addSong: SUCCESS
 Genre added: 35186
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -67570,14 +72130,16 @@ Genre added: 12341
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 14297 genre4144
+addSong: SUCCESS
 Genre added: 84244
 addGenre: SUCCESS
 mergeGenres: FAILURE
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96140 genre45871
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 38000
 addGenre: SUCCESS
@@ -67586,7 +72148,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 89157
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 43743 genre26350
+addSong: SUCCESS
 Genre added: 12627
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -67596,7 +72159,7 @@ Genre added: 26872
 addGenre: SUCCESS
 Genre added: 62507
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 52732
@@ -67606,12 +72169,15 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 91708
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94109 genre8646
+addSong: SUCCESS
 Genre added: 77951
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 75764 genre12418
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 41198 genre19253
+addSong: SUCCESS
 Genre added: 87688
 addGenre: SUCCESS
 Genre added: 26044
@@ -67619,13 +72185,15 @@ addGenre: SUCCESS
 Genre added: 89929
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 30142 genre11754
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 68729
 addGenre: SUCCESS
 Genre added: 2288
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37918 genre62463
+addSong: SUCCESS
 Genre added: 29481
 addGenre: SUCCESS
 Genre added: 79357
@@ -67691,17 +72259,21 @@ Genre added: 99394
 addGenre: SUCCESS
 Genre added: 53068
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 82945 genre34966
+addSong: SUCCESS
 Genre added: 21759
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 99198 genre86491
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 2521
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 41122 genre73616
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 41101 genre86044
+addSong: SUCCESS
 Genre added: 24043
 addGenre: SUCCESS
 Genre added: 20628
@@ -67719,11 +72291,14 @@ Genre added: 84010
 addGenre: SUCCESS
 Genre added: 8797
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 26699 genre9233
+addSong: SUCCESS
+song added: 73410 genre18741
+addSong: SUCCESS
 Genre added: 56395
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37237 genre82493
+addSong: SUCCESS
 Genre added: 56715
 addGenre: SUCCESS
 Genre added: 38469
@@ -67744,7 +72319,8 @@ Genre added: 57528
 addGenre: SUCCESS
 Genre added: 6168
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54222 genre1343
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 78328
@@ -67762,10 +72338,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 11479
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 64174 genre24953
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96455 genre89042
+addSong: SUCCESS
 Genre added: 2084
 addGenre: SUCCESS
 Genre added: 44629
@@ -67807,7 +72385,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67900 genre30079
+addSong: SUCCESS
 Genre added: 79865
 addGenre: SUCCESS
 Genre added: 64089
@@ -67838,17 +72417,20 @@ addGenre: INVALID_INPUT
 Genre added: 96135
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 85693 genre97770
+addSong: SUCCESS
 Genre added: 42891
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 35235 genre60795
+addSong: SUCCESS
 Genre added: 9845
 addGenre: SUCCESS
 Genre added: 97097
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30239 genre41124
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 78640
@@ -67857,7 +72439,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 46843
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 25624 genre19967
+addSong: SUCCESS
 Genre added: 60485
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -67873,7 +72456,8 @@ Genre added: 3132
 addGenre: SUCCESS
 Genre added: 51175
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 55465 genre95577
+addSong: SUCCESS
 Genre added: 22306
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -67916,7 +72500,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 88365
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 28487 genre25239
+addSong: SUCCESS
 Genre added: 65101
 addGenre: SUCCESS
 Genre added: 15037
@@ -67982,7 +72567,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 16854 genre44032
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
@@ -67997,8 +72583,10 @@ Genre added: 67906
 addGenre: SUCCESS
 Genre added: 63094
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 50781 genre62900
+addSong: SUCCESS
+song added: 25484 genre40872
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 65827
 addGenre: SUCCESS
@@ -68012,12 +72600,14 @@ Genre added: 76999
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 4533 genre10167
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 19938
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37705 genre10741
+addSong: SUCCESS
 Genre added: 30049
 addGenre: SUCCESS
 Genre added: 98326
@@ -68043,8 +72633,10 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 97920
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 18591 genre40052
+addSong: SUCCESS
+song added: 60143 genre76790
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 24425
 addGenre: SUCCESS
@@ -68057,7 +72649,8 @@ Genre added: 40747
 addGenre: SUCCESS
 Genre added: 16685
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 19256 genre59586
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 9703
 addGenre: SUCCESS
@@ -68082,7 +72675,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 90800
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 18915 genre37262
+addSong: SUCCESS
 Genre added: 56186
 addGenre: SUCCESS
 Genre added: 59465
@@ -68105,7 +72699,8 @@ Genre added: 81767
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 2688 genre34055
+addSong: SUCCESS
 Genre added: 15744
 addGenre: SUCCESS
 Genre added: 19122
@@ -68131,7 +72726,8 @@ Genre added: 95183
 addGenre: SUCCESS
 Genre added: 42567
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62039 genre52878
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -68160,7 +72756,8 @@ Genre added: 32612
 addGenre: SUCCESS
 Genre added: 68796
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33847 genre85302
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 92167
 addGenre: SUCCESS
@@ -68184,7 +72781,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 57610
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 57258 genre35782
+addSong: SUCCESS
 Genre added: 78359
 addGenre: SUCCESS
 Genre added: 88991
@@ -68230,7 +72828,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 14216
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 62972 genre21338
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 37451
 addGenre: SUCCESS
@@ -68265,18 +72864,22 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 68447 genre86066
+addSong: SUCCESS
 Genre added: 20764
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 25558 genre30665
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 15490 genre96673
+addSong: SUCCESS
 Genre added: 56716
 addGenre: SUCCESS
 Genre added: 72302
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 1900 genre73370
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 34978
 addGenre: SUCCESS
@@ -68290,12 +72893,14 @@ Genre added: 86944
 addGenre: SUCCESS
 Genre added: 3373
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 80693 genre58468
+addSong: SUCCESS
 Genre added: 82868
 addGenre: SUCCESS
 Genre added: 66849
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54636 genre65299
+addSong: SUCCESS
 Genre added: 25469
 addGenre: SUCCESS
 Genre added: 24701
@@ -68304,15 +72909,18 @@ getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 Genre added: 22865
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 5850 genre40982
+addSong: SUCCESS
 Genre added: 97051
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27763 genre71542
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96877 genre98681
+addSong: SUCCESS
 Genre added: 19798
 addGenre: SUCCESS
 Genre added: 56361
@@ -68328,7 +72936,8 @@ addGenre: SUCCESS
 Genre added: 76504
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 74722 genre61685
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 19863
 addGenre: SUCCESS
@@ -68346,8 +72955,10 @@ addGenre: SUCCESS
 Genre added: 78953
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 69900 genre61618
+addSong: SUCCESS
+song added: 43378 genre69570
+addSong: SUCCESS
 Genre added: 81339
 addGenre: SUCCESS
 Genre added: 84979
@@ -68377,9 +72988,11 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 23519
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 54968 genre35072
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 30480 genre41057
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 60214
 addGenre: SUCCESS
@@ -68395,14 +73008,16 @@ addGenre: SUCCESS
 Genre added: 96931
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96848 genre26892
+addSong: SUCCESS
 Genre added: 93994
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 Genre added: 41150
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 86108 genre40936
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 74177
@@ -68431,10 +73046,12 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 40483
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 37932 genre22229
+addSong: SUCCESS
 Genre added: 48311
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 73394 genre94175
+addSong: SUCCESS
 Genre added: 72606
 addGenre: SUCCESS
 Genre added: 96891
@@ -68449,8 +73066,10 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 70729
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 43269 genre29272
+addSong: SUCCESS
+song added: 18474 genre60622
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 20387
 addGenre: SUCCESS
@@ -68486,7 +73105,7 @@ Genre added: 18320
 addGenre: SUCCESS
 Genre added: 26028
 addGenre: SUCCESS
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 94434
 addGenre: SUCCESS
 Genre added: 2452
@@ -68495,7 +73114,8 @@ Genre added: 54746
 addGenre: SUCCESS
 Genre added: 98163
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84076 genre49989
+addSong: SUCCESS
 Genre added: 21464
 addGenre: SUCCESS
 Genre added: 60462
@@ -68505,7 +73125,8 @@ Genre added: 14490
 addGenre: SUCCESS
 Genre added: 95647
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 94571 genre51934
+addSong: SUCCESS
 Genre added: 21703
 addGenre: SUCCESS
 Genre added: 63891
@@ -68561,7 +73182,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 35328
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 16166 genre70591
+addSong: SUCCESS
 Genre added: 82483
 addGenre: SUCCESS
 Genre added: 2227
@@ -68580,11 +73202,13 @@ mergeGenres: FAILURE
 Genre added: 59553
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 23523 genre10118
+addSong: SUCCESS
 Genre added: 59358
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 39565 genre72909
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 45786
@@ -68597,7 +73221,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 98078
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 31359 genre98120
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 13941
@@ -68628,7 +73253,8 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 61436
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 36567 genre83959
+addSong: SUCCESS
 Genre added: 72628
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -68646,7 +73272,8 @@ addGenre: SUCCESS
 Genre added: 22233
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9788 genre97625
+addSong: SUCCESS
 Genre added: 63062
 addGenre: SUCCESS
 Genre added: 84953
@@ -68670,8 +73297,10 @@ mergeGenres: FAILURE
 mergeGenres: FAILURE
 Genre added: 48525
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 62020 genre10528
+addSong: SUCCESS
+song added: 29428 genre3029
+addSong: SUCCESS
 Genre added: 66850
 addGenre: SUCCESS
 Genre added: 99942
@@ -68693,14 +73322,16 @@ Genre added: 44740
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 40757 genre1066
+addSong: SUCCESS
 Genre added: 49077
 addGenre: SUCCESS
 Genre added: 69043
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 59765 genre47734
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 52185
@@ -68728,9 +73359,11 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 24721
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 91847 genre3485
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 49742 genre74510
+addSong: SUCCESS
 Genre added: 19814
 addGenre: SUCCESS
 Genre added: 59343
@@ -68739,7 +73372,8 @@ Genre added: 53717
 addGenre: SUCCESS
 Genre added: 80975
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 98412 genre7361
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 25161
 addGenre: SUCCESS
@@ -68755,11 +73389,13 @@ Genre added: 73119
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52649 genre92264
+addSong: SUCCESS
 Genre added: 46003
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 6943 genre67812
+addSong: SUCCESS
+addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 0
 Genre added: 55986
 addGenre: SUCCESS
@@ -68795,7 +73431,8 @@ addGenre: SUCCESS
 Genre added: 11484
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 29737 genre18691
+addSong: SUCCESS
 Genre added: 61723
 addGenre: SUCCESS
 Genre added: 3742
@@ -68803,10 +73440,12 @@ addGenre: SUCCESS
 Genre added: 65717
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96798 genre98394
+addSong: SUCCESS
 Genre added: 17715
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 32344 genre5982
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 55198
@@ -68823,7 +73462,8 @@ Genre added: 38438
 addGenre: SUCCESS
 Genre added: 38405
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 42797 genre98238
+addSong: SUCCESS
 Genre added: 5272
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -68840,7 +73480,8 @@ Genre added: 27514
 addGenre: SUCCESS
 Genre added: 52236
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 33074 genre94616
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getSongGenre: SUCCESS, 0
@@ -68869,7 +73510,8 @@ Genre added: 60142
 addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 86980 genre31956
+addSong: SUCCESS
 Genre added: 64970
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -68889,7 +73531,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 60561
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 58324 genre67775
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
@@ -68924,8 +73567,10 @@ addGenre: SUCCESS
 Genre added: 35657
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 95423 genre2392
+addSong: SUCCESS
+song added: 62050 genre90232
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52639
 addGenre: SUCCESS
@@ -68943,7 +73588,8 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 64996
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 9258 genre78163
+addSong: SUCCESS
 Genre added: 69123
 addGenre: SUCCESS
 Genre added: 43764
@@ -68956,7 +73602,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 67680
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 9552 genre65101
+addSong: SUCCESS
 Genre added: 89109
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -68971,7 +73618,8 @@ addGenre: SUCCESS
 Genre added: 87061
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 73576 genre91854
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 37973
 addGenre: SUCCESS
@@ -69008,7 +73656,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 18220
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 87573 genre55870
+addSong: SUCCESS
 Genre added: 41431
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -69020,7 +73669,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 5672
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 5563 genre69743
+addSong: SUCCESS
 Genre added: 15606
 addGenre: SUCCESS
 Genre added: 85530
@@ -69036,8 +73686,9 @@ Genre added: 52694
 addGenre: SUCCESS
 Genre added: 63647
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+addSong: INVALID_INPUT
+song added: 10218 genre83065
+addSong: SUCCESS
 Genre added: 44993
 addGenre: SUCCESS
 Genre added: 28620
@@ -69070,7 +73721,8 @@ addGenre: SUCCESS
 Genre added: 97153
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 79744 genre21300
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 Genre added: 56297
@@ -69085,7 +73737,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 82591 genre31675
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 77328
 addGenre: SUCCESS
@@ -69093,7 +73746,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 19627
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 2995 genre6885
+addSong: SUCCESS
 Genre added: 16380
 addGenre: SUCCESS
 Genre added: 20021
@@ -69103,7 +73757,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 68904
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21970 genre36795
+addSong: SUCCESS
 Genre added: 17781
 addGenre: SUCCESS
 Genre added: 31912
@@ -69116,7 +73771,8 @@ Genre added: 25060
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 75909 genre44906
+addSong: SUCCESS
 Genre added: 58209
 addGenre: SUCCESS
 Genre added: 39499
@@ -69130,7 +73786,8 @@ Genre added: 86210
 addGenre: SUCCESS
 Genre added: 36534
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 41736 genre15480
+addSong: SUCCESS
 Genre added: 72596
 addGenre: SUCCESS
 Genre added: 2825
@@ -69152,7 +73809,8 @@ mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 44490 genre47762
+addSong: SUCCESS
 Genre added: 81153
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -69167,7 +73825,8 @@ Genre added: 18645
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 87998 genre75455
+addSong: SUCCESS
 Genre added: 42232
 addGenre: SUCCESS
 Genre added: 91965
@@ -69176,13 +73835,15 @@ Genre added: 99347
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+addSong: INVALID_INPUT
 Genre added: 16504
 addGenre: SUCCESS
 Genre added: 98107
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 58969 genre47877
+addSong: SUCCESS
+song added: 36568 genre74939
+addSong: SUCCESS
 Genre added: 81351
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -69191,11 +73852,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 58733
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 67249 genre37389
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
+song added: 28726 genre62580
+addSong: SUCCESS
+song added: 97442 genre41287
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 95729
 addGenre: SUCCESS
@@ -69204,7 +73868,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 89100 genre34284
+addSong: SUCCESS
 Genre added: 43257
 addGenre: SUCCESS
 Genre added: 29669
@@ -69224,7 +73889,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 45761 genre99195
+addSong: SUCCESS
 Genre added: 54550
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -69267,16 +73933,19 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 77045 genre44876
+addSong: SUCCESS
 Genre added: 88377
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 93138
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 77647 genre32804
+addSong: SUCCESS
 Genre added: 89051
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 84387 genre3796
+addSong: SUCCESS
 Genre added: 49703
 addGenre: SUCCESS
 Genre added: 73237
@@ -69307,21 +73976,25 @@ addGenre: SUCCESS
 Genre added: 20996
 addGenre: SUCCESS
 mergeGenres: FAILURE
-addSong: FAILURE
+song added: 74830 genre92885
+addSong: SUCCESS
 Genre added: 34860
 addGenre: SUCCESS
 mergeGenres: FAILURE
 Genre added: 31333
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 74284 genre10104
+addSong: SUCCESS
 Genre added: 27645
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 46757 genre78226
+addSong: SUCCESS
 Genre added: 61530
 addGenre: SUCCESS
 Genre added: 88538
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 83482 genre13870
+addSong: SUCCESS
 Genre added: 21510
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -69333,8 +74006,10 @@ Genre added: 53508
 addGenre: SUCCESS
 Genre added: 96546
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 39916 genre79884
+addSong: SUCCESS
+song added: 960 genre56479
+addSong: SUCCESS
 Genre added: 33431
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -69368,7 +74043,8 @@ Genre added: 28420
 addGenre: SUCCESS
 Genre added: 96736
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 92619 genre5409
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 36255
 addGenre: SUCCESS
@@ -69396,7 +74072,8 @@ addGenre: SUCCESS
 mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 25762 genre95895
+addSong: SUCCESS
 mergeGenres: FAILURE
 Genre added: 3348
 addGenre: SUCCESS
@@ -69408,9 +74085,11 @@ getSongGenre: SUCCESS, 0
 Genre added: 2115
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
-addSong: FAILURE
-addSong: FAILURE
+song added: 79356 genre96023
+addSong: SUCCESS
+song added: 70297 genre74345
+addSong: SUCCESS
+addSong: INVALID_INPUT
 Genre added: 56730
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
@@ -69486,16 +74165,19 @@ addGenre: SUCCESS
 Genre added: 35106
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 82965 genre87119
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 13491 genre79295
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 6489
 addGenre: SUCCESS
 Genre added: 25631
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 23491 genre6407
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -69512,7 +74194,8 @@ Genre added: 21231
 addGenre: SUCCESS
 Genre added: 43837
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 11454 genre98788
+addSong: SUCCESS
 Genre added: 74733
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -69522,8 +74205,10 @@ mergeGenres: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 7543
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 76583 genre11387
+addSong: SUCCESS
+song added: 5408 genre50400
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 37011
 addGenre: SUCCESS
@@ -69588,7 +74273,8 @@ addGenre: SUCCESS
 Genre added: 72940
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 92132 genre6308
+addSong: SUCCESS
 Genre added: 98465
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -69600,7 +74286,8 @@ addGenre: SUCCESS
 Genre added: 71840
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 85963 genre22285
+addSong: SUCCESS
 Genre added: 7664
 addGenre: SUCCESS
 mergeGenres: FAILURE
@@ -69608,7 +74295,8 @@ Genre added: 4945
 addGenre: SUCCESS
 Genre added: 765
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 20754 genre96598
+addSong: SUCCESS
 Genre added: 96048
 addGenre: SUCCESS
 Genre added: 90880
@@ -69643,7 +74331,8 @@ Genre added: 88810
 addGenre: SUCCESS
 Genre added: 8268
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 97748 genre75243
+addSong: SUCCESS
 Genre added: 54683
 addGenre: SUCCESS
 Genre added: 81993
@@ -69652,8 +74341,10 @@ Genre added: 45375
 addGenre: SUCCESS
 Genre added: 26831
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 72675 genre34376
+addSong: SUCCESS
+song added: 87384 genre21083
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 82763
 addGenre: SUCCESS
@@ -69682,7 +74373,8 @@ getSongGenre: SUCCESS, 0
 Genre added: 25366
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 52433 genre97086
+addSong: SUCCESS
 Genre added: 11137
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -69709,7 +74401,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 73284 genre79354
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 72959
 addGenre: SUCCESS
@@ -69719,7 +74412,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 Genre added: 96772
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 49885 genre10782
+addSong: SUCCESS
 Genre added: 56966
 addGenre: SUCCESS
 Genre added: 81479
@@ -69728,8 +74422,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 38145
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 66068 genre40301
+addSong: SUCCESS
+song added: 27671 genre22011
+addSong: SUCCESS
 Genre added: 79784
 addGenre: SUCCESS
 Genre added: 84161
@@ -69743,7 +74439,8 @@ addGenre: SUCCESS
 Genre added: 81719
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 66121 genre87636
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 Genre added: 53567
 addGenre: SUCCESS
@@ -69752,7 +74449,8 @@ Genre added: 5384
 addGenre: SUCCESS
 Genre added: 37942
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93734 genre43820
+addSong: SUCCESS
 Genre added: 70296
 addGenre: SUCCESS
 Genre added: 61283
@@ -69767,7 +74465,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 11823
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 88641 genre82895
+addSong: SUCCESS
 Genre added: 63911
 addGenre: SUCCESS
 Genre added: 73611
@@ -69775,9 +74474,11 @@ addGenre: SUCCESS
 Genre added: 1205
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 46818 genre68711
+addSong: SUCCESS
 addGenre: INVALID_INPUT
-addSong: FAILURE
+song added: 44135 genre46273
+addSong: SUCCESS
 Genre added: 70445
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -69795,8 +74496,10 @@ Genre added: 12390
 addGenre: SUCCESS
 Genre added: 92063
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 81606 genre65461
+addSong: SUCCESS
+song added: 95528 genre14604
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 65771
 addGenre: SUCCESS
@@ -69834,7 +74537,8 @@ addGenre: SUCCESS
 Genre added: 48734
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 82322 genre90629
+addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -69865,19 +74569,23 @@ getSongGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 27609 genre18937
+addSong: SUCCESS
 Genre added: 16519
 addGenre: SUCCESS
 Genre added: 93441
 addGenre: SUCCESS
 Genre added: 12575
 addGenre: SUCCESS
-addSong: FAILURE
-addSong: FAILURE
+song added: 29317 genre22379
+addSong: SUCCESS
+song added: 17562 genre62160
+addSong: SUCCESS
 Genre added: 47872
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 21624 genre7730
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 12468
 addGenre: SUCCESS
@@ -69894,7 +74602,8 @@ getNumberOfGenreChanges: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 42811 genre36436
+addSong: SUCCESS
 Genre added: 25629
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
@@ -69912,7 +74621,8 @@ mergeGenres: FAILURE
 Genre added: 86349
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 96428 genre49058
+addSong: SUCCESS
 Genre added: 3059
 addGenre: SUCCESS
 Genre added: 53156
@@ -69924,7 +74634,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 53979
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 93095 genre65929
+addSong: SUCCESS
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 0
@@ -69939,9 +74650,11 @@ getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 Genre added: 11918
 addGenre: SUCCESS
-addSong: FAILURE
+song added: 21043 genre51542
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 0
-addSong: FAILURE
+song added: 84454 genre40891
+addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 0
 Genre added: 52938
@@ -69953,7 +74666,8 @@ Genre added: 69734
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-addSong: FAILURE
+song added: 67866 genre73988
+addSong: SUCCESS
 mergeGenres: FAILURE
 getNumberOfGenreChanges: SUCCESS, 0
 mergeGenres: FAILURE
