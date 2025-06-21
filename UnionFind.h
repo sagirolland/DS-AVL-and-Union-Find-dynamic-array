@@ -86,36 +86,52 @@ public:
         }
         return songs[songind].parent; // Return the root of the set
     }
-    // int Find(int element)
-    // {
-    //     if (songs[element].getSongID() != element)
-    //     {
-    //         songs[element].songID = Find(songs[element].getSongID());
-    //     }
-    //     return songs[element].getSongID();
-    // }
-    void Union(int xIdx, int yIdx)
+    
+    int Union(int genreid1 , int genreid2)
     {
-        int rootX = Find(xIdx);
-        int rootY = Find(yIdx);
-        if (rootX == rootY)
-            return;
-        // Union by size/rank if you want
-        songs[rootY].parent = rootX;
-        genres[rootX].size += genres[rootY].size;
-        // Point the genre's avlNode to the new root (for now, use rootX's node)
-        genres[rootX].avlNode = songs[rootX].avlNode;
+        int genreIndex1 = findGenreIndex(genreid1);
+        int genreIndex2 = findGenreIndex(genreid2);
+        if (genreIndex1 == -1 || genreIndex2 == -1 || genreIndex1 == genreIndex2)
+        {
+            return -1; // Invalid genres or same genre
+        }
+        
+        Genre& genre1 = genres[genreIndex1];
+        Genre& genre2 = genres[genreIndex2];
+
+        // Merge the two genres
+        for (int i = 0; i < songs.size(); i++)
+        {
+            if (songs[i].findGenreNode && songs[i].findGenreNode->genrePtr->getGenreID() == genreid2)
+            {
+                songs[i].findGenreNode->genrePtr = &genre1; // Update the genre pointer
+                songs[i].numberofgenrechanges++;
+            }
+        }
+        
+        // Update the AVL tree node
+        if (genre1.avlNode && genre2.avlNode)
+        {
+            genre1.avlNode->left = genre2.avlNode;
+            updateGenrePtrInTree(genre1.avlNode, &genre1);
+            genre1.size += genre2.size;
+            genre2.avlNode.reset();
+        }
+        for (int i = 0; i < songs.size(); i++)
+        {
+            if (songs[i].findGenreNode && songs[i].findGenreNode->genrePtr &&
+                (songs[i].findGenreNode->genrePtr->getGenreID() == genreid1 ||
+                 songs[i].findGenreNode->genrePtr->getGenreID() == genreid2))
+            {
+                songs[i].findGenreNode = genre1.avlNode;
+                songs[i].avlNode = genre1.avlNode;
+                songs[i].numberofgenrechanges++;
+            }
+        }
+        return 0;
     }
-
-    // void Union(int x, int y)
-    // {
-    //     int rootX = Find(x);
-    //     int rootY = Find(y);
-
-    //     songs[rootY] = rootX;
-    //     genres[rootX].size += genres[rootY].size;
-    // } // edited Union to add y to x.
-
+    
+    
     bool connected(int x, int y)
     {
         return Find(x) == Find(y);
@@ -164,6 +180,14 @@ public:
             }
         }
         return nullptr;
+    }
+    void updateGenrePtrInTree(const std::shared_ptr<Node> &node, Genre *newGenre)
+    {
+        if (!node)
+            return;
+        node->genrePtr = newGenre;
+        updateGenrePtrInTree(node->left, newGenre);
+        updateGenrePtrInTree(node->right, newGenre);
     }
 };
 

@@ -41,7 +41,7 @@ StatusType DSpotify::addGenre(int genreId){
         return StatusType::FAILURE; // Genre already exists
     }
     genreUnionFind.genres.push_back(Genre(genreId));
-    std::cout << "Genre added: " << genreUnionFind.genres[genreUnionFind.genres.size() - 1].getGenreID() << std::endl;
+  //  std::cout << "Genre added: " << genreUnionFind.genres[genreUnionFind.genres.size() - 1].getGenreID() << std::endl;
     return StatusType::SUCCESS;
 }
 
@@ -58,39 +58,47 @@ StatusType DSpotify::addSong(int songId, int genreId){
     if (!songAdded) {
         return StatusType::FAILURE; // Failed to add song due to allocation error
     }
-    std::cout << "song added: " << genreUnionFind.songs[genreUnionFind.songs.size() - 1].getSongID() <<" of genre "<< genreId << std::endl;
+   // std::cout << "song added: " << genreUnionFind.songs[genreUnionFind.songs.size() - 1].getSongID() <<" of genre "<< genreId << std::endl;
     return StatusType::SUCCESS;
 }
 
 StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3){
-    return StatusType::FAILURE;
+    int ok = genreUnionFind.Union(genreId1,genreId2);
+    if (!ok) {
+        return StatusType::FAILURE; // Merge failed, genres not found or already merged
+    }
+    int ok2 = genreUnionFind.Union(genreId3, genreId1);
+    if( !ok2) {
+        return StatusType::FAILURE; // Merge failed, genres not found or already merged
+    }
+    return StatusType::SUCCESS;
 }
 
 output_t<int> DSpotify::getSongGenre(int songId){
-    std::cout << "song genre1  "  << std::endl;
+   // std::cout << "song genre1  "  << std::endl;
 
     if (songId <= 0) {
         return output_t<int>(StatusType::INVALID_INPUT);
     }
-    std::cout << "song genre2  " << std::endl;
+    //std::cout << "song genre2  " << std::endl;
 
     int songroot = genreUnionFind.Find(songId);
-    std::cout << "song genre3 songroot is  " <<songroot<< std::endl;
+   // std::cout << "song genre3 songroot is  " <<songroot<< std::endl;
 
     if (songroot == -1) {
         return output_t<int>(StatusType::FAILURE); // Genre not found
     }
     Song *rootSong = &genreUnionFind.songs[songroot];
-    std::cout << "song genre4  " << std::endl;
+   // std::cout << "song genre4  " << std::endl;
 
     if (!rootSong->findGenreNode || !rootSong->findGenreNode->genrePtr)
     {
         return output_t<int>(StatusType::FAILURE); // Genre not found
     }
-    std::cout << "song genre5  " << std::endl;
+   // std::cout << "song genre5  " << std::endl;
 
     int genreId = rootSong->findGenreNode->genrePtr->getGenreID();
-    std::cout << "song genre6  " << genreId << std::endl;
+  //  std::cout << "song genre6  " << genreId << std::endl;
     return output_t<int>(genreId);
 }
 
@@ -103,7 +111,7 @@ output_t<int> DSpotify::getNumberOfSongsByGenre(int genreId){
     return output_t<int>(StatusType::FAILURE);
     }
     int memberCount = genre->getSize();
-    std::cout << "genre size " << memberCount << std::endl;
+  //  std::cout << "genre size " << memberCount << std::endl;
 
     return output_t<int>(memberCount);
 }
@@ -119,6 +127,6 @@ output_t<int> DSpotify::getNumberOfGenreChanges(int songId){
         return output_t<int>(StatusType::FAILURE);
     }
     int changesCount = song->getNumberOfGenreChanges(); 
-    std::cout << "#song genre changes " << changesCount << std::endl;
+   // std::cout << "#song genre changes " << changesCount << std::endl;
     return output_t<int>(changesCount);
 }
