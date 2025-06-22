@@ -23,110 +23,146 @@
 // ונאחד את השיר עם הז'אנר המתאים לו.
 
 DSpotify::DSpotify(){
-    UnionFind genreUnionFind; // Union-Find structure for genres and songs inside it we have dynamic arrays for song and genres
-    AVLTree songGenreMap; // AVL tree to map song IDs to
+    songs = std::make_shared<HashTable<int, std::shared_ptr<Song>>>();
+	genres = std::make_shared<HashTable<int, std::shared_ptr<Genre>>>();
+	uf = std::make_shared<UnionFind>();
 }
 
-DSpotify::~DSpotify(){
-    songGenreMap.clear();   
-}
+DSpotify::~DSpotify() = default;
 
 StatusType DSpotify::addGenre(int genreId){
-    if (genreId <= 0) {
+    if (genreId <= 0) 
         return StatusType::INVALID_INPUT;
-    }
-    int gen = genreUnionFind.findGenreIndex(genreId);
-    if (gen != -1 && genreUnionFind.genres[gen].getGenreID() == genreId)
-    {
-        return StatusType::FAILURE; // Genre already exists
-    }
-    genreUnionFind.genres.push_back(Genre(genreId));
-  //  std::cout << "Genre added: " << genreUnionFind.genres[genreUnionFind.genres.size() - 1].getGenreID() << std::endl;
-    return StatusType::SUCCESS;
+
+    if (genres->findItem(genreId)) 
+        return StatusType::FAILURE;
+
+    std::shared_ptr<Genre> genre;
+
+	try {
+		genre = std::make_shared<Genre>(genreId);
+	}
+	catch (const std::bad_alloc& e) {
+		return StatusType::ALLOCATION_ERROR;
+	}
+	
+	genres->insertItem(genreId, genre);
+	return StatusType::SUCCESS;
 }
 
 StatusType DSpotify::addSong(int songId, int genreId){
-    if (songId <= 0 || genreId <= 0) {
-        return StatusType::INVALID_INPUT;
+    if (songId <= 0 || genreId <= 0)
+		return StatusType::INVALID_INPUT;
+
+	if (songs->findItem(songId) || genres->findItem(genreId) == NULL)
+		return StatusType::FAILURE;
+
+	std::shared_ptr<Genre> genre = genres->findItem(genreId);
+
+	std::shared_ptr<Song> song;
+    int ndx = uf->makeSet();
+
+	try {
+		song = std::make_shared<Song>(songId, ndx);
+	}
+	catch (const std::bad_alloc& e) {
+		return StatusType::ALLOCATION_ERROR;
+	}
+
+    if (genre->getIndex() == -1){
+        genre->setIndex(ndx);
+        uf->setGenreIndex(ndx, genreId);
     }
-    int song = genreUnionFind.findSongIndex(songId);
-    if (song != -1 && genreUnionFind.songs[song].getSongID() == songId)
-    {
-        return StatusType::FAILURE; // song already exists
+    else {
+        genre->setIndex(uf->Union(ndx, genre->getIndex()));
+        uf->setGenreIndex(genre->getIndex(), genreId);
     }
-    bool songAdded = genreUnionFind.Makeset(songId, genreId);
-    if (!songAdded) {
-        return StatusType::FAILURE; // Failed to add song due to allocation error
-    }
-   // std::cout << "song added: " << genreUnionFind.songs[genreUnionFind.songs.size() - 1].getSongID() <<" of genre "<< genreId << std::endl;
-    return StatusType::SUCCESS;
+
+	songs->insertItem(songId, song);
+	genre->addSongs(1);
+    //std::cout << getNumberOfGenreChanges(songId).ans() << std::endl;
+	return StatusType::SUCCESS;
 }
 
 StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3){
-    int ok = genreUnionFind.Union(genreId1,genreId2);
-    if (!ok) {
-        return StatusType::FAILURE; // Merge failed, genres not found or already merged
-    }
-    int ok2 = genreUnionFind.Union(genreId3, genreId1);
-    if( !ok2) {
-        return StatusType::FAILURE; // Merge failed, genres not found or already merged
-    }
+    if (genreId1 <= 0 || genreId2 <= 0 || genreId3 <= 0)
+		return StatusType::INVALID_INPUT;
+
+    if (genreId1 == genreId2 || genreId2 == genreId3 || genreId3 == genreId1)
+		return StatusType::INVALID_INPUT;
+	
+	std::shared_ptr<Genre> genre1 = genres->findItem(genreId1);
+	std::shared_ptr<Genre> genre2 = genres->findItem(genreId2);
+	if (!genre1 || !genre2 || genres->findItem(genreId3))
+		return StatusType :: FAILURE;
+
+    std::shared_ptr<Genre> genre3;
+
+	try {
+		genre3 = std::make_shared<Genre>(genreId3);
+	}
+	catch (const std::bad_alloc& e) {
+		return StatusType::ALLOCATION_ERROR;
+	}
+
+    genres->insertItem(genreId3, genre3);
+
+    // genre3->setIndex(uf->Union(genre1->getIndex(), genre2->getIndex()));
+    // uf->setGenreIndex(genre3->getIndex(), genreId3);
+    // uf->setGenreIndex(genre1->getIndex(), -1);
+    // genre1->setIndex(-1);
+    // uf->setGenreIndex(genre2->getIndex(), -1);
+    // genre2->setIndex(-1);
+
+    int idx1 = genre1->getIndex();
+    int idx2 = genre2->getIndex();
+
+    int newRoot = uf->Union(idx1, idx2);
+    genre3->setIndex(newRoot);
+    uf->setGenreIndex(newRoot, genreId3);
+
+    if (idx1 != newRoot) uf->setGenreIndex(idx1, -1);
+    if (idx2 != newRoot) uf->setGenreIndex(idx2, -1);
+
+    genre1->setIndex(-1);
+    genre2->setIndex(-1);
+
+    genre3->addSongs(genre1->getSongsCount() + genre2->getSongsCount());
+    genre1->removeAllSongs();
+    genre2->removeAllSongs();
+
     return StatusType::SUCCESS;
 }
 
 output_t<int> DSpotify::getSongGenre(int songId){
-   // std::cout << "song genre1  "  << std::endl;
+    if(songId <= 0)
+		return output_t<int>(StatusType::INVALID_INPUT);
 
-    if (songId <= 0) {
-        return output_t<int>(StatusType::INVALID_INPUT);
-    }
-    //std::cout << "song genre2  " << std::endl;
-
-    int songroot = genreUnionFind.Find(songId);
-   // std::cout << "song genre3 songroot is  " <<songroot<< std::endl;
-
-    if (songroot == -1) {
-        return output_t<int>(StatusType::FAILURE); // Genre not found
-    }
-    Song *rootSong = &genreUnionFind.songs[songroot];
-   // std::cout << "song genre4  " << std::endl;
-
-    if (!rootSong->findGenreNode || !rootSong->findGenreNode->genrePtr)
-    {
-        return output_t<int>(StatusType::FAILURE); // Genre not found
-    }
-   // std::cout << "song genre5  " << std::endl;
-
-    int genreId = rootSong->findGenreNode->genrePtr->getGenreID();
-  //  std::cout << "song genre6  " << genreId << std::endl;
-    return output_t<int>(genreId);
+	std::shared_ptr<Song> song = songs->findItem(songId);
+	if(!song)
+		return output_t<int>(StatusType::FAILURE);
+	
+	return output_t<int>(uf->getGenre(song->getIndex()));
 }
 
 output_t<int> DSpotify::getNumberOfSongsByGenre(int genreId){
-    if (genreId <= 0) {
-        return output_t<int>(StatusType::INVALID_INPUT);
-    }
-    Genre* genre = genreUnionFind.findobjectGenre(genreId);
-    if (genre == nullptr) { 
-    return output_t<int>(StatusType::FAILURE);
-    }
-    int memberCount = genre->getSize();
-  //  std::cout << "genre size " << memberCount << std::endl;
-
-    return output_t<int>(memberCount);
+    if(genreId <= 0)
+		return output_t<int>(StatusType::INVALID_INPUT);
+	
+	std::shared_ptr<Genre> genre = genres->findItem(genreId);
+	if(!genre)
+		return output_t<int>(StatusType::FAILURE);
+	
+    return output_t<int>(genre->getSongsCount());
 }
 
 output_t<int> DSpotify::getNumberOfGenreChanges(int songId){
-    if (songId <= 0)
-    {
-        return output_t<int>(StatusType::INVALID_INPUT);
-    }
-    Song *song = genreUnionFind.findobjectSong(songId);
-    if (song == nullptr)
-    {
-        return output_t<int>(StatusType::FAILURE);
-    }
-    int changesCount = song->getNumberOfGenreChanges(); 
-   // std::cout << "#song genre changes " << changesCount << std::endl;
-    return output_t<int>(changesCount);
+    if(songId <= 0)
+		return output_t<int>(StatusType::INVALID_INPUT);
+
+	std::shared_ptr<Song> song = songs->findItem(songId);
+	if(!song)
+		return output_t<int>(StatusType::FAILURE);
+	
+	return output_t<int>(uf->getNumChanges(song->getIndex()));
 }
