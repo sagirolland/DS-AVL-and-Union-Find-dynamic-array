@@ -6,13 +6,15 @@
 
 class UnionFind {
 private:
-    DynamicArray<int> parent;
     DynamicArray<int> size;
-    DynamicArray<int> num_merges;
+   
     DynamicArray<int> roots;
     DynamicArray<int> ndx_genre;
 
 public:
+    DynamicArray<int> parent;
+
+    DynamicArray<int> num_merges;
     UnionFind() = default;
 
     int makeSet() {
@@ -25,54 +27,61 @@ public:
         return i;
     }
 
-    int find(int i) {
-        if(i < 0) return -1;
-        if(parent[i] == i)
+    int find(int i)
+    {
+        if (i < 0)
+            return -1;
+        if (parent[i] == i)
             return i;
-        int res = find(parent[i]); 
-        num_merges[i] += num_merges[parent[i]];
-        parent[i] = res;
-        return res;
+        int orig_parent = parent[i];
+        parent[i] = find(parent[i]);
+        num_merges[i] += num_merges[orig_parent]; // accumulate changes up the path
+        return parent[i];
     }
 
-    int Union(int x, int y) {
+    int Union(int x, int y, bool forceRootY = false)
+    {
         int rootX = find(x);
         int rootY = find(y);
 
-        if (rootX == -1 && rootY == -1) 
+        if (rootX == -1 && rootY == -1)
             return -1;
+        if (rootX == -1)
+            return rootY;
+        if (rootY == -1)
+            return rootX;
+        if (rootX == rootY)
+            return rootX;
 
-        if (rootX == -1) {
-            roots[rootY]++;
+        // Always attach one root to the other and set num_merges[child] = 1
+        if (forceRootY)
+        {
+            parent[rootX] = rootY;
+            size[rootY] += size[rootX];
+            num_merges[rootX] = num_merges[rootY] + 1;
             return rootY;
         }
-        if (rootY == -1) {
-            roots[rootX]++;
-            return rootX;
-        }
 
-        if (size[rootX] < size[rootY]) {
-            int temp = rootY;
-            rootY = rootX;
-            rootX = temp;
+        if (size[rootX] < size[rootY])
+        {
+            std::swap(rootX, rootY);
         }
         parent[rootY] = rootX;
         size[rootX] += size[rootY];
-        num_merges[rootY] = roots[rootY] - roots[rootX];
-        //roots[rootX] += 1;
+        num_merges[rootY] = num_merges[rootX] + 1;
         return rootX;
     }
 
-    int getNumChanges(int i) {
-        int c = 1;
-        while(parent[i] != i){
-            c += num_merges[i];
-            i = parent[i];
-        }
-        c += roots[i];
-        return c;
+    void setNumMerges(int index, int value)
+    {
+        if (index >= 0)
+            num_merges[index] = value;
     }
-
+    int getNumChanges(int i)
+    {
+        find(i);
+        return num_merges[i];
+    }
     void setGenreIndex(int index, int genreId) {
         if(index == -1) return;
         ndx_genre[index] = genreId;

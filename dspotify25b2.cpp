@@ -50,8 +50,9 @@ StatusType DSpotify::addGenre(int genreId){
 	return StatusType::SUCCESS;
 }
 
-StatusType DSpotify::addSong(int songId, int genreId){
-    if (songId <= 0 || genreId <= 0)
+StatusType DSpotify::addSong(int songId, int genreId)
+{
+	if (songId <= 0 || genreId <= 0)
 		return StatusType::INVALID_INPUT;
 
 	if (songs->findItem(songId) || genres->findItem(genreId) == NULL)
@@ -60,79 +61,133 @@ StatusType DSpotify::addSong(int songId, int genreId){
 	std::shared_ptr<Genre> genre = genres->findItem(genreId);
 
 	std::shared_ptr<Song> song;
-    int ndx = uf->makeSet();
+	int ndx = uf->makeSet();
 
-	try {
+	try
+	{
 		song = std::make_shared<Song>(songId, ndx);
 	}
-	catch (const std::bad_alloc& e) {
+	catch (const std::bad_alloc &e)
+	{
 		return StatusType::ALLOCATION_ERROR;
 	}
 
-    if (genre->getIndex() == -1){
-        genre->setIndex(ndx);
-        uf->setGenreIndex(ndx, genreId);
-    }
-    else {
-        genre->setIndex(uf->Union(ndx, genre->getIndex()));
-        uf->setGenreIndex(genre->getIndex(), genreId);
-    }
+	int genreRoot = -1;
+	if (genre->getIndex() != -1)
+	{
+		genreRoot = uf->find(genre->getIndex());
+	}
+	else
+	{
+		int foundRoot = -1;
+		for (int i = 0; i < uf->num_merges.size(); ++i)
+		{
+			if (uf->getGenre(i) == genreId)
+			{
+				int candidateRoot = uf->find(i);
+				if (uf->getGenre(candidateRoot) == genreId)
+				{
+					foundRoot = candidateRoot;
+					// לא עוצרים, ממשיכים עד הסוף כדי לקבל את השורש הכי עדכני
+				}
+			}
+		}
+		if (foundRoot != -1)
+		{
+			genreRoot = foundRoot;
+		}
+		else
+		{
+			// אין שורש קיים - ניצור קבוצה חדשה
+			genre->setIndex(ndx);
+			uf->setGenreIndex(ndx, genreId);
+			songs->insertItem(songId, song);
+			genre->addSongs(1);
+			return StatusType::SUCCESS;
+		}
+	}
+	//std::cout << "Before Union: ndx=" << ndx << " genreRoot=" << genreRoot
+	//		  << " num_merges[ndx]=" << uf->getNumChanges(ndx)
+	//		  << " num_merges[genreRoot]=" << uf->getNumChanges(genreRoot) << std::endl;
+
+	int newRoot = uf->Union(ndx, genreRoot, true);
+
+	//std::cout << "After Union: ndx=" << ndx << " parent=" << uf->parent[ndx] <<
+	//	" num_merges[ndx]=" << uf->getNumChanges(ndx) << std::endl;
+
+	uf->setNumMerges(ndx, 0);
+
+	//std::cout << "After setNumMerges: ndx=" << ndx
+	//		  << " num_merges[ndx]=" << uf->getNumChanges(ndx) << std::endl;
+	genre->setIndex(newRoot);
+	uf->setGenreIndex(newRoot, genreId);
+	uf->find(ndx); // path compression
 
 	songs->insertItem(songId, song);
 	genre->addSongs(1);
-    //std::cout << getNumberOfGenreChanges(songId).ans() << std::endl;
 	return StatusType::SUCCESS;
 }
 
-StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3){
-    if (genreId1 <= 0 || genreId2 <= 0 || genreId3 <= 0)
+StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3)
+{
+	if (genreId1 <= 0 || genreId2 <= 0 || genreId3 <= 0)
 		return StatusType::INVALID_INPUT;
 
-    if (genreId1 == genreId2 || genreId2 == genreId3 || genreId3 == genreId1)
+	if (genreId1 == genreId2 || genreId2 == genreId3 || genreId3 == genreId1)
 		return StatusType::INVALID_INPUT;
-	
+
 	std::shared_ptr<Genre> genre1 = genres->findItem(genreId1);
 	std::shared_ptr<Genre> genre2 = genres->findItem(genreId2);
 	if (!genre1 || !genre2 || genres->findItem(genreId3))
-		return StatusType :: FAILURE;
+		return StatusType::FAILURE;
 
-    std::shared_ptr<Genre> genre3;
-
-	try {
+	std::shared_ptr<Genre> genre3;
+	try
+	{
 		genre3 = std::make_shared<Genre>(genreId3);
 	}
-	catch (const std::bad_alloc& e) {
+	catch (const std::bad_alloc &e)
+	{
 		return StatusType::ALLOCATION_ERROR;
 	}
 
-    genres->insertItem(genreId3, genre3);
+	// Create new singleton node for the new genre
+	int newIdx = uf->makeSet();
+	genre3->setIndex(newIdx);
+	uf->setGenreIndex(newIdx, genreId3);
 
-    // genre3->setIndex(uf->Union(genre1->getIndex(), genre2->getIndex()));
-    // uf->setGenreIndex(genre3->getIndex(), genreId3);
-    // uf->setGenreIndex(genre1->getIndex(), -1);
-    // genre1->setIndex(-1);
-    // uf->setGenreIndex(genre2->getIndex(), -1);
-    // genre2->setIndex(-1);
+	// Union both old genres with the new genre node, forcing newIdx as root
+	int idx1 = genre1->getIndex();
+	int idx2 = genre2->getIndex();
+	int root1 = (idx1 != -1) ? uf->find(idx1) : -1;
+	int root2 = (idx2 != -1) ? uf->find(idx2) : -1;
 
-    int idx1 = genre1->getIndex();
-    int idx2 = genre2->getIndex();
+	if (root1 != -1 && root1 != newIdx)
+		uf->Union(root1, newIdx, true);
+	if (root2 != -1 && root2 != newIdx && root2 != root1)
+		uf->Union(root2, newIdx, true);
+	// After union, update the new root and genre index
+	int newRoot = uf->find(newIdx);
+	genre3->setIndex(newRoot);
+	uf->setGenreIndex(newRoot, genreId3);
 
-    int newRoot = uf->Union(idx1, idx2);
-    genre3->setIndex(newRoot);
-    uf->setGenreIndex(newRoot, genreId3);
+	// Invalidate old genres' indices
+	if (idx1 != -1)
+		uf->setGenreIndex(idx1, -1);
+	if (idx2 != -1)
+		uf->setGenreIndex(idx2, -1);
+	genre1->setIndex(-1);
+	genre2->setIndex(-1);
 
-    if (idx1 != newRoot) uf->setGenreIndex(idx1, -1);
-    if (idx2 != newRoot) uf->setGenreIndex(idx2, -1);
+	// Update song counts
+	genre3->addSongs(genre1->getSongsCount() + genre2->getSongsCount());
+	genre1->removeAllSongs();
+	genre2->removeAllSongs();
 
-    genre1->setIndex(-1);
-    genre2->setIndex(-1);
-
-    genre3->addSongs(genre1->getSongsCount() + genre2->getSongsCount());
-    genre1->removeAllSongs();
-    genre2->removeAllSongs();
-
-    return StatusType::SUCCESS;
+	genres->insertItem(genreId3, genre3);
+	return StatusType::SUCCESS;
 }
+
 
 output_t<int> DSpotify::getSongGenre(int songId){
     if(songId <= 0)
@@ -156,13 +211,19 @@ output_t<int> DSpotify::getNumberOfSongsByGenre(int genreId){
     return output_t<int>(genre->getSongsCount());
 }
 
-output_t<int> DSpotify::getNumberOfGenreChanges(int songId){
-    if(songId <= 0)
+output_t<int> DSpotify::getNumberOfGenreChanges(int songId)
+{
+	if (songId <= 0)
 		return output_t<int>(StatusType::INVALID_INPUT);
 
 	std::shared_ptr<Song> song = songs->findItem(songId);
-	if(!song)
+	if (!song)
 		return output_t<int>(StatusType::FAILURE);
-	
-	return output_t<int>(uf->getNumChanges(song->getIndex()));
+
+	uf->find(song->getIndex()); // path compression and update
+	//std::cout << "getNumberOfGenreChanges: songId=" << songId
+	//		  << " index=" << song->getIndex()
+	//		  << " num_merges=" << uf->getNumChanges(song->getIndex())
+	//		  << " result=" << (uf->getNumChanges(song->getIndex()) + 1) << std::endl;
+	return output_t<int>(uf->getNumChanges(song->getIndex())+1);
 }

@@ -1,0 +1,56 @@
+addGenre 1
+addGenre 2
+addGenre 3 
+addSong 1 1
+addSong 2 2
+addSong 3 3
+mergeGenres 1 2 4
+mergeGenres 4 3 5
+getNumberOfGenreChanges 1  
+getNumberOfGenreChanges 2
+getNumberOfGenreChanges 3
+addGenre 10
+addGenre 20
+addSong 10 10
+mergeGenres 10 20 30
+addGenre 40
+mergeGenres 30 40 50
+addSong 20 10
+getNumberOfGenreChanges 10
+getNumberOfGenreChanges 20
+addGenre 100
+addGenre 200
+mergeGenres 100 200 300
+addSong 300 100
+getNumberOfGenreChanges 300
+addGenre 1000
+addGenre 2000
+addSong 1000 1000
+mergeGenres 1000 2000 3000
+mergeGenres 3000 1000 4000
+getNumberOfGenreChanges 1000
+addGenre 100000
+addSong 100000 100000
+getNumberOfGenreChanges 100000
+addGenre 70
+addGenre 80
+mergeGenres 70 80 90
+addSong 700 70
+getNumberOfGenreChanges 700
+addGenre 11
+addGenre 12
+mergeGenres 11 12 13
+addGenre 14
+mergeGenres 13 14 15
+addSong 900 11
+getNumberOfGenreChanges 900
+addGenre 1000000
+addGenre 2000000
+addSong 1000000 1000000
+addSong 2000000 2000000
+mergeGenres 1000000 2000000 3000000
+addSong 3000000 3000000
+mergeGenres 3000000 1000000 4000000
+getNumberOfGenreChanges 1000000 
+getNumberOfGenreChanges 2000000 
+getNumberOfGenreChanges 3000000
