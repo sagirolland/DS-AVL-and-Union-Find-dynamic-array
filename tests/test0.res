@@ -389,7 +389,11 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 19620
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
+<<<<<<< HEAD
 getNumberOfGenreChanges: SUCCESS, 2
+=======
+getNumberOfGenreChanges: SUCCESS, 1
+>>>>>>> a1ad09fbe2f0875ea5268a16317db35a4a7201e1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 30647
 addSong: SUCCESS
@@ -426,7 +430,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
+<<<<<<< HEAD
 getNumberOfGenreChanges: SUCCESS, 2
+=======
+getNumberOfGenreChanges: SUCCESS, 1
+>>>>>>> a1ad09fbe2f0875ea5268a16317db35a4a7201e1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
