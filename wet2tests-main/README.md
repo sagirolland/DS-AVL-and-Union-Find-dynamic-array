@@ -1,8 +1,8 @@
 commands:
 
-chmod +x run_all_student_tests.sh
+chmod +x wet2tests-main/run_all_student_tests.sh
 
-./run_all_student_tests.sh
+./wet2tests-main/run_all_student_tests.sh
  
 how to find the output diffs:
 

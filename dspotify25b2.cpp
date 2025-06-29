@@ -72,53 +72,21 @@ StatusType DSpotify::addSong(int songId, int genreId)
 		return StatusType::ALLOCATION_ERROR;
 	}
 
-	int genreRoot = -1;
-	if (genre->getIndex() != -1)
+	int genreRoot = genre->getIndex();
+	if (genreRoot == -1)
 	{
-		genreRoot = uf->find(genre->getIndex());
+		// אין שורש קיים - ניצור קבוצה חדשה
+		genre->setIndex(ndx);
+		uf->setGenreIndex(ndx, genreId);
+		songs->insertItem(songId, song);
+		genre->addSongs(1);
+		return StatusType::SUCCESS;
 	}
-	else
-	{
-		int foundRoot = -1;
-		for (int i = 0; i < uf->num_merges.size(); ++i)
-		{
-			if (uf->getGenre(i) == genreId)
-			{
-				int candidateRoot = uf->find(i);
-				if (uf->getGenre(candidateRoot) == genreId)
-				{
-					foundRoot = candidateRoot;
-					// לא עוצרים, ממשיכים עד הסוף כדי לקבל את השורש הכי עדכני
-				}
-			}
-		}
-		if (foundRoot != -1)
-		{
-			genreRoot = foundRoot;
-		}
-		else
-		{
-			// אין שורש קיים - ניצור קבוצה חדשה
-			genre->setIndex(ndx);
-			uf->setGenreIndex(ndx, genreId);
-			songs->insertItem(songId, song);
-			genre->addSongs(1);
-			return StatusType::SUCCESS;
-		}
-	}
-	//std::cout << "Before Union: ndx=" << ndx << " genreRoot=" << genreRoot
-	//		  << " num_merges[ndx]=" << uf->getNumChanges(ndx)
-	//		  << " num_merges[genreRoot]=" << uf->getNumChanges(genreRoot) << std::endl;
+	genreRoot = uf->find(genreRoot);
 
 	int newRoot = uf->Union(ndx, genreRoot, true);
 
-	//std::cout << "After Union: ndx=" << ndx << " parent=" << uf->parent[ndx] <<
-	//	" num_merges[ndx]=" << uf->getNumChanges(ndx) << std::endl;
-
 	uf->setNumMerges(ndx, 0);
-
-	//std::cout << "After setNumMerges: ndx=" << ndx
-	//		  << " num_merges[ndx]=" << uf->getNumChanges(ndx) << std::endl;
 	genre->setIndex(newRoot);
 	uf->setGenreIndex(newRoot, genreId);
 	uf->find(ndx); // path compression
@@ -127,6 +95,7 @@ StatusType DSpotify::addSong(int songId, int genreId)
 	genre->addSongs(1);
 	return StatusType::SUCCESS;
 }
+
 
 StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3)
 {
@@ -151,12 +120,10 @@ StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3)
 		return StatusType::ALLOCATION_ERROR;
 	}
 
-	// Create new singleton node for the new genre
 	int newIdx = uf->makeSet();
 	genre3->setIndex(newIdx);
 	uf->setGenreIndex(newIdx, genreId3);
 
-	// Union both old genres with the new genre node, forcing newIdx as root
 	int idx1 = genre1->getIndex();
 	int idx2 = genre2->getIndex();
 	int root1 = (idx1 != -1) ? uf->find(idx1) : -1;
@@ -166,7 +133,7 @@ StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3)
 		uf->Union(root1, newIdx, true);
 	if (root2 != -1 && root2 != newIdx && root2 != root1)
 		uf->Union(root2, newIdx, true);
-	// After union, update the new root and genre index
+
 	int newRoot = uf->find(newIdx);
 	genre3->setIndex(newRoot);
 	uf->setGenreIndex(newRoot, genreId3);
@@ -178,7 +145,6 @@ StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3)
 		uf->setGenreIndex(idx2, -1);
 	genre1->setIndex(-1);
 	genre2->setIndex(-1);
-
 	// Update song counts
 	genre3->addSongs(genre1->getSongsCount() + genre2->getSongsCount());
 	genre1->removeAllSongs();

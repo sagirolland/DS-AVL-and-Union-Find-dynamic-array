@@ -2,9 +2,10 @@
 
 # Step 1: Compile
 echo "🔧 Compiling..."
-g++ -std=c++14 -DNDEBUG -Wall -o main.out *.cpp
+g++ -std=c++14 -DNDEBUG -Wall -o main.out ../main25b2.cpp ../dspotify25b2.cpp 2> compile_errors.txt
 if [ $? -ne 0 ]; then
   echo "❌ Compilation failed"
+  cat compile_errors.txt
   exit 1
 fi
 echo "✅ Compilation succeeded."
